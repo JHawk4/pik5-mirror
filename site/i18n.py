@@ -89,6 +89,15 @@ LINKS = [
 
 STR = {
     "links": {"en": "Links", "ja": "リンク"},
+    "tas": {"en": "TAS", "ja": "TAS"},
+    "tas_title": {"en": "Tool-Assisted Records", "ja": "TAS記録"},
+    "tas_intro": {"en": "The best known tool-assisted (TAS) challenge-mode run for each stage, alongside the current real-time record. Collected from pik5.net and YouTube.",
+                  "ja": "各ステージで知られている最高のTAS（ツールアシスト）記録と、現在の実機1位記録の比較です。pik5.netとYouTubeから集めています。"},
+    "tasser": {"en": "TASer", "ja": "作成者"},
+    "time_left_col": {"en": "Time left", "ja": "残り時間"},
+    "mitites": {"en": "Mitites", "ja": "タマゴムシ"},
+    "vs_record": {"en": "Real-time record", "ja": "実機1位との差"},
+    "no_tas": {"en": "no TAS found", "ja": "TAS未発見"},
     "site": {"en": "Pikmin Score Records", "ja": "ピクミン スコア記録"},
     "home": {"en": "Home", "ja": "ホーム"},
     "games": {"en": "Games", "ja": "作品"},

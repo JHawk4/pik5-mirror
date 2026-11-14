@@ -1,0 +1,38 @@
+{
+ "_about": "Best known challenge-mode TAS per stage, hand-curated. Sources: pik5.net's 'Real Hardware Open Class' board (rule 27, which actually holds TASes) and YouTube. time_left is the in-game time remaining shown in the video title (Pikmin 2: challenge-mode timer units). Stages with no TAS found are listed in 'missing'.",
+ "pikmin1": [
+  {"stage": 101, "score": 278, "player": "B&D Games", "date": "2016-01-19", "video": "https://youtu.be/rk-YeCzis_M"},
+  {"stage": 104, "score": 752, "player": "TRR", "pik5_user": "TRR", "date": "2021-03-10", "time_left": "7:04", "video": "https://youtu.be/b12DZSl4EF0", "note": "Ver.3"}
+ ],
+ "pikmin2": [
+  {"stage": 201, "score": 35387, "time_left": 202, "mitites": 30, "date": "2022-03-29", "video": "https://youtu.be/wZP_M2RBLJo"},
+  {"stage": 202, "score": 38100, "time_left": 250, "mitites": 40, "date": "2024-06-14", "video": "https://youtu.be/JD_9vKxIPrU"},
+  {"stage": 204, "score": 13992, "time_left": 152, "date": "2022-03-29", "video": "https://youtu.be/aspq_g-MmRE"},
+  {"stage": 205, "score": 12393, "time_left": 123, "mitites": 90, "date": "2024-01-02", "video": "https://youtu.be/eTjPEXFGons"},
+  {"stage": 206, "score": 9591, "time_left": 131, "mitites": 20, "date": "2020-05-15", "video": "https://youtu.be/6b0G7xVcbF0"},
+  {"stage": 207, "score": 15105, "time_left": 175, "mitites": 20, "date": "2024-01-02", "video": "https://youtu.be/gGDbB69EtZ4"},
+  {"stage": 208, "score": 18898, "time_left": 98, "date": "2021-04-04", "video": "https://youtu.be/gJuSW6fUGzE"},
+  {"stage": 209, "score": 50916, "time_left": 106, "date": "2024-06-15", "video": "https://youtu.be/l-ize7tIaTE"},
+  {"stage": 210, "score": 26780, "time_left": 120, "date": "2022-05-02", "video": "https://youtu.be/38kgU_DW5iY"},
+  {"stage": 211, "score": 8562, "time_left": 202, "date": "2020-12-31", "video": "https://youtu.be/yhXPYfDP8sA"},
+  {"stage": 212, "score": 5054, "time_left": 174, "mitites": 10, "date": "2025-01-01", "video": "https://youtu.be/TZsgI8TaHvk"},
+  {"stage": 214, "score": 18367, "time_left": 147, "date": "2024-09-20", "video": "https://youtu.be/6AuslcAU-HU"},
+  {"stage": 215, "score": 6268, "time_left": 158, "date": "2020-05-15", "video": "https://youtu.be/deuUSdARq2A"},
+  {"stage": 216, "score": 6012, "time_left": 122, "date": "2020-11-03", "video": "https://youtu.be/yoMdJegcDM8"},
+  {"stage": 217, "score": 16733, "time_left": 193, "mitites": 30, "date": "2025-02-22", "video": "https://youtu.be/optS_qHXz_w"},
+  {"stage": 218, "score": 54735, "time_left": 265, "mitites": 80, "date": "2020-08-28", "video": "https://youtu.be/KoE5G_3RjVo"},
+  {"stage": 219, "score": 11732, "time_left": 202, "date": "2020-05-15", "video": "https://youtu.be/TlT4R0W-hMU"},
+  {"stage": 220, "score": 15957, "time_left": 257, "mitites": 50, "date": "2021-01-08", "video": "https://youtu.be/mA--bXN-200"},
+  {"stage": 221, "score": 35482, "time_left": 242, "date": "2022-03-29", "video": "https://youtu.be/rhkPblN1hac", "note": "♀3 ♂6 Shearwig 3"},
+  {"stage": 222, "score": 14441, "time_left": 61, "date": "2022-09-21", "video": "https://youtu.be/uljnNqbCfK8"},
+  {"stage": 223, "score": 10071, "time_left": 121, "date": "2020-05-16", "video": "https://youtu.be/a4Th0spupJ8", "note": "シジミ24"},
+  {"stage": 224, "score": 14362, "time_left": 152, "date": "2021-02-05", "video": "https://youtu.be/G1PL2UJ5qpA"},
+  {"stage": 226, "score": 33062, "time_left": 222, "mitites": 40, "date": "2020-05-16", "video": "https://youtu.be/fuU1tszMi_Q"},
+  {"stage": 227, "score": 10406, "time_left": 126, "date": "2021-01-15", "video": "https://youtu.be/n20HjmhroMg"},
+  {"stage": 228, "score": 32986, "time_left": 236, "mitites": 50, "date": "2024-10-25", "video": "https://youtu.be/8isP99ZW5yA"},
+  {"stage": 229, "score": 33830, "time_left": 110, "mitites": 70, "date": "2020-05-16", "video": "https://youtu.be/ssvgOO27SQw"},
+  {"stage": 230, "score": 32314, "time_left": 404, "mitites": 20, "date": "2024-05-04", "video": "https://youtu.be/sucep3jtlr8"}
+ ],
+ "pikmin2_default_player": "ToolAssistedPik",
+ "missing": {"pikmin1": [102, 103, 105], "pikmin2": [203, 213, 225]}
+}

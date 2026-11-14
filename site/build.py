@@ -87,10 +87,27 @@ def build_categories():
             continue
         out.append({"id": str(r), "series": c["series"], "kind": c["kind"], "rules": [r],
                     "boards": [(r, s) for s in c["stages"]], "total": r})
-    return out
+    return [c for c in out if c["id"] not in HIDDEN]
 
+
+# Categories not shown anywhere on the site (their data is still synced).
+# 27 is pik5's "Real Hardware Open Class", which in practice holds TASes; it
+# feeds the TAS page instead.
+HIDDEN = {
+    "24",  # Pikmin 2 No Spray
+    "26",  # Pikmin 2 2-Player Challenge
+    "27",  # Pikmin 2 Real Hardware Open Class (TASes -> TAS page)
+    "28",  # Pikmin 2 "TAS" (actually seed-picked real-console runs)
+    "29",  # Pikmin 2 Solo Battle
+    "34",  # Pikmin 3 2-Player Missions
+    "35",  # Pikmin 3 Solo Bingo
+    "44",  # Pikmin 4 Ultra-Spicy Challenge
+    "45",  # Pikmin 4 Ultra-Spicy Battle
+    "46",  # Pikmin 4 Ultra-Spicy Sage Leaf
+}
 
 CATS = build_categories()
+TAS = json.loads((SRC / "tas.json").read_text(encoding="utf-8"))
 
 
 def bkey(rule, sid):
@@ -373,6 +390,7 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
     for s in GAMES:
         on = ' class="on"' if series == s else ""
         side.append(f'<a{on} href="{pre}{SLUG[s]}.html">{e(t.game(s))}</a>')
+    side.append(f'<a href="{pre}tas.html">{e(t.s("tas"))}</a>')
     side.append(f'<a href="{pre}players.html">{e(t.s("players"))}</a></div>')
     if series:
         for c in [c for c in CATS if c["series"] == series]:
@@ -730,6 +748,49 @@ location.replace(l+"/index.html")})();
 """
 
 
+def tas_page(t: T):
+    """Best known challenge-mode TAS per stage (site/tas.json), next to the
+    current real-time record."""
+    pre = ""
+    parts = [f"<h1>{e(t.s('tas_title'))}</h1><p>{e(t.s('tas_intro'))}</p>"]
+    groups = [(1, "pikmin1", "10"), (2, "pikmin2", "p2")]
+    for series, key, cat_id in groups:
+        cat = next((c for c in CATS if c["id"] == cat_id), None)
+        if not cat:
+            continue
+        runs = {r["stage"]: r for r in TAS.get(key, [])}
+        rows = []
+        for rule, sid in cat["boards"]:
+            k = bkey(rule, sid)
+            egg = EGG if cat.get("egg_rule") == rule else ""
+            link = f'<a href="history/{k}.html">{e(t.stage(sid))}</a>{egg}'
+            wr = current_wrs(k)
+            wr_score = wr[0]["score"] if wr else None
+            r = runs.get(sid)
+            if not r:
+                rows.append([link, f'<span class="small">{e(t.s("no_tas"))}</span>', "", "", "", "", "",
+                             f"{wr_score:,}" if wr_score is not None else ""])
+                continue
+            uid = r.get("pik5_user") or (TAS.get(f"{key}_default_player") if series == 2 else None)
+            who = player(uid, t, pre) if uid and uid in users else e(r.get("player") or uid or "?")
+            diff = ""
+            if wr_score is not None:
+                d = r["score"] - wr_score
+                diff = f'<span class="{"gold" if d > 0 else "small"}">{d:+,}</span>' if d else "±0"
+            tl = r.get("time_left")
+            rows.append([
+                link, f'<b>{r["score"]:,}</b>', video_cell({"video": r["video"]}, t), who,
+                r.get("date", ""), str(tl) if tl is not None else "",
+                (EGG + f' {r["mitites"]}') if r.get("mitites") else "",
+                (f"{wr_score:,} " if wr_score is not None else "") + diff
+                + (f' <span class="small">{e(r["note"])}</span>' if r.get("note") else ""),
+            ])
+        parts.append(f"<h2>{e(t.game(series))}</h2>" + table(
+            [t.s("stage"), t.s("score"), t.s("video"), t.s("tasser"), t.s("date"), t.s("time_left_col"),
+             t.s("mitites"), t.s("vs_record")], rows))
+    write(t.lang, "tas.html", page(t, "tas.html", t.s("tas_title"), "\n".join(parts)))
+
+
 def main():
     if not raw_categories:
         raise SystemExit("no data — run sync/pik5_sync.py first")
@@ -756,6 +817,7 @@ def main():
         wr_counts = {uid: player_page(t, uid, ent) for uid, ent in per.items()}
         players_index(t, per, wr_counts)
         index_page(t)
+        tas_page(t)
     n = sum(1 for _ in DIST.rglob("*.html"))
     print(f"built {n} pages into {DIST}")
 
