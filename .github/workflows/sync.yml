@@ -27,6 +27,13 @@ jobs:
         with:
           python-version: "3.13"
 
+      - name: Refresh speedrun.com Pikmin runners (first run of each day)
+        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '17 */6 * * *')
+        run: |
+          if [ "$(date -u +%H)" -lt 6 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python -u sync/pik5_sync.py src
+          fi
+
       - name: Sync data from pik5.net
         if: github.event_name != 'push'
         run: python -u sync/pik5_sync.py

@@ -1,6 +1,6 @@
 {
  "_about": "Hand-maintained English nicknames and countries. 'en' is shown in parentheses after a Japanese name on English pages. 'en' wins over a speedrun.com name (data/players.json). 'country' is an ISO 3166 alpha-2 code and wins over everything.",
- "Bl6AltMzq5Jx4aM": {"en": "Unpanno Charge"},
+ "Bl6AltMzq5Jx4aM": {"en": "CCCharge"},
  "Gorei_50": {"en": "Gorei"},
  "esu": {"en": "Esu"},
  "ToolAssistedPik": {"en": "Sakure Kamadofuma"},
@@ -38,5 +38,5 @@
  "yoshikikawai": {"en": "Higetaro"},
  "yoshi0216": {"en": "Yoshi"},
  "nanashi74": {"en": "Nanashi"},
- "kobachi_no_udon": {"en": "Kobachi no Udon"}
+ "kobachi_no_udon": {"en": "Kobachi"}
 }

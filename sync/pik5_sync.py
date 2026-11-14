@@ -200,7 +200,7 @@ def merge_history(hist: list[dict], candidates: list[dict], low: bool) -> list[d
 
 
 def wr_entry(p: dict) -> dict:
-    keep = ("id", "uid", "user", "score", "date", "video", "console", "comment")
+    keep = ("id", "uid", "user", "score", "date", "video", "img", "console", "comment")
     return {k: p.get(k) for k in keep}
 
 
@@ -278,7 +278,7 @@ def sync():
 
 
 def archive_entry(p: dict) -> dict:
-    keep = ("id", "user", "score", "date", "console", "video", "comment")
+    keep = ("id", "user", "score", "date", "console", "video", "img", "comment")
     return {k: p.get(k) for k in keep}
 
 
@@ -295,8 +295,10 @@ def update_archive(rule: int, sid: int, posts: list[dict]) -> bool:
         old = pool.get(key)
         if old is None or (a["date"] or "") < (old["date"] or ""):
             pool[key] = a
-        elif not old.get("video") and a.get("video"):
-            old["video"] = a["video"]
+        else:
+            for f in ("video", "img"):
+                if not old.get(f) and a.get(f):
+                    old[f] = a[f]
     arc["posts"] = sorted(pool.values(), key=lambda a: (a["date"] or "", a["user"] or ""))
     return write_json(path, arc)
 
@@ -415,11 +417,43 @@ def players_only():
     sync_players(c, users)
 
 
+SRC_API = "https://www.speedrun.com/api/v1"
+
+
+def src_runners():
+    """Every runner with a run on any game in speedrun.com's Pikmin series,
+    with the country they set on their profile. Saved to data/src_runners.json.
+    About one request per 200 runs."""
+    games = fetch(f"{SRC_API}/series/pikmin/games?max=50", as_json=True)["data"]
+    runners: dict[str, dict] = {}
+    for g in games:
+        offset, n = 0, 0
+        while True:
+            d = fetch(f"{SRC_API}/runs?game={g['id']}&max=200&offset={offset}&embed=players", as_json=True)
+            for run in d.get("data", []):
+                for p in (run.get("players") or {}).get("data", []):
+                    if p.get("rel") != "user":
+                        continue
+                    cc = (((p.get("location") or {}).get("country") or {}).get("code") or "").lower() or None
+                    runners[p["id"]] = {"name": p["names"]["international"],
+                                        "name_ja": p["names"].get("japanese"),
+                                        "country": cc}
+            n += len(d.get("data", []))
+            if not any(l.get("rel") == "next" for l in d["pagination"].get("links", [])):
+                break
+            offset += 200
+        print(f"  {g['names']['international']}: {n} runs")
+    write_json(DATA / "src_runners.json", dict(sorted(runners.items(), key=lambda kv: kv[1]["name"].lower())))
+    print(f"speedrun.com: {len(runners)} Pikmin runners")
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "sync"
     if cmd == "backfill":
         backfill([int(a) for a in sys.argv[2:]])
     elif cmd == "players":
         players_only()
+    elif cmd == "src":
+        src_runners()
     else:
         sync()

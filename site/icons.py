@@ -86,3 +86,9 @@ EGG = ('<span class="ico egg" title="Egg stage: eggs can hatch mitites / タマ�
        'fill="#fff6d8" stroke="#b9952f" stroke-width="1.1"/>'
        '<circle cx="4.3" cy="7" r="1" fill="#e2b93b"/><circle cx="7.6" cy="10" r="1.1" fill="#e2b93b"/>'
        '</svg></span>')
+
+
+CAMERA = ('<svg class="ic" viewBox="0 0 18 14" width="18" height="14" aria-hidden="true">'
+          '<path d="M6 1h6l1.3 2H16a1.5 1.5 0 0 1 1.5 1.5v7A1.5 1.5 0 0 1 16 13H2a1.5 1.5 0 0 1-1.5-1.5v-7'
+          'A1.5 1.5 0 0 1 2 3h2.7z" fill="#5a6b7d"/>'
+          '<circle cx="9" cy="8" r="3.2" fill="#fff"/><circle cx="9" cy="8" r="1.8" fill="#5a6b7d"/></svg>')

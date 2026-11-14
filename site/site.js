@@ -5,7 +5,7 @@
 
   // ---- score / time-used / time-left toggle
   function markMode() {
-    var m = root.dataset.mode || "s";
+    var m = root.dataset.mode || "a";
     document.querySelectorAll("[data-mode]").forEach(function (a) {
       if (a !== root) a.classList.toggle("on", a.dataset.mode === m);
     });

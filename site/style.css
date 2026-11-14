@@ -38,7 +38,7 @@ a:hover { text-decoration: underline; }
 #header .bars > div { margin: 2px 0; }
 #header a.on, .tabs a.on { color: #000; }
 .modes { white-space: nowrap; margin-left: 12px; }
-html[data-mode="s"] a[data-mode="s"], html[data-mode="u"] a[data-mode="u"], html[data-mode="l"] a[data-mode="l"] { color: #000; }
+html[data-mode="a"] a[data-mode="a"], html[data-mode="s"] a[data-mode="s"], html[data-mode="u"] a[data-mode="u"], html[data-mode="l"] a[data-mode="l"] { color: #000; }
 
 #cols { display: flex; align-items: flex-start; }
 #nav { width: 230px; flex: none; padding-right: 10px; }
@@ -81,8 +81,10 @@ table.lb td:last-child { color: var(--muted); max-width: 320px; }
 .score { white-space: nowrap; font-variant-numeric: tabular-nums; }
 .score .v { display: none; }
 .score .v.na { color: var(--muted); }
-html[data-mode="s"] .score .v-s, html:not([data-mode]) .score .v-s,
-html[data-mode="u"] .score .v-u, html[data-mode="l"] .score .v-l { display: inline; }
+html[data-mode="a"] .score .v-a, html:not([data-mode]) .score .v-a,
+html[data-mode="s"] .score .v-s, html[data-mode="u"] .score .v-u, html[data-mode="l"] .score .v-l { display: inline; }
+.score .tl { color: var(--muted); font-size: 10px; }
+.score .sep { color: var(--line); }
 
 /* icons */
 .ico { display: inline-block; line-height: 0; vertical-align: middle; }
@@ -134,3 +136,6 @@ a.tie { cursor: pointer; }
   #main { border-radius: 0; padding: 4px 16px 16px; }
   table.lb td:last-child, table.lb th:last-child { display: none; }
 }
+
+.navbox .head { display: block; color: #fff; font-weight: 700; text-decoration: underline; margin-bottom: 2px; }
+.navbox.links a::after { content: " \2197"; font-size: 10px; opacity: .8; }

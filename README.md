@@ -24,13 +24,18 @@ pik5 and links back to the original board.
     leaderboards as of any date
   - `players.json`: speedrun.com name and country for notable players
     (`python sync/pik5_sync.py players` refreshes these alone)
+  - `src_runners.json`: every runner on speedrun.com's Pikmin series boards with
+    their country (`python sync/pik5_sync.py src`, run daily by the workflow);
+    the build matches pik5 players to these by name for flags and English names
 - `site/build.py` renders `data/` into a static site in `dist/` with no
   dependencies: `dist/en/` and `dist/ja/`, with `dist/index.html` picking a
   language from the browser.
   - `site/i18n.py`: all UI text in English and Japanese
   - `site/players_overrides.json`: hand-made English nicknames and countries
-  - `TIME_FORMULAS` in `site/build.py`: score-to-time formulas per category,
-    for the Score / Time used / Time left toggle (empty until confirmed)
+  - `site/score_meta.py`: how scores turn into time used / time left
+    (Pikmin 3 bonus rates per stage, Pikmin 4 1 point/second, Sage Leaf time
+    limits), with sources. Pages show score, time used and time left together
+    by default; the header toggle can narrow it to one.
 - `.github/workflows/sync.yml` syncs every 6 hours, commits data changes and
   deploys to GitHub Pages.
 
