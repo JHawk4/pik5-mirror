@@ -443,7 +443,7 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
 <title>{e(title)} - {e(t.s("site"))}</title>
 <link rel="stylesheet" href="{pre}../style.css">
 </head>
-<body{f' data-game="{series}"' if series else ''}>
+<body>
 <div id="outer">
 <div id="header">
   <div class="logo"><a href="{pre}index.html">{SPROUT}{e(t.s("site"))}</a></div>

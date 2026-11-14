@@ -1,4 +1,4 @@
-# pik5-mirror
+# pikmin-wrs
 
 An unofficial mirror of the Pikmin challenge-mode leaderboards on
 [pik5.net](https://pik5.net/en/), shown as a clean, table-first records site

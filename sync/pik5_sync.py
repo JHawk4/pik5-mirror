@@ -26,7 +26,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 BASE = "https://pik5.net"
-USER_AGENT = "pik5-mirror/0.1 (unofficial mirror; polite sync)"
+USER_AGENT = "pikmin-wrs/0.1 (unofficial mirror; polite sync)"
 DELAY = 1.5  # seconds between requests
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
