@@ -1,0 +1,24 @@
+{
+ "rule": 44,
+ "stage": 410,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18065,
+   "uid": 309346544,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 453,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-09T03:49:18.000000Z",
+   "comment": "エボシトバシが引っかかって運べないのやめてください",
+   "video": "https://youtu.be/ZS7BBLVLAUc?si=r0NRdW22IkDNpB7s",
+   "img": "20240809-214918-3662822817.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

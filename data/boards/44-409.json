@@ -1,0 +1,24 @@
+{
+ "rule": 44,
+ "stage": 409,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18063,
+   "uid": 309449437,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 394,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-08T03:58:11.000000Z",
+   "comment": "犠牲許容チャートですが運良く無犠牲でした",
+   "video": "https://youtu.be/B77e8Dd-jsQ?si=tClKWv48d0gTBHdV",
+   "img": "20240808-215811-3850680971.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

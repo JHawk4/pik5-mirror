@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 220,
+ "records": [
+  {
+   "id": 11878,
+   "uid": 274037511,
+   "user": "ToolAssistedPik",
+   "score": 15957,
+   "date": "2021-01-08T10:11:44.000000Z",
+   "video": "0200/01/01 0:00:00",
+   "console": 1,
+   "comment": "タマゴムシ50。大まかな戦略としてはこれで大丈夫なはず。2階はいろいろ頑張ったけど点は伸びませんでした。残念。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

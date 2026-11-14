@@ -1,0 +1,18 @@
+{
+ "rule": 31,
+ "stage": 311,
+ "records": [
+  {
+   "id": 19089,
+   "uid": 312935652,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 19850,
+   "date": "2026-01-04T00:06:49.000000Z",
+   "video": "https://youtu.be/AqSN7JpAJWI?si=FkjQ0xicDQ1lZq8q",
+   "console": 4,
+   "comment": "switchの方が便利な仕様が多いです",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

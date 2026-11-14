@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 203,
+ "records": [
+  {
+   "id": 18414,
+   "uid": 310706197,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 48301,
+   "date": "2025-02-17T03:22:35.000000Z",
+   "video": "https://youtu.be/X7zJOU45AvY?si=mdPjZJ3j0b8pdWen",
+   "console": 4,
+   "comment": "WRではありませんが",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

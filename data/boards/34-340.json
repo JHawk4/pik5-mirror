@@ -1,0 +1,58 @@
+{
+ "rule": 34,
+ "stage": 340,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 15513,
+   "uid": 278935756,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 19630,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-11-11T02:23:25.000000Z",
+   "comment": "残10:21 2人プレイで20000点は行けるのでしょうか。",
+   "video": "",
+   "img": "20221111-202326-876408278.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 15511,
+   "uid": 278546946,
+   "user": "sozainoaji",
+   "score": 19450,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-11-10T03:20:40.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20221110-212040-358689215.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 12104,
+   "uid": 274184413,
+   "user": "Johnson",
+   "score": 18490,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2021-01-29T14:16:28.000000Z",
+   "comment": "コメントなし",
+   "video": "https://www.youtube.com/watch?v=q4gj06Q-2o0",
+   "img": "20210130-081629-1063142579.png",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

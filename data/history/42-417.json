@@ -1,0 +1,18 @@
+{
+ "rule": 42,
+ "stage": 417,
+ "records": [
+  {
+   "id": 18462,
+   "uid": 310237250,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 552,
+   "date": "2025-03-25T03:45:35.000000Z",
+   "video": "https://youtu.be/uZUGm_cAwfs?si=kduDTXb-Y-Uf7w2U",
+   "console": 1,
+   "comment": "鉄人から一旦解放されたので",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

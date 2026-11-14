@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 226,
+ "records": [
+  {
+   "id": 18392,
+   "uid": 310499479,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32672,
+   "date": "2025-02-01T20:34:13.000000Z",
+   "video": "https://youtu.be/kwedXQTuX-Q?si=c-18iblytactClKs",
+   "console": 4,
+   "comment": "3F3壁の中ではかなり良い配置でした",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

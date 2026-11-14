@@ -1,0 +1,18 @@
+{
+ "rule": 21,
+ "stage": 220,
+ "records": [
+  {
+   "id": 18495,
+   "uid": 311363862,
+   "user": "Gorei_50",
+   "score": 15599,
+   "date": "2025-05-31T06:23:48.000000Z",
+   "video": "https://youtu.be/u6mByieen3k",
+   "console": 2,
+   "comment": "偉いとこ20討伐だけ",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

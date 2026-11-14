@@ -1,0 +1,58 @@
+{
+ "rule": 34,
+ "stage": 336,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 16264,
+   "uid": 278663311,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 5870,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-07-15T01:34:57.000000Z",
+   "comment": "昨日投稿し忘れてました",
+   "video": "",
+   "img": "20230715-193457-56082785.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 11969,
+   "uid": 274475345,
+   "user": "Johnson",
+   "score": 5660,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2021-01-15T21:00:26.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/wGfJDmMRaJU",
+   "img": "20210116-150026-2067448638.png",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 15509,
+   "uid": 278091207,
+   "user": "sozainoaji",
+   "score": 5650,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-11-10T03:19:22.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20221110-211922-1391781418.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 218,
+ "records": [
+  {
+   "id": 9843,
+   "uid": 271507363,
+   "user": "ToolAssistedPik",
+   "score": 54735,
+   "date": "2020-08-28T10:47:48.000000Z",
+   "video": "https://youtu.be/KoE5G_3RjVo",
+   "console": 1,
+   "comment": "タマゴムシ80。484点の更新。1階、2階ともに出来る限り粘ったつもりです。ただ、2階はもっといい配置があると思います。引き当てられるかは別だけど…",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

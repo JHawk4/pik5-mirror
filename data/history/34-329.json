@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 329,
+ "records": [
+  {
+   "id": 15490,
+   "uid": 278866537,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 5510,
+   "date": "2022-10-30T23:20:54.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "残7:47 最後のミスのせいで1秒ロスしました。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,58 @@
+{
+ "rule": 35,
+ "stage": 357,
+ "lower_is_better": true,
+ "posts": [
+  {
+   "id": 19393,
+   "uid": 314062069,
+   "user": "96_Leaf",
+   "score": 57,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2026-04-25T15:24:35.000000Z",
+   "comment": "蝶でマンゴスチンを押そうとして失敗",
+   "video": "https://www.youtube.com/watch?v=AMOem2C5jGY",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16050,
+   "uid": 278956499,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 71,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-04-08T02:26:06.000000Z",
+   "comment": "結構運が良かったです。",
+   "video": "https://youtu.be/nObmK1PRxGE",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14955,
+   "uid": 277260092,
+   "user": "toripoppo0307",
+   "score": 93,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-08-20T00:15:26.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/ITSUVvGR3Zc",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

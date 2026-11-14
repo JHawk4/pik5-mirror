@@ -1,0 +1,18 @@
+{
+ "rule": 21,
+ "stage": 207,
+ "records": [
+  {
+   "id": 19423,
+   "uid": 314258841,
+   "user": "Gorei_50",
+   "score": 15044,
+   "date": "2026-05-23T04:32:39.000000Z",
+   "video": "https://youtu.be/TVFUkE5lRuI",
+   "console": 2,
+   "comment": "虫無しのフェイントを入れたことにより虫運の不意を衝くことに成功",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 230,
+ "records": [
+  {
+   "id": 18386,
+   "uid": 310231385,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32115,
+   "date": "2025-01-31T20:30:26.000000Z",
+   "video": "https://youtu.be/T1q4lWa7UB0?si=An-Bc9L_P5Hl0nKK",
+   "console": 4,
+   "comment": "ゲキニガ使ったのに……",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

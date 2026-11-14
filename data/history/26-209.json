@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 209,
+ "records": [
+  {
+   "id": 18422,
+   "uid": 310825559,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 50898,
+   "date": "2025-02-20T03:16:19.000000Z",
+   "video": "https://youtu.be/5vkcJBKR7vw?si=czs0aW0TxFG3XwsN",
+   "console": 4,
+   "comment": "50900は目指さないと思います　その2",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

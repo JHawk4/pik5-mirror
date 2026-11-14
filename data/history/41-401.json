@@ -1,0 +1,51 @@
+{
+ "rule": 41,
+ "stage": 401,
+ "records": [
+  {
+   "id": 18978,
+   "uid": 312291889,
+   "user": "albut3",
+   "score": 363,
+   "date": "2025-11-20T03:55:07.000000Z",
+   "video": "https://www.youtube.com/watch?v=qDuFyrvVQok",
+   "console": 4,
+   "comment": "養成完了",
+   "tie": false
+  },
+  {
+   "id": 18981,
+   "uid": 312627975,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 363,
+   "date": "2025-11-22T02:15:18.000000Z",
+   "video": "https://youtu.be/h6qHa5IFGss?si=v42Lbf5ZAThijlBz",
+   "console": 4,
+   "comment": "最後ミスってますが",
+   "tie": true
+  },
+  {
+   "id": 19431,
+   "uid": 314669298,
+   "user": "mercysnow",
+   "score": 363,
+   "date": "2026-05-27T07:17:18.000000Z",
+   "video": "https://youtu.be/RdtB1FtYT9Y?si=vsHi9e3YKZ9xIAOh",
+   "console": 4,
+   "comment": "もうやりたくない",
+   "tie": true
+  },
+  {
+   "id": 20561,
+   "uid": 315154834,
+   "user": "Gorei_50",
+   "score": 363,
+   "date": "2026-11-13T21:47:34.000000Z",
+   "video": "https://youtu.be/Jmzy6ZM3QOE",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

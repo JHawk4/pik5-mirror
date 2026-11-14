@@ -1,0 +1,24 @@
+{
+ "rule": 28,
+ "stage": 214,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 14263,
+   "uid": 277415428,
+   "user": "sectionmarilui",
+   "score": 18351,
+   "rank": 1,
+   "rps": 1213,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2022-02-18T08:10:01.000000Z",
+   "comment": "乱数調整してないです",
+   "video": "https://www.nicovideo.jp/watch/sm40062490",
+   "img": "20220219-021244-1729532584.png",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

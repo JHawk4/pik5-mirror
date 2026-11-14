@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 331,
+ "records": [
+  {
+   "id": 18728,
+   "uid": 311678034,
+   "user": "Jay596",
+   "score": 12980,
+   "date": "2025-09-03T13:45:33.000000Z",
+   "video": "https://www.youtube.com/watch?v=HtTxeoLznRc",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

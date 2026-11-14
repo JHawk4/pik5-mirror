@@ -1,0 +1,24 @@
+{
+ "rule": 28,
+ "stage": 227,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 13283,
+   "uid": 276489169,
+   "user": "sectionmarilui",
+   "score": 10400,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2021-10-20T09:13:17.000000Z",
+   "comment": "0x27BEEE0D",
+   "video": "https://www.nicovideo.jp/watch/sm39510619",
+   "img": "20211021-031317-1629174858.png",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

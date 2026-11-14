@@ -1,0 +1,29 @@
+{
+ "rule": 34,
+ "stage": 332,
+ "records": [
+  {
+   "id": 15140,
+   "uid": 278351428,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 14710,
+   "date": "2022-09-30T14:47:35.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "残7:41 2人プレイの方が有利ということで、1人プレイの現WRに勝ちました。",
+   "tie": false
+  },
+  {
+   "id": 18859,
+   "uid": 311460738,
+   "user": "Jay596",
+   "score": 14710,
+   "date": "2025-09-07T12:18:15.000000Z",
+   "video": "https://www.youtube.com/watch?v=DQT1nrW6_fg",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

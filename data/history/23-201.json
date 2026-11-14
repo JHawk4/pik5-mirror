@@ -1,0 +1,18 @@
+{
+ "rule": 23,
+ "stage": 201,
+ "records": [
+  {
+   "id": 18893,
+   "uid": 311072309,
+   "user": "Gorei_50",
+   "score": 35092,
+   "date": "2025-09-14T08:36:28.000000Z",
+   "video": "https://youtu.be/IFL617FGTo8",
+   "console": 2,
+   "comment": "発売から20年余年……公式は強かった",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

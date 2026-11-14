@@ -1,0 +1,58 @@
+{
+ "rule": 35,
+ "stage": 355,
+ "lower_is_better": true,
+ "posts": [
+  {
+   "id": 16179,
+   "uid": 278719455,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 35,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-06-14T02:05:31.000000Z",
+   "comment": "ピクミン2と同時に粘ってたらすぐ出ました。",
+   "video": "https://youtu.be/_bzmOCZ5_UE",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16180,
+   "uid": 278139342,
+   "user": "96_Leaf",
+   "score": 35,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-06-14T16:32:04.000000Z",
+   "comment": "あと半秒届かず",
+   "video": "https://youtu.be/y8mnTNLFeZk",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14940,
+   "uid": 277355093,
+   "user": "toripoppo0307",
+   "score": 73,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-08-19T10:35:05.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/fCborHT7BDk",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

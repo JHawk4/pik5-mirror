@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 341,
+ "records": [
+  {
+   "id": 14984,
+   "uid": 277284128,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 775,
+   "date": "2022-08-22T01:55:01.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "ルーイがレンガにめり込みました。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

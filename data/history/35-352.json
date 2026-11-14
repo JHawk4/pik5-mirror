@@ -1,0 +1,18 @@
+{
+ "rule": 35,
+ "stage": 352,
+ "records": [
+  {
+   "id": 19774,
+   "uid": 315367481,
+   "user": "96_Leaf",
+   "score": 46,
+   "date": "2026-09-07T12:43:33.000000Z",
+   "video": "https://youtu.be/aMFu8GKSdSc",
+   "console": 4,
+   "comment": "録画忘れによりTwitchダイジェストにて",
+   "tie": false
+  }
+ ],
+ "lower_is_better": true
+}

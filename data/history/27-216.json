@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 216,
+ "records": [
+  {
+   "id": 10980,
+   "uid": 274384141,
+   "user": "ToolAssistedPik",
+   "score": 6012,
+   "date": "2020-11-03T05:39:03.000000Z",
+   "video": "https://youtu.be/yoMdJegcDM8",
+   "console": 1,
+   "comment": "TASなのでパンモドキにもたくさん働いてもらいました。個人的に大満足の出来です。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

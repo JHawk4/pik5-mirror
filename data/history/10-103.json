@@ -1,0 +1,228 @@
+{
+ "rule": 10,
+ "stage": 103,
+ "records": [
+  {
+   "id": 3,
+   "uid": 100838419,
+   "user": "koppacha",
+   "score": 346,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "ヤマシンジュを狩りに行くルートが重要。青ピクミンをいかに効率よく増やせるかです。",
+   "tie": false
+  },
+  {
+   "id": 92,
+   "uid": 100677465,
+   "user": "shinya_",
+   "score": 382,
+   "date": "2008-03-09T06:00:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "調子がいいときと悪いときでかなり成績が違うステージ。",
+   "tie": false
+  },
+  {
+   "id": 224,
+   "uid": 102982807,
+   "user": "tororo",
+   "score": 401,
+   "date": "2013-04-19T06:00:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "このステージでは各所の１ペレットを集めることも大切かな？",
+   "tie": false
+  },
+  {
+   "id": 971,
+   "uid": 212098953,
+   "user": "noamoa",
+   "score": 408,
+   "date": "2015-11-07T04:14:00.000000Z",
+   "video": "",
+   "console": 2,
+   "comment": "上手い人なら全回収出来るはず",
+   "tie": false
+  },
+  {
+   "id": 1401,
+   "uid": 215655193,
+   "user": "iid01",
+   "score": 482,
+   "date": "2016-01-26T01:15:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 1713,
+   "uid": 218682106,
+   "user": "noamoa",
+   "score": 482,
+   "date": "2016-03-08T21:04:00.000000Z",
+   "video": "https://youtu.be/3WqiZzGSArM",
+   "console": 2,
+   "comment": "理論値",
+   "tie": true
+  },
+  {
+   "id": 2400,
+   "uid": 230989508,
+   "user": "HoshiKUZU_pik",
+   "score": 482,
+   "date": "2016-10-23T06:53:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "この記録に辿り着くまでがツラすぎて血を吐いた",
+   "tie": true
+  },
+  {
+   "id": 2578,
+   "uid": 232003057,
+   "user": "Gorei_50",
+   "score": 482,
+   "date": "2016-12-27T05:14:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 8706,
+   "uid": 269045880,
+   "user": "alpha_0630",
+   "score": 482,
+   "date": "2020-06-29T04:43:17.000000Z",
+   "video": "https://youtu.be/FNF7EsA-S4k",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 11301,
+   "uid": 274552105,
+   "user": "PiePusher11",
+   "score": 482,
+   "date": "2020-11-18T11:50:12.000000Z",
+   "video": "https://www.twitch.tv/videos/436433176",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 14831,
+   "uid": 277968953,
+   "user": "atmy_17",
+   "score": 482,
+   "date": "2022-07-26T02:42:46.000000Z",
+   "video": "https://youtu.be/znztz6jMyzw",
+   "console": 2,
+   "comment": "wii強い～",
+   "tie": true
+  },
+  {
+   "id": 15538,
+   "uid": 278219887,
+   "user": "albut3",
+   "score": 482,
+   "date": "2022-11-19T11:55:21.000000Z",
+   "video": "https://www.youtube.com/watch?v=riG2nC2zISQ&t=1s&ab_channel=albut3pik",
+   "console": 2,
+   "comment": "せっかくなのでオリチャー",
+   "tie": true
+  },
+  {
+   "id": 16411,
+   "uid": 301336371,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 482,
+   "date": "2023-08-01T00:39:44.000000Z",
+   "video": "https://youtu.be/B0TP8iScz14",
+   "console": 4,
+   "comment": "半分オリチャーで理論値いけました",
+   "tie": true
+  },
+  {
+   "id": 16709,
+   "uid": 301055738,
+   "user": "cesium137",
+   "score": 482,
+   "date": "2023-08-13T05:43:29.000000Z",
+   "video": "https://youtu.be/9jl5OngpVZc",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 17124,
+   "uid": 303196044,
+   "user": "JHawk4",
+   "score": 482,
+   "date": "2023-10-19T03:06:56.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 17419,
+   "uid": 304949018,
+   "user": "StrongmanLin",
+   "score": 482,
+   "date": "2023-12-15T21:30:56.000000Z",
+   "video": "https://youtu.be/Z4p043YMVAs",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 17595,
+   "uid": 307468383,
+   "user": "Mokaygee",
+   "score": 482,
+   "date": "2024-02-14T16:51:18.000000Z",
+   "video": "https://youtu.be/tS7FnduVnAI?t=1003",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 19100,
+   "uid": 312254791,
+   "user": "pikitto",
+   "score": 482,
+   "date": "2026-01-07T18:59:27.000000Z",
+   "video": "https://youtu.be/9hBAwUlJiO4",
+   "console": 2,
+   "comment": "Wii版に逃げたらあっさりと達成",
+   "tie": true
+  },
+  {
+   "id": 19487,
+   "uid": 314765981,
+   "user": "kobachi_no_udon",
+   "score": 482,
+   "date": "2026-06-11T04:23:27.000000Z",
+   "video": "https://youtu.be/H6f6h3dDw-k",
+   "console": 4,
+   "comment": "20ペレットが一番強かったかも",
+   "tie": true
+  },
+  {
+   "id": 19688,
+   "uid": 315128406,
+   "user": "Mutou_p2pw",
+   "score": 482,
+   "date": "2026-07-17T05:20:49.000000Z",
+   "video": "https://youtu.be/_OKfZZWMeR4",
+   "console": 4,
+   "comment": "希望より簡単",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false,
+ "backfilled": true
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 321,
+ "records": [
+  {
+   "id": 15164,
+   "uid": 278980564,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 7145,
+   "date": "2022-10-05T02:51:57.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "残10:21 前回の記録が低すぎたので大幅更新しました。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

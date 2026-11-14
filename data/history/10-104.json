@@ -1,0 +1,195 @@
+{
+ "rule": 10,
+ "stage": 104,
+ "records": [
+  {
+   "id": 4,
+   "uid": 100685708,
+   "user": "koppacha",
+   "score": 317,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "久し振りにやったら敵生物との勝負が思いきり下手になってました。",
+   "tie": false
+  },
+  {
+   "id": 79,
+   "uid": 100303445,
+   "user": "akapiku",
+   "score": 476,
+   "date": "2007-05-18T06:00:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "これを越せるかな？ふっふっふ",
+   "tie": false
+  },
+  {
+   "id": 93,
+   "uid": 100242035,
+   "user": "shinya_",
+   "score": 476,
+   "date": "2008-03-09T06:00:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "平均的になるが高記録も難しめのステージ。",
+   "tie": true
+  },
+  {
+   "id": 119,
+   "uid": 100724074,
+   "user": "miraaju",
+   "score": 518,
+   "date": "2008-08-20T06:00:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "もう少し運があれば、夢の520台もいけそうです☆",
+   "tie": false
+  },
+  {
+   "id": 952,
+   "uid": 212444818,
+   "user": "FeTellYou",
+   "score": 673,
+   "date": "2015-11-06T21:36:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 1403,
+   "uid": 215546480,
+   "user": "iid01",
+   "score": 712,
+   "date": "2016-01-26T01:16:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=OoF2S7AQyH8",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 12382,
+   "uid": 274306610,
+   "user": "TRR",
+   "score": 728,
+   "date": "2021-03-16T23:34:46.000000Z",
+   "video": "https://www.youtube.com/watch?v=1dmeIDoCPJs",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17126,
+   "uid": 303838291,
+   "user": "JHawk4",
+   "score": 752,
+   "date": "2023-10-19T03:07:42.000000Z",
+   "video": "https://www.youtube.com/watch?v=R_8yqJhVTI4",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17238,
+   "uid": 304157816,
+   "user": "cesium137",
+   "score": 752,
+   "date": "2023-11-12T06:31:12.000000Z",
+   "video": "https://youtu.be/NDeE9x8FJaA",
+   "console": 4,
+   "comment": "全回収。本当にここまで長かった...",
+   "tie": true
+  },
+  {
+   "id": 17322,
+   "uid": 304876974,
+   "user": "alpha_0630",
+   "score": 752,
+   "date": "2023-11-24T05:13:20.000000Z",
+   "video": "https://youtu.be/CO449NRzNkk",
+   "console": 4,
+   "comment": "ラスボスのコガネモチに勝利",
+   "tie": true
+  },
+  {
+   "id": 17422,
+   "uid": 304669951,
+   "user": "StrongmanLin",
+   "score": 752,
+   "date": "2023-12-15T21:34:36.000000Z",
+   "video": "https://youtu.be/5fIdzb3tz-c?si=CutJDtAN4sbXMpsB",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 17457,
+   "uid": 305263950,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 752,
+   "date": "2023-12-23T15:02:05.000000Z",
+   "video": "https://youtu.be/NA-mM2z2eBc?si=EbynWOyUR6SCjPCY",
+   "console": 4,
+   "comment": "年内に達成できて良かったです",
+   "tie": true
+  },
+  {
+   "id": 17574,
+   "uid": 306253588,
+   "user": "Mokaygee",
+   "score": 752,
+   "date": "2024-02-06T04:37:25.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 17901,
+   "uid": 308880932,
+   "user": "atmy_17",
+   "score": 752,
+   "date": "2024-06-10T02:21:06.000000Z",
+   "video": "https://youtu.be/bnah4e2zaug?si=TAf_XMCRFC-wCcSM",
+   "console": 4,
+   "comment": "お久しぶりです",
+   "tie": true
+  },
+  {
+   "id": 19488,
+   "uid": 314189471,
+   "user": "kobachi_no_udon",
+   "score": 752,
+   "date": "2026-06-11T04:25:42.000000Z",
+   "video": "https://youtu.be/M17o3fsVotU",
+   "console": 4,
+   "comment": "何もかもが敵",
+   "tie": true
+  },
+  {
+   "id": 19569,
+   "uid": 315783709,
+   "user": "iid01",
+   "score": 752,
+   "date": "2026-06-20T04:58:01.000000Z",
+   "video": "https://www.youtube.com/watch?v=7RJ6kcu4iZc",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 19742,
+   "uid": 315532113,
+   "user": "Mutou_p2pw",
+   "score": 752,
+   "date": "2026-08-21T04:26:55.000000Z",
+   "video": "https://youtu.be/cVqLsXQ-zYg",
+   "console": 4,
+   "comment": "カエルつよい",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false,
+ "backfilled": true
+}

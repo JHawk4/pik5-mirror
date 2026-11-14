@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 304,
+ "records": [
+  {
+   "id": 15457,
+   "uid": 278244529,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 14880,
+   "date": "2022-10-20T02:40:11.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "残6:28 1人と2人のどちらが有利なのか気になります。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

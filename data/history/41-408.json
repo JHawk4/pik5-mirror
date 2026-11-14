@@ -1,0 +1,29 @@
+{
+ "rule": 41,
+ "stage": 408,
+ "records": [
+  {
+   "id": 19795,
+   "uid": 315373706,
+   "user": "albut3",
+   "score": 468,
+   "date": "2026-09-15T21:44:30.000000Z",
+   "video": "https://www.youtube.com/watch?v=oIlSqmUSqEA",
+   "console": 4,
+   "comment": "氷ゲートの所らへん操作無理",
+   "tie": false
+  },
+  {
+   "id": 19798,
+   "uid": 315336186,
+   "user": "96_Leaf",
+   "score": 468,
+   "date": "2026-09-16T11:27:54.000000Z",
+   "video": "https://youtu.be/88L81VHuoD4",
+   "console": 4,
+   "comment": "１回録画外で出してしまった",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

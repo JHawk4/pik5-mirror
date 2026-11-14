@@ -1,0 +1,18 @@
+{
+ "rule": 36,
+ "stage": 344,
+ "records": [
+  {
+   "id": 15516,
+   "uid": 278159366,
+   "user": "esu",
+   "score": 22490,
+   "date": "2022-11-12T01:15:46.000000Z",
+   "video": "https://youtu.be/U0Fd4aY2TtA",
+   "console": 4,
+   "comment": "やり方合ってるかわからんけど一旦",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

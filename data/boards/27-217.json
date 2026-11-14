@@ -1,0 +1,24 @@
+{
+ "rule": 27,
+ "stage": 217,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 8457,
+   "uid": 267157319,
+   "user": "ToolAssistedPik",
+   "score": 16723,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2020-05-15T19:28:42.000000Z",
+   "comment": "タマゴムシ30。ダイヤの発掘のために白を運搬に回せていないので、そこが大きな改善余地になります。",
+   "video": "https://www.youtube.com/watch?v=PtEl3SsOewQ",
+   "img": "20200516-132842-1819185243.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

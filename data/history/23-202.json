@@ -1,0 +1,29 @@
+{
+ "rule": 23,
+ "stage": 202,
+ "records": [
+  {
+   "id": 18351,
+   "uid": 310553361,
+   "user": "kobachi_no_udon",
+   "score": 37682,
+   "date": "2025-01-06T00:50:27.000000Z",
+   "video": "https://youtu.be/E5n5mCzXkII",
+   "console": 2,
+   "comment": "2階がうまかった 127+105",
+   "tie": false
+  },
+  {
+   "id": 18633,
+   "uid": 311659180,
+   "user": "Gorei_50",
+   "score": 37682,
+   "date": "2025-08-13T20:55:54.000000Z",
+   "video": "https://youtu.be/KQTouK0buHg",
+   "console": 2,
+   "comment": "まだ",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

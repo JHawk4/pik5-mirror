@@ -1,0 +1,58 @@
+{
+ "rule": 34,
+ "stage": 337,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 14970,
+   "uid": 277819863,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 6260,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-08-20T18:22:00.000000Z",
+   "comment": "残9:16 2人プレイでは合流に時間がかかる点が1人プレイより不利だと思います。",
+   "video": "",
+   "img": "20220821-122200-1863715887.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 15510,
+   "uid": 278470123,
+   "user": "sozainoaji",
+   "score": 6250,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-11-10T03:20:01.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20221110-212001-508500918.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 12168,
+   "uid": 274285403,
+   "user": "Johnson",
+   "score": 6180,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2021-02-11T19:39:52.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/TEhxb8Az_7w",
+   "img": "20210212-133953-725230774.png",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

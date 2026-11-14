@@ -1,0 +1,29 @@
+{
+ "rule": 22,
+ "stage": 223,
+ "records": [
+  {
+   "id": 17566,
+   "uid": 306801880,
+   "user": "kobachi_no_udon",
+   "score": 10044,
+   "date": "2024-01-30T08:41:59.000000Z",
+   "video": "",
+   "console": 2,
+   "comment": "録画忘れて本当にごめんなさい。本当に・・・",
+   "tie": false
+  },
+  {
+   "id": 18042,
+   "uid": 309058745,
+   "user": "Gorei_50",
+   "score": 10044,
+   "date": "2024-07-31T07:17:00.000000Z",
+   "video": "https://youtu.be/t1cGjXnqHT4",
+   "console": 2,
+   "comment": "間欠泉がおしい。地形的にはいつもの",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

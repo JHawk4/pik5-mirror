@@ -1,0 +1,29 @@
+{
+ "rule": 26,
+ "stage": 225,
+ "records": [
+  {
+   "id": 7592,
+   "uid": 265092942,
+   "user": "Gorei_50",
+   "score": 28011,
+   "date": "2019-06-29T04:26:43.000000Z",
+   "video": "https://youtu.be/R1id9TrhW30",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18463,
+   "uid": 310113207,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 28011,
+   "date": "2025-03-26T03:42:53.000000Z",
+   "video": "https://youtu.be/3_YdtvEdDQA?si=8MRBwQN0B9KHQniS",
+   "console": 4,
+   "comment": "奇跡の生還",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,29 @@
+{
+ "rule": 21,
+ "stage": 230,
+ "records": [
+  {
+   "id": 18930,
+   "uid": 312319805,
+   "user": "Gorei_50",
+   "score": 32248,
+   "date": "2025-10-10T09:13:03.000000Z",
+   "video": "https://youtu.be/I6aqUMCoRN4",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 19422,
+   "uid": 314569942,
+   "user": "albut3",
+   "score": 32248,
+   "date": "2026-05-22T22:40:39.000000Z",
+   "video": "https://www.youtube.com/watch?v=GuPbSqaKJLU",
+   "console": 2,
+   "comment": "ランダムステージ対戦はいつでも新規参加者を歓迎しています",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

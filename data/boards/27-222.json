@@ -1,0 +1,24 @@
+{
+ "rule": 27,
+ "stage": 222,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 15099,
+   "uid": 278022724,
+   "user": "ToolAssistedPik",
+   "score": 14441,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2022-09-21T05:27:02.000000Z",
+   "comment": "私の旧TASから3点更新。お宝の配置はこれが最適解のはず。3匹目のクマが勝手にポッドまで来て来てくれれば、あと1点伸ばせるかも。",
+   "video": "https://youtu.be/uljnNqbCfK8",
+   "img": "20220921-232702-809326547.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

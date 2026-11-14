@@ -1,0 +1,18 @@
+{
+ "rule": 48,
+ "stage": 450,
+ "records": [
+  {
+   "id": 20551,
+   "uid": 315659712,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 382,
+   "date": "2026-11-13T10:39:09.000000Z",
+   "video": "https://youtu.be/nc1q_Y8u_mc?si=LJbGT_Q6gvXdt7MD",
+   "console": 4,
+   "comment": "録画成功",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

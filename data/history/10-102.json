@@ -1,0 +1,239 @@
+{
+ "rule": 10,
+ "stage": 102,
+ "records": [
+  {
+   "id": 2,
+   "uid": 100790914,
+   "user": "koppacha",
+   "score": 366,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "すみません、手抜きです・・。",
+   "tie": false
+  },
+  {
+   "id": 77,
+   "uid": 100894946,
+   "user": "akapiku",
+   "score": 389,
+   "date": "2007-05-18T06:00:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "まだいけると思います",
+   "tie": false
+  },
+  {
+   "id": 84,
+   "uid": 100337781,
+   "user": "miraaju",
+   "score": 549,
+   "date": "2007-07-22T06:00:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "もう限界です",
+   "tie": false
+  },
+  {
+   "id": 1400,
+   "uid": 215280118,
+   "user": "iid01",
+   "score": 569,
+   "date": "2016-01-26T01:14:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 1470,
+   "uid": 215721005,
+   "user": "noamoa",
+   "score": 569,
+   "date": "2016-02-14T00:24:00.000000Z",
+   "video": "https://youtu.be/P98yZ-7Pksw",
+   "console": 2,
+   "comment": "Wiiの爆弾の仕様がひどい",
+   "tie": true
+  },
+  {
+   "id": 2294,
+   "uid": 227861252,
+   "user": "muratsubo",
+   "score": 569,
+   "date": "2016-07-24T23:26:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "（＊`・∀・´＊）",
+   "tie": true
+  },
+  {
+   "id": 2387,
+   "uid": 230210248,
+   "user": "HoshiKUZU_pik",
+   "score": 569,
+   "date": "2016-10-07T18:14:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "なんで爆弾こっちに置くの？死にたいのかな？",
+   "tie": true
+  },
+  {
+   "id": 2577,
+   "uid": 232463598,
+   "user": "Gorei_50",
+   "score": 569,
+   "date": "2016-12-27T05:13:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 8704,
+   "uid": 269246358,
+   "user": "alpha_0630",
+   "score": 569,
+   "date": "2020-06-29T02:58:15.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 11300,
+   "uid": 274659716,
+   "user": "PiePusher11",
+   "score": 569,
+   "date": "2020-11-18T11:49:12.000000Z",
+   "video": "https://www.twitch.tv/videos/47140793",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 14793,
+   "uid": 277253482,
+   "user": "atmy_17",
+   "score": 569,
+   "date": "2022-07-09T03:57:07.000000Z",
+   "video": "https://youtu.be/kWoPL4f12LU",
+   "console": 2,
+   "comment": "爆弾を極力使わないという答えにたどり着いた。",
+   "tie": true
+  },
+  {
+   "id": 15537,
+   "uid": 278282526,
+   "user": "albut3",
+   "score": 569,
+   "date": "2022-11-19T11:54:13.000000Z",
+   "video": "https://www.youtube.com/watch?v=pHLV1y8moLI&ab_channel=albut3pik",
+   "console": 2,
+   "comment": "開幕フタクチルート最高～",
+   "tie": true
+  },
+  {
+   "id": 15872,
+   "uid": 278396991,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 569,
+   "date": "2023-02-22T19:25:40.000000Z",
+   "video": "https://youtu.be/5tNKoUpFoJk",
+   "console": 2,
+   "comment": "理論値です。爆弾を最低限しか使わなかったので時間ギリギリです。",
+   "tie": true
+  },
+  {
+   "id": 16652,
+   "uid": 301439562,
+   "user": "cesium137",
+   "score": 569,
+   "date": "2023-08-11T02:32:41.000000Z",
+   "video": "https://youtu.be/mxyuvWMcMug",
+   "console": 4,
+   "comment": "バグ死がない天国のような環境",
+   "tie": true
+  },
+  {
+   "id": 17123,
+   "uid": 303655039,
+   "user": "JHawk4",
+   "score": 569,
+   "date": "2023-10-19T03:06:40.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 17418,
+   "uid": 304703320,
+   "user": "StrongmanLin",
+   "score": 569,
+   "date": "2023-12-15T21:30:12.000000Z",
+   "video": "https://youtu.be/s8IC25Cwuz8",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 17591,
+   "uid": 307228870,
+   "user": "Mokaygee",
+   "score": 569,
+   "date": "2024-02-13T14:30:26.000000Z",
+   "video": "https://youtu.be/5oQnUhzMBBw",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 18890,
+   "uid": 311103694,
+   "user": "tori_rakko",
+   "score": 569,
+   "date": "2025-09-14T02:42:57.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 19083,
+   "uid": 312360825,
+   "user": "pikitto",
+   "score": 569,
+   "date": "2025-12-31T20:52:05.000000Z",
+   "video": "https://youtu.be/_a3Y1zYdXz8",
+   "console": 1,
+   "comment": "理論値いくだけなら簡単",
+   "tie": true
+  },
+  {
+   "id": 19486,
+   "uid": 314493393,
+   "user": "kobachi_no_udon",
+   "score": 569,
+   "date": "2026-06-11T04:22:22.000000Z",
+   "video": "https://youtu.be/cftFHKgh0L0",
+   "console": 4,
+   "comment": "バクダンとチャッピーと",
+   "tie": true
+  },
+  {
+   "id": 19651,
+   "uid": 315173542,
+   "user": "Mutou_p2pw",
+   "score": 569,
+   "date": "2026-07-11T05:49:41.000000Z",
+   "video": "https://youtu.be/8obSVecSOeo?si=-X8vSxI8P81Zoq8m",
+   "console": 4,
+   "comment": "戦闘の運ゲー感",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false,
+ "backfilled": true
+}

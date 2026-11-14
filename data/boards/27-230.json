@@ -1,0 +1,24 @@
+{
+ "rule": 27,
+ "stage": 230,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 17761,
+   "uid": 308456401,
+   "user": "ToolAssistedPik",
+   "score": 32314,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2024-05-04T22:24:09.000000Z",
+   "comment": "タマゴムシ20。各階それぞれで旧TASから気になっていた点を改善しました。成長を実感できて楽しい。",
+   "video": "https://youtu.be/sucep3jtlr8",
+   "img": "20240505-162409-2262208017.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

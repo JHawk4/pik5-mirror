@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 338,
+ "records": [
+  {
+   "id": 15679,
+   "uid": 278039913,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 558,
+   "date": "2022-12-23T00:25:49.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "前回の記録が低すぎたので新ルートで大幅更新しました。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

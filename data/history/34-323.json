@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 323,
+ "records": [
+  {
+   "id": 15655,
+   "uid": 278353661,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 5080,
+   "date": "2022-12-16T15:01:46.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "7:15は行けます。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

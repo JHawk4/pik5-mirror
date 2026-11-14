@@ -1,0 +1,58 @@
+{
+ "rule": 35,
+ "stage": 351,
+ "lower_is_better": true,
+ "posts": [
+  {
+   "id": 16163,
+   "uid": 278701752,
+   "user": "96_Leaf",
+   "score": 25,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-06-06T02:37:23.000000Z",
+   "comment": "キャプボを入手したので他ステージもやろうと思います",
+   "video": "https://youtu.be/V0ppLkOdri4",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16165,
+   "uid": 278166838,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 25,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-06-07T02:56:20.000000Z",
+   "comment": "まだ行けます",
+   "video": "https://youtu.be/rpx5Xw-BZ5s",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14936,
+   "uid": 277288165,
+   "user": "toripoppo0307",
+   "score": 55,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-08-19T00:39:02.000000Z",
+   "comment": "適当",
+   "video": "https://youtu.be/B8YmcKw1sVs",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

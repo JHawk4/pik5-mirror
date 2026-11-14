@@ -1,0 +1,41 @@
+{
+ "rule": 46,
+ "stage": 419,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18077,
+   "uid": 309920349,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 140,
+   "rank": 1,
+   "rps": 1491,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-16T03:58:15.000000Z",
+   "comment": "入力フォームがスコアの形式になってます",
+   "video": "https://youtu.be/WQKEsEwFstQ?si=d8ELW4QDLKhyDs4s",
+   "img": "20240816-215815-9016254296.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 18092,
+   "uid": 309088958,
+   "user": "wnsrn8650",
+   "score": 108,
+   "rank": 2,
+   "rps": 1353,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-19T17:25:28.000000Z",
+   "comment": "本当に運頼みもダンドリの一つなのか…",
+   "video": "",
+   "img": "20240820-112528-4404551125.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

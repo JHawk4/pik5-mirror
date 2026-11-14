@@ -1,0 +1,58 @@
+{
+ "rule": 34,
+ "stage": 338,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 15679,
+   "uid": 278039913,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 558,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-12-23T00:25:49.000000Z",
+   "comment": "前回の記録が低すぎたので新ルートで大幅更新しました。",
+   "video": "",
+   "img": "20221223-182549-1502054469.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 12220,
+   "uid": 274615907,
+   "user": "Johnson",
+   "score": 520,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2021-02-18T15:40:53.000000Z",
+   "comment": "コメントなし",
+   "video": "https://www.youtube.com/watch?v=Ez6NUOjNAOU",
+   "img": "20210219-094053-1651504886.png",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14296,
+   "uid": 277001166,
+   "user": "sozainoaji",
+   "score": 518,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-03-05T22:24:07.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20220306-162408-394818666.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

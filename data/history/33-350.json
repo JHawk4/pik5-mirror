@@ -1,0 +1,18 @@
+{
+ "rule": 33,
+ "stage": 350,
+ "records": [
+  {
+   "id": 12482,
+   "uid": 274675904,
+   "user": "Y-TeNdoo404",
+   "score": 680,
+   "date": "2021-04-13T09:58:36.000000Z",
+   "video": "https://www.youtube.com/watch?v=xxWU-nJ-Nrc",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

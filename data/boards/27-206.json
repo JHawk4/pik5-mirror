@@ -1,0 +1,24 @@
+{
+ "rule": 27,
+ "stage": 206,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 8455,
+   "uid": 267612817,
+   "user": "ToolAssistedPik",
+   "score": 9591,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2020-05-15T19:23:42.000000Z",
+   "comment": "タマゴムシ20。タマゴはポッド近くにあった方が早そうです。2階はゲキカラ2本で足ります。",
+   "video": "https://www.youtube.com/watch?v=6b0G7xVcbF0",
+   "img": "20200516-132342-1776351750.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

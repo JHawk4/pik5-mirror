@@ -1,0 +1,18 @@
+{
+ "rule": 28,
+ "stage": 218,
+ "records": [
+  {
+   "id": 8427,
+   "uid": 267388855,
+   "user": "iid01",
+   "score": 53988,
+   "date": "2020-05-08T00:00:46.000000Z",
+   "video": "https://www.youtube.com/watch?v=j3Ts5-3FpSo",
+   "console": 1,
+   "comment": "0x154DFE3D",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 48,
+ "stage": 448,
+ "records": [
+  {
+   "id": 20546,
+   "uid": 315161904,
+   "user": "iid01",
+   "score": 348,
+   "date": "2026-11-12T18:30:49.000000Z",
+   "video": "https://www.youtube.com/watch?v=ZILyHK7uqZU",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

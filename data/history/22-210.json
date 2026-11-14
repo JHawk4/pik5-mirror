@@ -1,0 +1,29 @@
+{
+ "rule": 22,
+ "stage": 210,
+ "records": [
+  {
+   "id": 17703,
+   "uid": 308732354,
+   "user": "Gorei_50",
+   "score": 26773,
+   "date": "2024-04-03T04:35:53.000000Z",
+   "video": "https://youtu.be/X4NFyVJBij4",
+   "console": 2,
+   "comment": "黄昏よりも昏きもの",
+   "tie": false
+  },
+  {
+   "id": 18027,
+   "uid": 309878570,
+   "user": "kobachi_no_udon",
+   "score": 26773,
+   "date": "2024-07-29T06:57:51.000000Z",
+   "video": "",
+   "console": 2,
+   "comment": "本当に、本当にごめんなさい…（画面共有中に出したのですが録画を忘れていました）",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

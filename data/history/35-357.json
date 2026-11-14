@@ -1,0 +1,18 @@
+{
+ "rule": 35,
+ "stage": 357,
+ "records": [
+  {
+   "id": 19393,
+   "uid": 314062069,
+   "user": "96_Leaf",
+   "score": 57,
+   "date": "2026-04-25T15:24:35.000000Z",
+   "video": "https://www.youtube.com/watch?v=AMOem2C5jGY",
+   "console": 4,
+   "comment": "蝶でマンゴスチンを押そうとして失敗",
+   "tie": false
+  }
+ ],
+ "lower_is_better": true
+}

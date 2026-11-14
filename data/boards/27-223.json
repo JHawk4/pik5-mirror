@@ -1,0 +1,24 @@
+{
+ "rule": 27,
+ "stage": 223,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 8462,
+   "uid": 267642870,
+   "user": "ToolAssistedPik",
+   "score": 10071,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2020-05-16T03:42:42.000000Z",
+   "comment": "シジミ24。鍵持ちハンボとシジミ軍団の位置で改善できるようですが、それ以外や全体的な動き方はこれでいいはず。",
+   "video": "https://www.youtube.com/watch?v=a4Th0spupJ8",
+   "img": "20200516-214242-73201559.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

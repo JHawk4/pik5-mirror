@@ -1,0 +1,18 @@
+{
+ "rule": 22,
+ "stage": 209,
+ "records": [
+  {
+   "id": 19757,
+   "uid": 315839310,
+   "user": "Gorei_50",
+   "score": 50902,
+   "date": "2026-08-27T07:31:46.000000Z",
+   "video": "https://youtu.be/8u3HzvrraR4",
+   "console": 2,
+   "comment": "はらまきに赤つけておくべきだった",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

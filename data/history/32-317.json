@@ -1,0 +1,29 @@
+{
+ "rule": 32,
+ "stage": 317,
+ "records": [
+  {
+   "id": 15491,
+   "uid": 278522989,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 12480,
+   "date": "2022-11-01T00:30:59.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1587376266180964352?s=61&t=kPWlwiuvSDuhc_vSdpcuww",
+   "console": 4,
+   "comment": "残6:32 カワスミが運ゲーです。",
+   "tie": false
+  },
+  {
+   "id": 15497,
+   "uid": 278769288,
+   "user": "esu",
+   "score": 12480,
+   "date": "2022-11-03T03:39:10.000000Z",
+   "video": "https://youtu.be/RIV1PyYm_Rw",
+   "console": 4,
+   "comment": "アカウント消えた件",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 36,
+ "stage": 338,
+ "records": [
+  {
+   "id": 18213,
+   "uid": 309603228,
+   "user": "Yellowishpik",
+   "score": 559,
+   "date": "2024-09-29T18:40:49.000000Z",
+   "video": "https://youtu.be/7aaqthaSO_4",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

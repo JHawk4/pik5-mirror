@@ -1,0 +1,18 @@
+{
+ "rule": 11,
+ "stage": 102,
+ "records": [
+  {
+   "id": 19557,
+   "uid": 315880376,
+   "user": "iid01",
+   "score": 935,
+   "date": "2026-06-16T03:08:47.000000Z",
+   "video": "https://www.youtube.com/watch?v=jzNnTWgNnmA",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

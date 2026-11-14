@@ -1,0 +1,18 @@
+{
+ "rule": 43,
+ "stage": 424,
+ "records": [
+  {
+   "id": 17389,
+   "uid": 304869418,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 195,
+   "date": "2023-12-08T20:17:25.000000Z",
+   "video": "https://youtu.be/IjsaO8x2jbk?si=v4pNUvGYql7z34DC",
+   "console": 4,
+   "comment": "例の技の比較的簡単な方法を動画で知りました",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

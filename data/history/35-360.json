@@ -1,0 +1,18 @@
+{
+ "rule": 35,
+ "stage": 360,
+ "records": [
+  {
+   "id": 19832,
+   "uid": 315424185,
+   "user": "96_Leaf",
+   "score": 72,
+   "date": "2026-09-30T07:15:57.000000Z",
+   "video": "https://youtu.be/noAGqDWJkl8",
+   "console": 4,
+   "comment": "イチゴに加勢しすぎない方が演出分で速かったかも",
+   "tie": false
+  }
+ ],
+ "lower_is_better": true
+}

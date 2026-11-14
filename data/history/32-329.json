@@ -1,0 +1,29 @@
+{
+ "rule": 32,
+ "stage": 329,
+ "records": [
+  {
+   "id": 15006,
+   "uid": 277962000,
+   "user": "esu",
+   "score": 5490,
+   "date": "2022-08-28T23:52:44.000000Z",
+   "video": "https://youtu.be/MMUacUE-Jto",
+   "console": 4,
+   "comment": "運ゲーきっつ",
+   "tie": false
+  },
+  {
+   "id": 15747,
+   "uid": 278938167,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 5490,
+   "date": "2023-01-13T14:12:51.000000Z",
+   "video": "https://youtu.be/xXEovytqiUo",
+   "console": 4,
+   "comment": "爆弾ゲーです。",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

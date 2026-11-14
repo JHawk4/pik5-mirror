@@ -1,0 +1,41 @@
+{
+ "rule": 34,
+ "stage": 344,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 15026,
+   "uid": 278644707,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 21290,
+   "rank": 1,
+   "rps": 1491,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-09-05T12:17:46.000000Z",
+   "comment": "残10:43 合流すれば2人プレイでもエリア移動でタイムが縮むことを発見しました。",
+   "video": "",
+   "img": "20220906-061746-1947393751.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16100,
+   "uid": 278920469,
+   "user": "sozainoaji",
+   "score": 19490,
+   "rank": 2,
+   "rps": 1353,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-05-05T19:04:21.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20230506-130421-892392635.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

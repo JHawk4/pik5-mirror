@@ -1,0 +1,29 @@
+{
+ "rule": 31,
+ "stage": 310,
+ "records": [
+  {
+   "id": 15532,
+   "uid": 278540956,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 12810,
+   "date": "2022-11-18T22:14:23.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1593864521613180929?s=61&t=92qLC-N2_YwdtH_yxWl8Yw",
+   "console": 4,
+   "comment": "残5:47 ちょっと変えてみました。",
+   "tie": false
+  },
+  {
+   "id": 15541,
+   "uid": 278425200,
+   "user": "esu",
+   "score": 12810,
+   "date": "2022-11-21T03:00:57.000000Z",
+   "video": "https://youtu.be/y2amsCfzntk",
+   "console": 4,
+   "comment": "2年間抜かれなかったのに抜かれるとはな…",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

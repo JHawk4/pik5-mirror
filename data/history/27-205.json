@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 205,
+ "records": [
+  {
+   "id": 17501,
+   "uid": 305329356,
+   "user": "ToolAssistedPik",
+   "score": 12393,
+   "date": "2024-01-02T06:02:26.000000Z",
+   "video": "https://youtu.be/eTjPEXFGons",
+   "console": 1,
+   "comment": "タマゴムシ90。11点の更新。1階はお宝の位置だけでなく、ハチャッピーの位置や向きも厳選しました。勾配もある開けたところで80匹討伐は流石にTASでもしんどい…。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

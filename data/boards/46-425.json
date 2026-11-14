@@ -1,0 +1,24 @@
+{
+ "rule": 46,
+ "stage": 425,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18113,
+   "uid": 309485949,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 35,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-24T22:19:03.000000Z",
+   "comment": "通常プレイとあまり変わらないですね",
+   "video": "https://youtu.be/y3MWAsgHeWY?si=zr_Y5lv3iy-02ESq",
+   "img": "20240825-161903-4376867512.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

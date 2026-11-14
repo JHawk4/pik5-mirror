@@ -1,0 +1,58 @@
+{
+ "rule": 29,
+ "stage": 247,
+ "lower_is_better": true,
+ "posts": [
+  {
+   "id": 17957,
+   "uid": 308232347,
+   "user": "Gorei_50",
+   "score": 106,
+   "rank": 1,
+   "rps": 1723,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2024-06-29T23:06:46.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/v6TZcrjiFfg",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 17952,
+   "uid": 308216343,
+   "user": "tcbtrio",
+   "score": 109,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-06-29T16:07:01.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/e7XFUYbhneg?si=m5wnwKoGfCU5WCYo",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14973,
+   "uid": 277334944,
+   "user": "toripoppo0307",
+   "score": 240,
+   "rank": 3,
+   "rps": 1445,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2022-08-20T22:53:48.000000Z",
+   "comment": "もうやりたくない",
+   "video": "https://youtu.be/CC5Z6vtcvbM",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

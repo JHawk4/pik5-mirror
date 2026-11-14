@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 327,
+ "records": [
+  {
+   "id": 15612,
+   "uid": 278382427,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3365,
+   "date": "2022-11-29T23:23:37.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "残5:02 理論値は5:10以上です。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

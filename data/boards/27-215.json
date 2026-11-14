@@ -1,0 +1,24 @@
+{
+ "rule": 27,
+ "stage": 215,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 8452,
+   "uid": 267033699,
+   "user": "ToolAssistedPik",
+   "score": 6268,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2020-05-15T19:06:41.000000Z",
+   "comment": "紫ショイグモ2匹に白2匹ずつ投げて処理させるのが滅茶苦茶きつい。チャージが出来て楽しい。",
+   "video": "https://www.youtube.com/watch?v=deuUSdARq2A",
+   "img": "20200516-130641-670483751.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

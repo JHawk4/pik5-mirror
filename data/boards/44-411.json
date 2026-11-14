@@ -1,0 +1,41 @@
+{
+ "rule": 44,
+ "stage": 411,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18068,
+   "uid": 309945708,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 386,
+   "rank": 1,
+   "rps": 1491,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-09T13:50:22.000000Z",
+   "comment": "マロガエルを勝手に運んでくれればまだ早くなります",
+   "video": "https://youtu.be/2paP2j6xXpE?si=ghrkKMTaEuTwIIHr",
+   "img": "20240810-075022-1924735771.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 18099,
+   "uid": 309861047,
+   "user": "wnsrn8650",
+   "score": 296,
+   "rank": 2,
+   "rps": 1353,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-21T00:36:17.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20240821-183616-6874904336.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 35,
+ "stage": 362,
+ "records": [
+  {
+   "id": 19778,
+   "uid": 315895355,
+   "user": "96_Leaf",
+   "score": 84,
+   "date": "2026-09-08T07:19:31.000000Z",
+   "video": "https://youtu.be/Ud_BqlhXQQE",
+   "console": 4,
+   "comment": "十分な祈祷力があればもう5秒",
+   "tie": false
+  }
+ ],
+ "lower_is_better": true
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 219,
+ "records": [
+  {
+   "id": 8453,
+   "uid": 267642479,
+   "user": "ToolAssistedPik",
+   "score": 11732,
+   "date": "2020-05-15T19:11:47.000000Z",
+   "video": "https://www.youtube.com/watch?v=TlT4R0W-hMU",
+   "console": 1,
+   "comment": "いかに最後のお宝到着を早めるかが重要。振り返ってみると、2階の配置がすごくいいですね。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

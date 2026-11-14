@@ -1,0 +1,18 @@
+{
+ "rule": 22,
+ "stage": 203,
+ "records": [
+  {
+   "id": 19315,
+   "uid": 312186303,
+   "user": "Gorei_50",
+   "score": 48317,
+   "date": "2026-03-11T08:47:33.000000Z",
+   "video": "https://youtu.be/TfqpEYMHYH4",
+   "console": 2,
+   "comment": "まだ舞える",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

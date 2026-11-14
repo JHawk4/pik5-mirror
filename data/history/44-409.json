@@ -1,0 +1,18 @@
+{
+ "rule": 44,
+ "stage": 409,
+ "records": [
+  {
+   "id": 18063,
+   "uid": 309449437,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 394,
+   "date": "2024-08-08T03:58:11.000000Z",
+   "video": "https://youtu.be/B77e8Dd-jsQ?si=tClKWv48d0gTBHdV",
+   "console": 4,
+   "comment": "犠牲許容チャートですが運良く無犠牲でした",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

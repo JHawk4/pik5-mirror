@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 220,
+ "records": [
+  {
+   "id": 18466,
+   "uid": 310590972,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 15493,
+   "date": "2025-04-04T03:36:03.000000Z",
+   "video": "https://youtu.be/SYHBR0CM3UU?si=FA-ZtySB4hlAysT0",
+   "console": 4,
+   "comment": "1回2人プレイで3タマゴ引きました",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 229,
+ "records": [
+  {
+   "id": 18479,
+   "uid": 310233706,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 33254,
+   "date": "2025-04-24T02:41:35.000000Z",
+   "video": "https://youtu.be/7tq8q9SJ5Xk?si=nbY9jdE1Uupk12K_",
+   "console": 4,
+   "comment": "タマコキン失敗",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

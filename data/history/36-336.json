@@ -1,0 +1,18 @@
+{
+ "rule": 36,
+ "stage": 336,
+ "records": [
+  {
+   "id": 18960,
+   "uid": 312946994,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 6000,
+   "date": "2025-11-10T06:14:59.000000Z",
+   "video": "https://youtu.be/PhzK_141esI?si=-1aHrqGjmpQZ6kcw",
+   "console": 4,
+   "comment": "運ゲーでした",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 348,
+ "records": [
+  {
+   "id": 19763,
+   "uid": 315344226,
+   "user": "Jay596",
+   "score": 560,
+   "date": "2026-09-03T13:39:44.000000Z",
+   "video": "https://youtu.be/wkgK_oEq9N0?t=159",
+   "console": 4,
+   "comment": "w/tcbtrio",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

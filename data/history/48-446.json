@@ -1,0 +1,29 @@
+{
+ "rule": 48,
+ "stage": 446,
+ "records": [
+  {
+   "id": 20522,
+   "uid": 315283228,
+   "user": "96_Leaf",
+   "score": 210,
+   "date": "2026-11-10T07:21:44.000000Z",
+   "video": "https://youtu.be/BCByA_BiRHA",
+   "console": 4,
+   "comment": "スポンジと船の両方を間に合わせるのムズすぎ",
+   "tie": false
+  },
+  {
+   "id": 20542,
+   "uid": 315626263,
+   "user": "mercysnow",
+   "score": 210,
+   "date": "2026-11-12T11:27:23.000000Z",
+   "video": "https://youtu.be/QzVxZnGebVU?si=hwclDftvBh_Ec7gc",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

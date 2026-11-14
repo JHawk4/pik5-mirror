@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 311,
+ "records": [
+  {
+   "id": 19326,
+   "uid": 312327882,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 18950,
+   "date": "2026-03-17T01:31:49.000000Z",
+   "video": "https://youtu.be/zHLv8ijf5O8?si=KnBQT2QSUdeo2YB9",
+   "console": 4,
+   "comment": "最後のキンカイがひどい",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

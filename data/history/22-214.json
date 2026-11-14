@@ -1,0 +1,18 @@
+{
+ "rule": 22,
+ "stage": 214,
+ "records": [
+  {
+   "id": 18924,
+   "uid": 312655169,
+   "user": "albut3",
+   "score": 18355,
+   "date": "2025-10-05T07:45:11.000000Z",
+   "video": "https://www.youtube.com/watch?v=5IuIuVIKY9w",
+   "console": 2,
+   "comment": "卒ショイ",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

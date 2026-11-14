@@ -1,0 +1,18 @@
+{
+ "rule": 43,
+ "stage": 427,
+ "records": [
+  {
+   "id": 18973,
+   "uid": 312953678,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 261,
+   "date": "2025-11-17T04:00:31.000000Z",
+   "video": "https://youtu.be/xR5o-gWtg58?si=ZzXTYRqn2qNdRazT",
+   "console": 4,
+   "comment": "ピクミンもおだやかになります",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

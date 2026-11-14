@@ -1,0 +1,58 @@
+{
+ "rule": 25,
+ "stage": 243,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 16009,
+   "uid": 278959429,
+   "user": "Gorei_50",
+   "score": 25748,
+   "rank": 1,
+   "rps": 1723,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2023-03-28T02:28:00.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/FeAIgRZUEBY",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16082,
+   "uid": 278123135,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 25532,
+   "rank": 2,
+   "rps": 1563,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2023-05-01T01:16:39.000000Z",
+   "comment": "タイム25:15 もうちょい死骸回収して良かったですね。",
+   "video": "https://youtu.be/3jCEswpQy1E",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 17197,
+   "uid": 303938512,
+   "user": "Argent2home",
+   "score": 25201,
+   "rank": 3,
+   "rps": 1445,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2023-11-02T21:44:55.000000Z",
+   "comment": "クイチャ戦下手すぎる",
+   "video": "https://youtu.be/Q90uNp2V_io?si=4-Y-VT8rVYxEzg3C",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

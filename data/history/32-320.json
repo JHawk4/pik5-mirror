@@ -1,0 +1,18 @@
+{
+ "rule": 32,
+ "stage": 320,
+ "records": [
+  {
+   "id": 15622,
+   "uid": 278387786,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 14665,
+   "date": "2022-12-03T19:56:28.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1599265906966028290?s=61&t=0hpIQ_WnIORpjPeR1zcRBw",
+   "console": 4,
+   "comment": "噛み合いゲーです。理論上は7:50いけると思います。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

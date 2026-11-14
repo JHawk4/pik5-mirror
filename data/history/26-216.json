@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 216,
+ "records": [
+  {
+   "id": 6199,
+   "uid": 257801916,
+   "user": "sectionmarilui",
+   "score": 5990,
+   "date": "2018-04-21T07:28:10.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "画面小さくて難しい(そして運ゲー)",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

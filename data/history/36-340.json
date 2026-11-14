@@ -1,0 +1,18 @@
+{
+ "rule": 36,
+ "stage": 340,
+ "records": [
+  {
+   "id": 15662,
+   "uid": 278054349,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 20980,
+   "date": "2022-12-18T23:28:07.000000Z",
+   "video": "https://youtu.be/aEgWIIWljDM",
+   "console": 4,
+   "comment": "21000点台は可能です。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

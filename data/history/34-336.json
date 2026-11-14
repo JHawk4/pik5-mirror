@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 336,
+ "records": [
+  {
+   "id": 16264,
+   "uid": 278663311,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 5870,
+   "date": "2023-07-15T01:34:57.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "昨日投稿し忘れてました",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

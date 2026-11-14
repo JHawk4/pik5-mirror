@@ -1,0 +1,24 @@
+{
+ "rule": 44,
+ "stage": 401,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18022,
+   "uid": 309019221,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 328,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-07-28T02:33:28.000000Z",
+   "comment": "とりあえずやってみました",
+   "video": "https://youtu.be/Iu0ihInr1Hg?si=OHe1JGbJHsjU7siM",
+   "img": "20240728-203327-2889805263.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

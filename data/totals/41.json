@@ -1,0 +1,646 @@
+{
+ "id": 41,
+ "name": "Pikmin 4 Dandori Challenge Overall ranking",
+ "rows": [
+  {
+   "user": "mercysnow",
+   "rank": 1,
+   "rps": 99346,
+   "score": 5965,
+   "boards": 12,
+   "date": "2026-08-12T12:46:02.000000Z"
+  },
+  {
+   "user": "Bl6AltMzq5Jx4aM",
+   "rank": 2,
+   "rps": 89885,
+   "score": 5892,
+   "boards": 12,
+   "date": "2026-03-05T02:00:58.000000Z"
+  },
+  {
+   "user": "albut3",
+   "rank": 3,
+   "rps": 86156,
+   "score": 5891,
+   "boards": 12,
+   "date": "2026-10-03T08:15:16.000000Z"
+  },
+  {
+   "user": "toripoppo0307",
+   "rank": 4,
+   "rps": 60812,
+   "score": 5612,
+   "boards": 12,
+   "date": "2026-09-14T11:56:24.000000Z"
+  },
+  {
+   "user": "keisen2853",
+   "rank": 5,
+   "rps": 55370,
+   "score": 5564,
+   "boards": 12,
+   "date": "2024-05-23T00:57:29.000000Z"
+  },
+  {
+   "user": "koppacha",
+   "rank": 6,
+   "rps": 43713,
+   "score": 5285,
+   "boards": 12,
+   "date": "2026-09-13T05:37:42.000000Z"
+  },
+  {
+   "user": "nitrosmish",
+   "rank": 7,
+   "rps": 34244,
+   "score": 5188,
+   "boards": 12,
+   "date": "2026-09-12T05:50:13.000000Z"
+  },
+  {
+   "user": "Otomo",
+   "rank": 8,
+   "rps": 33105,
+   "score": 5171,
+   "boards": 12,
+   "date": "2024-05-14T01:34:03.000000Z"
+  },
+  {
+   "user": "shino15nome",
+   "rank": 9,
+   "rps": 56625,
+   "score": 5159,
+   "boards": 11,
+   "date": "2024-11-30T15:11:45.000000Z"
+  },
+  {
+   "user": "yoshikikawai",
+   "rank": 10,
+   "rps": 30420,
+   "score": 5126,
+   "boards": 12,
+   "date": "2024-09-09T14:12:39.000000Z"
+  },
+  {
+   "user": "_Axxx",
+   "rank": 11,
+   "rps": 27698,
+   "score": 5013,
+   "boards": 12,
+   "date": "2025-10-05T10:18:09.000000Z"
+  },
+  {
+   "user": "6harapikumin",
+   "rank": 12,
+   "rps": 23535,
+   "score": 4912,
+   "boards": 12,
+   "date": "2024-09-23T05:44:36.000000Z"
+  },
+  {
+   "user": "qwertyuiop",
+   "rank": 13,
+   "rps": 17440,
+   "score": 4450,
+   "boards": 12,
+   "date": "2023-08-31T05:03:31.000000Z"
+  },
+  {
+   "user": "aqr2",
+   "rank": 14,
+   "rps": 18580,
+   "score": 4332,
+   "boards": 12,
+   "date": "2023-11-23T03:25:50.000000Z"
+  },
+  {
+   "user": "samidare",
+   "rank": 15,
+   "rps": 15722,
+   "score": 4289,
+   "boards": 12,
+   "date": "2026-07-16T08:18:39.000000Z"
+  },
+  {
+   "user": "yoshi0216",
+   "rank": 16,
+   "rps": 14736,
+   "score": 4252,
+   "boards": 12,
+   "date": "2023-09-01T13:39:27.000000Z"
+  },
+  {
+   "user": "wnsrn8650",
+   "rank": 17,
+   "rps": 43029,
+   "score": 4218,
+   "boards": 9,
+   "date": "2025-03-13T22:59:19.000000Z"
+  },
+  {
+   "user": "Mutou_p2pw",
+   "rank": 18,
+   "rps": 42953,
+   "score": 4096,
+   "boards": 9,
+   "date": "2026-10-05T01:33:39.000000Z"
+  },
+  {
+   "user": "HAPDAP",
+   "rank": 19,
+   "rps": 12862,
+   "score": 4082,
+   "boards": 12,
+   "date": "2025-08-29T01:45:28.000000Z"
+  },
+  {
+   "user": "Tanakaaaa",
+   "rank": 20,
+   "rps": 13423,
+   "score": 4033,
+   "boards": 12,
+   "date": "2026-06-12T02:39:49.000000Z"
+  },
+  {
+   "user": "mkt918",
+   "rank": 21,
+   "rps": 13540,
+   "score": 3925,
+   "boards": 12,
+   "date": "2023-08-06T00:40:21.000000Z"
+  },
+  {
+   "user": "Lotus",
+   "rank": 22,
+   "rps": 35429,
+   "score": 3916,
+   "boards": 9,
+   "date": "2023-09-19T14:44:39.000000Z"
+  },
+  {
+   "user": "sozainoaji",
+   "rank": 23,
+   "rps": 11402,
+   "score": 3727,
+   "boards": 12,
+   "date": "2023-08-10T22:24:39.000000Z"
+  },
+  {
+   "user": "hone-sutookume",
+   "rank": 24,
+   "rps": 11552,
+   "score": 3510,
+   "boards": 12,
+   "date": "2024-04-01T22:10:28.000000Z"
+  },
+  {
+   "user": "yakiniku",
+   "rank": 25,
+   "rps": 22758,
+   "score": 3301,
+   "boards": 7,
+   "date": "2023-08-25T04:10:38.000000Z"
+  },
+  {
+   "user": "96_Leaf",
+   "rank": 26,
+   "rps": 54133,
+   "score": 3240,
+   "boards": 7,
+   "date": "2026-10-05T20:24:34.000000Z"
+  },
+  {
+   "user": "pikpikradish",
+   "rank": 27,
+   "rps": 10165,
+   "score": 3236,
+   "boards": 12,
+   "date": "2023-08-01T06:30:55.000000Z"
+  },
+  {
+   "user": "atmy_17",
+   "rank": 28,
+   "rps": 21506,
+   "score": 3015,
+   "boards": 7,
+   "date": "2023-08-24T17:42:10.000000Z"
+  },
+  {
+   "user": "April_lapispik",
+   "rank": 29,
+   "rps": 20795,
+   "score": 2986,
+   "boards": 7,
+   "date": "2026-09-05T06:00:23.000000Z"
+  },
+  {
+   "user": "hocotate",
+   "rank": 30,
+   "rps": 13815,
+   "score": 2843,
+   "boards": 7,
+   "date": "2023-10-17T05:36:05.000000Z"
+  },
+  {
+   "user": "pikitto",
+   "rank": 31,
+   "rps": 34618,
+   "score": 2719,
+   "boards": 6,
+   "date": "2026-10-02T21:03:56.000000Z"
+  },
+  {
+   "user": "robustar",
+   "rank": 32,
+   "rps": 14994,
+   "score": 2385,
+   "boards": 6,
+   "date": "2023-10-08T22:49:13.000000Z"
+  },
+  {
+   "user": "kobachi_no_udon",
+   "rank": 33,
+   "rps": 22685,
+   "score": 2291,
+   "boards": 5,
+   "date": "2026-06-27T23:33:30.000000Z"
+  },
+  {
+   "user": "mikou_musicgame",
+   "rank": 34,
+   "rps": 11522,
+   "score": 2152,
+   "boards": 5,
+   "date": "2023-10-08T23:04:40.000000Z"
+  },
+  {
+   "user": "biwako",
+   "rank": 35,
+   "rps": 7980,
+   "score": 2085,
+   "boards": 6,
+   "date": "2023-08-04T10:30:27.000000Z"
+  },
+  {
+   "user": "noamoa",
+   "rank": 36,
+   "rps": 6403,
+   "score": 1924,
+   "boards": 8,
+   "date": "2023-07-30T01:42:51.000000Z"
+  },
+  {
+   "user": "Gorei_50",
+   "rank": 37,
+   "rps": 34597,
+   "score": 1898,
+   "boards": 4,
+   "date": "2026-11-13T21:47:34.000000Z"
+  },
+  {
+   "user": "techimin",
+   "rank": 38,
+   "rps": 6485,
+   "score": 1798,
+   "boards": 5,
+   "date": "2025-09-08T15:40:46.000000Z"
+  },
+  {
+   "user": "katsun",
+   "rank": 39,
+   "rps": 9654,
+   "score": 1788,
+   "boards": 4,
+   "date": "2025-07-16T08:07:47.000000Z"
+  },
+  {
+   "user": "13101575",
+   "rank": 40,
+   "rps": 28080,
+   "score": 1747,
+   "boards": 4,
+   "date": "2026-10-01T04:37:36.000000Z"
+  },
+  {
+   "user": "sugarsugarlun",
+   "rank": 41,
+   "rps": 5283,
+   "score": 1494,
+   "boards": 5,
+   "date": "2025-05-16T03:42:15.000000Z"
+  },
+  {
+   "user": "y",
+   "rank": 42,
+   "rps": 4840,
+   "score": 1133,
+   "boards": 3,
+   "date": "2025-12-28T17:17:41.000000Z"
+  },
+  {
+   "user": "Moony",
+   "rank": 43,
+   "rps": 10721,
+   "score": 1060,
+   "boards": 2,
+   "date": "2023-11-18T08:35:08.000000Z"
+  },
+  {
+   "user": "knt_se7",
+   "rank": 44,
+   "rps": 3608,
+   "score": 981,
+   "boards": 2,
+   "date": "2024-11-01T18:17:48.000000Z"
+  },
+  {
+   "user": "kitotch-pikmin-",
+   "rank": 45,
+   "rps": 5756,
+   "score": 965,
+   "boards": 2,
+   "date": "2025-07-09T00:39:52.000000Z"
+  },
+  {
+   "user": "spark573",
+   "rank": 46,
+   "rps": 7699,
+   "score": 962,
+   "boards": 2,
+   "date": "2026-01-10T17:30:03.000000Z"
+  },
+  {
+   "user": "shiocha78",
+   "rank": 47,
+   "rps": 11126,
+   "score": 796,
+   "boards": 2,
+   "date": "2024-06-04T05:11:47.000000Z"
+  },
+  {
+   "user": "Jer",
+   "rank": 48,
+   "rps": 11324,
+   "score": 787,
+   "boards": 2,
+   "date": "2023-08-21T06:22:06.000000Z"
+  },
+  {
+   "user": "nyannsu827",
+   "rank": 49,
+   "rps": 1494,
+   "score": 773,
+   "boards": 3,
+   "date": "2023-09-06T05:20:43.000000Z"
+  },
+  {
+   "user": "Happa-san",
+   "rank": 50,
+   "rps": 2279,
+   "score": 734,
+   "boards": 2,
+   "date": "2023-08-11T06:01:42.000000Z"
+  },
+  {
+   "user": "takeshi",
+   "rank": 50,
+   "rps": 7191,
+   "score": 734,
+   "boards": 2,
+   "date": "2023-08-27T08:09:01.000000Z"
+  },
+  {
+   "user": "LinkSond",
+   "rank": 52,
+   "rps": 5101,
+   "score": 694,
+   "boards": 2,
+   "date": "2023-08-14T19:28:26.000000Z"
+  },
+  {
+   "user": "fluky",
+   "rank": 53,
+   "rps": 4732,
+   "score": 617,
+   "boards": 1,
+   "date": "2023-09-14T02:57:10.000000Z"
+  },
+  {
+   "user": "muratsubo",
+   "rank": 54,
+   "rps": 2159,
+   "score": 580,
+   "boards": 1,
+   "date": "2023-08-19T04:36:21.000000Z"
+  },
+  {
+   "user": "suna_39",
+   "rank": 55,
+   "rps": 1558,
+   "score": 464,
+   "boards": 1,
+   "date": "2023-08-24T21:00:37.000000Z"
+  },
+  {
+   "user": "Gunso_Begoma",
+   "rank": 56,
+   "rps": 1359,
+   "score": 447,
+   "boards": 1,
+   "date": "2024-09-18T04:29:12.000000Z"
+  },
+  {
+   "user": "shiragawatanuki",
+   "rank": 57,
+   "rps": 4732,
+   "score": 434,
+   "boards": 1,
+   "date": "2024-11-02T06:55:09.000000Z"
+  },
+  {
+   "user": "sheckyvgm",
+   "rank": 58,
+   "rps": 2673,
+   "score": 399,
+   "boards": 1,
+   "date": "2023-10-15T15:34:15.000000Z"
+  },
+  {
+   "user": "asheevee_",
+   "rank": 59,
+   "rps": 2012,
+   "score": 381,
+   "boards": 1,
+   "date": "2023-08-21T12:46:05.000000Z"
+  },
+  {
+   "user": "Argent2home",
+   "rank": 60,
+   "rps": 3083,
+   "score": 380,
+   "boards": 1,
+   "date": "2026-01-11T03:26:52.000000Z"
+  },
+  {
+   "user": "MegaMinerd",
+   "rank": 61,
+   "rps": 1294,
+   "score": 376,
+   "boards": 1,
+   "date": "2023-10-01T21:53:26.000000Z"
+  },
+  {
+   "user": "sttkt",
+   "rank": 62,
+   "rps": 2030,
+   "score": 375,
+   "boards": 1,
+   "date": "2023-12-06T02:10:32.000000Z"
+  },
+  {
+   "user": "0do0m",
+   "rank": 63,
+   "rps": 1420,
+   "score": 358,
+   "boards": 1,
+   "date": "2023-11-17T21:07:35.000000Z"
+  },
+  {
+   "user": "scout",
+   "rank": 64,
+   "rps": 2318,
+   "score": 355,
+   "boards": 1,
+   "date": "2023-07-31T08:36:10.000000Z"
+  },
+  {
+   "user": "oobakekagami",
+   "rank": 65,
+   "rps": 5316,
+   "score": 350,
+   "boards": 1,
+   "date": "2024-01-17T23:46:07.000000Z"
+  },
+  {
+   "user": "momo",
+   "rank": 66,
+   "rps": 4607,
+   "score": 348,
+   "boards": 1,
+   "date": "2023-08-04T22:01:53.000000Z"
+  },
+  {
+   "user": "yuyuyunkel",
+   "rank": 67,
+   "rps": 3719,
+   "score": 345,
+   "boards": 1,
+   "date": "2023-08-13T22:49:32.000000Z"
+  },
+  {
+   "user": "oiruj118",
+   "rank": 68,
+   "rps": 823,
+   "score": 338,
+   "boards": 1,
+   "date": "2024-01-15T00:40:05.000000Z"
+  },
+  {
+   "user": "Lillabelle_",
+   "rank": 69,
+   "rps": 2612,
+   "score": 337,
+   "boards": 1,
+   "date": "2023-08-04T03:31:24.000000Z"
+  },
+  {
+   "user": "hyogakibokaro",
+   "rank": 70,
+   "rps": 2436,
+   "score": 336,
+   "boards": 1,
+   "date": "2023-08-18T21:12:33.000000Z"
+  },
+  {
+   "user": "Anthony",
+   "rank": 71,
+   "rps": 1850,
+   "score": 335,
+   "boards": 1,
+   "date": "2024-01-03T17:43:57.000000Z"
+  },
+  {
+   "user": "PiePusher11",
+   "rank": 72,
+   "rps": 1730,
+   "score": 334,
+   "boards": 1,
+   "date": "2023-08-04T12:02:34.000000Z"
+  },
+  {
+   "user": "poriyan",
+   "rank": 73,
+   "rps": 1424,
+   "score": 333,
+   "boards": 1,
+   "date": "2023-12-04T06:25:56.000000Z"
+  },
+  {
+   "user": "Kumakuma",
+   "rank": 74,
+   "rps": 1327,
+   "score": 328,
+   "boards": 1,
+   "date": "2023-09-26T08:50:49.000000Z"
+  },
+  {
+   "user": "himazinn",
+   "rank": 74,
+   "rps": 1327,
+   "score": 328,
+   "boards": 1,
+   "date": "2026-09-10T02:24:40.000000Z"
+  },
+  {
+   "user": "alpha_0630",
+   "rank": 76,
+   "rps": 1095,
+   "score": 326,
+   "boards": 1,
+   "date": "2023-07-30T05:48:45.000000Z"
+  },
+  {
+   "user": "hanihani_gogo",
+   "rank": 77,
+   "rps": 909,
+   "score": 321,
+   "boards": 1,
+   "date": "2023-08-25T01:03:38.000000Z"
+  },
+  {
+   "user": "XianTwa",
+   "rank": 78,
+   "rps": 1624,
+   "score": 318,
+   "boards": 1,
+   "date": "2023-07-31T22:36:59.000000Z"
+  },
+  {
+   "user": "haruharu1208",
+   "rank": 79,
+   "rps": 1157,
+   "score": 312,
+   "boards": 1,
+   "date": "2026-02-23T02:04:15.000000Z"
+  },
+  {
+   "user": "Pikusuke",
+   "rank": 80,
+   "rps": 486,
+   "score": 292,
+   "boards": 1,
+   "date": "2024-02-09T18:13:39.000000Z"
+  }
+ ]
+}

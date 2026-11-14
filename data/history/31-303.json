@@ -1,0 +1,18 @@
+{
+ "rule": 31,
+ "stage": 303,
+ "records": [
+  {
+   "id": 18950,
+   "uid": 312800983,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 16180,
+   "date": "2025-11-01T03:55:57.000000Z",
+   "video": "https://youtu.be/MNUv0-9fUDs?si=1y2P9iCsjjcJyjTw",
+   "console": 4,
+   "comment": "渋滞をなくせました",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

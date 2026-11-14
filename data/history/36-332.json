@@ -1,0 +1,18 @@
+{
+ "rule": 36,
+ "stage": 332,
+ "records": [
+  {
+   "id": 14141,
+   "uid": 277769468,
+   "user": "esu",
+   "score": 14680,
+   "date": "2022-01-03T02:43:43.000000Z",
+   "video": "https://youtu.be/9mhA_aGqZbw",
+   "console": 4,
+   "comment": "1人プレイでは限界かな",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

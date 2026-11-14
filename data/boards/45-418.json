@@ -1,0 +1,24 @@
+{
+ "rule": 45,
+ "stage": 418,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18233,
+   "uid": 309237967,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 356,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-10-10T03:45:35.000000Z",
+   "comment": "ゲキカラ最強です",
+   "video": "https://youtu.be/z9VxvrQ93oQ?si=-CCaDc16jVALUPnB",
+   "img": "20241010-214534-4187309761.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

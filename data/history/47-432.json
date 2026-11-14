@@ -1,0 +1,18 @@
+{
+ "rule": 47,
+ "stage": 432,
+ "records": [
+  {
+   "id": 19211,
+   "uid": 312080644,
+   "user": "toripoppo0307",
+   "score": 78,
+   "date": "2026-02-02T12:17:00.000000Z",
+   "video": "https://youtu.be/kg2iIarD8MY",
+   "console": 4,
+   "comment": "このステージ、全討伐後の暗転遅すぎ",
+   "tie": false
+  }
+ ],
+ "lower_is_better": true
+}

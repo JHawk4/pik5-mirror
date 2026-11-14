@@ -1,0 +1,58 @@
+{
+ "rule": 35,
+ "stage": 352,
+ "lower_is_better": true,
+ "posts": [
+  {
+   "id": 19774,
+   "uid": 315367481,
+   "user": "96_Leaf",
+   "score": 46,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2026-09-07T12:43:33.000000Z",
+   "comment": "録画忘れによりTwitchダイジェストにて",
+   "video": "https://youtu.be/aMFu8GKSdSc",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16247,
+   "uid": 278678482,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 49,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-07-12T02:49:06.000000Z",
+   "comment": "ピクミン4の操作に慣れてしまったせいか下手です",
+   "video": "https://youtu.be/_BiKrbpIDi4",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14937,
+   "uid": 277385345,
+   "user": "toripoppo0307",
+   "score": 109,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-08-19T01:31:20.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/RsE9xd3o5Ew",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

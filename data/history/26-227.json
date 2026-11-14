@@ -1,0 +1,29 @@
+{
+ "rule": 26,
+ "stage": 227,
+ "records": [
+  {
+   "id": 5976,
+   "uid": 256963358,
+   "user": "sectionmarilui",
+   "score": 10387,
+   "date": "2018-03-09T09:51:47.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6995,
+   "uid": 262834551,
+   "user": "miran",
+   "score": 10387,
+   "date": "2018-11-03T23:43:00.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

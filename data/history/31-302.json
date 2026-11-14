@@ -1,0 +1,18 @@
+{
+ "rule": 31,
+ "stage": 302,
+ "records": [
+  {
+   "id": 18938,
+   "uid": 312403822,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 11200,
+   "date": "2025-10-17T13:47:48.000000Z",
+   "video": "https://youtu.be/TsUuwdEKL3k?si=4ZDoZABAUsrgmQkU",
+   "console": 4,
+   "comment": "飛び降りルート",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

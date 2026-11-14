@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 214,
+ "records": [
+  {
+   "id": 6988,
+   "uid": 262693819,
+   "user": "iid01",
+   "score": 18355,
+   "date": "2018-11-03T23:38:28.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

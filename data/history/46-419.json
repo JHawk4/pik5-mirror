@@ -1,0 +1,18 @@
+{
+ "rule": 46,
+ "stage": 419,
+ "records": [
+  {
+   "id": 18077,
+   "uid": 309920349,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 140,
+   "date": "2024-08-16T03:58:15.000000Z",
+   "video": "https://youtu.be/WQKEsEwFstQ?si=d8ELW4QDLKhyDs4s",
+   "console": 4,
+   "comment": "入力フォームがスコアの形式になってます",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 23,
+ "stage": 228,
+ "records": [
+  {
+   "id": 18072,
+   "uid": 309255551,
+   "user": "spark573",
+   "score": 32473,
+   "date": "2024-08-12T23:34:37.000000Z",
+   "video": "https://youtu.be/zhjk9xyDgpY?si=JQYQq8dOAm9EOV4a",
+   "console": 2,
+   "comment": "奥の部屋が空っぽで神",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

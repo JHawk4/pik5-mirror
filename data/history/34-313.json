@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 313,
+ "records": [
+  {
+   "id": 15422,
+   "uid": 278134261,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 15560,
+   "date": "2022-10-14T18:59:35.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "残6:42 ミッションの2人プレイではエリア移動でタイムが縮みません。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

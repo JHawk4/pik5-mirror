@@ -1,0 +1,24 @@
+{
+ "rule": 28,
+ "stage": 203,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 15998,
+   "uid": 278397021,
+   "user": "sectionmarilui",
+   "score": 48314,
+   "rank": 1,
+   "rps": 1213,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2023-03-25T12:03:16.000000Z",
+   "comment": "乱数調整なし。2階がほぼ理想配置。",
+   "video": "https://www.nicovideo.jp/watch/sm41989751",
+   "img": "20230326-060316-1229062191.png",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

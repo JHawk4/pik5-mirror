@@ -1,0 +1,24 @@
+{
+ "rule": 27,
+ "stage": 210,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 14640,
+   "uid": 277582996,
+   "user": "ToolAssistedPik",
+   "score": 26780,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2022-05-02T23:31:36.000000Z",
+   "comment": "配置や戦法を変えれば、もう少し更新できるかもしれません。最奥のお宝にピクを最大数つけるのが実機との大きな差かも。",
+   "video": "https://youtu.be/38kgU_DW5iY",
+   "img": "20220503-173136-902501504.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 42,
+ "stage": 418,
+ "records": [
+  {
+   "id": 18726,
+   "uid": 311513065,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 593,
+   "date": "2025-08-31T00:59:14.000000Z",
+   "video": "https://youtu.be/GpJnE6FkJK8?si=G8_JakVw7f2JKmfA",
+   "console": 4,
+   "comment": "残り3ステージも流行らせたい",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

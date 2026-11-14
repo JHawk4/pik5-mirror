@@ -1,0 +1,18 @@
+{
+ "rule": 23,
+ "stage": 229,
+ "records": [
+  {
+   "id": 18618,
+   "uid": 311767905,
+   "user": "Gorei_50",
+   "score": 33188,
+   "date": "2025-08-03T03:21:41.000000Z",
+   "video": "https://youtu.be/9-q0D3Q9OsU",
+   "console": 2,
+   "comment": "「待った？」「ううん、今始めたとこ」",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

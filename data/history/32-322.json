@@ -1,0 +1,29 @@
+{
+ "rule": 32,
+ "stage": 322,
+ "records": [
+  {
+   "id": 15142,
+   "uid": 278536501,
+   "user": "esu",
+   "score": 4180,
+   "date": "2022-09-30T19:28:11.000000Z",
+   "video": "https://youtu.be/bUeRAZijIF8",
+   "console": 4,
+   "comment": "まぁ納得です",
+   "tie": false
+  },
+  {
+   "id": 15685,
+   "uid": 278187384,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 4180,
+   "date": "2022-12-24T19:46:38.000000Z",
+   "video": "https://youtu.be/8aFbWGrqErg",
+   "console": 4,
+   "comment": "同タイ記録ですが満足です。",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

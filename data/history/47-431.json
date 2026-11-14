@@ -1,0 +1,18 @@
+{
+ "rule": 47,
+ "stage": 431,
+ "records": [
+  {
+   "id": 19603,
+   "uid": 315646760,
+   "user": "kobachi_no_udon",
+   "score": 65,
+   "date": "2026-06-21T10:13:10.000000Z",
+   "video": "https://youtu.be/EO4o4qnallA",
+   "console": 4,
+   "comment": "運試し「ベビチャ」",
+   "tie": false
+  }
+ ],
+ "lower_is_better": true
+}

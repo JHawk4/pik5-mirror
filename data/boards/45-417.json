@@ -1,0 +1,24 @@
+{
+ "rule": 45,
+ "stage": 417,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18226,
+   "uid": 309228678,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 252,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-10-07T02:23:20.000000Z",
+   "comment": "相手0点に出来たので妥協してしまいました",
+   "video": "https://youtu.be/urxoE7UKGGA?si=DsGGC1okuPx14Tcm",
+   "img": "20241007-202320-4481127901.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

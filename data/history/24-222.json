@@ -1,0 +1,18 @@
+{
+ "rule": 24,
+ "stage": 222,
+ "records": [
+  {
+   "id": 18625,
+   "uid": 311742459,
+   "user": "albut3",
+   "score": 14417,
+   "date": "2025-08-09T01:06:47.000000Z",
+   "video": "https://www.youtube.com/watch?v=8bg-cdTNveA",
+   "console": 2,
+   "comment": "失格後に遊んでて",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

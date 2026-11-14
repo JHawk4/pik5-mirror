@@ -1,0 +1,29 @@
+{
+ "rule": 32,
+ "stage": 328,
+ "records": [
+  {
+   "id": 15505,
+   "uid": 278557463,
+   "user": "esu",
+   "score": 3280,
+   "date": "2022-11-08T22:40:46.000000Z",
+   "video": "https://youtu.be/kaLmOvX5grw",
+   "console": 4,
+   "comment": "ラス処理下手くそ",
+   "tie": false
+  },
+  {
+   "id": 15686,
+   "uid": 278316674,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3280,
+   "date": "2022-12-25T01:08:32.000000Z",
+   "video": "https://youtu.be/ToyscdaYivE",
+   "console": 4,
+   "comment": "カレハンボ…",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

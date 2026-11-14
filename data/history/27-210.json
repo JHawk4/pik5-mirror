@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 210,
+ "records": [
+  {
+   "id": 14640,
+   "uid": 277582996,
+   "user": "ToolAssistedPik",
+   "score": 26780,
+   "date": "2022-05-02T23:31:36.000000Z",
+   "video": "https://youtu.be/38kgU_DW5iY",
+   "console": 1,
+   "comment": "配置や戦法を変えれば、もう少し更新できるかもしれません。最奥のお宝にピクを最大数つけるのが実機との大きな差かも。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

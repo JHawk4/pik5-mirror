@@ -1,0 +1,58 @@
+{
+ "rule": 35,
+ "stage": 360,
+ "lower_is_better": true,
+ "posts": [
+  {
+   "id": 19832,
+   "uid": 315424185,
+   "user": "96_Leaf",
+   "score": 72,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2026-09-30T07:15:57.000000Z",
+   "comment": "イチゴに加勢しすぎない方が演出分で速かったかも",
+   "video": "https://youtu.be/noAGqDWJkl8",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16063,
+   "uid": 278081974,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 130,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-04-15T22:30:57.000000Z",
+   "comment": "適当です。",
+   "video": "https://youtu.be/W7kZvKP-xqc",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14958,
+   "uid": 277467726,
+   "user": "toripoppo0307",
+   "score": 131,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-08-20T03:22:07.000000Z",
+   "comment": "もうやりたくない",
+   "video": "https://youtu.be/KR7qdF_ZMeQ",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "rule": 28,
+ "stage": 218,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 8427,
+   "uid": 267388855,
+   "user": "iid01",
+   "score": 53988,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2020-05-08T00:00:46.000000Z",
+   "comment": "0x154DFE3D",
+   "video": "https://www.youtube.com/watch?v=j3Ts5-3FpSo",
+   "img": "20200508-180046-643571730.png",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

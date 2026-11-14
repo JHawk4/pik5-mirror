@@ -1,0 +1,29 @@
+{
+ "rule": 26,
+ "stage": 201,
+ "records": [
+  {
+   "id": 6204,
+   "uid": 257743436,
+   "user": "sectionmarilui",
+   "score": 35161,
+   "date": "2018-04-21T07:47:14.000000Z",
+   "video": "",
+   "console": 1,
+   "comment": "ムシ出なさすぎだけど10匹はおいしい",
+   "tie": false
+  },
+  {
+   "id": 18395,
+   "uid": 310467066,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 35161,
+   "date": "2025-02-04T03:43:13.000000Z",
+   "video": "https://youtu.be/75Do6fCbHoQ?si=462tsDjHt0hh-rhZ",
+   "console": 4,
+   "comment": "シングルシューティングです",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

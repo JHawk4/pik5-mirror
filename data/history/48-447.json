@@ -1,0 +1,62 @@
+{
+ "rule": 48,
+ "stage": 447,
+ "records": [
+  {
+   "id": 20466,
+   "uid": 315257479,
+   "user": "iid01",
+   "score": 263,
+   "date": "2026-11-05T14:53:58.000000Z",
+   "video": "https://www.youtube.com/watch?v=OqdgscnJ9iQ",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 20468,
+   "uid": 315918366,
+   "user": "albut3",
+   "score": 263,
+   "date": "2026-11-05T15:49:56.000000Z",
+   "video": "https://www.youtube.com/watch?v=VKv5jz4J3IA",
+   "console": 4,
+   "comment": "ついていきます",
+   "tie": true
+  },
+  {
+   "id": 20476,
+   "uid": 315575845,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 263,
+   "date": "2026-11-06T09:54:28.000000Z",
+   "video": "https://youtu.be/ynBjCmhdsv0?si=TpHa-bt_Dndyx0-e",
+   "console": 4,
+   "comment": "理論値ではなさそうです",
+   "tie": true
+  },
+  {
+   "id": 20511,
+   "uid": 315268496,
+   "user": "kobachi_no_udon",
+   "score": 263,
+   "date": "2026-11-08T17:54:07.000000Z",
+   "video": "https://youtu.be/dPgRxtuAh3Y",
+   "console": 4,
+   "comment": "25キンカイにピクミンを投げるのが苦手",
+   "tie": true
+  },
+  {
+   "id": 20554,
+   "uid": 315449449,
+   "user": "mercysnow",
+   "score": 263,
+   "date": "2026-11-13T11:09:55.000000Z",
+   "video": "https://youtu.be/Ei67YVwlK9c?si=0j9G5gTkaulG6w-s",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,41 @@
+{
+ "rule": 29,
+ "stage": 249,
+ "lower_is_better": true,
+ "posts": [
+  {
+   "id": 17988,
+   "uid": 308705899,
+   "user": "Gorei_50",
+   "score": 50,
+   "rank": 1,
+   "rps": 1491,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2024-07-05T21:35:26.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/8eLFix-nu00",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 17972,
+   "uid": 308244422,
+   "user": "tcbtrio",
+   "score": 68,
+   "rank": 2,
+   "rps": 1353,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-07-02T18:24:55.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/i6BbAzrD7m4",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

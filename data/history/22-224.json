@@ -1,0 +1,29 @@
+{
+ "rule": 22,
+ "stage": 224,
+ "records": [
+  {
+   "id": 17612,
+   "uid": 307634400,
+   "user": "albut3",
+   "score": 14343,
+   "date": "2024-02-23T12:17:03.000000Z",
+   "video": "https://www.youtube.com/watch?v=e3wLhGGXJHk",
+   "console": 2,
+   "comment": "時代が追いついた",
+   "tie": false
+  },
+  {
+   "id": 19756,
+   "uid": 315064059,
+   "user": "Gorei_50",
+   "score": 14343,
+   "date": "2026-08-27T04:00:45.000000Z",
+   "video": "https://youtu.be/7j-jQMoSZQg",
+   "console": 2,
+   "comment": "久しぶりの更新",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

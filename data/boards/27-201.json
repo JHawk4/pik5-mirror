@@ -1,0 +1,24 @@
+{
+ "rule": 27,
+ "stage": 201,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 14484,
+   "uid": 277516464,
+   "user": "ToolAssistedPik",
+   "score": 35387,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2022-03-29T07:56:19.000000Z",
+   "comment": "タマゴムシ30。タマゴムシは50匹全員で向かうのではなく、何か運搬作業と並行して処理するのが大切です。 お正月に動画投稿してたけど、こちらに投稿するのを忘れてました。",
+   "video": "https://youtu.be/wZP_M2RBLJo",
+   "img": "20220330-015619-489736657.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

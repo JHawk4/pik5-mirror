@@ -1,0 +1,24 @@
+{
+ "rule": 27,
+ "stage": 228,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 8464,
+   "uid": 267410091,
+   "user": "ToolAssistedPik",
+   "score": 32952,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2020-05-16T03:47:43.000000Z",
+   "comment": "タマゴムシ50。実機だと30粘るのも辛い…もっといい配置はあると思います。エレキをローラーでもっと潰せるはず。",
+   "video": "https://www.youtube.com/watch?v=nY4CMjp2dB0",
+   "img": "20200516-214743-1670552241.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

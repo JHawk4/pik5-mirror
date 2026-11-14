@@ -1,0 +1,18 @@
+{
+ "rule": 44,
+ "stage": 403,
+ "records": [
+  {
+   "id": 18030,
+   "uid": 309278106,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 485,
+   "date": "2024-07-30T04:02:49.000000Z",
+   "video": "https://youtu.be/zbBQXw-8WwY?si=yo-mtujx3mmdCDkg",
+   "console": 4,
+   "comment": "少しアドリブです",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

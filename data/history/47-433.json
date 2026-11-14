@@ -1,0 +1,18 @@
+{
+ "rule": 47,
+ "stage": 433,
+ "records": [
+  {
+   "id": 19604,
+   "uid": 315159111,
+   "user": "kobachi_no_udon",
+   "score": 65,
+   "date": "2026-06-21T10:14:59.000000Z",
+   "video": "https://youtu.be/Px_lfETu954",
+   "console": 4,
+   "comment": "最後にカレハンボを倒すのが良いでしょう",
+   "tie": false
+  }
+ ],
+ "lower_is_better": true
+}

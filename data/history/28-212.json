@@ -1,0 +1,18 @@
+{
+ "rule": 28,
+ "stage": 212,
+ "records": [
+  {
+   "id": 13985,
+   "uid": 277825694,
+   "user": "sectionmarilui",
+   "score": 4972,
+   "date": "2021-11-22T08:45:01.000000Z",
+   "video": "https://www.nicovideo.jp/watch/sm39659491",
+   "console": 2,
+   "comment": "乱数調整なしです",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

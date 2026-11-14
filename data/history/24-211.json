@@ -1,0 +1,18 @@
+{
+ "rule": 24,
+ "stage": 211,
+ "records": [
+  {
+   "id": 8694,
+   "uid": 269776182,
+   "user": "albut3",
+   "score": 8492,
+   "date": "2020-06-27T20:23:41.000000Z",
+   "video": "https://www.youtube.com/watch?v=cvtj-aXDD4g",
+   "console": 1,
+   "comment": "全手前引いてしまった。ヤキは奥",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

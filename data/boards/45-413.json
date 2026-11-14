@@ -1,0 +1,24 @@
+{
+ "rule": 45,
+ "stage": 413,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18209,
+   "uid": 309559842,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 240,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-09-27T02:50:04.000000Z",
+   "comment": "とりあえずの記録です",
+   "video": "https://youtu.be/65w4eEm9sy4?si=BMP7WblEYetrSN0n",
+   "img": "20240927-205004-2283348064.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

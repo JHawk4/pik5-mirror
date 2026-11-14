@@ -1,0 +1,58 @@
+{
+ "rule": 35,
+ "stage": 359,
+ "lower_is_better": true,
+ "posts": [
+  {
+   "id": 19397,
+   "uid": 314226941,
+   "user": "96_Leaf",
+   "score": 66,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2026-04-28T18:50:48.000000Z",
+   "comment": "運ゲーに勝利",
+   "video": "https://youtu.be/e8feGJm4st0",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16060,
+   "uid": 278365232,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 113,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-04-14T19:39:35.000000Z",
+   "comment": "3分の1を引きました。",
+   "video": "https://youtu.be/OzSZjT21ZJ8",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14961,
+   "uid": 277721831,
+   "user": "toripoppo0307",
+   "score": 130,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-08-20T10:39:43.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/5Ay93QSy68U",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

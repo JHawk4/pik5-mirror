@@ -1,0 +1,18 @@
+{
+ "rule": 43,
+ "stage": 422,
+ "records": [
+  {
+   "id": 18258,
+   "uid": 309355237,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 334,
+   "date": "2024-11-05T00:58:41.000000Z",
+   "video": "https://youtu.be/5MztNvnU7KM?si=Du5pJETGn8SMaXu4",
+   "console": 4,
+   "comment": "5:33狙ってたら出ました",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

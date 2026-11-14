@@ -1,0 +1,18 @@
+{
+ "rule": 42,
+ "stage": 416,
+ "records": [
+  {
+   "id": 18988,
+   "uid": 312063713,
+   "user": "albut3",
+   "score": 924,
+   "date": "2025-11-27T09:23:08.000000Z",
+   "video": "https://www.youtube.com/watch?v=ToAaZKK9VK4",
+   "console": 4,
+   "comment": "音が置き去りになってしまった",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

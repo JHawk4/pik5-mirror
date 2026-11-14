@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 343,
+ "records": [
+  {
+   "id": 15030,
+   "uid": 278701755,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 601,
+   "date": "2022-09-05T12:35:20.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "想定外(3:00)達成しました。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

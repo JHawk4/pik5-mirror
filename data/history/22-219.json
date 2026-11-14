@@ -1,0 +1,18 @@
+{
+ "rule": 22,
+ "stage": 219,
+ "records": [
+  {
+   "id": 19088,
+   "uid": 312604715,
+   "user": "Gorei_50",
+   "score": 11720,
+   "date": "2026-01-04T00:05:45.000000Z",
+   "video": "https://youtu.be/EXubX5CYX68",
+   "console": 2,
+   "comment": "地下２階がはやいよ～～～",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

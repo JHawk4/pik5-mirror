@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 227,
+ "records": [
+  {
+   "id": 11964,
+   "uid": 274996054,
+   "user": "ToolAssistedPik",
+   "score": 10406,
+   "date": "2021-01-15T20:16:29.000000Z",
+   "video": "https://youtu.be/n20HjmhroMg",
+   "console": 1,
+   "comment": "真中の部屋のサクレ処理が上手くいきました。戦略は大きく改善できる部分は無いと思います。配置や細かい最適化であと数点伸ばせるかもしれませんが…",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

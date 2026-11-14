@@ -1,0 +1,58 @@
+{
+ "rule": 25,
+ "stage": 244,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 17654,
+   "uid": 307686768,
+   "user": "Gorei_50",
+   "score": 63376,
+   "rank": 1,
+   "rps": 1723,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2024-03-22T19:44:01.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/Pn-38_rUWJo",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16087,
+   "uid": 278399058,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 62507,
+   "rank": 2,
+   "rps": 1563,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2023-05-02T00:23:45.000000Z",
+   "comment": "タイム41:26 もうちょっと死骸回収出来ると思います。",
+   "video": "https://youtu.be/Dke6vyiXHEU",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 15742,
+   "uid": 278991924,
+   "user": "Argent2home",
+   "score": 61463,
+   "rank": 3,
+   "rps": 1445,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2023-01-12T02:15:18.000000Z",
+   "comment": "ヘラクレスの乱数が悪すぎてルーイ回収出来なかった。",
+   "video": "https://youtu.be/dBrLDpjoesc",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 41,
+ "stage": 410,
+ "records": [
+  {
+   "id": 19737,
+   "uid": 315960549,
+   "user": "mercysnow",
+   "score": 521,
+   "date": "2026-08-12T12:46:02.000000Z",
+   "video": "https://youtu.be/WPThLu4pPj0?si=aRh-5hxaeADHH0aR",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

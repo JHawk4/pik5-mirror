@@ -1,0 +1,18 @@
+{
+ "rule": 24,
+ "stage": 225,
+ "records": [
+  {
+   "id": 19454,
+   "uid": 314837802,
+   "user": "Gorei_50",
+   "score": 28009,
+   "date": "2026-06-04T03:21:44.000000Z",
+   "video": "https://youtu.be/dEJyWwdFIM8",
+   "console": 2,
+   "comment": "まだまだいけるよどこまでも",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 31,
+ "stage": 301,
+ "records": [
+  {
+   "id": 18940,
+   "uid": 312426238,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10720,
+   "date": "2025-10-26T01:38:24.000000Z",
+   "video": "https://youtu.be/SWrNkoLK3UI?si=chooXRYO0IPKHTam",
+   "console": 4,
+   "comment": "まだいけるかもしれませんが、きつい",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

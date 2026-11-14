@@ -1,0 +1,58 @@
+{
+ "rule": 25,
+ "stage": 240,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 17602,
+   "uid": 307090028,
+   "user": "Argent2home",
+   "score": 13800,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-02-16T14:50:18.000000Z",
+   "comment": "3セット無犠牲。制限時間は事前に確認しておきましょう。",
+   "video": "https://youtu.be/KsycSSTnr-w?si=WuxTIbku7sH9-cKa",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 17569,
+   "uid": 306963610,
+   "user": "Gorei_50",
+   "score": 13699,
+   "rank": 2,
+   "rps": 1563,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2024-02-03T22:36:53.000000Z",
+   "comment": "おそい",
+   "video": "https://youtu.be/tCU_VmlfpQM",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16074,
+   "uid": 278287885,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 13575,
+   "rank": 3,
+   "rps": 1445,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2023-04-27T03:18:57.000000Z",
+   "comment": "タイム23:30 1時間くらいでこの記録が出ました。",
+   "video": "https://youtu.be/Z4amVX27460",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 308,
+ "records": [
+  {
+   "id": 11975,
+   "uid": 274594664,
+   "user": "Johnson",
+   "score": 14080,
+   "date": "2021-01-15T21:14:24.000000Z",
+   "video": "https://youtu.be/iMt5FpwMdhw",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

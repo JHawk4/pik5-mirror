@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 221,
+ "records": [
+  {
+   "id": 14485,
+   "uid": 277812123,
+   "user": "ToolAssistedPik",
+   "score": 35482,
+   "date": "2022-03-29T08:01:27.000000Z",
+   "video": "https://youtu.be/rhkPblN1hac",
+   "console": 1,
+   "comment": "29点の更新。壁破壊が1個で済む良配置を教えていただきました。ありがとうございます。Cave Genの威力はヤバい。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

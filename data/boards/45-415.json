@@ -1,0 +1,24 @@
+{
+ "rule": 45,
+ "stage": 415,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18220,
+   "uid": 309023383,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 361,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-10-02T02:49:02.000000Z",
+   "comment": "最後がダメでした",
+   "video": "https://youtu.be/AX0Wrc4um1Q?si=ZVp0IaTwLk0cgwDH",
+   "img": "20241002-204902-2450893342.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

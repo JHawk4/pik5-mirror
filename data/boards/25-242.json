@@ -1,0 +1,58 @@
+{
+ "rule": 25,
+ "stage": 242,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 15928,
+   "uid": 278978286,
+   "user": "Gorei_50",
+   "score": 22409,
+   "rank": 1,
+   "rps": 1723,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2023-03-10T11:13:38.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/DCXXljNzfz8",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16078,
+   "uid": 278966766,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 22234,
+   "rank": 2,
+   "rps": 1563,
+   "console": 2,
+   "difficulty": 2,
+   "date": "2023-04-29T17:42:38.000000Z",
+   "comment": "タイム32:52 タマゴ22個から3セットです。",
+   "video": "https://youtu.be/9ncfyr5phn4",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 15743,
+   "uid": 278894666,
+   "user": "Argent2home",
+   "score": 22106,
+   "rank": 3,
+   "rps": 1445,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2023-01-12T10:08:41.000000Z",
+   "comment": "何故か４ポコ足りない。アカコ２匹消滅したか？",
+   "video": "https://youtu.be/_funBVxzRZ0",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

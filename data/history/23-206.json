@@ -1,0 +1,18 @@
+{
+ "rule": 23,
+ "stage": 206,
+ "records": [
+  {
+   "id": 18407,
+   "uid": 310169485,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 9392,
+   "date": "2025-02-12T04:19:41.000000Z",
+   "video": "https://youtu.be/anpTUEVpPXY?si=z_Hz0Sg96a7edw-_",
+   "console": 2,
+   "comment": "いずれは20匹倒します",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

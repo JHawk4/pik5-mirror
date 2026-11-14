@@ -1,0 +1,18 @@
+{
+ "rule": 25,
+ "stage": 235,
+ "records": [
+  {
+   "id": 15759,
+   "uid": 278571341,
+   "user": "Gorei_50",
+   "score": 5973,
+   "date": "2023-01-24T07:42:48.000000Z",
+   "video": "https://youtu.be/m85Lf-zb_Hg",
+   "console": 2,
+   "comment": "ルート実験中に出たからあとで詰め直すかも",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

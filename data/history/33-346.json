@@ -1,0 +1,29 @@
+{
+ "rule": 33,
+ "stage": 346,
+ "records": [
+  {
+   "id": 14740,
+   "uid": 277486975,
+   "user": "esu",
+   "score": 879,
+   "date": "2022-06-04T19:18:30.000000Z",
+   "video": "https://youtu.be/O-Ac__Ae3Kg",
+   "console": 4,
+   "comment": "なんか出た",
+   "tie": false
+  },
+  {
+   "id": 15489,
+   "uid": 278597916,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 879,
+   "date": "2022-10-30T00:04:35.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1586643537814499328?s=61&t=V_TYjmY4wDi1cTRIi7nT8w",
+   "console": 4,
+   "comment": "22秒すら出したことがなかったのに奇跡的に21秒出せました！ピクミン3DX発売2周年の日に出せて嬉しいです。",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

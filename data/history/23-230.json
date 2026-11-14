@@ -1,0 +1,18 @@
+{
+ "rule": 23,
+ "stage": 230,
+ "records": [
+  {
+   "id": 19378,
+   "uid": 314741032,
+   "user": "kobachi_no_udon",
+   "score": 32084,
+   "date": "2026-04-18T11:04:13.000000Z",
+   "video": "https://youtu.be/nQgudZ4v1Xg",
+   "console": 2,
+   "comment": "5Fのゲキカラ延長ミス以外はほぼ完璧",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

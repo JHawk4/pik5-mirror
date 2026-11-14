@@ -1,0 +1,18 @@
+{
+ "rule": 23,
+ "stage": 220,
+ "records": [
+  {
+   "id": 18492,
+   "uid": 311398326,
+   "user": "Gorei_50",
+   "score": 15470,
+   "date": "2025-05-31T02:00:37.000000Z",
+   "video": "https://youtu.be/l6_EEgY1zXs",
+   "console": 2,
+   "comment": "虫なしでもここまで来る時代",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,18 @@
+{
+ "rule": 47,
+ "stage": 435,
+ "records": [
+  {
+   "id": 19606,
+   "uid": 315073019,
+   "user": "kobachi_no_udon",
+   "score": 107,
+   "date": "2026-06-21T10:16:43.000000Z",
+   "video": "https://youtu.be/aA9b3jx7doM",
+   "console": 4,
+   "comment": "いい感じ？",
+   "tie": false
+  }
+ ],
+ "lower_is_better": true
+}

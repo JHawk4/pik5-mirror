@@ -1,0 +1,18 @@
+{
+ "rule": 32,
+ "stage": 330,
+ "records": [
+  {
+   "id": 15654,
+   "uid": 278227582,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3855,
+   "date": "2022-12-16T01:02:57.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1603691770185125890?s=61&t=JMMT8e1zoNMMZ-TG76zILw",
+   "console": 4,
+   "comment": "あと1秒行けますが満足です。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

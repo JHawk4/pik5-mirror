@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 342,
+ "records": [
+  {
+   "id": 15031,
+   "uid": 278613820,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 22090,
+   "date": "2022-09-05T12:37:04.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "残10:28 1人プレイと同じルートです。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

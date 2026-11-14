@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 339,
+ "records": [
+  {
+   "id": 15671,
+   "uid": 278238335,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 6560,
+   "date": "2022-12-20T23:36:32.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "2人の方が有利だと思います。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,41 @@
+{
+ "rule": 44,
+ "stage": 402,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18029,
+   "uid": 309871046,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 357,
+   "rank": 1,
+   "rps": 1491,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-07-30T03:51:22.000000Z",
+   "comment": "データ作成はキュアオッチンのついでにやると楽でした",
+   "video": "https://youtu.be/wqjmBj50Z_g?si=PDafZ_nmTpYdpONp",
+   "img": "20240730-215122-2996121295.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 18086,
+   "uid": 309180369,
+   "user": "wnsrn8650",
+   "score": 318,
+   "rank": 2,
+   "rps": 1353,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-18T02:30:44.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20240818-203044-4836536779.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

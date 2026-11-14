@@ -1,0 +1,29 @@
+{
+ "rule": 31,
+ "stage": 304,
+ "records": [
+  {
+   "id": 15561,
+   "uid": 278857644,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 15360,
+   "date": "2022-11-23T01:45:57.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1595367653241413632?s=61&t=1v49bMFodYxcWbrA-xvW8A",
+   "console": 4,
+   "comment": "残6:44 小技を使いました。",
+   "tie": false
+  },
+  {
+   "id": 15562,
+   "uid": 278427581,
+   "user": "esu",
+   "score": 15360,
+   "date": "2022-11-24T03:28:51.000000Z",
+   "video": "https://youtu.be/lmz5ZjkQI0A",
+   "console": 4,
+   "comment": "うーん…",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

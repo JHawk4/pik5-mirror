@@ -1,0 +1,18 @@
+{
+ "rule": 42,
+ "stage": 413,
+ "records": [
+  {
+   "id": 18257,
+   "uid": 309870980,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 289,
+   "date": "2024-11-02T16:16:45.000000Z",
+   "video": "https://youtu.be/1ws5l-YWdE0?si=5-pwygEYWf-J7izu",
+   "console": 4,
+   "comment": "これ以上は人類には無理です",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

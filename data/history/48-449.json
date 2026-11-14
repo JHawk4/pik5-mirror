@@ -1,0 +1,29 @@
+{
+ "rule": 48,
+ "stage": 449,
+ "records": [
+  {
+   "id": 20527,
+   "uid": 315328867,
+   "user": "mercysnow",
+   "score": 220,
+   "date": "2026-11-11T07:52:14.000000Z",
+   "video": "https://youtu.be/p-HQEO_c3-w?si=Ew3X1jpJETOFpMcK",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 20529,
+   "uid": 315203046,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 220,
+   "date": "2026-11-11T12:46:25.000000Z",
+   "video": "https://youtu.be/NM_HNxBvRoQ?si=pDLYhCZn9y9EA31O",
+   "console": 4,
+   "comment": "葉ピク×",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

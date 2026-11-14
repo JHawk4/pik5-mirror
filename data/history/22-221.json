@@ -1,0 +1,29 @@
+{
+ "rule": 22,
+ "stage": 221,
+ "records": [
+  {
+   "id": 17522,
+   "uid": 306943822,
+   "user": "albut3",
+   "score": 35441,
+   "date": "2024-01-11T04:08:48.000000Z",
+   "video": "https://www.youtube.com/watch?v=KSJuPIxIjqQ",
+   "console": 2,
+   "comment": "ピクミン界隈discordで画面共有しながら出したのですが、録画が2Fしかできていませんでした。一応投稿しておきます（ごめんなさい）",
+   "tie": false
+  },
+  {
+   "id": 19222,
+   "uid": 312554743,
+   "user": "Gorei_50",
+   "score": 35441,
+   "date": "2026-02-05T07:45:07.000000Z",
+   "video": "https://youtu.be/C9XdDJkA3DE",
+   "console": 2,
+   "comment": "仮",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

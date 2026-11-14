@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 229,
+ "records": [
+  {
+   "id": 8465,
+   "uid": 267922648,
+   "user": "ToolAssistedPik",
+   "score": 33830,
+   "date": "2020-05-16T03:52:06.000000Z",
+   "video": "https://www.youtube.com/watch?v=ssvgOO27SQw",
+   "console": 1,
+   "comment": "タマゴムシ70。理論上タマゴ最大値の地形。タマゴムシ30匹制限の都合上、紫で宝等を運搬させるのが重要です。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

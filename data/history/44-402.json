@@ -1,0 +1,18 @@
+{
+ "rule": 44,
+ "stage": 402,
+ "records": [
+  {
+   "id": 18029,
+   "uid": 309871046,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 357,
+   "date": "2024-07-30T03:51:22.000000Z",
+   "video": "https://youtu.be/wqjmBj50Z_g?si=PDafZ_nmTpYdpONp",
+   "console": 4,
+   "comment": "データ作成はキュアオッチンのついでにやると楽でした",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

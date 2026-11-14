@@ -1,0 +1,18 @@
+{
+ "rule": 23,
+ "stage": 212,
+ "records": [
+  {
+   "id": 17363,
+   "uid": 304039809,
+   "user": "Argent2home",
+   "score": 4922,
+   "date": "2023-12-04T06:09:20.000000Z",
+   "video": "https://youtu.be/UPi8Woq1a-Q",
+   "console": 4,
+   "comment": "58→148→142",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

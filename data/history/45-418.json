@@ -1,0 +1,18 @@
+{
+ "rule": 45,
+ "stage": 418,
+ "records": [
+  {
+   "id": 18233,
+   "uid": 309237967,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 356,
+   "date": "2024-10-10T03:45:35.000000Z",
+   "video": "https://youtu.be/z9VxvrQ93oQ?si=-CCaDc16jVALUPnB",
+   "console": 4,
+   "comment": "ゲキカラ最強です",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

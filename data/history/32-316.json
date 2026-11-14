@@ -1,0 +1,18 @@
+{
+ "rule": 32,
+ "stage": 316,
+ "records": [
+  {
+   "id": 15658,
+   "uid": 278281978,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 11600,
+   "date": "2022-12-17T15:23:40.000000Z",
+   "video": "https://youtu.be/uRb9cdySVvc",
+   "console": 4,
+   "comment": "Twitterは動画投稿に向いていないので今更ですがこれからは証拠動画をYouTubeで上げます。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

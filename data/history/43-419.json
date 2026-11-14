@@ -1,0 +1,18 @@
+{
+ "rule": 43,
+ "stage": 419,
+ "records": [
+  {
+   "id": 19861,
+   "uid": 315332354,
+   "user": "96_Leaf",
+   "score": 215,
+   "date": "2026-10-08T17:57:45.000000Z",
+   "video": "https://youtu.be/cXcuf7vR_2A",
+   "console": 4,
+   "comment": "逆にね",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

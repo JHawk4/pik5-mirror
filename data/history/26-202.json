@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 202,
+ "records": [
+  {
+   "id": 18408,
+   "uid": 310718128,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 37853,
+   "date": "2025-02-14T04:01:20.000000Z",
+   "video": "https://youtu.be/lRlNkh1eAQg?si=zt7yylARwdInR40a",
+   "console": 4,
+   "comment": "2Fダメです",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

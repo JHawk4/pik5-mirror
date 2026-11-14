@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 344,
+ "records": [
+  {
+   "id": 15026,
+   "uid": 278644707,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 21290,
+   "date": "2022-09-05T12:17:46.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "残10:43 合流すれば2人プレイでもエリア移動でタイムが縮むことを発見しました。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

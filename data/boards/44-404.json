@@ -1,0 +1,24 @@
+{
+ "rule": 44,
+ "stage": 404,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18053,
+   "uid": 309688564,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 344,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-03T20:47:03.000000Z",
+   "comment": "とりあえずの記録です",
+   "video": "https://youtu.be/T96-CBuKpgo?si=j7Ysd5k1uqO0mt1C",
+   "img": "20240804-144703-7241388207.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

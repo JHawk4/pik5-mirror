@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 207,
+ "records": [
+  {
+   "id": 17500,
+   "uid": 305870992,
+   "user": "ToolAssistedPik",
+   "score": 15105,
+   "date": "2024-01-02T05:57:42.000000Z",
+   "video": "https://youtu.be/gGDbB69EtZ4",
+   "console": 1,
+   "comment": "タマゴムシ20。1階の配置を厳選し、3番目の部屋に行かずに済みました。もう少し良い配置があるかもしれません。あと2階の配置厳選も課題ですね。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

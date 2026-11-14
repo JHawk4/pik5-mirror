@@ -1,0 +1,18 @@
+{
+ "rule": 44,
+ "stage": 408,
+ "records": [
+  {
+   "id": 18062,
+   "uid": 309400664,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 389,
+   "date": "2024-08-08T03:45:07.000000Z",
+   "video": "https://youtu.be/DvylT6Po-zY?si=E6xfWUGB8EYYkdO0",
+   "console": 4,
+   "comment": "橋架けルートです",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

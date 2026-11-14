@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 223,
+ "records": [
+  {
+   "id": 6682,
+   "uid": 258449066,
+   "user": "albut3",
+   "score": 10015,
+   "date": "2018-08-06T02:42:16.000000Z",
+   "video": "https://www.youtube.com/watch?v=TKbatyBENnk",
+   "console": 1,
+   "comment": "チェックしまくり",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

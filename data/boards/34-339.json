@@ -1,0 +1,58 @@
+{
+ "rule": 34,
+ "stage": 339,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 15671,
+   "uid": 278238335,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 6560,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-12-20T23:36:32.000000Z",
+   "comment": "2人の方が有利だと思います。",
+   "video": "",
+   "img": "20221221-173632-93073580.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 11971,
+   "uid": 274925742,
+   "user": "Johnson",
+   "score": 6300,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2021-01-15T21:04:01.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/DGvgWVzqlIA",
+   "img": "20210116-150401-1356622116.png",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14569,
+   "uid": 277469136,
+   "user": "sozainoaji",
+   "score": 6250,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-04-15T03:48:45.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20220415-214845-903141815.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

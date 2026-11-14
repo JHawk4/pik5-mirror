@@ -1,0 +1,24 @@
+{
+ "rule": 46,
+ "stage": 424,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18108,
+   "uid": 309117529,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 175,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-23T18:58:43.000000Z",
+   "comment": "例の技はダッシュブーツがないと出来なそうです",
+   "video": "https://youtu.be/ZcfqvEZf1So?si=vUtxTg_y_a4Ob_LE",
+   "img": "20240824-125843-1606233909.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

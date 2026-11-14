@@ -1,0 +1,29 @@
+{
+ "rule": 32,
+ "stage": 323,
+ "records": [
+  {
+   "id": 15501,
+   "uid": 278997280,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 5110,
+   "date": "2022-11-07T02:17:00.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1589577268636299264?s=61&t=2zAh6l-U7v2jG2o2PL50OA",
+   "console": 4,
+   "comment": "残7:15 理論値は5170以上です。",
+   "tie": false
+  },
+  {
+   "id": 15506,
+   "uid": 278899790,
+   "user": "esu",
+   "score": 5110,
+   "date": "2022-11-08T22:41:48.000000Z",
+   "video": "https://youtu.be/xDtCESEFmas",
+   "console": 4,
+   "comment": "ここ嫌い",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

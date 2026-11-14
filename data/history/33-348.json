@@ -1,0 +1,29 @@
+{
+ "rule": 33,
+ "stage": 348,
+ "records": [
+  {
+   "id": 13987,
+   "uid": 277840428,
+   "user": "esu",
+   "score": 567,
+   "date": "2021-11-22T17:28:03.000000Z",
+   "video": "https://youtu.be/x9fy6gskrGc",
+   "console": 4,
+   "comment": "難し過ぎる",
+   "tie": false
+  },
+  {
+   "id": 15427,
+   "uid": 278965429,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 567,
+   "date": "2022-10-15T15:26:05.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1581440832682758144?s=61&t=uNwGcsaYQa6EuiyQwRCZ6w",
+   "console": 4,
+   "comment": "おそらく理論値でしょう。",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

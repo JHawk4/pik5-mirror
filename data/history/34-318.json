@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 318,
+ "records": [
+  {
+   "id": 15475,
+   "uid": 278550989,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 13210,
+   "date": "2022-10-24T22:40:00.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "残7:03 7分残せました。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

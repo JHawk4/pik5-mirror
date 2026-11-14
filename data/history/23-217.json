@@ -1,0 +1,29 @@
+{
+ "rule": 23,
+ "stage": 217,
+ "records": [
+  {
+   "id": 17632,
+   "uid": 307451480,
+   "user": "kobachi_no_udon",
+   "score": 16409,
+   "date": "2024-03-12T20:49:31.000000Z",
+   "video": "https://youtu.be/jnBpBoVg_Ak",
+   "console": 2,
+   "comment": "まだいけます",
+   "tie": false
+  },
+  {
+   "id": 17903,
+   "uid": 308485143,
+   "user": "Gorei_50",
+   "score": 16409,
+   "date": "2024-06-10T07:22:28.000000Z",
+   "video": "https://youtu.be/vAZkl_b98VE",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

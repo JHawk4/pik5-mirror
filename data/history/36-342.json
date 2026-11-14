@@ -1,0 +1,18 @@
+{
+ "rule": 36,
+ "stage": 342,
+ "records": [
+  {
+   "id": 15623,
+   "uid": 278858364,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 23830,
+   "date": "2022-12-04T02:51:54.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1599370415457337344?s=61&t=hdp9ExWraB8TAVG-Apf1Xw",
+   "console": 4,
+   "comment": "ここまでエリア移動が強すぎます。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

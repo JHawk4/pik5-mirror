@@ -1,0 +1,41 @@
+{
+ "rule": 34,
+ "stage": 343,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 15030,
+   "uid": 278701755,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 601,
+   "rank": 1,
+   "rps": 1491,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-09-05T12:35:20.000000Z",
+   "comment": "想定外(3:00)達成しました。",
+   "video": "",
+   "img": "20220906-063520-1964033519.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14297,
+   "uid": 277437511,
+   "user": "sozainoaji",
+   "score": 573,
+   "rank": 2,
+   "rps": 1353,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-03-06T04:22:28.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20220306-222228-1216125172.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

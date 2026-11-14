@@ -1,0 +1,18 @@
+{
+ "rule": 32,
+ "stage": 318,
+ "records": [
+  {
+   "id": 15632,
+   "uid": 278095058,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 13150,
+   "date": "2022-12-08T01:35:52.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1600800861294592000?s=61&t=iAmMSGE_m-BKV9DG1LzD6g",
+   "console": 4,
+   "comment": "限界はこの先です。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

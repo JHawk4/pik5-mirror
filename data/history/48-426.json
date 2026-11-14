@@ -1,0 +1,18 @@
+{
+ "rule": 48,
+ "stage": 426,
+ "records": [
+  {
+   "id": 19860,
+   "uid": 315798426,
+   "user": "96_Leaf",
+   "score": 140,
+   "date": "2026-10-08T16:27:35.000000Z",
+   "video": "https://youtu.be/LcCFKIVK2FQ",
+   "console": 4,
+   "comment": "紫の機嫌次第でいくらでも遅くなる",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

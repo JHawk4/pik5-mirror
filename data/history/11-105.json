@@ -1,0 +1,18 @@
+{
+ "rule": 11,
+ "stage": 105,
+ "records": [
+  {
+   "id": 17573,
+   "uid": 306674439,
+   "user": "Mokaygee",
+   "score": 618,
+   "date": "2024-02-06T03:38:04.000000Z",
+   "video": "https://youtu.be/w_MhI3P9i9w",
+   "console": 4,
+   "comment": "Acceptable",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

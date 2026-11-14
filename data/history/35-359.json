@@ -1,0 +1,18 @@
+{
+ "rule": 35,
+ "stage": 359,
+ "records": [
+  {
+   "id": 19397,
+   "uid": 314226941,
+   "user": "96_Leaf",
+   "score": 66,
+   "date": "2026-04-28T18:50:48.000000Z",
+   "video": "https://youtu.be/e8feGJm4st0",
+   "console": 4,
+   "comment": "運ゲーに勝利",
+   "tie": false
+  }
+ ],
+ "lower_is_better": true
+}

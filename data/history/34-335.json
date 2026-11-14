@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 335,
+ "records": [
+  {
+   "id": 19102,
+   "uid": 312857578,
+   "user": "Sbudiver",
+   "score": 12280,
+   "date": "2026-01-07T21:40:14.000000Z",
+   "video": "https://www.youtube.com/watch?v=HJ1USud5dEs",
+   "console": 4,
+   "comment": "with jay596",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

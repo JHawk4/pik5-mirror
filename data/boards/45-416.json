@@ -1,0 +1,24 @@
+{
+ "rule": 45,
+ "stage": 416,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18222,
+   "uid": 309159818,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 518,
+   "rank": 1,
+   "rps": 1213,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-10-04T02:46:12.000000Z",
+   "comment": "超妥協記録です",
+   "video": "https://youtu.be/Uu6RKqZ40QQ?si=fSxK_f7euDb2i9aF",
+   "img": "20241004-204612-3289033661.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

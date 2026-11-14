@@ -1,0 +1,18 @@
+{
+ "rule": 27,
+ "stage": 208,
+ "records": [
+  {
+   "id": 12456,
+   "uid": 274627003,
+   "user": "ToolAssistedPik",
+   "score": 18898,
+   "date": "2021-04-04T00:51:21.000000Z",
+   "video": "https://youtu.be/gJuSW6fUGzE",
+   "console": 1,
+   "comment": "チャッピーの匹寄せは最早当然として、アカコとビー玉の処理が非常に重要です。もう少しいい配置があるかもしれないので、時間が出来たらやってみるつもり。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

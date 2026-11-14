@@ -1,0 +1,18 @@
+{
+ "rule": 43,
+ "stage": 421,
+ "records": [
+  {
+   "id": 17089,
+   "uid": 302353253,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 212,
+   "date": "2023-10-06T18:42:29.000000Z",
+   "video": "https://youtu.be/RDMZQ71BXzc?si=jiBqf6F9kP5wUfwd",
+   "console": 4,
+   "comment": "何故か大幅更新できました",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

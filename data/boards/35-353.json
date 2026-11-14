@@ -1,0 +1,58 @@
+{
+ "rule": 35,
+ "stage": 353,
+ "lower_is_better": true,
+ "posts": [
+  {
+   "id": 19833,
+   "uid": 315569306,
+   "user": "96_Leaf",
+   "score": 40,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2026-09-30T07:56:09.000000Z",
+   "comment": "配信外だと理想列がすぐ来るの何",
+   "video": "https://youtu.be/xT-Sypp5zCY",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16016,
+   "uid": 278382072,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 71,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-03-31T14:48:14.000000Z",
+   "comment": "1分切りは可能だと思います。",
+   "video": "https://youtu.be/IOHI-V74LRY",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14938,
+   "uid": 277945248,
+   "user": "toripoppo0307",
+   "score": 96,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-08-19T02:21:19.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/fcTQHrFAtCc",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

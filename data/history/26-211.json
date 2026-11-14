@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 211,
+ "records": [
+  {
+   "id": 18397,
+   "uid": 310880834,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 8518,
+   "date": "2025-02-06T02:30:04.000000Z",
+   "video": "https://youtu.be/XSJnbgmmtUk?si=TBC3b1g9wG1Le0Kd",
+   "console": 4,
+   "comment": "1Fだけ手前粘りました",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

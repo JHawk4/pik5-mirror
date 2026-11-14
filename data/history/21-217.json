@@ -1,0 +1,18 @@
+{
+ "rule": 21,
+ "stage": 217,
+ "records": [
+  {
+   "id": 18486,
+   "uid": 311632506,
+   "user": "Gorei_50",
+   "score": 16700,
+   "date": "2025-05-07T06:25:17.000000Z",
+   "video": "https://youtu.be/k5t9ehanW5I",
+   "console": 2,
+   "comment": "キリがいい",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

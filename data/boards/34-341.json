@@ -1,0 +1,41 @@
+{
+ "rule": 34,
+ "stage": 341,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 14984,
+   "uid": 277284128,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 775,
+   "rank": 1,
+   "rps": 1491,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-08-22T01:55:01.000000Z",
+   "comment": "ルーイがレンガにめり込みました。",
+   "video": "",
+   "img": "20220822-195502-32840274.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 15514,
+   "uid": 278261797,
+   "user": "sozainoaji",
+   "score": 737,
+   "rank": 2,
+   "rps": 1353,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-11-11T03:00:36.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20221111-210036-1878870334.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

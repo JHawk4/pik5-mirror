@@ -1,0 +1,40 @@
+{
+ "rule": 33,
+ "stage": 349,
+ "records": [
+  {
+   "id": 13979,
+   "uid": 277738486,
+   "user": "esu",
+   "score": 868,
+   "date": "2021-11-21T04:34:08.000000Z",
+   "video": "https://youtu.be/G93tx7BB4jQ",
+   "console": 4,
+   "comment": "苦行",
+   "tie": false
+  },
+  {
+   "id": 15699,
+   "uid": 278494490,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 868,
+   "date": "2022-12-29T03:14:37.000000Z",
+   "video": "https://youtu.be/16Ms4mgaDjM",
+   "console": 4,
+   "comment": "全体的にきつかったです。",
+   "tie": true
+  },
+  {
+   "id": 19750,
+   "uid": 315086140,
+   "user": "Jay596",
+   "score": 868,
+   "date": "2026-08-24T12:57:30.000000Z",
+   "video": "https://www.youtube.com/watch?v=JIC2vY-ltGw",
+   "console": 4,
+   "comment": "weird respawn after crystal break",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

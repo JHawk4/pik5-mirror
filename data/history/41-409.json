@@ -1,0 +1,29 @@
+{
+ "rule": 41,
+ "stage": 409,
+ "records": [
+  {
+   "id": 19385,
+   "uid": 314548013,
+   "user": "albut3",
+   "score": 510,
+   "date": "2026-04-23T08:33:50.000000Z",
+   "video": "https://www.youtube.com/watch?v=LaX5hxGm-Hk",
+   "console": 4,
+   "comment": "すごく、あまりに、とても、ふかい",
+   "tie": false
+  },
+  {
+   "id": 19417,
+   "uid": 314409757,
+   "user": "mercysnow",
+   "score": 510,
+   "date": "2026-05-20T04:35:02.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

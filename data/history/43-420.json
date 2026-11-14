@@ -1,0 +1,18 @@
+{
+ "rule": 43,
+ "stage": 420,
+ "records": [
+  {
+   "id": 19854,
+   "uid": 315059415,
+   "user": "96_Leaf",
+   "score": 276,
+   "date": "2026-10-06T15:40:10.000000Z",
+   "video": "https://youtu.be/3xdKLm2BQro",
+   "console": 4,
+   "comment": "フタクチ無視は爆アド",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

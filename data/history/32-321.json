@@ -1,0 +1,29 @@
+{
+ "rule": 32,
+ "stage": 321,
+ "records": [
+  {
+   "id": 15609,
+   "uid": 278453992,
+   "user": "esu",
+   "score": 7135,
+   "date": "2022-11-27T05:28:15.000000Z",
+   "video": "https://youtu.be/VtMeZn9mZd0",
+   "console": 4,
+   "comment": "クソみたいな記録w",
+   "tie": false
+  },
+  {
+   "id": 16255,
+   "uid": 278125853,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 7135,
+   "date": "2023-07-14T02:03:04.000000Z",
+   "video": "https://youtu.be/tvkbyYONHgo",
+   "console": 4,
+   "comment": "この記録が出る直前にブリコ以外10:23が出ました",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

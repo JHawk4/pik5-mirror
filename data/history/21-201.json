@@ -1,0 +1,18 @@
+{
+ "rule": 21,
+ "stage": 201,
+ "records": [
+  {
+   "id": 19640,
+   "uid": 315766259,
+   "user": "Gorei_50",
+   "score": 35353,
+   "date": "2026-07-05T01:49:19.000000Z",
+   "video": "https://youtu.be/G7mfjQ7trac",
+   "console": 2,
+   "comment": "30匹くん再び",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

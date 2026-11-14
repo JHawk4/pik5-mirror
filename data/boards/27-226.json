@@ -1,0 +1,24 @@
+{
+ "rule": 27,
+ "stage": 226,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 8463,
+   "uid": 267960085,
+   "user": "ToolAssistedPik",
+   "score": 33062,
+   "rank": 1,
+   "rps": 1213,
+   "console": 1,
+   "difficulty": 2,
+   "date": "2020-05-16T03:45:14.000000Z",
+   "comment": "タマゴムシ40。紫なしタマゴムシの練習として選んだのにタマゴ4個来てびっくりした。なお最大値は10個の模様…",
+   "video": "https://www.youtube.com/watch?v=fuU1tszMi_Q",
+   "img": "20200516-214514-1866108634.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

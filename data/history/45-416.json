@@ -1,0 +1,18 @@
+{
+ "rule": 45,
+ "stage": 416,
+ "records": [
+  {
+   "id": 18222,
+   "uid": 309159818,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 518,
+   "date": "2024-10-04T02:46:12.000000Z",
+   "video": "https://youtu.be/Uu6RKqZ40QQ?si=fSxK_f7euDb2i9aF",
+   "console": 4,
+   "comment": "超妥協記録です",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

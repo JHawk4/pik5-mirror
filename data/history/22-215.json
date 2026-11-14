@@ -1,0 +1,18 @@
+{
+ "rule": 22,
+ "stage": 215,
+ "records": [
+  {
+   "id": 18484,
+   "uid": 310714468,
+   "user": "Gorei_50",
+   "score": 6264,
+   "date": "2025-05-04T11:48:57.000000Z",
+   "video": "https://youtu.be/7oZhT0duDKM",
+   "console": 2,
+   "comment": "満足な点数、不満足なプレイ",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

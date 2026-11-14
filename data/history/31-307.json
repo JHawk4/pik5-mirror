@@ -1,0 +1,18 @@
+{
+ "rule": 31,
+ "stage": 307,
+ "records": [
+  {
+   "id": 17925,
+   "uid": 308048909,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 12660,
+   "date": "2024-06-15T18:11:25.000000Z",
+   "video": "https://youtu.be/ePkihT9TY6M?si=8460VnWNaoPHGG0i",
+   "console": 4,
+   "comment": "最後適当ですがキンカイに間に合ったのでOKです",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

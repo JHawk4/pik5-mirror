@@ -1,0 +1,18 @@
+{
+ "rule": 34,
+ "stage": 326,
+ "records": [
+  {
+   "id": 15570,
+   "uid": 278192629,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 4330,
+   "date": "2022-11-25T21:08:33.000000Z",
+   "video": "",
+   "console": 4,
+   "comment": "とりあえず4300点台達成です。",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

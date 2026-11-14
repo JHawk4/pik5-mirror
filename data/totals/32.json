@@ -1,0 +1,422 @@
+{
+ "id": 32,
+ "name": "Pikmin 3 \"Defeat the Enemy!\" Overall ranking",
+ "rows": [
+  {
+   "user": "Bl6AltMzq5Jx4aM",
+   "rank": 1,
+   "rps": 92691,
+   "score": 111710,
+   "boards": 15,
+   "date": "2023-07-14T02:03:04.000000Z"
+  },
+  {
+   "user": "esu",
+   "rank": 2,
+   "rps": 88012,
+   "score": 111410,
+   "boards": 15,
+   "date": "2022-11-27T05:28:15.000000Z"
+  },
+  {
+   "user": "ice_cube171",
+   "rank": 3,
+   "rps": 71901,
+   "score": 103970,
+   "boards": 15,
+   "date": "2021-10-19T12:58:29.000000Z"
+  },
+  {
+   "user": "tokyo-maruinezumi",
+   "rank": 4,
+   "rps": 67850,
+   "score": 103030,
+   "boards": 15,
+   "date": "2021-08-09T19:58:20.000000Z"
+  },
+  {
+   "user": "Ghostly",
+   "rank": 5,
+   "rps": 57037,
+   "score": 97380,
+   "boards": 15,
+   "date": "2021-07-11T18:15:30.000000Z"
+  },
+  {
+   "user": "April_lapispik",
+   "rank": 6,
+   "rps": 49567,
+   "score": 94260,
+   "boards": 15,
+   "date": "2023-05-21T05:21:11.000000Z"
+  },
+  {
+   "user": "mikou_musicgame",
+   "rank": 7,
+   "rps": 51644,
+   "score": 93940,
+   "boards": 15,
+   "date": "2022-08-15T20:02:15.000000Z"
+  },
+  {
+   "user": "messhi475",
+   "rank": 8,
+   "rps": 43126,
+   "score": 90470,
+   "boards": 15,
+   "date": "2021-01-15T15:04:22.000000Z"
+  },
+  {
+   "user": "noamoa",
+   "rank": 9,
+   "rps": 38489,
+   "score": 84030,
+   "boards": 15,
+   "date": "2018-08-12T00:17:41.000000Z"
+  },
+  {
+   "user": "ikimono334",
+   "rank": 10,
+   "rps": 35343,
+   "score": 80390,
+   "boards": 15,
+   "date": "2020-08-12T16:59:14.000000Z"
+  },
+  {
+   "user": "6harapikumin",
+   "rank": 11,
+   "rps": 28617,
+   "score": 71660,
+   "boards": 15,
+   "date": "2023-07-04T17:29:10.000000Z"
+  },
+  {
+   "user": "koppacha",
+   "rank": 12,
+   "rps": 31651,
+   "score": 71470,
+   "boards": 15,
+   "date": "2019-02-02T23:16:23.000000Z"
+  },
+  {
+   "user": "Jay596",
+   "rank": 13,
+   "rps": 39729,
+   "score": 67065,
+   "boards": 9,
+   "date": "2026-08-26T16:13:04.000000Z"
+  },
+  {
+   "user": "yuibitchi",
+   "rank": 14,
+   "rps": 24369,
+   "score": 61060,
+   "boards": 15,
+   "date": "2017-05-22T00:08:00.000000Z"
+  },
+  {
+   "user": "identete",
+   "rank": 15,
+   "rps": 19276,
+   "score": 59785,
+   "boards": 7,
+   "date": "2017-12-06T01:17:00.000000Z"
+  },
+  {
+   "user": "muratsubo",
+   "rank": 16,
+   "rps": 23742,
+   "score": 58850,
+   "boards": 15,
+   "date": "2018-07-01T02:45:03.000000Z"
+  },
+  {
+   "user": "shiocha78",
+   "rank": 17,
+   "rps": 20286,
+   "score": 58390,
+   "boards": 6,
+   "date": "2021-11-18T08:25:36.000000Z"
+  },
+  {
+   "user": "pikuna",
+   "rank": 18,
+   "rps": 17555,
+   "score": 55450,
+   "boards": 8,
+   "date": "2022-02-22T05:54:57.000000Z"
+  },
+  {
+   "user": "toripoppo0307",
+   "rank": 19,
+   "rps": 22797,
+   "score": 54300,
+   "boards": 8,
+   "date": "2021-04-18T02:51:59.000000Z"
+  },
+  {
+   "user": "nanashi74",
+   "rank": 20,
+   "rps": 28693,
+   "score": 46560,
+   "boards": 6,
+   "date": "2021-01-17T04:32:48.000000Z"
+  },
+  {
+   "user": "dermas",
+   "rank": 21,
+   "rps": 18510,
+   "score": 38950,
+   "boards": 15,
+   "date": "2017-07-09T07:22:00.000000Z"
+  },
+  {
+   "user": "sanami",
+   "rank": 22,
+   "rps": 15882,
+   "score": 35545,
+   "boards": 12,
+   "date": "2021-06-14T14:40:30.000000Z"
+  },
+  {
+   "user": "nanshitsujuukinzounaizou",
+   "rank": 23,
+   "rps": 12318,
+   "score": 33215,
+   "boards": 10,
+   "date": "2020-11-13T22:41:57.000000Z"
+  },
+  {
+   "user": "PiePusher11",
+   "rank": 24,
+   "rps": 7437,
+   "score": 28980,
+   "boards": 3,
+   "date": "2020-12-02T16:45:40.000000Z"
+  },
+  {
+   "user": "alpha_0630",
+   "rank": 25,
+   "rps": 12626,
+   "score": 27205,
+   "boards": 3,
+   "date": "2021-01-29T08:41:28.000000Z"
+  },
+  {
+   "user": "Z_pikmin",
+   "rank": 26,
+   "rps": 5320,
+   "score": 25960,
+   "boards": 3,
+   "date": "2017-09-25T02:12:00.000000Z"
+  },
+  {
+   "user": "Yellowishpik",
+   "rank": 27,
+   "rps": 14372,
+   "score": 25845,
+   "boards": 4,
+   "date": "2024-09-03T21:03:20.000000Z"
+  },
+  {
+   "user": "imedin0813",
+   "rank": 28,
+   "rps": 12037,
+   "score": 25545,
+   "boards": 10,
+   "date": "2020-11-08T06:24:14.000000Z"
+  },
+  {
+   "user": "chappy4321",
+   "rank": 29,
+   "rps": 5858,
+   "score": 25330,
+   "boards": 5,
+   "date": "2013-08-08T06:00:00.000000Z"
+  },
+  {
+   "user": "teona",
+   "rank": 30,
+   "rps": 13051,
+   "score": 24720,
+   "boards": 5,
+   "date": "2021-03-22T01:34:03.000000Z"
+  },
+  {
+   "user": "ryuun",
+   "rank": 31,
+   "rps": 20555,
+   "score": 23120,
+   "boards": 5,
+   "date": "2021-01-18T00:28:23.000000Z"
+  },
+  {
+   "user": "hone-sutookume",
+   "rank": 32,
+   "rps": 5877,
+   "score": 20195,
+   "boards": 5,
+   "date": "2023-02-12T21:45:21.000000Z"
+  },
+  {
+   "user": "S_K",
+   "rank": 33,
+   "rps": 8737,
+   "score": 18355,
+   "boards": 4,
+   "date": "2021-02-27T17:19:18.000000Z"
+  },
+  {
+   "user": "official",
+   "rank": 34,
+   "rps": 4582,
+   "score": 16780,
+   "boards": 5,
+   "date": "2013-07-24T06:00:00.000000Z"
+  },
+  {
+   "user": "ChasingJess",
+   "rank": 35,
+   "rps": 3253,
+   "score": 15800,
+   "boards": 2,
+   "date": "2022-01-14T00:59:34.000000Z"
+  },
+  {
+   "user": "shiragawatanuki",
+   "rank": 36,
+   "rps": 5509,
+   "score": 13305,
+   "boards": 2,
+   "date": "2021-03-25T17:59:11.000000Z"
+  },
+  {
+   "user": "pon",
+   "rank": 37,
+   "rps": 6962,
+   "score": 13035,
+   "boards": 3,
+   "date": "2023-02-20T23:52:46.000000Z"
+  },
+  {
+   "user": "hokogamae",
+   "rank": 38,
+   "rps": 5638,
+   "score": 12530,
+   "boards": 2,
+   "date": "2020-11-12T07:29:53.000000Z"
+  },
+  {
+   "user": "PKtoyama",
+   "rank": 39,
+   "rps": 5159,
+   "score": 11570,
+   "boards": 3,
+   "date": "2019-06-11T05:39:49.000000Z"
+  },
+  {
+   "user": "JHawk4",
+   "rank": 40,
+   "rps": 14842,
+   "score": 11315,
+   "boards": 3,
+   "date": "2021-03-09T18:22:41.000000Z"
+  },
+  {
+   "user": "Aeyerlock",
+   "rank": 41,
+   "rps": 5425,
+   "score": 10190,
+   "boards": 1,
+   "date": "2020-11-14T10:53:10.000000Z"
+  },
+  {
+   "user": "robustar",
+   "rank": 42,
+   "rps": 1865,
+   "score": 8720,
+   "boards": 1,
+   "date": "2020-11-11T06:31:22.000000Z"
+  },
+  {
+   "user": "gatchi",
+   "rank": 43,
+   "rps": 1621,
+   "score": 8390,
+   "boards": 1,
+   "date": "2013-10-09T06:00:00.000000Z"
+  },
+  {
+   "user": "AbsolutlyAsh",
+   "rank": 44,
+   "rps": 5867,
+   "score": 7665,
+   "boards": 3,
+   "date": "2020-12-08T07:23:49.000000Z"
+  },
+  {
+   "user": "Y-TeNdoo404",
+   "rank": 45,
+   "rps": 1374,
+   "score": 7230,
+   "boards": 1,
+   "date": "2021-04-03T04:04:22.000000Z"
+  },
+  {
+   "user": "dayomin",
+   "rank": 46,
+   "rps": 6000,
+   "score": 6965,
+   "boards": 4,
+   "date": "2020-12-07T05:56:38.000000Z"
+  },
+  {
+   "user": "hyogakibokaro",
+   "rank": 47,
+   "rps": 8290,
+   "score": 6225,
+   "boards": 2,
+   "date": "2023-01-13T08:39:01.000000Z"
+  },
+  {
+   "user": "suma",
+   "rank": 48,
+   "rps": 1277,
+   "score": 5590,
+   "boards": 1,
+   "date": "2017-08-18T20:53:00.000000Z"
+  },
+  {
+   "user": "takeshi",
+   "rank": 49,
+   "rps": 4144,
+   "score": 3635,
+   "boards": 1,
+   "date": "2021-03-13T15:43:50.000000Z"
+  },
+  {
+   "user": "yuyukkuri",
+   "rank": 50,
+   "rps": 1112,
+   "score": 3240,
+   "boards": 1,
+   "date": "2020-11-07T15:54:54.000000Z"
+  },
+  {
+   "user": "Refu",
+   "rank": 51,
+   "rps": 3453,
+   "score": 3190,
+   "boards": 1,
+   "date": "2021-07-10T19:58:47.000000Z"
+  },
+  {
+   "user": "Plata",
+   "rank": 52,
+   "rps": 2787,
+   "score": 2585,
+   "boards": 1,
+   "date": "2020-11-24T02:50:01.000000Z"
+  }
+ ]
+}

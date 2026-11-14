@@ -1,0 +1,18 @@
+{
+ "rule": 45,
+ "stage": 414,
+ "records": [
+  {
+   "id": 18211,
+   "uid": 309386408,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 467,
+   "date": "2024-09-27T21:33:01.000000Z",
+   "video": "https://youtu.be/_4jRNxJT7iU?si=4vNXu2s2paNqzX8B",
+   "console": 4,
+   "comment": "粉砕祭りです",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

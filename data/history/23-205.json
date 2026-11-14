@@ -1,0 +1,29 @@
+{
+ "rule": 23,
+ "stage": 205,
+ "records": [
+  {
+   "id": 16157,
+   "uid": 278010136,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 11507,
+   "date": "2023-06-02T16:33:49.000000Z",
+   "video": "https://youtu.be/9U1Y9MLKZ_w",
+   "console": 2,
+   "comment": "気が向いたのでやりました",
+   "tie": false
+  },
+  {
+   "id": 18421,
+   "uid": 310042625,
+   "user": "kobachi_no_udon",
+   "score": 11507,
+   "date": "2025-02-20T02:31:25.000000Z",
+   "video": "https://youtu.be/xcsVs92QJBo",
+   "console": 2,
+   "comment": "ゲキカラだいすき",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

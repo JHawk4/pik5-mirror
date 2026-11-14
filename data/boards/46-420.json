@@ -1,0 +1,41 @@
+{
+ "rule": 46,
+ "stage": 420,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 18087,
+   "uid": 309373464,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 242,
+   "rank": 1,
+   "rps": 1491,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-18T04:14:03.000000Z",
+   "comment": "修正ありがとうございます",
+   "video": "https://youtu.be/_Yj5tUrJ2cc?si=DnwxvbiRZcbON81Y",
+   "img": "20240818-221402-8356450639.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 18093,
+   "uid": 309214159,
+   "user": "wnsrn8650",
+   "score": 154,
+   "rank": 2,
+   "rps": 1353,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2024-08-19T18:13:44.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20240820-121344-5629454900.jpg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

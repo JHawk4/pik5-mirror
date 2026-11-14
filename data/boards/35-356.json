@@ -1,0 +1,58 @@
+{
+ "rule": 35,
+ "stage": 356,
+ "lower_is_better": true,
+ "posts": [
+  {
+   "id": 19825,
+   "uid": 315043121,
+   "user": "96_Leaf",
+   "score": 57,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2026-09-29T02:46:43.000000Z",
+   "comment": "2時間半粘った末に妥協",
+   "video": "https://youtu.be/rYdahQqBmoU",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 16049,
+   "uid": 278971695,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 147,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2023-04-08T02:20:56.000000Z",
+   "comment": "配置が良い割にタイムが遅いです。",
+   "video": "https://youtu.be/QBHukdlp_ig",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 14941,
+   "uid": 277414306,
+   "user": "toripoppo0307",
+   "score": 153,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-08-19T10:37:39.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/a48PHN13j7o",
+   "img": "",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "rule": 35,
+ "stage": 351,
+ "records": [
+  {
+   "id": 16163,
+   "uid": 278701752,
+   "user": "96_Leaf",
+   "score": 25,
+   "date": "2023-06-06T02:37:23.000000Z",
+   "video": "https://youtu.be/V0ppLkOdri4",
+   "console": 4,
+   "comment": "キャプボを入手したので他ステージもやろうと思います",
+   "tie": false
+  },
+  {
+   "id": 16165,
+   "uid": 278166838,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 25,
+   "date": "2023-06-07T02:56:20.000000Z",
+   "video": "https://youtu.be/rpx5Xw-BZ5s",
+   "console": 4,
+   "comment": "まだ行けます",
+   "tie": true
+  }
+ ],
+ "lower_is_better": true
+}

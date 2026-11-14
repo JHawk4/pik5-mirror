@@ -1,0 +1,18 @@
+{
+ "rule": 47,
+ "stage": 444,
+ "records": [
+  {
+   "id": 19714,
+   "uid": 315104257,
+   "user": "toripoppo0307",
+   "score": 111,
+   "date": "2026-07-31T09:04:56.000000Z",
+   "video": "https://youtu.be/YhqAxQufbK4",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  }
+ ],
+ "lower_is_better": true
+}

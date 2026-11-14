@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 212,
+ "records": [
+  {
+   "id": 18402,
+   "uid": 310144371,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 4929,
+   "date": "2025-02-08T16:01:10.000000Z",
+   "video": "https://youtu.be/xk9TZmoFQsE?si=R4G8mzZzbPmKo8Mq",
+   "console": 4,
+   "comment": "シューティング❌❌❌",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

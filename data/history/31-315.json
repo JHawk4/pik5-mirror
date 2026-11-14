@@ -1,0 +1,18 @@
+{
+ "rule": 31,
+ "stage": 315,
+ "records": [
+  {
+   "id": 14226,
+   "uid": 277142279,
+   "user": "esu",
+   "score": 18565,
+   "date": "2022-02-04T05:07:57.000000Z",
+   "video": "https://youtu.be/cr4nhzphzJA",
+   "console": 4,
+   "comment": "9分台＋大幅更新達成！！",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

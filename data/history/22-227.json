@@ -1,0 +1,29 @@
+{
+ "rule": 22,
+ "stage": 227,
+ "records": [
+  {
+   "id": 19250,
+   "uid": 312379973,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10400,
+   "date": "2026-02-20T23:38:02.000000Z",
+   "video": "https://youtu.be/zRGwJySGSUU?si=be0sVFZnC6wn7v5d",
+   "console": 2,
+   "comment": "WR history駆け込み",
+   "tie": false
+  },
+  {
+   "id": 19420,
+   "uid": 314278159,
+   "user": "kobachi_no_udon",
+   "score": 10400,
+   "date": "2026-05-20T07:50:21.000000Z",
+   "video": "https://youtu.be/bnaB4KyrhgY",
+   "console": 4,
+   "comment": "間欠泉121カウントで開いてるじゃん！！！",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

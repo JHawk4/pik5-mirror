@@ -1,0 +1,18 @@
+{
+ "rule": 23,
+ "stage": 226,
+ "records": [
+  {
+   "id": 18343,
+   "uid": 310333679,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32699,
+   "date": "2024-12-28T16:17:32.000000Z",
+   "video": "https://youtu.be/0-WZ1Pw9NEs?si=YRaZIfUnO_tBve6Y",
+   "console": 2,
+   "comment": "2セットをください",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

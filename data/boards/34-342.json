@@ -1,0 +1,58 @@
+{
+ "rule": 34,
+ "stage": 342,
+ "lower_is_better": false,
+ "posts": [
+  {
+   "id": 15031,
+   "uid": 278613820,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 22090,
+   "rank": 1,
+   "rps": 1723,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-09-05T12:37:04.000000Z",
+   "comment": "残10:28 1人プレイと同じルートです。",
+   "video": "",
+   "img": "20220906-063704-1992338098.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 15519,
+   "uid": 278421423,
+   "user": "sozainoaji",
+   "score": 21460,
+   "rank": 2,
+   "rps": 1563,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2022-11-12T04:20:14.000000Z",
+   "comment": "コメントなし",
+   "video": "",
+   "img": "20221112-222014-1826855370.jpeg",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  },
+  {
+   "id": 11967,
+   "uid": 274556689,
+   "user": "Johnson",
+   "score": 20920,
+   "rank": 3,
+   "rps": 1445,
+   "console": 4,
+   "difficulty": 2,
+   "date": "2021-01-15T20:55:20.000000Z",
+   "comment": "コメントなし",
+   "video": "https://youtu.be/pImIZ-qbHys",
+   "img": "20210116-145520-1425107035.png",
+   "team": 0,
+   "certified": false,
+   "trial": false
+  }
+ ]
+}

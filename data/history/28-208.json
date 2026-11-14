@@ -1,0 +1,18 @@
+{
+ "rule": 28,
+ "stage": 208,
+ "records": [
+  {
+   "id": 8528,
+   "uid": 268278147,
+   "user": "sectionmarilui",
+   "score": 18877,
+   "date": "2020-06-07T22:27:26.000000Z",
+   "video": "https://www.nicovideo.jp/watch/sm36998685",
+   "console": 1,
+   "comment": "0x40444A7C",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

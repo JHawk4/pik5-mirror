@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 205,
+ "records": [
+  {
+   "id": 18380,
+   "uid": 310218903,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 11596,
+   "date": "2025-01-29T03:27:16.000000Z",
+   "video": "https://youtu.be/zenitCtpAi4?si=85cf0yGfpCqlUdgW",
+   "console": 4,
+   "comment": "2Pの人がWiiの操作苦手なのでSwitchでやりました",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

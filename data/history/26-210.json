@@ -1,0 +1,18 @@
+{
+ "rule": 26,
+ "stage": 210,
+ "records": [
+  {
+   "id": 18423,
+   "uid": 310172245,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 26765,
+   "date": "2025-02-22T03:33:50.000000Z",
+   "video": "https://youtu.be/k-cC8XuWo4Y?si=kz2Ohds3iQbMXKiw",
+   "console": 4,
+   "comment": "1プレイ目で出たので直前のプレイはありません。ごめんなさい",
+   "tie": false
+  }
+ ],
+ "lower_is_better": false
+}

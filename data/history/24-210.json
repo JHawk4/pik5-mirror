@@ -1,0 +1,29 @@
+{
+ "rule": 24,
+ "stage": 210,
+ "records": [
+  {
+   "id": 8593,
+   "uid": 269630244,
+   "user": "ikimono334",
+   "score": 26762,
+   "date": "2020-06-15T16:40:56.000000Z",
+   "video": "https://www.nicovideo.jp/watch/sm37041001",
+   "console": 2,
+   "comment": "後半ガバってるのでもう少し伸びそう",
+   "tie": false
+  },
+  {
+   "id": 12337,
+   "uid": 274834491,
+   "user": "Gorei_50",
+   "score": 26762,
+   "date": "2021-03-09T23:12:29.000000Z",
+   "video": "https://youtu.be/1m1sDH9muM8",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

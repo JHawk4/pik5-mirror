@@ -1,0 +1,29 @@
+{
+ "rule": 36,
+ "stage": 333,
+ "records": [
+  {
+   "id": 14236,
+   "uid": 277284981,
+   "user": "esu",
+   "score": 15720,
+   "date": "2022-02-08T04:31:53.000000Z",
+   "video": "https://youtu.be/jhWprw7U4rE",
+   "console": 4,
+   "comment": "もう限界かな",
+   "tie": false
+  },
+  {
+   "id": 18641,
+   "uid": 311513500,
+   "user": "Jay596",
+   "score": 15720,
+   "date": "2025-08-17T20:28:11.000000Z",
+   "video": "https://www.youtube.com/watch?v=NEdw1oskeB8",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}

@@ -1,0 +1,29 @@
+{
+ "rule": 33,
+ "stage": 345,
+ "records": [
+  {
+   "id": 17775,
+   "uid": 308756291,
+   "user": "XianTwa",
+   "score": 408,
+   "date": "2024-05-09T00:49:07.000000Z",
+   "video": "https://youtu.be/mJEVXmKCRik",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17827,
+   "uid": 308768532,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 408,
+   "date": "2024-05-17T17:26:50.000000Z",
+   "video": "https://youtu.be/zqcWmugAt_Y?si=LFjn28RxOPV8f49f",
+   "console": 4,
+   "comment": "絶対に理論値です",
+   "tie": true
+  }
+ ],
+ "lower_is_better": false
+}
