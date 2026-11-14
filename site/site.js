@@ -3,23 +3,6 @@
 
   function store(k, v) { try { localStorage.setItem(k, v); } catch (_) {} }
 
-  // ---- score / time-used / time-left toggle
-  function markMode() {
-    var m = root.dataset.mode || "a";
-    document.querySelectorAll("[data-mode]").forEach(function (a) {
-      if (a !== root) a.classList.toggle("on", a.dataset.mode === m);
-    });
-  }
-  document.querySelectorAll("a[data-mode]").forEach(function (a) {
-    a.addEventListener("click", function (ev) {
-      ev.preventDefault();
-      root.dataset.mode = a.dataset.mode;
-      store("mode", a.dataset.mode);
-      markMode();
-    });
-  });
-  markMode();
-
   // ---- language switch remembers the choice
   document.querySelectorAll("a[data-lang]").forEach(function (a) {
     a.addEventListener("click", function () { store("lang", a.dataset.lang); });

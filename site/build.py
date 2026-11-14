@@ -267,32 +267,32 @@ def score_views(score, rule, sid):
     return f"{score:,}", None, None
 
 
+def main_measure(rule, sid):
+    """Which column a board is ranked by: 's' score, 'u' time used, 'l' time left."""
+    disp = (stages.get(sid) or {}).get("display")
+    return {"speedrun": "u", "time": "l"}.get(disp, "s")
+
+
 def score_cell(p, rule, sid, t: T):
-    """All views in one cell; CSS shows the one picked in the header
-    (default: everything)."""
+    """Three cells: score, time used, time left (a list; table() expands it).
+    The board's ranking measure is bold; score is blank on pure-time boards."""
     if p.get("score") is None:
-        return ""
+        return ["", "", ""]
     pts, used, left = score_views(p["score"], rule, sid)
-    main = pts or used or left
-    na = e(t.s("no_time"))
+    m = main_measure(rule, sid)
 
-    def span(cls, val):
+    def num(val, key):
         if val is None:
-            return f'<span class="v {cls} na" title="{na}">{main}</span>'
-        return f'<span class="v {cls}">{val}</span>'
+            return ""
+        return f'<span class="num">{f"<b>{val}</b>" if key == m else val}</span>'
 
-    parts = []
-    if pts:
-        parts.append(f"<b>{pts}</b>")
-    if used:
-        parts.append(f'<span class="tl">{e(t.s("used_label"))}</span> {used}')
-    if left:
-        parts.append(f'<span class="tl">{e(t.s("left_label"))}</span> {left}')
-    if not pts and len(parts) == 1:
-        parts[0] = f"<b>{used or left}</b>"
-    every = '<span class="sep"> · </span>'.join(parts)
-    return (f'<span class="score"><span class="v v-a">{every}</span>{span("v-s", pts)}'
-            f'{span("v-u", used)}{span("v-l", left)}</span>')
+    return [num(pts, "s"), num(used, "u"), num(left, "l")]
+
+
+def score_heads(t: T):
+    """Headers for score_cell's three columns; time columns are dropped from a
+    table when every row is empty."""
+    return [t.s("score"), ("drop", t.s("mode_u")), ("drop", t.s("mode_l"))]
 
 
 # ---------------------------------------------------------------- video
@@ -381,10 +381,6 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
               f'<a href="{pre}players.html">{e(t.s("players"))}</a> ]')
     langnav = (f'[ <a data-lang="en" href="{pre}../en/{rel}"{" class=on" if t.lang == "en" else ""}>English</a> | '
                f'<a data-lang="ja" href="{pre}../ja/{rel}"{" class=on" if t.lang == "ja" else ""}>日本語</a> ]')
-    modenav = (f'[ <a href="#" data-mode="a">{e(t.s("mode_a"))}</a> | '
-               f'<a href="#" data-mode="s">{e(t.s("mode_s"))}</a> | '
-               f'<a href="#" data-mode="u">{e(t.s("mode_u"))}</a> | '
-               f'<a href="#" data-mode="l">{e(t.s("mode_l"))}</a> ]')
 
     side = [f'<div class="navbox"><a class="head" href="{pre}index.html">{e(t.s("games"))}</a>']
     for s in GAMES:
@@ -416,7 +412,6 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(title)} - {e(t.s("site"))}</title>
 <link rel="stylesheet" href="{pre}../style.css">
-<script>try{{document.documentElement.dataset.mode=localStorage.getItem("mode")||"a"}}catch(_){{}}</script>
 </head>
 <body>
 <div id="outer">
@@ -424,7 +419,7 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
   <div class="logo"><a href="{pre}index.html">{e(t.s("site"))}</a></div>
   <div class="bars">
     <div>{topnav}</div>
-    <div>{langnav} <span class="modes">{e(t.s("show"))}: {modenav}</span></div>
+    <div>{langnav}</div>
   </div>
 </div>
 <button id="menubtn" type="button" aria-expanded="false">&#9776; {e(t.s("menu"))}</button>
@@ -443,13 +438,59 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
 """
 
 
-def table(headers, rows, cls="wr"):
-    th = "".join(f"<th>{h}</th>" for h in headers)
-    trs = "".join(
-        (f'<tr class="{r[0]}">' if isinstance(r, tuple) else "<tr>")
-        + "".join(f"<td>{c}</td>" for c in (r[1] if isinstance(r, tuple) else r)) + "</tr>"
-        for r in rows)
-    return f'<div class="tw"><table class="{cls}"><thead><tr>{th}</tr></thead><tbody>{trs}</tbody></table></div>'
+def _flat(cells):
+    """Expand list cells (score_cell's three columns) into (html, rowspan) pairs.
+    A cell may be a string, a list of strings, or ("rs", n, string|list)."""
+    out = []
+    for c in cells:
+        span = 1
+        if isinstance(c, tuple) and c[0] == "rs":
+            span, c = c[1], c[2]
+        for x in (c if isinstance(c, list) else [c]):
+            out.append((x, span))
+    return out
+
+
+def table(headers, rows, cls="wr", dropped=None):
+    """Render a table. Headers given as ("drop", label) are removed when every
+    cell in that column is empty. If `dropped` is a list, the removed column
+    indices are appended to it."""
+    heads = []
+    for h in headers:
+        for x in (h if isinstance(h, list) else [h]):
+            heads.append((x[1], True) if isinstance(x, tuple) else (x, False))
+    ncol = len(heads)
+    # place cells on a grid, honouring rowspans
+    placed = []  # (row class, [(col, html, rowspan)])
+    busy = [0] * ncol
+    for r in rows:
+        rcls, cells = (r[0], r[1]) if isinstance(r, tuple) else (None, r)
+        col, out = 0, []
+        for html_, span in _flat(cells):
+            while col < ncol and busy[col] > 0:
+                col += 1
+            out.append((col, html_, span))
+            if col < ncol:
+                busy[col] = span
+            col += 1
+        busy = [max(0, b - 1) for b in busy]
+        placed.append((rcls, out))
+    has = [False] * ncol
+    for _, out in placed:
+        for col, html_, _ in out:
+            if col < ncol and str(html_).strip():
+                has[col] = True
+    drop = {i for i, (_, droppable) in enumerate(heads) if droppable and not has[i]}
+    if dropped is not None:
+        dropped.extend(sorted(drop))
+    th = "".join(f"<th>{h}</th>" for i, (h, _) in enumerate(heads) if i not in drop)
+    trs = []
+    for rcls, out in placed:
+        tds = "".join((f'<td rowspan="{span}">' if span > 1 else "<td>") + f"{html_}</td>"
+                      for col, html_, span in out if col not in drop)
+        trs.append((f'<tr class="{rcls}">' if rcls else "<tr>") + tds + "</tr>")
+    return (f'<div class="tw"><table class="{cls}"><thead><tr>{th}</tr></thead>'
+            f'<tbody>{"".join(trs)}</tbody></table></div>')
 
 
 def write(lang, rel, content):
@@ -517,18 +558,27 @@ def game_page(t: T, series):
                     continue
                 w = wrs[0]
                 if len(wrs) <= 2:
-                    who = "<br>".join(player(p["user"], t, pre) for p in wrs)
-                    nat = "<br>".join(flag(p["user"], t) for p in wrs)
+                    # one sub-row per holder so proof / flag / date / console line up
+                    shown = wrs
+                    n = len(wrs)
+                    for i, p in enumerate(wrs):
+                        cells = [video_cell(p, t), player(p["user"], t, pre), flag(p["user"], t),
+                                 t.date(p.get("date"))]
+                        if i == 0:
+                            rows.append([("rs", n, link), ("rs", n, score_cell(w, r, sid, t)), *cells,
+                                         ("rs", n, days_between(w.get("date"), NOW)),
+                                         console_cell(p.get("console"), t)])
+                        else:
+                            rows.append(("tied", [*cells, console_cell(p.get("console"), t)]))
                 else:
+                    shown = [w]
                     others = ", ".join(display_name(p["user"], t.lang) for p in wrs[1:])
                     who = (f'{player(w["user"], t, pre)} <a class="tie" title="{e(others)}" href="board/{k}.html">'
                            f'{e(t.s("plus_tied", n=len(wrs) - 1))}</a>')
-                    nat = flag(w["user"], t)
-                vid = next((p for p in wrs if norm_video(p.get("video"))), None)
-                rows.append([link, score_cell(w, r, sid, t), video_cell(vid or w, t), who, nat,
-                             t.date(w.get("date")), days_between(w.get("date"), NOW),
-                             console_cell(w.get("console"), t)])
-                if not vid:
+                    rows.append([link, score_cell(w, r, sid, t), video_cell(w, t), who, flag(w["user"], t),
+                                 t.date(w.get("date")), days_between(w.get("date"), NOW),
+                                 console_cell(w.get("console"), t)])
+                if not any(norm_video(p.get("video")) for p in shown):
                     bv = best_with_video(k, b.get("lower_is_better"))
                     if bv:
                         rows.append(("proof", [
@@ -539,7 +589,7 @@ def game_page(t: T, series):
                        f' <span class="small">[ <a href="ranking/{c["total"]}.html">{e(t.s("cat_ranking"))}</a> ]</span>')
             parts.append(
                 f'<h3 id="c{c["id"]}">{e(t.cat(c))}{ranking}</h3>'
-                + table([t.s("stage"), t.s("score"), t.s("video"), t.s("player"), t.s("nation"), t.s("date"),
+                + table([t.s("stage"), score_heads(t), t.s("video"), t.s("player"), t.s("nation"), t.s("date"),
                          t.s("days"), t.s("console")], rows))
     parts.append(f'<h2 id="overall">{e(t.s("overall_title", game=t.game(series)))}</h2>')
     parts.append(ranking_table(t, TOTAL_OF[series], pre))
@@ -552,8 +602,8 @@ def ranking_table(t: T, total_id, pre, limit=None):
     if not tot:
         return ""
     rows = [[str(r.get("rank") or ""), player(r["user"], t, pre), flag(r["user"], t),
-             f'<b>{r["score"]:,}</b>' if r.get("score") is not None else "",
-             f'{r["rps"]:,}' if r.get("rps") is not None else "", str(r.get("boards") or "")]
+             f'<span class="num"><b>{r["score"]:,}</b></span>' if r.get("score") is not None else "",
+             f'<span class="num">{r["rps"]:,}</span>' if r.get("rps") is not None else "", str(r.get("boards") or "")]
             for r in tot["rows"][:limit]]
     return table(["#", t.s("player"), t.s("nation"), t.s("total_score"), t.s("points"), t.s("stages")], rows)
 
@@ -584,14 +634,14 @@ def history_page(t: T, c, rule, sid):
                 for p in wrs[:5]]
         more = f'<p class="small">{e(t.s("and_more_tied", n=len(wrs) - 5))}</p>' if len(wrs) > 5 else ""
         parts.append(f"<h2>{e(t.s('current_wr'))}</h2>"
-                     + table([t.s("date"), t.s("score"), t.s("video"), t.s("player"), t.s("nation"), t.s("console"),
+                     + table([t.s("date"), score_heads(t), t.s("video"), t.s("player"), t.s("nation"), t.s("console"),
                               t.s("days")], rows) + more)
         shown = vid
         if not vid:
             bv = best_with_video(k, low)
             if bv:
                 parts.append(f'<p class="note">{e(t.s("no_wr_video"))}</p>'
-                             + table([t.s("date"), t.s("score"), t.s("video"), t.s("player"), t.s("nation"),
+                             + table([t.s("date"), score_heads(t), t.s("video"), t.s("player"), t.s("nation"),
                                       t.s("console")],
                                      [[t.date(bv.get("date")), score_cell(bv, rule, sid, t), video_cell(bv, t),
                                        player(bv["user"], t, pre), flag(bv["user"], t),
@@ -620,7 +670,7 @@ def history_page(t: T, c, rule, sid):
     rows.reverse()
     note = "" if h.get("backfilled") else f'<p class="note">{e(t.s("not_backfilled"))}</p>'
     parts.append(f"<h2>{e(t.s('history'))}</h2>" + note
-                 + table([t.s("date"), t.s("score"), t.s("video"), t.s("player"), t.s("nation"), t.s("tied_by"),
+                 + table([t.s("date"), score_heads(t), t.s("video"), t.s("player"), t.s("nation"), t.s("tied_by"),
                           t.s("console"), t.s("days")], rows))
     write(t.lang, rel, page(t, rel, f"{t.stage(sid)} - {t.cat(c)}", "\n".join(parts), series=c["series"],
                             current_key=k))
@@ -632,10 +682,10 @@ def board_page(t: T, c, rule, sid):
     rel = f"board/{k}.html"
     b = board(k)
     low = bool(b.get("lower_is_better"))
-    head = ["#", t.s("score"), t.s("video"), t.s("player"), t.s("nation"), t.s("points"), t.s("date"),
+    head = ["#", score_heads(t), t.s("video"), t.s("player"), t.s("nation"), t.s("points"), t.s("date"),
             t.s("console"), t.s("comment")]
     rows = [[str(p.get("rank") or ""), score_cell(p, rule, sid, t), video_cell(p, t), player(p["user"], t, pre),
-             flag(p["user"], t), f'{p["rps"]:,}' if p.get("rps") is not None else "", t.date(p.get("date")),
+             flag(p["user"], t), f'<span class="num">{p["rps"]:,}</span>' if p.get("rps") is not None else "", t.date(p.get("date")),
              console_cell(p.get("console"), t), e((p.get("comment") or "")[:80])]
             for p in b["posts"]]
 
@@ -644,7 +694,7 @@ def board_page(t: T, c, rule, sid):
     snap = {
         "low": low,
         "rows": [{"u": a["user"], "s": a["score"], "d": t.date(a.get("date")),
-                  "c": [score_cell(a, rule, sid, t), video_cell(a, t), player(a["user"], t, pre),
+                  "c": [*score_cell(a, rule, sid, t), video_cell(a, t), player(a["user"], t, pre),
                         flag(a["user"], t), "", t.date(a.get("date")), console_cell(a.get("console"), t),
                         e((a.get("comment") or "")[:80])]}
                  for a in arc if a.get("score") is not None],
@@ -655,11 +705,16 @@ def board_page(t: T, c, rule, sid):
               f'<button type="button" id="asof-reset">{e(t.s("today"))}</button> '
               f'<span class="small" id="asof-note"></span></form>'
               f'<p class="note">{e(t.s("snapshot_note", n=len(snap["rows"])))}</p>')
+    dropped = []
+    lb_table = table(head, rows, "wr lb", dropped=dropped)
+    # keep snapshot cells in step with the columns the table kept (cells start after "#")
+    for row in snap["rows"]:
+        row["c"] = [c for i, c in enumerate(row["c"], start=1) if i not in dropped]
     data = json.dumps(snap, ensure_ascii=False).replace("</", "<\\/")
     texts = json.dumps({"players": t.s("n_players", n="{n}"), "asof": t.s("snapshot_shown")}, ensure_ascii=False)
     body = (stage_heading(t, c, rule, sid) + board_tabs(t, k, "lb", pre)
             + f"<h2>{e(t.s('leaderboard'))} <span class='small' id='lb-count'>{e(t.s('n_players', n=len(rows)))}</span></h2>"
-            + picker + table(head, rows, "wr lb"))
+            + picker + lb_table)
     extra = (f'<script type="application/json" id="snapdata">{data}</script>'
              f'<script>window.SNAP_TEXT={texts}</script>')
     write(t.lang, rel, page(t, rel, f"{t.stage(sid)} - {t.cat(c)}", body, series=c["series"], current_key=k,
@@ -697,7 +752,7 @@ def player_page(t: T, uid, entries):
         links.append(f'<a href="https://www.speedrun.com/users/{quote(src)}" target="_blank" rel="noopener">speedrun.com</a>')
     body = (f"<h1>{flag(uid, t)} {title}</h1>"
             f'<p class="facts">{e(t.s("player_facts", n=len(entries), w=wrs))} [ {" | ".join(links)} ]</p>'
-            + table([t.s("game"), t.s("category"), t.s("stage"), t.s("score"), t.s("video"), t.s("rank"),
+            + table([t.s("game"), t.s("category"), t.s("stage"), score_heads(t), t.s("video"), t.s("rank"),
                      t.s("date"), t.s("console")], rows))
     write(t.lang, rel, page(t, rel, shown, body))
     return wrs
@@ -731,7 +786,7 @@ def index_page(t: T):
     body = (f"<h1>{e(t.s('site'))}</h1><p>{t.s('intro', pik5=pik5_link)}</p>"
             f"<ul class='games'>{games}</ul>"
             f"<h2>{e(t.s('recent'))}</h2>"
-            + table([t.s("date"), t.s("game"), t.s("stage"), t.s("score"), t.s("video"), t.s("player"), t.s("nation")],
+            + table([t.s("date"), t.s("game"), t.s("stage"), score_heads(t), t.s("video"), t.s("player"), t.s("nation")],
                     rows))
     write(t.lang, "index.html", page(t, "index.html", t.s("home"), body))
 
@@ -779,7 +834,7 @@ def tas_page(t: T):
                 diff = f'<span class="{"gold" if d > 0 else "small"}">{d:+,}</span>' if d else "±0"
             tl = r.get("time_left")
             rows.append([
-                link, f'<b>{r["score"]:,}</b>', video_cell({"video": r["video"]}, t), who,
+                link, f'<span class="num"><b>{r["score"]:,}</b></span>', video_cell({"video": r["video"]}, t), who,
                 r.get("date", ""), str(tl) if tl is not None else "",
                 (EGG + f' {r["mitites"]}') if r.get("mitites") else "",
                 (f"{wr_score:,} " if wr_score is not None else "") + diff

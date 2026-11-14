@@ -37,8 +37,6 @@ a:hover { text-decoration: underline; }
 #header .bars { flex: 1; text-align: right; font-weight: 700; }
 #header .bars > div { margin: 2px 0; }
 #header a.on, .tabs a.on { color: #000; }
-.modes { white-space: nowrap; margin-left: 12px; }
-html[data-mode="a"] a[data-mode="a"], html[data-mode="s"] a[data-mode="s"], html[data-mode="u"] a[data-mode="u"], html[data-mode="l"] a[data-mode="l"] { color: #000; }
 
 #cols { display: flex; align-items: flex-start; }
 #nav { width: 230px; flex: none; padding-right: 10px; }
@@ -77,14 +75,6 @@ table.lb td:last-child { color: var(--muted); max-width: 320px; }
 .gold { color: var(--gold); }
 .romaji { color: var(--muted); }
 
-/* score / time toggle: each score cell carries all three views */
-.score { white-space: nowrap; font-variant-numeric: tabular-nums; }
-.score .v { display: none; }
-.score .v.na { color: var(--muted); }
-html[data-mode="a"] .score .v-a, html:not([data-mode]) .score .v-a,
-html[data-mode="s"] .score .v-s, html[data-mode="u"] .score .v-u, html[data-mode="l"] .score .v-l { display: inline; }
-.score .tl { color: var(--muted); font-size: 10px; }
-.score .sep { color: var(--line); }
 
 /* icons */
 .ico { display: inline-block; line-height: 0; vertical-align: middle; }
@@ -124,8 +114,7 @@ a.tie { cursor: pointer; }
   #header { display: block; padding: 8px 16px; }
   #header .logo { width: auto; padding: 0 0 4px; }
   #header .bars { text-align: left; }
-  .modes { display: block; margin: 2px 0 0; }
-  #menubtn {
+    #menubtn {
     display: block; margin: 0 16px 8px; font: inherit; font-weight: 700; color: #fff;
     background: var(--side); border: 0; border-radius: 4px; padding: 6px 10px;
   }
@@ -139,3 +128,7 @@ a.tie { cursor: pointer; }
 
 .navbox .head { display: block; color: #fff; font-weight: 700; text-decoration: underline; margin-bottom: 2px; }
 .navbox.links a::after { content: " \2197"; font-size: 10px; opacity: .8; }
+
+/* numbers: right-aligned and monospaced so digits line up */
+.num { font-family: Consolas, "SFMono-Regular", Menlo, "Courier New", monospace; white-space: nowrap; }
+td:has(> .num) { text-align: right; }

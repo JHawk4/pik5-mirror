@@ -34,8 +34,9 @@ pik5 and links back to the original board.
   - `site/players_overrides.json`: hand-made English nicknames and countries
   - `site/score_meta.py`: how scores turn into time used / time left
     (Pikmin 3 bonus rates per stage, Pikmin 4 1 point/second, Sage Leaf time
-    limits), with sources. Pages show score, time used and time left together
-    by default; the header toggle can narrow it to one.
+    limits), with sources. Tables show Score, Time used and Time left as
+    separate right-aligned columns (bold = the board's ranking measure); time
+    columns are left out of tables where no row has a time.
 - `.github/workflows/sync.yml` syncs every 6 hours, commits data changes and
   deploys to GitHub Pages.
 
