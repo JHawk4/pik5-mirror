@@ -27,6 +27,30 @@
     }, { once: true });
   });
 
+  // ---- suggestion form: posts to the configured form service
+  var sf = document.getElementById("suggest");
+  if (sf) {
+    var from = new URLSearchParams(location.search).get("from") || "";
+    var pg = document.getElementById("suggest-page");
+    if (pg) pg.value = (document.documentElement.lang || "") + "/" + from;
+    sf.addEventListener("submit", function (ev) {
+      ev.preventDefault();
+      var st = document.getElementById("suggest-status"), T2 = window.SUGGEST_TEXT || {};
+      if (!sf.action || sf.getAttribute("action") === "") return;
+      var btn = sf.querySelector("button"); btn.disabled = true; st.textContent = T2.sending || "";
+      var noCors = sf.dataset.noCors === "1";
+      fetch(sf.action, {
+        method: "POST", body: new FormData(sf),
+        mode: noCors ? "no-cors" : "cors",
+        headers: noCors ? {} : { "Accept": "application/json" }
+      }).then(function (r) {
+        if (!noCors && !r.ok) throw new Error(r.status);
+        sf.reset(); st.textContent = T2.sent || "";
+      }).catch(function () { st.textContent = T2.fail || ""; })
+        .then(function () { btn.disabled = false; });
+    });
+  }
+
   // ---- leaderboard as of a date (rebuilt from archived submissions)
   var dataEl = document.getElementById("snapdata");
   var input = document.getElementById("asof");

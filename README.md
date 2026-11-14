@@ -40,6 +40,20 @@ pik5 and links back to the original board.
 - `.github/workflows/sync.yml` syncs every 6 hours, commits data changes and
   deploys to GitHub Pages.
 
+## Suggestions
+
+The site's suggestion page (linked from every page footer) posts to a Google
+Form owned by the site maintainer:
+
+- Responses: https://docs.google.com/forms/d/1gSumsqRO9tE9dbLnjvyxNl2puufcHhAgVOtZUkaRVm0/edit#responses
+  (needs the owner's Google sign-in)
+- Public form: https://docs.google.com/forms/d/e/1FAIpQLSepPb6F7_Y6DlLoHn-nqpy2KG3BqaMLfDLAdArL9B5iyEt_LA/viewform
+
+Fields: name (optional), suggestion (required), contact such as a Discord
+username (optional), and the page the visitor came from (filled in
+automatically). The form's entry IDs are in `site/config.json`; if the form's
+questions are changed, update them there.
+
 ## Local use
 
 ```bash

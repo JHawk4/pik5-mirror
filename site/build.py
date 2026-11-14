@@ -16,8 +16,8 @@ from functools import lru_cache
 from pathlib import Path
 from urllib.parse import parse_qs, quote, urlparse
 
-from i18n import CAT_LABELS, COUNTRIES, GAMES, LINKS, STR
-from icons import CAMERA, EGG, console_icon, video_icon
+from i18n import CAT_LABELS, COUNTRIES, GAMES, HEADERS, LINKS, STR
+from icons import CAMERA, EGG, console_icon, difficulty_icon, video_icon
 import score_meta
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -95,6 +95,7 @@ def build_categories():
 # feeds the TAS page instead.
 HIDDEN = {
     "24",  # Pikmin 2 No Spray
+    "25",  # Pikmin 2 Story Caves
     "26",  # Pikmin 2 2-Player Challenge
     "27",  # Pikmin 2 Real Hardware Open Class (TASes -> TAS page)
     "28",  # Pikmin 2 "TAS" (actually seed-picked real-console runs)
@@ -270,7 +271,8 @@ def score_views(score, rule, sid):
 def main_measure(rule, sid):
     """Which column a board is ranked by: 's' score, 'u' time used, 'l' time left."""
     disp = (stages.get(sid) or {}).get("display")
-    return {"speedrun": "u", "time": "l"}.get(disp, "s")
+    # time-ranked boards show time used as the headline figure
+    return {"speedrun": "u", "time": "u"}.get(disp, "s")
 
 
 def score_cell(p, rule, sid, t: T):
@@ -280,6 +282,8 @@ def score_cell(p, rule, sid, t: T):
         return ["", "", ""]
     pts, used, left = score_views(p["score"], rule, sid)
     m = main_measure(rule, sid)
+    if m == "u" and used is None:  # no time limit known: bold what we have
+        m = "l"
 
     def num(val, key):
         if val is None:
@@ -289,10 +293,18 @@ def score_cell(p, rule, sid, t: T):
     return [num(pts, "s"), num(used, "u"), num(left, "l")]
 
 
+def H(t: T, key):
+    """Compact table header with a tooltip (falls back to the plain label)."""
+    if key not in HEADERS:
+        return e(t.s(key))
+    short, tip = HEADERS[key]
+    return f'<span title="{e(tip[t.lang])}">{short[t.lang]}</span>'
+
+
 def score_heads(t: T):
     """Headers for score_cell's three columns; time columns are dropped from a
     table when every row is empty."""
-    return [t.s("score"), ("drop", t.s("mode_u")), ("drop", t.s("mode_l"))]
+    return [H(t, "score"), ("drop", H(t, "mode_u")), ("drop", H(t, "mode_l"))]
 
 
 # ---------------------------------------------------------------- video
@@ -366,7 +378,23 @@ def embed(p, t: T):
             f'<button type="button" aria-label="{e(t.s("play"))}"></button></div>')
 
 
-def console_cell(code, t: T):
+# Games whose stages can be played on different difficulty settings.
+DIFFICULTY_SERIES = {4}
+
+
+def difficulty_cell(p, t: T, sid=None):
+    if sid is None or (stages.get(sid) or {}).get("series") not in DIFFICULTY_SERIES:
+        return ""
+    return difficulty_icon(p.get("difficulty"), t.lang)
+
+
+# Games where every run is on one console, so the column says nothing.
+SINGLE_CONSOLE_SERIES = {4}
+
+
+def console_cell(code, t: T, sid=None):
+    if sid is not None and (stages.get(sid) or {}).get("series") in SINGLE_CONSOLE_SERIES:
+        return ""
     return console_icon(code, t.lang)
 
 
@@ -427,7 +455,8 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
 <nav id="nav">{''.join(side)}</nav>
 <div id="main">
 {body}
-<div id="footer">{t.s("footer", pik5=f'<a href="{PIK5}/{t.lang}/">pik5.net</a>', synced=synced_txt)}</div>
+<div id="footer">{t.s("footer", pik5=f'<a href="{PIK5}/{t.lang}/">pik5.net</a>', synced=synced_txt)}
+<br><a href="{pre}suggest.html?from={quote(rel)}">{e(t.s("suggest_link"))}</a></div>
 </div>
 </div>
 </div>
@@ -529,9 +558,24 @@ def stage_heading(t: T, c, rule, sid):
 
 # ---------------------------------------------------------------- pages
 
+def proof_level(p):
+    """0 video, 1 screenshot, 2 no proof."""
+    if norm_video(p.get("video")):
+        return 0
+    if p.get("img") or IMG.get((p.get("user"), p.get("score"), (p.get("date") or "")[:10])):
+        return 1
+    return 2
+
+
 def current_wrs(key):
+    """Current #1s; ties ordered by proof (video, screenshot, none), then date."""
     wrs = [p for p in board(key)["posts"] if p.get("rank") == 1]
-    return sorted(wrs, key=lambda p: p.get("date") or "")
+    return sorted(wrs, key=lambda p: (proof_level(p), p.get("date") or ""))
+
+
+def first_set(wrs):
+    """Date the record score was first reached (earliest of the tied holders)."""
+    return min((p.get("date") or "" for p in wrs), default="")
 
 
 def game_page(t: T, series):
@@ -566,31 +610,29 @@ def game_page(t: T, series):
                                  t.date(p.get("date"))]
                         if i == 0:
                             rows.append([("rs", n, link), ("rs", n, score_cell(w, r, sid, t)), *cells,
-                                         ("rs", n, days_between(w.get("date"), NOW)),
-                                         console_cell(p.get("console"), t)])
+                                         ("rs", n, days_between(first_set(wrs), NOW)),
+                                         console_cell(p.get("console"), t, sid), difficulty_cell(p, t, sid)])
                         else:
-                            rows.append(("tied", [*cells, console_cell(p.get("console"), t)]))
+                            rows.append(("tied", [*cells, console_cell(p.get("console"), t, sid), difficulty_cell(p, t, sid)]))
                 else:
                     shown = [w]
                     others = ", ".join(display_name(p["user"], t.lang) for p in wrs[1:])
                     who = (f'{player(w["user"], t, pre)} <a class="tie" title="{e(others)}" href="board/{k}.html">'
                            f'{e(t.s("plus_tied", n=len(wrs) - 1))}</a>')
                     rows.append([link, score_cell(w, r, sid, t), video_cell(w, t), who, flag(w["user"], t),
-                                 t.date(w.get("date")), days_between(w.get("date"), NOW),
-                                 console_cell(w.get("console"), t)])
+                                 t.date(w.get("date")), days_between(first_set(wrs), NOW),
+                                 console_cell(w.get("console"), t, sid), difficulty_cell(w, t, sid)])
                 if not any(norm_video(p.get("video")) for p in shown):
                     bv = best_with_video(k, b.get("lower_is_better"))
                     if bv:
                         rows.append(("proof", [
                             f'<span class="small">↳ {e(t.s("best_video"))}</span>', score_cell(bv, r, sid, t),
                             video_cell(bv, t), player(bv["user"], t, pre), flag(bv["user"], t),
-                            t.date(bv.get("date")), "", console_cell(bv.get("console"), t)]))
-            ranking = ("" if c["id"] == "p2" else
-                       f' <span class="small">[ <a href="ranking/{c["total"]}.html">{e(t.s("cat_ranking"))}</a> ]</span>')
+                            t.date(bv.get("date")), "", console_cell(bv.get("console"), t, sid), difficulty_cell(bv, t, sid)]))
             parts.append(
-                f'<h3 id="c{c["id"]}">{e(t.cat(c))}{ranking}</h3>'
-                + table([t.s("stage"), score_heads(t), t.s("video"), t.s("player"), t.s("nation"), t.s("date"),
-                         t.s("days"), t.s("console")], rows))
+                f'<h3 id="c{c["id"]}">{e(t.cat(c))}</h3>'
+                + table([t.s("stage"), score_heads(t), H(t, "video"), t.s("player"), H(t, "nation"), t.s("date"),
+                         H(t, "days"), ("drop", H(t, "console")), ("drop", H(t, "difficulty"))], rows))
     parts.append(f'<h2 id="overall">{e(t.s("overall_title", game=t.game(series)))}</h2>')
     parts.append(ranking_table(t, TOTAL_OF[series], pre))
     write(t.lang, f"{SLUG[series]}.html", page(t, f"{SLUG[series]}.html", t.game(series), "\n".join(parts),
@@ -605,7 +647,7 @@ def ranking_table(t: T, total_id, pre, limit=None):
              f'<span class="num"><b>{r["score"]:,}</b></span>' if r.get("score") is not None else "",
              f'<span class="num">{r["rps"]:,}</span>' if r.get("rps") is not None else "", str(r.get("boards") or "")]
             for r in tot["rows"][:limit]]
-    return table(["#", t.s("player"), t.s("nation"), t.s("total_score"), t.s("points"), t.s("stages")], rows)
+    return table(["#", t.s("player"), H(t, "nation"), H(t, "total_score"), H(t, "points"), H(t, "stages")], rows)
 
 
 def ranking_page(t: T, total_id, title, series):
@@ -630,22 +672,22 @@ def history_page(t: T, c, rule, sid):
         w = wrs[0]
         vid = next((p for p in wrs if norm_video(p.get("video"))), None)
         rows = [[t.date(p.get("date")), score_cell(p, rule, sid, t), video_cell(p, t), player(p["user"], t, pre),
-                 flag(p["user"], t), console_cell(p.get("console"), t), days_between(p.get("date"), NOW)]
+                 flag(p["user"], t), console_cell(p.get("console"), t, sid), difficulty_cell(p, t, sid), days_between(p.get("date"), NOW)]
                 for p in wrs[:5]]
         more = f'<p class="small">{e(t.s("and_more_tied", n=len(wrs) - 5))}</p>' if len(wrs) > 5 else ""
         parts.append(f"<h2>{e(t.s('current_wr'))}</h2>"
-                     + table([t.s("date"), score_heads(t), t.s("video"), t.s("player"), t.s("nation"), t.s("console"),
-                              t.s("days")], rows) + more)
+                     + table([t.s("date"), score_heads(t), H(t, "video"), t.s("player"), H(t, "nation"), ("drop", H(t, "console")), ("drop", H(t, "difficulty")),
+                              H(t, "days")], rows) + more)
         shown = vid
         if not vid:
             bv = best_with_video(k, low)
             if bv:
                 parts.append(f'<p class="note">{e(t.s("no_wr_video"))}</p>'
-                             + table([t.s("date"), score_heads(t), t.s("video"), t.s("player"), t.s("nation"),
-                                      t.s("console")],
+                             + table([t.s("date"), score_heads(t), H(t, "video"), t.s("player"), H(t, "nation"),
+                                      ("drop", H(t, "console")), ("drop", H(t, "difficulty"))],
                                      [[t.date(bv.get("date")), score_cell(bv, rule, sid, t), video_cell(bv, t),
                                        player(bv["user"], t, pre), flag(bv["user"], t),
-                                       console_cell(bv.get("console"), t)]]))
+                                       console_cell(bv.get("console"), t, sid), difficulty_cell(bv, t, sid)]]))
                 shown = bv
         if shown:
             parts.append(embed(shown, t))
@@ -666,12 +708,12 @@ def history_page(t: T, c, rule, sid):
             names = ", ".join(f'{display_name(x["user"], t.lang)} ({t.date(x["date"])})' for x in ties)
             tie = f'<span class="tie" title="{e(names)}">+{len(ties)}</span>'
         rows.append([t.date(r["date"]), score_cell(r, rule, sid, t), video_cell(r, t), player(r["user"], t, pre),
-                     flag(r["user"], t), tie, console_cell(r.get("console"), t), lasted])
+                     flag(r["user"], t), tie, console_cell(r.get("console"), t, sid), difficulty_cell(r, t, sid), lasted])
     rows.reverse()
     note = "" if h.get("backfilled") else f'<p class="note">{e(t.s("not_backfilled"))}</p>'
     parts.append(f"<h2>{e(t.s('history'))}</h2>" + note
-                 + table([t.s("date"), score_heads(t), t.s("video"), t.s("player"), t.s("nation"), t.s("tied_by"),
-                          t.s("console"), t.s("days")], rows))
+                 + table([t.s("date"), score_heads(t), H(t, "video"), t.s("player"), H(t, "nation"), H(t, "tied_by"),
+                          ("drop", H(t, "console")), ("drop", H(t, "difficulty")), H(t, "days")], rows))
     write(t.lang, rel, page(t, rel, f"{t.stage(sid)} - {t.cat(c)}", "\n".join(parts), series=c["series"],
                             current_key=k))
 
@@ -682,11 +724,11 @@ def board_page(t: T, c, rule, sid):
     rel = f"board/{k}.html"
     b = board(k)
     low = bool(b.get("lower_is_better"))
-    head = ["#", score_heads(t), t.s("video"), t.s("player"), t.s("nation"), t.s("points"), t.s("date"),
-            t.s("console"), t.s("comment")]
+    head = ["#", score_heads(t), H(t, "video"), t.s("player"), H(t, "nation"), H(t, "points"), t.s("date"),
+            ("drop", H(t, "console")), ("drop", H(t, "difficulty")), t.s("comment")]
     rows = [[str(p.get("rank") or ""), score_cell(p, rule, sid, t), video_cell(p, t), player(p["user"], t, pre),
              flag(p["user"], t), f'<span class="num">{p["rps"]:,}</span>' if p.get("rps") is not None else "", t.date(p.get("date")),
-             console_cell(p.get("console"), t), e((p.get("comment") or "")[:80])]
+             console_cell(p.get("console"), t, sid), difficulty_cell(p, t, sid), e((p.get("comment") or "")[:80])]
             for p in b["posts"]]
 
     # snapshot data: every archived submission, with pre-rendered cells
@@ -695,7 +737,7 @@ def board_page(t: T, c, rule, sid):
         "low": low,
         "rows": [{"u": a["user"], "s": a["score"], "d": t.date(a.get("date")),
                   "c": [*score_cell(a, rule, sid, t), video_cell(a, t), player(a["user"], t, pre),
-                        flag(a["user"], t), "", t.date(a.get("date")), console_cell(a.get("console"), t),
+                        flag(a["user"], t), "", t.date(a.get("date")), console_cell(a.get("console"), t, sid), difficulty_cell(a, t, sid),
                         e((a.get("comment") or "")[:80])]}
                  for a in arc if a.get("score") is not None],
     }
@@ -742,7 +784,7 @@ def player_page(t: T, uid, entries):
                      f'<a href="../history/{bkey(r, sid)}.html">{e(t.stage(sid))}</a>',
                      score_cell(p, r, sid, t), video_cell(p, t),
                      '<b class="gold">1</b>' if rank == 1 else str(rank or ""),
-                     t.date(p.get("date")), console_cell(p.get("console"), t)])
+                     t.date(p.get("date")), console_cell(p.get("console"), t, sid), difficulty_cell(p, t, sid)])
     name = users.get(uid) or uid
     shown = display_name(uid, t.lang)
     title = e(shown) + (f' <span class="romaji">({e(name)})</span>' if shown != name else "")
@@ -752,8 +794,8 @@ def player_page(t: T, uid, entries):
         links.append(f'<a href="https://www.speedrun.com/users/{quote(src)}" target="_blank" rel="noopener">speedrun.com</a>')
     body = (f"<h1>{flag(uid, t)} {title}</h1>"
             f'<p class="facts">{e(t.s("player_facts", n=len(entries), w=wrs))} [ {" | ".join(links)} ]</p>'
-            + table([t.s("game"), t.s("category"), t.s("stage"), score_heads(t), t.s("video"), t.s("rank"),
-                     t.s("date"), t.s("console")], rows))
+            + table([t.s("game"), t.s("category"), t.s("stage"), score_heads(t), H(t, "video"), H(t, "rank"),
+                     t.s("date"), ("drop", H(t, "console")), ("drop", H(t, "difficulty"))], rows))
     write(t.lang, rel, page(t, rel, shown, body))
     return wrs
 
@@ -761,7 +803,7 @@ def player_page(t: T, uid, entries):
 def players_index(t: T, per, wr_counts):
     rows = [[player(uid, t, ""), flag(uid, t), str(wr_counts.get(uid, 0)), str(len(per[uid]))]
             for uid in sorted(per, key=lambda u: (-wr_counts.get(u, 0), -len(per[u]), display_name(u, t.lang).lower()))]
-    body = f"<h1>{e(t.s('players'))}</h1>" + table([t.s("player"), t.s("nation"), t.s("cur_firsts"), t.s("records")], rows)
+    body = f"<h1>{e(t.s('players'))}</h1>" + table([t.s("player"), H(t, "nation"), H(t, "cur_firsts"), H(t, "records")], rows)
     write(t.lang, "players.html", page(t, "players.html", t.s("players"), body))
 
 
@@ -786,7 +828,7 @@ def index_page(t: T):
     body = (f"<h1>{e(t.s('site'))}</h1><p>{t.s('intro', pik5=pik5_link)}</p>"
             f"<ul class='games'>{games}</ul>"
             f"<h2>{e(t.s('recent'))}</h2>"
-            + table([t.s("date"), t.s("game"), t.s("stage"), score_heads(t), t.s("video"), t.s("player"), t.s("nation")],
+            + table([t.s("date"), t.s("game"), t.s("stage"), score_heads(t), H(t, "video"), t.s("player"), H(t, "nation")],
                     rows))
     write(t.lang, "index.html", page(t, "index.html", t.s("home"), body))
 
@@ -822,6 +864,9 @@ def tas_page(t: T):
             wr = current_wrs(k)
             wr_score = wr[0]["score"] if wr else None
             r = runs.get(sid)
+            # a Pikmin 2 TAS only counts if it beats the real-time record
+            if r and series == 2 and wr_score is not None and r["score"] <= wr_score:
+                r = None
             if not r:
                 rows.append([link, f'<span class="small">{e(t.s("no_tas"))}</span>', "", "", "", "", "",
                              f"{wr_score:,}" if wr_score is not None else ""])
@@ -838,12 +883,39 @@ def tas_page(t: T):
                 r.get("date", ""), str(tl) if tl is not None else "",
                 (EGG + f' {r["mitites"]}') if r.get("mitites") else "",
                 (f"{wr_score:,} " if wr_score is not None else "") + diff
-                + (f' <span class="small">{e(r["note"])}</span>' if r.get("note") else ""),
+                + (f' <span class="small">{e(r["note"][t.lang] if isinstance(r["note"], dict) else r["note"])}</span>'
+                   if r.get("note") else ""),
             ])
         parts.append(f"<h2>{e(t.game(series))}</h2>" + table(
-            [t.s("stage"), t.s("score"), t.s("video"), t.s("tasser"), t.s("date"), t.s("time_left_col"),
-             t.s("mitites"), t.s("vs_record")], rows))
+            [t.s("stage"), H(t, "score"), H(t, "video"), t.s("tasser"), t.s("date"), H(t, "time_left_col"),
+             H(t, "mitites"), H(t, "vs_record")], rows))
     write(t.lang, "tas.html", page(t, "tas.html", t.s("tas_title"), "\n".join(parts)))
+
+
+CONFIG = json.loads((SRC / "config.json").read_text(encoding="utf-8"))
+
+
+def suggest_page(t: T):
+    """Suggestion form. Entries go to the form service set in site/config.json."""
+    cfg = CONFIG.get("suggestions") or {}
+    f = cfg.get("fields") or {}
+    action = cfg.get("action") or ""
+    setup = "" if action else f'<p class="note">{e(t.s("suggest_off"))}</p>'
+    body = f"""<h1>{e(t.s("suggest_title"))}</h1>
+<p>{e(t.s("suggest_intro"))}</p>{setup}
+<form id="suggest" class="suggest" action="{e(action)}" method="POST"
+      data-no-cors="{'1' if cfg.get('no_cors') else ''}">
+  <label>{e(t.s("suggest_name"))}<br><input name="{e(f.get('name', 'name'))}" maxlength="80"
+         placeholder="{e(t.s('suggest_name_ph'))}"></label>
+  <label>{e(t.s("suggest_text"))}<br><textarea name="{e(f.get('message', 'message'))}" rows="7" maxlength="4000" required></textarea></label>
+  <label>{e(t.s("suggest_contact"))}<br><input name="{e(f.get('contact', 'contact'))}" maxlength="120"
+         placeholder="{e(t.s('suggest_contact_ph'))}"></label>
+  <input type="hidden" name="{e(f.get('page', 'page'))}" id="suggest-page">
+  <button type="submit"{'' if action else ' disabled'}>{e(t.s("suggest_send"))}</button>
+  <span id="suggest-status" class="small"></span>
+</form>
+<script>window.SUGGEST_TEXT={json.dumps({"sent": t.s("suggest_sent"), "fail": t.s("suggest_fail"), "sending": t.s("suggest_sending")}, ensure_ascii=False)}</script>"""
+    write(t.lang, "suggest.html", page(t, "suggest.html", t.s("suggest_title"), body))
 
 
 def main():
@@ -864,15 +936,13 @@ def main():
             for r, sid in c["boards"]:
                 history_page(t, c, r, sid)
                 board_page(t, c, r, sid)
-            if c["id"] != "p2":
-                ranking_page(t, c["total"], t.s("cat_ranking_title", cat=t.cat(c), game=t.game(c["series"])),
-                             c["series"])
         for s, tid in TOTAL_OF.items():
             ranking_page(t, tid, t.s("overall_title", game=t.game(s)), s)
         wr_counts = {uid: player_page(t, uid, ent) for uid, ent in per.items()}
         players_index(t, per, wr_counts)
         index_page(t)
         tas_page(t)
+        suggest_page(t)
     n = sum(1 for _ in DIST.rglob("*.html"))
     print(f"built {n} pages into {DIST}")
 

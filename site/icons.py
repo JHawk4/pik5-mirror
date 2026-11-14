@@ -92,3 +92,23 @@ CAMERA = ('<svg class="ic" viewBox="0 0 18 14" width="18" height="14" aria-hidde
           '<path d="M6 1h6l1.3 2H16a1.5 1.5 0 0 1 1.5 1.5v7A1.5 1.5 0 0 1 16 13H2a1.5 1.5 0 0 1-1.5-1.5v-7'
           'A1.5 1.5 0 0 1 2 3h2.7z" fill="#5a6b7d"/>'
           '<circle cx="9" cy="8" r="3.2" fill="#fff"/><circle cx="9" cy="8" r="1.8" fill="#5a6b7d"/></svg>')
+
+
+# pik5 difficulty codes (labels from pik5: おだやか / ふつう / きょうぼう)
+DIFFICULTY = {
+    1: ("E", "#3aa25a", {"en": "Easy (おだやか)", "ja": "おだやか"}),
+    2: ("N", "#8a8f98", {"en": "Normal (ふつう)", "ja": "ふつう"}),
+    3: ("H", "#d8423a", {"en": "Hard (きょうぼう)", "ja": "きょうぼう"}),
+}
+
+
+def difficulty_icon(code, lang):
+    d = DIFFICULTY.get(code)
+    if not d:
+        return ""
+    letter, color, names = d
+    return (f'<span class="ico" title="{escape(names[lang])}">'
+            f'<svg class="ic" viewBox="0 0 14 14" width="14" height="14" aria-hidden="true">'
+            f'<rect x="0" y="0" width="14" height="14" rx="3" fill="{color}"/>'
+            f'<text x="7" y="10.5" font-size="9.5" font-weight="700" text-anchor="middle" fill="#fff" '
+            f'font-family="Verdana,sans-serif">{letter}</text></svg></span>')

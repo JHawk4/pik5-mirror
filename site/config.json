@@ -1,0 +1,14 @@
+{
+ "_about": "Site settings. suggestions: where the suggestion form sends entries. Leave action empty until a form service is set up; the page then says suggestions aren't connected yet. Works with any service that accepts a plain HTML form POST: Formspree (action = https://formspree.io/f/<id>, fields name/message/page), or a Google Form (action = https://docs.google.com/forms/d/e/<id>/formResponse, fields = the form's entry.NNNN ids; set no_cors true).",
+ "suggestions": {
+  "action": "https://docs.google.com/forms/d/e/1FAIpQLSepPb6F7_Y6DlLoHn-nqpy2KG3BqaMLfDLAdArL9B5iyEt_LA/formResponse",
+  "form_view": "https://docs.google.com/forms/d/e/1FAIpQLSepPb6F7_Y6DlLoHn-nqpy2KG3BqaMLfDLAdArL9B5iyEt_LA/viewform",
+  "fields": {
+   "name": "entry.1125475916",
+   "message": "entry.1148029577",
+   "contact": "entry.303778019",
+   "page": "entry.1626566187"
+  },
+  "no_cors": true
+ }
+}

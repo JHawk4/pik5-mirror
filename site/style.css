@@ -24,7 +24,7 @@ body {
 a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-#outer { max-width: 1180px; margin: 0 auto; }
+#outer { margin: 0 auto; }
 
 /* header: site name at left above the sidebar, bracket navigation at right */
 #header { display: flex; align-items: flex-end; gap: 10px; padding: 8px 10px 6px 0; }
@@ -67,7 +67,8 @@ ul.games li { margin: 2px 0; font-size: 13px; }
 /* tables */
 .tw { max-width: 100%; overflow-x: auto; }
 table.wr { border-collapse: collapse; margin: 2px 0 6px; }
-table.wr th { text-align: left; padding: 1px 6px 1px 1px; white-space: nowrap; vertical-align: bottom; }
+table.wr th { text-align: left; padding: 1px 6px 1px 1px; vertical-align: bottom; line-height: 1.15; }
+table.wr th span[title] { cursor: help; text-decoration: underline dotted #aaa; text-underline-offset: 2px; }
 table.wr td { border: 1px solid var(--line); padding: 2px 8px; vertical-align: middle; }
 table.wr tr.proof td { background: var(--proof); font-size: 11px; }
 table.wr tr.proof td:first-child { padding-left: 14px; }
@@ -132,3 +133,8 @@ a.tie { cursor: pointer; }
 /* numbers: right-aligned and monospaced so digits line up */
 .num { font-family: Consolas, "SFMono-Regular", Menlo, "Courier New", monospace; white-space: nowrap; }
 td:has(> .num) { text-align: right; }
+
+/* suggestion form */
+.suggest { max-width: 560px; display: grid; gap: 10px; margin-top: 8px; }
+.suggest input, .suggest textarea { width: 100%; font: inherit; padding: 4px 6px; border: 1px solid var(--line); }
+.suggest button { justify-self: start; font: inherit; padding: 4px 16px; }
