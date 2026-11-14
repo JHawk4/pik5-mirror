@@ -5,7 +5,7 @@
   {
    "user": "Bl6AltMzq5Jx4aM",
    "rank": 1,
-   "rps": 192788,
+   "rps": 192990,
    "score": 13433,
    "boards": 35,
    "date": "2026-11-14T13:02:00.000000Z"
@@ -13,18 +13,18 @@
   {
    "user": "albut3",
    "rank": 2,
-   "rps": 128066,
-   "score": 10133,
-   "boards": 23,
-   "date": "2026-11-13T06:49:59.000000Z"
+   "rps": 130558,
+   "score": 10448,
+   "boards": 24,
+   "date": "2026-11-14T20:42:50.000000Z"
   },
   {
    "user": "koppacha",
    "rank": 3,
-   "rps": 94255,
-   "score": 10100,
+   "rps": 94576,
+   "score": 10109,
    "boards": 35,
-   "date": "2026-11-14T10:32:27.000000Z"
+   "date": "2026-11-14T19:11:49.000000Z"
   },
   {
    "user": "6harapikumin",
@@ -37,7 +37,7 @@
   {
    "user": "toripoppo0307",
    "rank": 5,
-   "rps": 113408,
+   "rps": 113416,
    "score": 9238,
    "boards": 28,
    "date": "2026-11-13T23:59:32.000000Z"
@@ -85,7 +85,7 @@
   {
    "user": "96_Leaf",
    "rank": 11,
-   "rps": 105031,
+   "rps": 105207,
    "score": 6720,
    "boards": 21,
    "date": "2026-11-14T01:21:49.000000Z"
@@ -165,7 +165,7 @@
   {
    "user": "kobachi_no_udon",
    "rank": 21,
-   "rps": 55191,
+   "rps": 55390,
    "score": 5132,
    "boards": 14,
    "date": "2026-11-13T20:11:29.000000Z"
@@ -221,7 +221,7 @@
   {
    "user": "hocotate",
    "rank": 28,
-   "rps": 23804,
+   "rps": 23654,
    "score": 3948,
    "boards": 12,
    "date": "2026-11-13T12:05:38.000000Z"
@@ -245,7 +245,7 @@
   {
    "user": "shiragawatanuki",
    "rank": 31,
-   "rps": 30233,
+   "rps": 30100,
    "score": 3546,
    "boards": 9,
    "date": "2026-11-13T16:10:11.000000Z"
@@ -253,7 +253,7 @@
   {
    "user": "pikitto",
    "rank": 32,
-   "rps": 42743,
+   "rps": 42774,
    "score": 3537,
    "boards": 10,
    "date": "2026-11-12T23:59:07.000000Z"
@@ -405,7 +405,7 @@
   {
    "user": "yukimi",
    "rank": 51,
-   "rps": 14545,
+   "rps": 14537,
    "score": 1524,
    "boards": 6,
    "date": "2026-11-14T10:26:12.000000Z"
@@ -565,7 +565,7 @@
   {
    "user": "himazinn",
    "rank": 71,
-   "rps": 5412,
+   "rps": 5444,
    "score": 687,
    "boards": 3,
    "date": "2026-11-14T12:41:57.000000Z"
@@ -629,7 +629,7 @@
   {
    "user": "Abebe0311",
    "rank": 79,
-   "rps": 4437,
+   "rps": 4275,
    "score": 525,
    "boards": 2,
    "date": "2026-11-12T06:48:07.000000Z"
@@ -693,7 +693,7 @@
   {
    "user": "pizza_dx",
    "rank": 86,
-   "rps": 3161,
+   "rps": 3199,
    "score": 376,
    "boards": 2,
    "date": "2026-11-11T18:53:52.000000Z"
@@ -819,8 +819,16 @@
    "date": "2023-08-10T03:05:15.000000Z"
   },
   {
-   "user": "Pikiman",
+   "user": "SaSa_Nae",
    "rank": 103,
+   "rps": 1968,
+   "score": 159,
+   "boards": 1,
+   "date": "2026-11-14T20:13:03.000000Z"
+  },
+  {
+   "user": "Pikiman",
+   "rank": 104,
    "rps": 1421,
    "score": 135,
    "boards": 1,
@@ -828,7 +836,7 @@
   },
   {
    "user": "sosogiouka",
-   "rank": 104,
+   "rank": 105,
    "rps": 3204,
    "score": 124,
    "boards": 1,
@@ -836,7 +844,7 @@
   },
   {
    "user": "YYH_speedrun",
-   "rank": 105,
+   "rank": 106,
    "rps": 2986,
    "score": 120,
    "boards": 1,
