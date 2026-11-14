@@ -51,27 +51,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 593,
    "uid": null,
    "user": "FeTellYou",
    "score": 13962,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 2394,
    "uid": null,
    "user": "pikmin893",
    "score": 13967,
-   "date": "2016-10-15T00:00:00.000000Z",
+   "date": "2016-10-15T05:01:00.000000Z",
    "video": "https://www.youtube.com/watch?v=5mZo4OMGhvI&feature=youtu.be",
    "img": "20161015-230103-1767638876.png",
-   "console": null,
-   "comment": "[NGC] 意☆味☆不☆明",
+   "console": 1,
+   "comment": "意☆味☆不☆明",
    "tie": false
   },
   {
@@ -87,15 +87,15 @@
    "tie": true
   },
   {
-   "id": null,
+   "id": 6136,
    "uid": null,
    "user": "HoshiKUZU_pik",
    "score": 13969,
-   "date": "2018-04-03T00:00:00.000000Z",
+   "date": "2018-04-03T05:49:49.000000Z",
    "video": "https://m.youtube.com/watch?v=sZRWrDbT3Wo",
    "img": "20180403-234949-347713832.jpeg",
-   "console": null,
-   "comment": "[NGC] 気づいたら終わってた",
+   "console": 1,
+   "comment": "気づいたら終わってた",
    "tie": false
   },
   {
@@ -159,15 +159,15 @@
    "tie": true
   },
   {
-   "id": null,
+   "id": 14888,
    "uid": null,
    "user": "mercysnow",
    "score": 13973,
-   "date": "2022-08-10T00:00:00.000000Z",
+   "date": "2022-08-10T00:50:44.000000Z",
    "video": "https://youtu.be/bwasPVKC3qw",
-   "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "img": null,
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {

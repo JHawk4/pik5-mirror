@@ -27,27 +27,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 737,
    "uid": null,
    "user": "Selenium_pikmin",
    "score": 32055,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 1222,
    "uid": null,
    "user": "FeTellYou",
    "score": 32137,
-   "date": "2015-11-14T00:00:00.000000Z",
+   "date": "2015-11-14T03:58:00.000000Z",
    "video": "",
    "img": "20151114-215854-100573854.jpg",
-   "console": null,
-   "comment": "[NGC] ×20引きました。ごめんなさい。",
+   "console": 1,
+   "comment": "×20引きました。ごめんなさい。",
    "tie": false
   },
   {
@@ -63,27 +63,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 12934,
    "uid": null,
    "user": "fuji_luck",
    "score": 32217,
-   "date": "2021-07-23T00:00:00.000000Z",
+   "date": "2021-07-23T05:40:48.000000Z",
    "video": "https://youtu.be/jcuMZnyz6xY",
    "img": "20210723-234049-416091313.bmp",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 15700,
    "uid": null,
    "user": "spark573",
    "score": 32222,
-   "date": "2022-12-30T00:00:00.000000Z",
+   "date": "2022-12-30T03:25:03.000000Z",
    "video": "https://youtu.be/RY0KQ51VsUY",
    "img": "20221230-212504-719706741.png",
-   "console": null,
-   "comment": "[Wii] ただ一つだけの悔いを残して",
+   "console": 2,
+   "comment": "ただ一つだけの悔いを残して",
    "tie": false
   },
   {

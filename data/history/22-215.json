@@ -39,15 +39,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 722,
    "uid": null,
    "user": "Selenium_pikmin",
    "score": 6240,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -71,7 +71,7 @@
    "video": "",
    "img": "20170818-163509-1025318090.png",
    "console": 1,
-   "comment": "",
+   "comment": "[NGC] 　",
    "tie": false
   },
   {

@@ -57,48 +57,41 @@
    "comment": "多いフロア、重いお宝、速い白ピクミン。ユキチャッピーとタマコキンは激苦なし。"
   },
   {
-   "id": null,
+   "id": 720,
    "user": "Selenium_pikmin",
    "score": 48382,
-   "date": "2015-11-01T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 909,
    "user": "xxHIMExx",
    "score": 48312,
-   "date": "2015-11-06T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-06T04:42:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 1082,
    "user": "FeTellYou",
    "score": 48382,
-   "date": "2015-11-09T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-09T02:50:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20151109-205011-514872835.png",
-   "comment": "[NGC] 5階を突破するだけのゲーム",
-   "source": "sheet-2023"
+   "comment": "5階を突破するだけのゲーム",
+   "img": "20151109-205011-514872835.png"
   },
   {
-   "id": null,
+   "id": 1115,
    "user": "maramon",
    "score": 48359,
-   "date": "2015-11-09T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-09T05:06:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 1353,
@@ -111,15 +104,14 @@
    "img": "20151201-143217-519839852.jpg"
   },
   {
-   "id": null,
+   "id": 1475,
    "user": "HoshiKUZU_pik",
    "score": 48385,
-   "date": "2016-02-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2016-02-18T02:21:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20160218-202105-442216246.png",
-   "comment": "[NGC] 俺はTASと張り合う",
-   "source": "sheet-2023"
+   "comment": "俺はTASと張り合う",
+   "img": "20160218-202105-442216246.png"
   },
   {
    "id": 2839,
@@ -132,15 +124,14 @@
    "img": "20170126-125244-72828912.bmp"
   },
   {
-   "id": null,
+   "id": 3278,
    "user": "mezasi_pikmin",
    "score": 48362,
-   "date": "2017-03-24T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-03-24T02:10:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20170324-201015-413564782.jpeg",
-   "comment": "[NGC] 5Fやめろ",
-   "source": "sheet-2023"
+   "comment": "5Fやめろ",
+   "img": "20170324-201015-413564782.jpeg"
   },
   {
    "id": 3326,
@@ -171,15 +162,13 @@
    "img": "20170708-221951-167287132.jpg"
   },
   {
-   "id": null,
+   "id": 4735,
    "user": "agosuke",
    "score": 48238,
-   "date": "2017-09-08T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-09-08T05:36:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 4896,
@@ -192,26 +181,24 @@
    "img": "20171004-171550-1761834420.JPG"
   },
   {
-   "id": null,
-   "user": "dayomin",
-   "score": 48362,
-   "date": "2017-11-19T00:00:00.000000Z",
-   "console": null,
-   "video": "",
-   "img": "20171119-233052-1461273853.JPG",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
-  },
-  {
-   "id": null,
+   "id": 5126,
    "user": "pikmin893",
    "score": 48397,
-   "date": "2017-11-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-11-19T00:21:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20171119-182130-1196745206.png",
-   "comment": "[NGC] どうやったら48400乗るんだ(ﾃﾉﾋﾗｸﾙｰ",
-   "source": "sheet-2023"
+   "comment": "どうやったら48400乗るんだ(ﾃﾉﾋﾗｸﾙｰ",
+   "img": "20171119-182130-1196745206.png"
+  },
+  {
+   "id": 5129,
+   "user": "dayomin",
+   "score": 48362,
+   "date": "2017-11-19T05:30:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし",
+   "img": "20171119-233052-1461273853.JPG"
   },
   {
    "id": 5475,
@@ -274,26 +261,24 @@
    "comment": "タイム113…ちょっと運が悪かったのでまだ伸びるはず"
   },
   {
-   "id": null,
+   "id": 6627,
    "user": "flyinghawk",
    "score": 48388,
-   "date": "2018-07-15T00:00:00.000000Z",
-   "console": null,
+   "date": "2018-07-15T01:34:58.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20180715-193458-2130776138.jpg",
-   "comment": "[NGC] 運ゲー",
-   "source": "sheet-2023"
+   "comment": "運ゲー",
+   "img": "20180715-193458-2130776138.jpg"
   },
   {
-   "id": null,
+   "id": 6888,
    "user": "noamoa",
    "score": 48387,
-   "date": "2018-09-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2018-09-18T04:10:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20180918-221000-1291058032.jpg",
-   "comment": "[Wii] B5の配置が良かった",
-   "source": "sheet-2023"
+   "comment": "B5の配置が良かった",
+   "img": "20180918-221000-1291058032.jpg"
   },
   {
    "id": 6921,
@@ -306,15 +291,14 @@
    "img": "20180926-040712-563970750.mp4"
   },
   {
-   "id": null,
+   "id": 6955,
    "user": "Z_pikmin",
    "score": 48385,
-   "date": "2018-10-11T00:00:00.000000Z",
-   "console": null,
+   "date": "2018-10-11T00:18:40.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20181011-181840-884620307.JPG",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20181011-181840-884620307.JPG"
   },
   {
    "id": 7466,
@@ -409,15 +393,14 @@
    "img": "20200703-140044-42047051.bmp"
   },
   {
-   "id": null,
+   "id": 8769,
    "user": "TEL",
    "score": 48383,
-   "date": "2020-07-09T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-07-09T05:01:41.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20200709-230141-533655187.bmp",
-   "comment": "[NGC] 配置はよかったけどプレイングがゴミ",
-   "source": "sheet-2023"
+   "comment": "配置はよかったけどプレイングがゴミ",
+   "img": "20200709-230141-533655187.bmp"
   },
   {
    "id": 8810,
@@ -451,15 +434,13 @@
    "img": "20200731-075643-1458168980.jpeg"
   },
   {
-   "id": null,
+   "id": 10643,
    "user": "ryuun",
    "score": 48372,
-   "date": "2020-10-02T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-10-02T05:18:48.000000Z",
+   "console": 1,
    "video": "https://youtu.be/mMFRmfPrDRA",
-   "img": "",
-   "comment": "[NGC] 7階の配置が良かっただけ",
-   "source": "sheet-2023"
+   "comment": "7Fのお宝配置が良かっただけ、という感想"
   },
   {
    "id": 10647,
@@ -505,15 +486,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 11514,
    "user": "messhi475",
    "score": 48273,
-   "date": "2020-12-01T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-01T02:26:50.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20201201-202652-964104982.JPG",
-   "comment": "[NGC] 何年前に出した記録でしょうか・・・",
-   "source": "sheet-2023"
+   "comment": "何年前に出した記録でしょうか・・・",
+   "img": "20201201-202652-964104982.JPG"
   },
   {
    "id": 11566,
@@ -633,15 +613,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 13277,
    "user": "nakatatsu",
    "score": 48372,
-   "date": "2021-10-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-10-19T03:29:01.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20211019-212902-1134349592.jpg",
-   "comment": "[NGC] 運ゲー 4F 7F良 2F 5F 悪配置",
-   "source": "sheet-2023"
+   "comment": "運ゲー 4F 7F良 2F 5F 悪配置",
+   "img": "20211019-212902-1134349592.jpg"
   },
   {
    "id": 13380,
@@ -945,15 +924,13 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 15611,
    "user": "mercysnow",
    "score": 48407,
-   "date": "2022-11-28T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-11-28T00:26:37.000000Z",
+   "console": 2,
    "video": "https://youtu.be/Mr3D3I9NzCA",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": null,

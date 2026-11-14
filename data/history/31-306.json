@@ -63,15 +63,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 12038,
    "uid": null,
    "user": "ryuun",
    "score": 9520,
-   "date": "2021-01-23T00:00:00.000000Z",
+   "date": "2021-01-23T01:07:42.000000Z",
    "video": "https://youtu.be/QjZv2fpjl14",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] 概ね満足した",
+   "img": null,
+   "console": 4,
+   "comment": "概ね満足した",
    "tie": false
   },
   {
@@ -99,15 +99,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14472,
+   "uid": 277778964,
    "user": "esu",
    "score": 10390,
-   "date": "2022-03-26T00:00:00.000000Z",
+   "date": "2022-03-26T03:21:46.000000Z",
    "video": "https://youtu.be/Pro3S-RTiLs",
-   "img": "20220326-212146-972388055.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] やっと納得しました。",
+   "console": 4,
+   "comment": "やっと納得しました。",
    "tie": false
   }
  ],

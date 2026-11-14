@@ -3,15 +3,15 @@
  "stage": 337,
  "records": [
   {
-   "id": null,
+   "id": 11101,
    "uid": null,
    "user": "Pikleaf",
    "score": 4670,
-   "date": "2020-11-09T00:00:00.000000Z",
+   "date": "2020-11-09T01:33:19.000000Z",
    "video": "https://www.youtube.com/watch?v=c8NXg9Ayhq8",
-   "img": "",
-   "console": null,
-   "comment": "[Joy-Con Double$] コメントなし",
+   "img": null,
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -27,27 +27,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 11410,
    "uid": null,
    "user": "refupikumin",
    "score": 5120,
-   "date": "2020-11-25T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1331525677149949954/pu/vid/1280x720/ksRq5vXxAJBImQpZ.mp4?tag=10",
+   "date": "2020-11-25T00:29:02.000000Z",
+   "video": "https://twitter.com/komarefu/status/1331525726630150144?s=19",
    "img": "20201125-182902-1635124517.jpg",
-   "console": null,
-   "comment": "[Switch Pro$] ピクミン増殖いらんな",
+   "console": 4,
+   "comment": "ピクミン増殖いらんな",
    "tie": false
   },
   {
-   "id": null,
+   "id": 11795,
    "uid": null,
    "user": "RexMcPwn",
    "score": 5410,
-   "date": "2020-12-30T00:00:00.000000Z",
+   "date": "2020-12-30T01:59:29.000000Z",
    "video": "https://www.youtube.com/watch?v=JC-mFjU19kU",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "img": null,
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -111,15 +111,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 14981,
    "uid": null,
    "user": "esu",
    "score": 6460,
-   "date": "2022-08-21T00:00:00.000000Z",
+   "date": "2022-08-21T03:19:59.000000Z",
    "video": "https://youtu.be/vL6cLhQlvE0",
    "img": "20220821-211959-1564704247.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 6500点まで行きます",
+   "console": 4,
+   "comment": "6500点まで行きます",
    "tie": false
   },
   {

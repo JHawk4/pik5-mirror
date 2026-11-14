@@ -39,15 +39,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 1974,
    "uid": null,
    "user": "PKtoyama",
    "score": 586,
-   "date": "2016-04-09T00:00:00.000000Z",
+   "date": "2016-04-09T02:46:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[Wii] やり方変えないと2分はきれないか",
+   "img": null,
+   "console": 2,
+   "comment": "やり方変えないと2分はきれないか",
    "tie": false
   },
   {
@@ -63,15 +63,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 11114,
    "uid": null,
    "user": "nanshitsujuukinzounaizou",
    "score": 639,
-   "date": "2020-11-10T00:00:00.000000Z",
+   "date": "2020-11-10T05:33:11.000000Z",
    "video": "",
    "img": "20201110-233311-1749790150.jpg",
-   "console": null,
-   "comment": "[Joy-Con Double#] 犠牲7匹　ゴリ押したら何故か犠牲が減ってタイムも伸びました",
+   "console": 4,
+   "comment": "犠牲7匹　ゴリ押したら何故か犠牲が減ってタイムも伸びました",
    "tie": false
   },
   {
@@ -87,27 +87,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 11173,
    "uid": null,
    "user": "YT7GyX7X6SN2S8v",
    "score": 667,
-   "date": "2020-11-13T00:00:00.000000Z",
+   "date": "2020-11-13T03:35:21.000000Z",
    "video": "https://youtu.be/p1nC-Z3Bmv4",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro#] デレた",
+   "img": null,
+   "console": 4,
+   "comment": "デレた",
    "tie": false
   },
   {
-   "id": null,
+   "id": 11195,
    "uid": null,
    "user": "zukki",
    "score": 669,
-   "date": "2020-11-14T00:00:00.000000Z",
+   "date": "2020-11-14T00:12:57.000000Z",
    "video": "https://youtu.be/d7HT_UluVdw",
    "img": "20201114-181257-1182819356.jpg",
-   "console": null,
-   "comment": "[Switch Pro$] ずっと撒き散らしててほしい",
+   "console": 4,
+   "comment": "ずっと撒き散らしててほしい",
    "tie": false
   },
   {

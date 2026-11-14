@@ -58,15 +58,13 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 4170,
    "user": "dermas",
    "score": 475,
-   "date": "2017-06-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-06-18T05:58:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 4259,
@@ -78,48 +76,42 @@
    "comment": "なるほどなあ"
   },
   {
-   "id": null,
+   "id": 4821,
    "user": "Z_pikmin",
    "score": 496,
-   "date": "2017-09-20T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-09-20T05:45:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] もういい",
-   "source": "sheet-2023"
+   "comment": "もういい"
   },
   {
-   "id": null,
+   "id": 8329,
    "user": "tomatopikumin",
    "score": 494,
-   "date": "2020-03-22T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-03-22T03:44:30.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20200322-214430-1185007620.JPG",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20200322-214430-1185007620.JPG"
   },
   {
-   "id": null,
+   "id": 8491,
    "user": "rising",
    "score": 459,
-   "date": "2020-06-01T00:00:00.000000Z",
-   "console": null,
-   "video": "https://youtu.be/shaXehgl_ok",
-   "img": "",
-   "comment": "[Wii] ピクミンの実況者がチャレンジ",
-   "source": "sheet-2023"
+   "date": "2020-06-01T01:35:20.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/shaXehgl_ok ",
+   "comment": "ピクミンの実況者がチャレンジ"
   },
   {
-   "id": null,
+   "id": 11000,
    "user": "toripoppo0307",
    "score": 551,
-   "date": "2020-11-04T00:00:00.000000Z",
-   "console": null,
-   "video": "https://video.twimg.com/ext_tw_video/1324000041208406021/pu/vid/480x270/f_fRvu7z_UPtB_8w.mp4?tag=10",
-   "img": "20201104-234804-19251295.jpg",
-   "comment": "[Joy-Con Double#] とりあえず50秒切り",
-   "source": "sheet-2023"
+   "date": "2020-11-04T05:48:03.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/toripoppo0307/status/1324000064226783234",
+   "comment": "とりあえず50秒切り",
+   "img": "20201104-234804-19251295.jpg"
   },
   {
    "id": 11050,
@@ -191,15 +183,14 @@
    "img": "20201113-171015-20782365.jpeg"
   },
   {
-   "id": null,
+   "id": 11278,
    "user": "yuyukkuri",
    "score": 526,
-   "date": "2020-11-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-11-18T02:33:57.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20201118-203357-633947473.png",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20201118-203357-633947473.png"
   },
   {
    "id": 11421,
@@ -344,15 +335,13 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 12790,
    "user": "Jay596",
    "score": 566,
-   "date": "2021-06-13T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-06-13T05:57:42.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=OWMvIjyWWTs",
-   "img": "",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 12807,
@@ -393,15 +382,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 13840,
    "user": "iid01",
    "score": 566,
-   "date": "2021-11-08T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-08T00:07:03.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=cj0LybEGifk",
-   "img": "20211108-180703-617309202.png",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20211108-180703-617309202.png"
   },
   {
    "id": 13987,
@@ -436,15 +424,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 14660,
    "user": "mikou_musicgame",
    "score": 564,
-   "date": "2022-05-04T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-05-04T03:50:02.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20220504-215002-68041143.JPG",
-   "comment": "[Switch Pro#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20220504-215002-68041143.JPG"
   },
   {
    "id": null,

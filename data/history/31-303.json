@@ -39,15 +39,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 4049,
    "uid": null,
    "user": "identete",
    "score": 14860,
-   "date": "2017-06-04T00:00:00.000000Z",
+   "date": "2017-06-04T05:25:00.000000Z",
    "video": "",
    "img": "20170604-232521-1673179262.jpg",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -87,15 +87,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 14308,
    "uid": null,
    "user": "esu",
    "score": 16150,
-   "date": "2022-03-11T00:00:00.000000Z",
+   "date": "2022-03-11T04:29:16.000000Z",
    "video": "https://youtu.be/7gcfcm66Wy0",
    "img": "20220311-222916-896143707.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 最後のミスが勿体ねぇ…",
+   "console": 4,
+   "comment": "最後のミスが勿体ねぇ…",
    "tie": false
   },
   {

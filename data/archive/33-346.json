@@ -76,37 +76,32 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 4168,
    "user": "dermas",
    "score": 759,
-   "date": "2017-06-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-06-18T05:57:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 5711,
    "user": "Z_pikmin",
    "score": 821,
-   "date": "2018-01-31T00:00:00.000000Z",
-   "console": null,
+   "date": "2018-01-31T00:10:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 8327,
    "user": "tomatopikumin",
    "score": 809,
-   "date": "2020-03-20T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-03-20T04:56:24.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20200320-225624-1868023803.JPG",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20200320-225624-1868023803.JPG"
   },
   {
    "id": 8485,
@@ -158,15 +153,14 @@
    "comment": "犠牲ゼロ　小さい電球3つだけでゴリ押してみました"
   },
   {
-   "id": null,
+   "id": 11001,
    "user": "zukki",
    "score": 874,
-   "date": "2020-11-04T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-11-04T05:48:20.000000Z",
+   "console": 4,
    "video": "https://youtu.be/u0OsACAJQIA",
-   "img": "20201104-234820-2000674207.jpg",
-   "comment": "[Switch Pro$] これも運ゲー",
-   "source": "sheet-2023"
+   "comment": "これも運ゲー",
+   "img": "20201104-234820-2000674207.jpg"
   },
   {
    "id": 11044,
@@ -259,15 +253,14 @@
    "img": "20201121-024959-1857297127.png"
   },
   {
-   "id": null,
+   "id": 11361,
    "user": "S_K",
    "score": 859,
-   "date": "2020-11-21T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-11-21T00:03:34.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20201121-180334-52394782.jpeg",
-   "comment": "[Joy-Con Double$] よろしくお願いします。",
-   "source": "sheet-2023"
+   "comment": "よろしくお願いします。",
+   "img": "20201121-180334-52394782.jpeg"
   },
   {
    "id": 11419,
@@ -321,26 +314,24 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 12416,
    "user": "Rirure",
    "score": 874,
-   "date": "2021-03-23T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-03-23T00:20:35.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210323-182035-1547496266.png",
-   "comment": "[Switch Pro$] Twitterに動画あります。",
-   "source": "sheet-2023"
+   "comment": "Twitterに動画あります。",
+   "img": "20210323-182035-1547496266.png"
   },
   {
-   "id": null,
+   "id": 12548,
    "user": "iid01",
    "score": 877,
-   "date": "2021-04-30T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-04-30T00:01:00.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=aZnkE7IdYIk",
-   "img": "20210430-180100-1397899226.png",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210430-180100-1397899226.png"
   },
   {
    "id": null,
@@ -403,15 +394,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 12968,
    "user": "April_lapispik",
    "score": 847,
-   "date": "2021-08-08T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-08-08T04:45:38.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210808-224538-1869067388.jpg",
-   "comment": "[Joy-Con Double#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210808-224538-1869067388.jpg"
   },
   {
    "id": 13123,
@@ -485,15 +475,14 @@
    "img": "20221004-140445-808026509.jpeg"
   },
   {
-   "id": null,
+   "id": 15489,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 879,
-   "date": "2022-10-30T00:00:00.000000Z",
-   "console": null,
-   "video": "https://video.twimg.com/ext_tw_video/1586643457061552128/pu/vid/1280x720/n5qhcz0iYffLAqo8.mp4?tag=12",
-   "img": "20221030-180435-1572023706.jpeg",
-   "comment": "[Switch Pro$] 22秒すら出したことがなかったのに奇跡的に21秒出せました！ピクミン3DX発売2周年の日に出せて嬉しいです。",
-   "source": "sheet-2023"
+   "date": "2022-10-30T00:04:35.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1586643537814499328?s=61&t=V_TYjmY4wDi1cTRIi7nT8w",
+   "comment": "22秒すら出したことがなかったのに奇跡的に21秒出せました！ピクミン3DX発売2周年の日に出せて嬉しいです。",
+   "img": "20221030-180435-1572023706.jpeg"
   },
   {
    "id": 15615,

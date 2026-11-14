@@ -63,15 +63,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 518,
    "uid": null,
    "user": "keisen2853",
    "score": 16592,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -87,27 +87,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 1287,
    "uid": null,
    "user": "pikmin893",
    "score": 16639,
-   "date": "2015-11-16T00:00:00.000000Z",
+   "date": "2015-11-16T03:15:00.000000Z",
    "video": "",
    "img": "20151116-211527-1885245257.png",
-   "console": null,
-   "comment": "[NGC] タマゴムシ",
+   "console": 1,
+   "comment": "タマゴムシ",
    "tie": false
   },
   {
-   "id": null,
+   "id": 4687,
    "uid": null,
    "user": "Z_pikmin",
    "score": 16652,
-   "date": "2017-09-04T00:00:00.000000Z",
+   "date": "2017-09-04T01:56:00.000000Z",
    "video": "",
    "img": "20170904-195652-1791721695.JPG",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -123,15 +123,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 9905,
    "uid": null,
    "user": "fuji_luck",
    "score": 16683,
-   "date": "2020-09-12T00:00:00.000000Z",
+   "date": "2020-09-12T05:45:44.000000Z",
    "video": "https://youtu.be/5GEpx8qFQJw",
    "img": "20200912-234544-1515119510.bmp",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {

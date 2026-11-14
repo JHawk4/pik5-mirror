@@ -27,15 +27,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 2244,
    "uid": null,
    "user": "noamoa",
    "score": 2700,
-   "date": "2016-06-22T00:00:00.000000Z",
+   "date": "2016-06-22T04:49:00.000000Z",
    "video": "",
    "img": "20160622-224956-1882628407.jpg",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -63,15 +63,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 11995,
    "uid": null,
    "user": "ryuun",
    "score": 3300,
-   "date": "2021-01-18T00:00:00.000000Z",
+   "date": "2021-01-18T00:28:23.000000Z",
    "video": "https://youtu.be/QbLt2-97Nrw",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] まだまだ動きが洗練されていない",
+   "img": null,
+   "console": 4,
+   "comment": "まだまだ動きが洗練されていない",
    "tie": false
   },
   {

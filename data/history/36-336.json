@@ -3,15 +3,15 @@
  "stage": 336,
  "records": [
   {
-   "id": null,
+   "id": 11019,
    "uid": null,
    "user": "Pikleaf",
    "score": 5250,
-   "date": "2020-11-05T00:00:00.000000Z",
+   "date": "2020-11-05T01:46:31.000000Z",
    "video": "https://www.youtube.com/watch?v=IQbGjzNX0OE",
-   "img": "",
-   "console": null,
-   "comment": "[Joy-Con Double$] コメントなし",
+   "img": null,
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {

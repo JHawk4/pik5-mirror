@@ -50,37 +50,31 @@
    "comment": "お宝は左右交互に配置されているようです。伸びしろ多し。"
   },
   {
-   "id": null,
+   "id": 604,
    "user": "FeTellYou",
    "score": 6233,
-   "date": "2015-11-01T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 722,
    "user": "Selenium_pikmin",
    "score": 6240,
-   "date": "2015-11-01T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 911,
    "user": "xxHIMExx",
    "score": 6173,
-   "date": "2015-11-06T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-06T04:43:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 1264,
@@ -92,15 +86,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 1587,
    "user": "ZEOKU",
    "score": 6231,
-   "date": "2016-03-04T00:00:00.000000Z",
-   "console": null,
+   "date": "2016-03-04T00:23:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20160304-182335-1619161853.jpg",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20160304-182335-1619161853.jpg"
   },
   {
    "id": 2886,
@@ -138,7 +131,7 @@
    "date": "2017-08-17T22:35:00.000000Z",
    "console": 1,
    "video": "",
-   "comment": "",
+   "comment": "[NGC] 　",
    "img": "20170818-163509-1025318090.png"
   },
   {
@@ -152,15 +145,13 @@
    "img": "20170820-184501-1619317624.jpg"
   },
   {
-   "id": null,
+   "id": 4736,
    "user": "agosuke",
    "score": 6167,
-   "date": "2017-09-08T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-09-08T05:38:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 4903,
@@ -173,26 +164,23 @@
    "img": "20171006-011622-32970224.JPG"
   },
   {
-   "id": null,
+   "id": 5099,
    "user": "Z_pikmin",
    "score": 6242,
-   "date": "2017-11-11T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-11-11T03:43:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] 弱いけど満足",
-   "source": "sheet-2023"
+   "comment": "弱いけど満足"
   },
   {
-   "id": null,
+   "id": 5316,
    "user": "mezasi_pikmin",
    "score": 6233,
-   "date": "2017-12-23T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-12-23T03:43:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20171223-214327-1121774499.jpeg",
-   "comment": "[NGC] 伸びそうだけど色々アレでアレ",
-   "source": "sheet-2023"
+   "comment": "伸びそうだけど色々アレでアレ",
+   "img": "20171223-214327-1121774499.jpeg"
   },
   {
    "id": 5477,
@@ -275,15 +263,14 @@
    "img": "20180321-143119-1397476952.jpeg"
   },
   {
-   "id": null,
+   "id": 6159,
    "user": "HoshiKUZU_pik",
    "score": 6256,
-   "date": "2018-04-13T00:00:00.000000Z",
-   "console": null,
+   "date": "2018-04-13T00:34:35.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20180413-183435-1462391121.bmp",
-   "comment": "[NGC] ゾウノアシに嫌われた男",
-   "source": "sheet-2023"
+   "comment": "ゾウノアシに嫌われた男",
+   "img": "20180413-183435-1462391121.bmp"
   },
   {
    "id": 6481,
@@ -386,26 +373,24 @@
    "img": "20200413-172723-1450903408.JPG"
   },
   {
-   "id": null,
+   "id": 8386,
    "user": "ToolAssistedPik",
    "score": 6246,
-   "date": "2020-04-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-04-18T04:15:20.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20200418-221520-1657409704.bmp",
-   "comment": "[NGC] ようやっと手前間欠泉の一番奥ダイヤ。",
-   "source": "sheet-2023"
+   "comment": "ようやっと手前間欠泉の一番奥ダイヤ。",
+   "img": "20200418-221520-1657409704.bmp"
   },
   {
-   "id": null,
+   "id": 8433,
    "user": "toripoppo0307",
    "score": 6246,
-   "date": "2020-05-09T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-05-09T01:30:00.000000Z",
+   "console": 1,
    "video": "https://youtu.be/xezstCruq8U",
-   "img": "20200509-193001-1680462365.PNG",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20200509-193001-1680462365.PNG"
   },
   {
    "id": 8555,
@@ -501,15 +486,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 11516,
    "user": "messhi475",
    "score": 6202,
-   "date": "2020-12-01T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-01T02:29:24.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20201201-202927-172576201.JPG",
-   "comment": "[NGC] 何年前に出した記録でしょうか・・・",
-   "source": "sheet-2023"
+   "comment": "何年前に出した記録でしょうか・・・",
+   "img": "20201201-202927-172576201.JPG"
   },
   {
    "id": null,
@@ -523,15 +507,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 12084,
    "user": "nakatatsu",
    "score": 6244,
-   "date": "2021-01-27T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-01-27T00:34:06.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20210127-183409-1327628241.JPG",
-   "comment": "[NGC] やっと間欠泉手前出てくれた",
-   "source": "sheet-2023"
+   "comment": "やっと間欠泉手前出てくれた",
+   "img": "20210127-183409-1327628241.JPG"
   },
   {
    "id": null,
@@ -619,15 +602,14 @@
    "img": "20211110-001050-1867225362.png"
   },
   {
-   "id": null,
+   "id": 13870,
    "user": "nikoshu_pik",
    "score": 6252,
-   "date": "2021-11-10T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-10T03:38:43.000000Z",
+   "console": 2,
    "video": "https://www.youtube.com/watch?v=BTNgp9E6qOc",
-   "img": "20211110-213844-185603359.jpg",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20211110-213844-185603359.jpg"
   },
   {
    "id": null,
@@ -652,26 +634,24 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 14044,
    "user": "April_lapispik",
    "score": 6239,
-   "date": "2021-12-04T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-12-04T00:57:16.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20211204-185717-1232729975.jpg",
-   "comment": "[NGC] 惜しい",
-   "source": "sheet-2023"
+   "comment": "惜しい",
+   "img": "20211204-185717-1232729975.jpg"
   },
   {
-   "id": null,
+   "id": 14068,
    "user": "yukidaruma",
    "score": 6240,
-   "date": "2021-12-12T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-12-12T05:17:48.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20211212-231750-409651945.jpeg",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20211212-231750-409651945.jpeg"
   },
   {
    "id": null,
@@ -814,15 +794,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 15122,
    "user": "6harapikumin",
    "score": 6207,
-   "date": "2022-09-28T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-09-28T02:30:50.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20220928-203050-1830925057.heic",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20220928-203050-1830925057.heic"
   },
   {
    "id": null,

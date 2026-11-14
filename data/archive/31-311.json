@@ -21,15 +21,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 2375,
    "user": "U3",
    "score": 14540,
-   "date": "2016-09-26T00:00:00.000000Z",
-   "console": null,
+   "date": "2016-09-26T02:43:00.000000Z",
+   "console": 3,
    "video": "",
-   "img": "20160926-204305-1687508578.bmp",
-   "comment": "[GamePad Only] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20160926-204305-1687508578.bmp"
   },
   {
    "id": 3772,
@@ -42,15 +41,13 @@
    "img": "20170516-114955-1256668308.jpg"
   },
   {
-   "id": null,
+   "id": 3807,
    "user": "yuibitchi",
    "score": 14270,
-   "date": "2017-05-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-05-19T03:02:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 4183,
@@ -71,15 +68,14 @@
    "comment": "ルートだなあ"
   },
   {
-   "id": null,
+   "id": 6637,
    "user": "noamoa",
    "score": 15410,
-   "date": "2018-07-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2018-07-19T03:05:37.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20180719-210537-821940616.jpg",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20180719-210537-821940616.jpg"
   },
   {
    "id": 11160,
@@ -111,15 +107,14 @@
    "comment": "もう一工夫できそう"
   },
   {
-   "id": null,
+   "id": 11476,
    "user": "yakiniku",
    "score": 17540,
-   "date": "2020-11-29T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-11-29T02:21:40.000000Z",
+   "console": 4,
    "video": "https://youtu.be/Tt7FNU6XQg4",
-   "img": "20201129-202140-667152229.jpeg",
-   "comment": "[Joy-Con Double$] やることが多すぎる",
-   "source": "sheet-2023"
+   "comment": "やることが多すぎる",
+   "img": "20201129-202140-667152229.jpeg"
   },
   {
    "id": 11550,
@@ -132,26 +127,24 @@
    "img": "20201204-031333-753791410.jpeg"
   },
   {
-   "id": null,
+   "id": 11595,
    "user": "MrAracn",
    "score": 13130,
-   "date": "2020-12-05T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-05T04:27:21.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20201205-222721-2134376871.jpg",
-   "comment": "[Switch Pro#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20201205-222721-2134376871.jpg"
   },
   {
-   "id": null,
+   "id": 11742,
    "user": "April_lapispik",
    "score": 14150,
-   "date": "2020-12-23T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-23T05:45:04.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20201223-234504-1004388479.jpeg",
-   "comment": "[Joy-Con Double#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20201223-234504-1004388479.jpeg"
   },
   {
    "id": null,
@@ -165,37 +158,33 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 12029,
    "user": "messhi475",
    "score": 16430,
-   "date": "2021-01-22T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-01-22T00:40:40.000000Z",
+   "console": 4,
    "video": "https://youtu.be/DkZVsvAJm6M",
-   "img": "20210122-184040-322627794.JPG",
-   "comment": "[Joy-Con Double#] ようやく、想定外にたどり着けました。",
-   "source": "sheet-2023"
+   "comment": "ようやく、想定外にたどり着けました。",
+   "img": "20210122-184040-322627794.JPG"
   },
   {
-   "id": null,
+   "id": 12053,
    "user": "futsuunoningen",
    "score": 14540,
-   "date": "2021-01-24T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-01-24T00:31:59.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210124-183159-1090685683.jpg",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210124-183159-1090685683.jpg"
   },
   {
-   "id": null,
+   "id": 12169,
    "user": "ryuun",
    "score": 17180,
-   "date": "2021-02-12T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-02-12T00:00:30.000000Z",
+   "console": 4,
    "video": "https://youtu.be/_tS_DssB0Ik",
-   "img": "",
-   "comment": "[Switch Pro$] 先人のルートを使用した。使用して、グダった",
-   "source": "sheet-2023"
+   "comment": "先人のルートを使用した。使用して、グダった"
   },
   {
    "id": 12218,
@@ -239,26 +228,23 @@
    "img": "20210425-105826-597820867.jpeg"
   },
   {
-   "id": null,
+   "id": 12549,
    "user": "Moony",
    "score": 18590,
-   "date": "2021-04-30T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-04-30T00:15:40.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=DPJfcubFAYI&ab_channel=Moony",
-   "img": "",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 12552,
    "user": "shiragawatanuki",
    "score": 15530,
-   "date": "2021-04-30T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-04-30T05:12:22.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210430-231222-1003130278.jpg",
-   "comment": "[Joy-Con Double#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210430-231222-1003130278.jpg"
   },
   {
    "id": 12788,
@@ -271,15 +257,13 @@
    "img": "20210613-173055-972874156.jpg"
   },
   {
-   "id": null,
+   "id": 12863,
    "user": "PlataSmash",
    "score": 17750,
-   "date": "2021-07-04T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-07-04T01:48:26.000000Z",
+   "console": 4,
    "video": "https://youtu.be/oEIGmyipQA8",
-   "img": "",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 13186,
@@ -333,26 +317,23 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 14124,
    "user": "mikou_musicgame",
    "score": 15920,
-   "date": "2021-12-24T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-12-24T03:37:34.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20211224-213734-1166792170.JPG",
-   "comment": "[Switch Pro#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20211224-213734-1166792170.JPG"
   },
   {
-   "id": null,
+   "id": 14163,
    "user": "ChasingJess",
    "score": 9470,
-   "date": "2022-01-14T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-01-14T00:58:18.000000Z",
+   "console": 4,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 14185,
@@ -364,15 +345,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 14229,
    "user": "esu",
    "score": 19250,
-   "date": "2022-02-06T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-02-06T00:16:29.000000Z",
+   "console": 4,
    "video": "https://youtu.be/6AwAE6abQQI",
-   "img": "20220206-181629-1817515557.jpeg",
-   "comment": "[Switch Pro$] めっちゃ嬉しい記録",
-   "source": "sheet-2023"
+   "comment": "めっちゃ嬉しい記録",
+   "img": "20220206-181629-1817515557.jpeg"
   },
   {
    "id": null,

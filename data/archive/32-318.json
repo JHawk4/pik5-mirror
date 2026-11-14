@@ -49,37 +49,31 @@
    "img": "20170403-134314-1704870612.jpg"
   },
   {
-   "id": null,
+   "id": 3796,
    "user": "yuibitchi",
    "score": 8860,
-   "date": "2017-05-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-05-19T02:51:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 4164,
    "user": "dermas",
    "score": 3730,
-   "date": "2017-06-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-06-18T05:56:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 4209,
    "user": "muratsubo",
    "score": 7000,
-   "date": "2017-06-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-06-19T04:50:00.000000Z",
+   "console": 3,
    "video": "",
-   "img": "",
-   "comment": "[GamePad Only] pittari",
-   "source": "sheet-2023"
+   "comment": "pittari"
   },
   {
    "id": 4563,
@@ -152,59 +146,54 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 12261,
    "user": "toripoppo0307",
    "score": 9100,
-   "date": "2021-02-24T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-02-24T04:03:42.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210224-220342-753136699.jpg",
-   "comment": "[Joy-Con Double#] なにこのストレスステージ",
-   "source": "sheet-2023"
+   "comment": "なにこのストレスステージ",
+   "img": "20210224-220342-753136699.jpg"
   },
   {
-   "id": null,
+   "id": 12298,
    "user": "pikuna",
    "score": 11290,
-   "date": "2021-03-03T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-03-03T02:28:16.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210303-202816-1375246605.jpg",
-   "comment": "[Joy-Con Double#] 最後のオタマでガバ",
-   "source": "sheet-2023"
+   "comment": "最後のオタマでガバ",
+   "img": "20210303-202816-1375246605.jpg"
   },
   {
-   "id": null,
+   "id": 12403,
    "user": "Jay596",
    "score": 10750,
-   "date": "2021-03-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-03-19T04:48:16.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210319-224816-1064327768.png",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210319-224816-1064327768.png"
   },
   {
-   "id": null,
+   "id": 12768,
    "user": "sanami",
    "score": 4780,
-   "date": "2021-06-10T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-06-10T02:07:22.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210610-200722-1500791159.jpg",
-   "comment": "[Joy-Con Double#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210610-200722-1500791159.jpg"
   },
   {
-   "id": null,
+   "id": 12846,
    "user": "April_lapispik",
    "score": 10300,
-   "date": "2021-06-26T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-06-26T03:58:11.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210626-215811-1889794778.jpg",
-   "comment": "[Joy-Con Double#] オタマきらい",
-   "source": "sheet-2023"
+   "comment": "オタマきらい",
+   "img": "20210626-215811-1889794778.jpg"
   },
   {
    "id": 12869,
@@ -257,15 +246,13 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 13907,
    "user": "shiocha78",
    "score": 11230,
-   "date": "2021-11-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-18T01:23:24.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=exJOvcSkvZ4",
-   "img": "",
-   "comment": "[NGC] 5:57残し",
-   "source": "sheet-2023"
+   "comment": "5:57残し"
   },
   {
    "id": null,
@@ -374,15 +361,14 @@
    "img": "20221016-174724-1715840777.jpeg"
   },
   {
-   "id": null,
+   "id": 15632,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 13150,
-   "date": "2022-12-08T00:00:00.000000Z",
-   "console": null,
-   "video": "https://video.twimg.com/ext_tw_video/1600800827085844480/pu/vid/480x270/0cQ4ZxnsEJ7hr8hZ.mp4?tag=12",
-   "img": "20221208-193552-365024105.jpeg",
-   "comment": "[Switch Pro$] 限界はこの先です。",
-   "source": "sheet-2023"
+   "date": "2022-12-08T01:35:52.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1600800861294592000?s=61&t=iAmMSGE_m-BKV9DG1LzD6g",
+   "comment": "限界はこの先です。",
+   "img": "20221208-193552-365024105.jpeg"
   }
  ]
 }

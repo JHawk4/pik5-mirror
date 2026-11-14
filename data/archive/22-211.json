@@ -75,59 +75,49 @@
    "comment": "全ステージ中トップのシンプルさ。それにしても皆さんレベル高すぎです。"
   },
   {
-   "id": null,
+   "id": 600,
    "user": "FeTellYou",
    "score": 8520,
-   "date": "2015-11-01T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 718,
    "user": "Selenium_pikmin",
    "score": 8515,
-   "date": "2015-11-01T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 907,
    "user": "xxHIMExx",
    "score": 8475,
-   "date": "2015-11-06T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-06T04:41:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 1095,
    "user": "maramon",
    "score": 8488,
-   "date": "2015-11-09T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-09T04:59:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 1773,
    "user": "iid01",
    "score": 8538,
-   "date": "2016-03-14T00:00:00.000000Z",
-   "console": null,
+   "date": "2016-03-14T01:40:00.000000Z",
+   "console": 1,
    "video": "https://www.youtube.com/watch?v=bIJhsnM_nLY",
-   "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 2633,
@@ -159,26 +149,24 @@
    "comment": "自分流のルートではこれが限界か"
   },
   {
-   "id": null,
+   "id": 3473,
    "user": "flyinghawk",
    "score": 8535,
-   "date": "2017-04-04T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-04-04T04:48:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20170404-224850-1617954795.jpg",
-   "comment": "[NGC] やっぱりiidさんはすごい",
-   "source": "sheet-2023"
+   "comment": "やっぱりiidさんはすごい",
+   "img": "20170404-224850-1617954795.jpg"
   },
   {
-   "id": null,
+   "id": 3522,
    "user": "mezasi_pikmin",
    "score": 8513,
-   "date": "2017-04-15T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-04-15T00:35:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20170415-183550-375217491.jpeg",
-   "comment": "[NGC] 1F奥より2・3F手前のが有益の模様",
-   "source": "sheet-2023"
+   "comment": "1F奥より2・3F手前のが有益の模様",
+   "img": "20170415-183550-375217491.jpeg"
   },
   {
    "id": 4027,
@@ -191,37 +179,34 @@
    "img": "20170603-131037-2094906458.png"
   },
   {
-   "id": null,
+   "id": 4273,
    "user": "PKtoyama",
    "score": 8530,
-   "date": "2017-06-24T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-06-24T04:46:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20170624-224648-581964476.jpg",
-   "comment": "[NGC] ヘビーガバガバスがガバガバ",
-   "source": "sheet-2023"
+   "comment": "ヘビーガバガバスがガバガバ",
+   "img": "20170624-224648-581964476.jpg"
   },
   {
-   "id": null,
+   "id": 4580,
    "user": "dayomin",
    "score": 8517,
-   "date": "2017-08-22T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-08-22T05:28:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20170822-232830-1583136453.JPG",
-   "comment": "[NGC] 手前は1Fのみ",
-   "source": "sheet-2023"
+   "comment": "手前は1Fのみ",
+   "img": "20170822-232830-1583136453.JPG"
   },
   {
-   "id": null,
+   "id": 4590,
    "user": "albut3",
    "score": 8538,
-   "date": "2017-08-24T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-08-24T04:32:00.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20170824-223254-1351083849.JPG",
-   "comment": "[NGC] 敵配置微妙、他完璧。どうやったらこれ以上行くんだ？",
-   "source": "sheet-2023"
+   "comment": "敵配置微妙、他完璧。どうやったらこれ以上行くんだ？",
+   "img": "20170824-223254-1351083849.JPG"
   },
   {
    "id": 5124,
@@ -262,15 +247,14 @@
    "comment": "苦行"
   },
   {
-   "id": null,
+   "id": 5660,
    "user": "Z_pikmin",
    "score": 8533,
-   "date": "2018-01-22T00:00:00.000000Z",
-   "console": null,
+   "date": "2018-01-22T01:42:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20180122-194222-1492026411.jpg",
-   "comment": "[Wii] 701100",
-   "source": "sheet-2023"
+   "comment": "701100",
+   "img": "20180122-194222-1492026411.jpg"
   },
   {
    "id": 6143,
@@ -283,15 +267,14 @@
    "img": "20180407-124614-231217578.jpg"
   },
   {
-   "id": null,
+   "id": 6494,
    "user": "TEL",
    "score": 8521,
-   "date": "2018-06-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2018-06-18T04:01:03.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20180618-220103-1147742917.JPG",
-   "comment": "[NGC] タカラは手前だけど敵×",
-   "source": "sheet-2023"
+   "comment": "タカラは手前だけど敵×",
+   "img": "20180618-220103-1147742917.JPG"
   },
   {
    "id": 6580,
@@ -374,15 +357,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 8410,
    "user": "fuji_luck",
    "score": 8534,
-   "date": "2020-05-02T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-05-02T01:23:39.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20200502-192339-958397763.JPG",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20200502-192339-958397763.JPG"
   },
   {
    "id": null,
@@ -406,15 +388,14 @@
    "img": "20200630-084303-878065589.jpg"
   },
   {
-   "id": null,
+   "id": 8734,
    "user": "ZEOKU",
    "score": 8520,
-   "date": "2020-07-02T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-07-02T05:32:41.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20200702-233242-1508953902.jpg",
-   "comment": "[NGC] 1F3F手前　敵位置△",
-   "source": "sheet-2023"
+   "comment": "1F3F手前　敵位置△",
+   "img": "20200702-233242-1508953902.jpg"
   },
   {
    "id": 8757,
@@ -457,15 +438,13 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 10642,
    "user": "ryuun",
    "score": 8523,
-   "date": "2020-10-01T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-10-01T04:32:50.000000Z",
+   "console": 1,
    "video": "https://youtu.be/BzYpOCZSvGw",
-   "img": "",
-   "comment": "[NGC] おもろないなぁ",
-   "source": "sheet-2023"
+   "comment": "おもろないなぁ"
   },
   {
    "id": null,
@@ -490,37 +469,34 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 11512,
    "user": "messhi475",
    "score": 8485,
-   "date": "2020-12-01T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-01T02:24:07.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20201201-202409-623493161.JPG",
-   "comment": "[NGC] 何年前に出した記録でしょうか・・・",
-   "source": "sheet-2023"
+   "comment": "何年前に出した記録でしょうか・・・",
+   "img": "20201201-202409-623493161.JPG"
   },
   {
-   "id": null,
+   "id": 11645,
    "user": "6harapikumin",
    "score": 8440,
-   "date": "2020-12-10T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-10T04:33:39.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20201210-223341-1338986722.jpg",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20201210-223341-1338986722.jpg"
   },
   {
-   "id": null,
+   "id": 11680,
    "user": "nakatatsu",
    "score": 8513,
-   "date": "2020-12-12T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-12T05:10:27.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20201212-231030-538250353.jpg",
-   "comment": "[NGC] リザルト画面撮り忘れです。更新したときに再度投稿します。",
-   "source": "sheet-2023"
+   "comment": "リザルト画面撮り忘れです。更新したときに再度投稿します。",
+   "img": "20201212-231030-538250353.jpg"
   },
   {
    "id": 11735,
@@ -586,15 +562,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 12850,
    "user": "April_lapispik",
    "score": 8512,
-   "date": "2021-06-26T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-06-26T04:46:30.000000Z",
+   "console": 1,
    "video": "",
-   "img": "20210626-224631-827345641.JPG",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210626-224631-827345641.JPG"
   },
   {
    "id": 13379,
@@ -607,15 +582,14 @@
    "img": "20211104-141752-1072820827.png"
   },
   {
-   "id": null,
+   "id": 13897,
    "user": "nikoshu_pik",
    "score": 8538,
-   "date": "2021-11-16T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-16T04:27:49.000000Z",
+   "console": 2,
    "video": "https://www.youtube.com/watch?v=M_qoQWQGz5I",
-   "img": "20211116-222750-1246215759.jpg",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20211116-222750-1246215759.jpg"
   },
   {
    "id": null,
@@ -714,15 +688,14 @@
    "img": "20220824-101902-1794064086.jpeg"
   },
   {
-   "id": null,
+   "id": 15535,
    "user": "yukidaruma",
    "score": 8534,
-   "date": "2022-11-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-11-19T04:51:45.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20221119-225146-2033599672.jpeg",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20221119-225146-2033599672.jpeg"
   },
   {
    "id": null,
@@ -747,15 +720,13 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 15613,
    "user": "mercysnow",
    "score": 8542,
-   "date": "2022-11-30T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-11-30T05:58:32.000000Z",
+   "console": 2,
    "video": "https://youtu.be/3cPeX8ZK09k",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 15753,

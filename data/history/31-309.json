@@ -27,27 +27,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 3805,
    "uid": null,
    "user": "yuibitchi",
    "score": 7950,
-   "date": "2017-05-19T00:00:00.000000Z",
+   "date": "2017-05-19T03:00:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "img": null,
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 9825,
    "uid": null,
    "user": "ikimono334",
    "score": 11010,
-   "date": "2020-08-25T00:00:00.000000Z",
+   "date": "2020-08-25T03:47:22.000000Z",
    "video": "https://www.nicovideo.jp/watch/sm37415935",
    "img": "20200825-214722-1578629873.png",
-   "console": null,
-   "comment": "[Wii] 想定外",
+   "console": 2,
+   "comment": "想定外",
    "tie": false
   },
   {
@@ -87,15 +87,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14545,
+   "uid": 277744098,
    "user": "esu",
    "score": 12900,
-   "date": "2022-04-11T00:00:00.000000Z",
+   "date": "2022-04-11T03:08:20.000000Z",
    "video": "https://youtu.be/otDYCKD1jTs",
-   "img": "20220411-210820-1916813712.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 納得",
+   "console": 4,
+   "comment": "納得",
    "tie": false
   }
  ],

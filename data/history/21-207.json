@@ -51,15 +51,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 538,
    "uid": null,
    "user": "pikmin893",
    "score": 14920,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -75,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 6998,
    "uid": null,
    "user": "ikimono334",
    "score": 14932,
-   "date": "2018-11-08T00:00:00.000000Z",
+   "date": "2018-11-08T05:07:08.000000Z",
    "video": "",
    "img": "20181108-230708-108716962.jpg",
-   "console": null,
-   "comment": "[Wii] 1セット10匹だけどタイムがダメ",
+   "console": 2,
+   "comment": "1セット10匹だけどタイムがダメ",
    "tie": false
   },
   {

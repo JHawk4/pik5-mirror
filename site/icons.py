@@ -114,9 +114,10 @@ def difficulty_icon(code, lang):
             f'font-family="Verdana,sans-serif">{letter}</text></svg></span>')
 
 
-# Site logo: a simple sprouting stem with a leaf (drawn here, generic plant art).
-SPROUT = ('<svg viewBox="0 0 26 32" width="22" height="27" aria-hidden="true">'
-          '<path d="M13 31 C13 22 12.5 15 13 7" stroke="#3c8531" stroke-width="2.4" fill="none" stroke-linecap="round"/>'
-          '<path d="M13 8 C14 2.5 19.5 0.5 24 2.2 C22.5 7.5 17.5 9.5 13 8 Z" fill="#5fb447" stroke="#3c8531" stroke-width="1.2"/>'
-          '<path d="M13.3 7.6 C16.5 5.6 19.5 4 22.5 3" stroke="#3c8531" stroke-width="0.9" fill="none"/>'
-          '<ellipse cx="13" cy="31" rx="6.5" ry="1.4" fill="#8a6b3f" opacity=".45"/></svg>')
+# Site logo: a white five-petal flower on a stem with one leaf (generic flower art,
+# drawn here; evokes the flower a Pikmin grows without using Nintendo's characters).
+SPROUT = ('<svg viewBox="0 0 24 34" width="26" height="37" aria-hidden="true">'
+          '<path d="M12 33 C12 26 11.6 20 12 13" stroke="#3c8531" stroke-width="2.2" fill="none" stroke-linecap="round"/>'
+          '<path d="M12 25 C8.5 25.5 5 23.5 3.6 20.6 C7.4 19.6 10.6 21.5 12 25 Z" fill="#5fb447" stroke="#3c8531" stroke-width="1"/>'
+          '<ellipse cx="12.00" cy="4.40" rx="3.1" ry="4.3" transform="rotate(0 12.00 4.40)" fill="#ffffff" stroke="#c9c2d6" stroke-width="0.8"/><ellipse cx="16.37" cy="7.58" rx="3.1" ry="4.3" transform="rotate(72 16.37 7.58)" fill="#ffffff" stroke="#c9c2d6" stroke-width="0.8"/><ellipse cx="14.70" cy="12.72" rx="3.1" ry="4.3" transform="rotate(144 14.70 12.72)" fill="#ffffff" stroke="#c9c2d6" stroke-width="0.8"/><ellipse cx="9.30" cy="12.72" rx="3.1" ry="4.3" transform="rotate(216 9.30 12.72)" fill="#ffffff" stroke="#c9c2d6" stroke-width="0.8"/><ellipse cx="7.63" cy="7.58" rx="3.1" ry="4.3" transform="rotate(288 7.63 7.58)" fill="#ffffff" stroke="#c9c2d6" stroke-width="0.8"/>'
+          '<circle cx="12" cy="9" r="3.1" fill="#f2c230" stroke="#d39a12" stroke-width="0.9"/></svg>')

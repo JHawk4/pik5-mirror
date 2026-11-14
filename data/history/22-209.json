@@ -39,15 +39,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 598,
    "uid": null,
    "user": "FeTellYou",
    "score": 50880,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -63,15 +63,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 5071,
    "uid": null,
    "user": "Z_pikmin",
    "score": 50886,
-   "date": "2017-10-31T00:00:00.000000Z",
+   "date": "2017-10-31T04:38:00.000000Z",
    "video": "",
    "img": "20171031-223806-1393154926.jpg",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -111,27 +111,27 @@
    "tie": true
   },
   {
-   "id": null,
+   "id": 12286,
    "uid": null,
    "user": "mercysnow",
    "score": 50897,
-   "date": "2021-03-01T00:00:00.000000Z",
+   "date": "2021-03-01T04:17:49.000000Z",
    "video": "https://youtu.be/oXvisbVMJsI",
-   "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "img": null,
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 12575,
    "uid": null,
    "user": "fuji_luck",
    "score": 50897,
-   "date": "2021-05-07T00:00:00.000000Z",
+   "date": "2021-05-07T00:26:22.000000Z",
    "video": "https://youtu.be/mLGczUuNlds",
    "img": "20210507-182623-318254830.bmp",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": true
   },
   {

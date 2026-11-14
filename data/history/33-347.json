@@ -15,15 +15,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 1015,
    "uid": null,
    "user": "muratsubo",
    "score": 673,
-   "date": "2015-11-07T00:00:00.000000Z",
+   "date": "2015-11-07T04:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[Wii U Pro] コメントなし",
+   "img": null,
+   "console": 3,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -75,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 12421,
    "uid": null,
    "user": "Rirure",
    "score": 724,
-   "date": "2021-03-24T00:00:00.000000Z",
+   "date": "2021-03-24T01:36:30.000000Z",
    "video": "https://youtu.be/XeeC18bOZBo",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] お祈りゲーミング。まだ縮まりそう…",
+   "img": null,
+   "console": 4,
+   "comment": "お祈りゲーミング。まだ縮まりそう…",
    "tie": true
   },
   {

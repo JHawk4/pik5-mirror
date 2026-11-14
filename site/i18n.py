@@ -89,6 +89,7 @@ LINKS = [
 
 STR = {
     "links": {"en": "Links", "ja": "リンク"},
+    "more": {"en": "More", "ja": "その他"},
     "suggest_link": {"en": "Suggestions or corrections? Send them here.", "ja": "ご意見・修正のご連絡はこちら"},
     "suggest_title": {"en": "Suggestion Box", "ja": "ご意見箱"},
     "suggest_intro": {"en": "Spotted a mistake, a missing TAS or video, or have an idea for the site? Leave a note. Your name is optional.",

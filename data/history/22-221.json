@@ -51,15 +51,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 728,
    "uid": null,
    "user": "Selenium_pikmin",
    "score": 35395,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -87,27 +87,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 4832,
    "uid": null,
    "user": "pikmin893",
    "score": 35414,
-   "date": "2017-09-21T00:00:00.000000Z",
+   "date": "2017-09-21T02:35:00.000000Z",
    "video": "",
    "img": "20170921-203513-486819215.png",
-   "console": null,
-   "comment": "[NGC] B1を頑張らないとこれ以上は難しそう",
+   "console": 1,
+   "comment": "B1を頑張らないとこれ以上は難しそう",
    "tie": false
   },
   {
-   "id": null,
+   "id": 5074,
    "uid": null,
    "user": "HoshiKUZU_pik",
    "score": 35422,
-   "date": "2017-11-05T00:00:00.000000Z",
+   "date": "2017-11-05T02:06:00.000000Z",
    "video": "https://m.youtube.com/watch?v=SYYaNbcy8e0",
    "img": "20171105-200637-1039491708.jpeg",
-   "console": null,
-   "comment": "[NGC] いろいろ思うところはあるが、それでも僕は満足だ",
+   "console": 1,
+   "comment": "いろいろ思うところはあるが、それでも僕は満足だ",
    "tie": false
   },
   {
@@ -123,15 +123,15 @@
    "tie": true
   },
   {
-   "id": null,
+   "id": 6982,
    "uid": null,
    "user": "iid01",
    "score": 35428,
-   "date": "2018-10-30T00:00:00.000000Z",
+   "date": "2018-10-30T03:12:16.000000Z",
    "video": "https://www.youtube.com/watch?v=I1I9ZOq9Cpw",
    "img": "20181030-211216-1326728697.png",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {

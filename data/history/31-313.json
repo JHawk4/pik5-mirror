@@ -87,15 +87,26 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 15423,
    "uid": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 17210,
+   "date": "2022-10-15T00:12:25.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1581211028578525184?s=61&t=UEXYl1g9q8RJLittITDCnw",
+   "img": "20221015-181225-1044866865.jpeg",
+   "console": 4,
+   "comment": "コメントを真似してしまいすみません。これからはもうしないので許してください…",
+   "tie": false
+  },
+  {
+   "id": 15424,
+   "uid": 278796335,
    "user": "esu",
    "score": 17390,
-   "date": "2022-10-15T00:00:00.000000Z",
+   "date": "2022-10-15T04:46:56.000000Z",
    "video": "https://youtu.be/lv2DgoLW8GM",
-   "img": "20221015-224656-1966724572.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] コメントのことは置いといてやっと噛み合った",
+   "console": 4,
+   "comment": "コメントのことは置いといてやっと噛み合った",
    "tie": false
   }
  ],

@@ -27,15 +27,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 11635,
    "uid": null,
    "user": "ryuun",
    "score": 13930,
-   "date": "2020-12-09T00:00:00.000000Z",
+   "date": "2020-12-09T00:35:53.000000Z",
    "video": "https://youtu.be/8bx4__ffM5Q",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] 先人のルートは偉大である",
+   "img": null,
+   "console": 4,
+   "comment": "先人のルートは偉大である",
    "tie": false
   },
   {
@@ -87,15 +87,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14141,
+   "uid": 277769468,
    "user": "esu",
    "score": 14680,
-   "date": "2022-01-03T00:00:00.000000Z",
+   "date": "2022-01-03T02:43:43.000000Z",
    "video": "https://youtu.be/9mhA_aGqZbw",
-   "img": "20220103-204343-2078611269.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 1人プレイでは限界かな",
+   "console": 4,
+   "comment": "1人プレイでは限界かな",
    "tie": false
   }
  ],

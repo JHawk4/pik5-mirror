@@ -31,15 +31,13 @@
    "img": "20160619-141722-940995915.jpg"
   },
   {
-   "id": null,
+   "id": 3817,
    "user": "yuibitchi",
    "score": 1700,
-   "date": "2017-05-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-05-19T05:36:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 4179,
@@ -80,15 +78,14 @@
    "img": "20201114-145145-851893602.jpeg"
   },
   {
-   "id": null,
+   "id": 11615,
    "user": "dayomin",
    "score": 1950,
-   "date": "2020-12-07T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-07T05:02:35.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20201207-230235-556715531.jpg",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20201207-230235-556715531.jpg"
   },
   {
    "id": null,

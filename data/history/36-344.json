@@ -3,15 +3,15 @@
  "stage": 344,
  "records": [
   {
-   "id": null,
+   "id": 10967,
    "uid": null,
    "user": "toripoppo0307",
    "score": 17510,
-   "date": "2020-11-02T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1323270065261740037/pu/pl/qZA5MAm_urgtwS6N.m3u8?tag=10",
+   "date": "2020-11-02T05:28:25.000000Z",
+   "video": "https://twitter.com/toripoppo0307/status/1323270114364452865",
    "img": "20201102-232825-308719479.jpg",
-   "console": null,
-   "comment": "[Joy-Con Double#] おそい",
+   "console": 4,
+   "comment": "おそい",
    "tie": false
   },
   {

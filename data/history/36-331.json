@@ -135,15 +135,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14150,
+   "uid": 277768591,
    "user": "esu",
    "score": 12950,
-   "date": "2022-01-07T00:00:00.000000Z",
+   "date": "2022-01-07T05:04:33.000000Z",
    "video": "https://youtu.be/kjBTl3gc0xI",
-   "img": "20220107-230433-1794073228.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 13000点台は無理なのかな",
+   "console": 4,
+   "comment": "13000点台は無理なのかな",
    "tie": false
   }
  ],

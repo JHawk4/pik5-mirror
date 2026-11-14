@@ -39,15 +39,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 2253,
    "uid": null,
    "user": "noamoa",
    "score": 9630,
-   "date": "2016-06-23T00:00:00.000000Z",
+   "date": "2016-06-23T05:14:00.000000Z",
    "video": "",
    "img": "20160623-231427-1884966929.jpg",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -75,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 11993,
    "uid": null,
    "user": "nanashi74",
    "score": 11850,
-   "date": "2021-01-17T00:00:00.000000Z",
+   "date": "2021-01-17T04:32:48.000000Z",
    "video": "https://youtu.be/T61l84Fc7Gc",
    "img": "20210117-223248-1170807583.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -147,15 +147,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 15491,
+   "uid": 278522989,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 12480,
-   "date": "2022-11-01T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1587376203094458368/pu/vid/640x360/t0NyAOsgzGl6SGzW.mp4?tag=12",
-   "img": "20221101-183059-1410264536.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 残6:32 カワスミが運ゲーです。",
+   "date": "2022-11-01T00:30:59.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1587376266180964352?s=61&t=kPWlwiuvSDuhc_vSdpcuww",
+   "console": 4,
+   "comment": "残6:32 カワスミが運ゲーです。",
    "tie": false
   },
   {

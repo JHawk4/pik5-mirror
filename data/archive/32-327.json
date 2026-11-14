@@ -13,15 +13,14 @@
    "img": "20150922-145748-1372156505.jpg"
   },
   {
-   "id": null,
+   "id": 2766,
    "user": "noamoa",
    "score": 2205,
-   "date": "2017-01-10T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-01-10T04:19:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20170110-221939-840340300.jpg",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20170110-221939-840340300.jpg"
   },
   {
    "id": 3823,
@@ -80,15 +79,13 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 11399,
    "user": "Plata",
    "score": 2585,
-   "date": "2020-11-24T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-11-24T02:50:01.000000Z",
+   "console": 4,
    "video": "https://youtu.be/-2iKqfCE5Qw",
-   "img": "",
-   "comment": "[NGC] WRまであと20秒くらい",
-   "source": "sheet-2023"
+   "comment": "WRまであと20秒くらい"
   },
   {
    "id": 11470,
@@ -150,15 +147,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 12412,
    "user": "teona",
    "score": 2515,
-   "date": "2021-03-22T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-03-22T01:32:52.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210322-193252-1545186038.png",
-   "comment": "[Joy-Con Double#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210322-193252-1545186038.png"
   },
   {
    "id": 12763,
@@ -264,15 +260,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 15488,
    "user": "esu",
    "score": 3195,
-   "date": "2022-10-29T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-10-29T04:26:34.000000Z",
+   "console": 4,
    "video": "https://youtu.be/abZ4nm5hr9M",
-   "img": "20221029-222634-549493942.jpeg",
-   "comment": "[Switch Pro$] 2Pは”今は”どうでもいいので1Pで",
-   "source": "sheet-2023"
+   "comment": "2Pは”今は”どうでもいいので1Pで",
+   "img": "20221029-222634-549493942.jpeg"
   },
   {
    "id": 15605,

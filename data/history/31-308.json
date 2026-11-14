@@ -39,15 +39,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 11511,
    "uid": null,
    "user": "yakiniku",
    "score": 11695,
-   "date": "2020-12-01T00:00:00.000000Z",
+   "date": "2020-12-01T01:57:10.000000Z",
    "video": "https://youtu.be/1O-C_9mtWrc",
    "img": "20201201-195710-1293316214.jpeg",
-   "console": null,
-   "comment": "[Joy-Con Double$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -75,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 12292,
    "uid": null,
    "user": "alpha_0630",
    "score": 12265,
-   "date": "2021-03-02T00:00:00.000000Z",
+   "date": "2021-03-02T04:32:37.000000Z",
    "video": "https://youtu.be/9BLt49dV-x4",
    "img": "20210302-223237-1959349471.jpg",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -99,15 +99,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 12550,
    "uid": null,
    "user": "Moony",
    "score": 12385,
-   "date": "2021-04-30T00:00:00.000000Z",
+   "date": "2021-04-30T00:16:56.000000Z",
    "video": "https://www.youtube.com/watch?v=VuXfONKyx2s&ab_channel=Moony",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "img": null,
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -123,15 +123,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14483,
+   "uid": 277082902,
    "user": "esu",
    "score": 12625,
-   "date": "2022-03-29T00:00:00.000000Z",
+   "date": "2022-03-29T04:37:34.000000Z",
    "video": "https://youtu.be/ryisOTLgvlE",
-   "img": "20220329-223734-1308994173.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] このステージはもう限界だと思う",
+   "console": 4,
+   "comment": "このステージはもう限界だと思う",
    "tie": false
   }
  ],

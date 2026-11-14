@@ -12,26 +12,22 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 3469,
    "user": "identete",
    "score": 2920,
-   "date": "2017-04-03T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-04-03T00:32:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 3821,
    "user": "yuibitchi",
    "score": 2360,
-   "date": "2017-05-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-05-19T05:58:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 4188,
@@ -62,15 +58,14 @@
    "img": "20180721-153845-1296344161.jpg"
   },
   {
-   "id": null,
+   "id": 7407,
    "user": "ikimono334",
    "score": 2920,
-   "date": "2019-04-10T00:00:00.000000Z",
-   "console": null,
+   "date": "2019-04-10T04:10:56.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20190410-221056-942050193.bmp",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20190410-221056-942050193.bmp"
   },
   {
    "id": 11090,
@@ -193,15 +188,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 14196,
    "user": "esu",
    "score": 4350,
-   "date": "2022-01-23T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-01-23T02:54:56.000000Z",
+   "console": 4,
    "video": "https://youtu.be/eh36l3IV5-c",
-   "img": "20220123-205456-1836939196.jpeg",
-   "comment": "[Switch Pro$] 結構早く出せた",
-   "source": "sheet-2023"
+   "comment": "結構早く出せた",
+   "img": "20220123-205456-1836939196.jpeg"
   },
   {
    "id": null,

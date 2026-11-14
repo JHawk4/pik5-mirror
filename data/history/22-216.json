@@ -39,15 +39,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 605,
    "uid": null,
    "user": "FeTellYou",
    "score": 5988,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -63,27 +63,27 @@
    "tie": true
   },
   {
-   "id": null,
+   "id": 2436,
    "uid": null,
    "user": "noamoa",
    "score": 5989,
-   "date": "2016-11-13T00:00:00.000000Z",
+   "date": "2016-11-13T03:18:00.000000Z",
    "video": "",
    "img": "20161113-211853-357672105.jpg",
-   "console": null,
-   "comment": "[Wii] 残り103で全回収したのに勿体ないことした",
+   "console": 2,
+   "comment": "残り103で全回収したのに勿体ないことした",
    "tie": false
   },
   {
-   "id": null,
+   "id": 2504,
    "uid": null,
    "user": "HoshiKUZU_pik",
    "score": 5996,
-   "date": "2016-12-19T00:00:00.000000Z",
+   "date": "2016-12-19T05:56:00.000000Z",
    "video": "",
    "img": "20161219-235635-454963132.JPG",
-   "console": null,
-   "comment": "[NGC] なぁにこれ？",
+   "console": 1,
+   "comment": "なぁにこれ？",
    "tie": false
   },
   {

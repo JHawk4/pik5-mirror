@@ -48,15 +48,13 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 3815,
    "user": "yuibitchi",
    "score": 7825,
-   "date": "2017-05-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-05-19T05:30:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 4193,
@@ -77,15 +75,13 @@
    "comment": "jirijiri"
   },
   {
-   "id": null,
+   "id": 4865,
    "user": "Z_pikmin",
    "score": 7675,
-   "date": "2017-09-25T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-09-25T02:12:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 6687,
@@ -158,26 +154,24 @@
    "img": "20210116-090408-1676844620.jpg"
   },
   {
-   "id": null,
+   "id": 12138,
    "user": "pikuna",
    "score": 7945,
-   "date": "2021-02-06T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-02-06T01:06:57.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210206-190658-884836090.jpg",
-   "comment": "[Joy-Con Double#] 久々に",
-   "source": "sheet-2023"
+   "comment": "久々に",
+   "img": "20210206-190658-884836090.jpg"
   },
   {
-   "id": null,
+   "id": 12410,
    "user": "teona",
    "score": 10255,
-   "date": "2021-03-22T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-03-22T01:27:10.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210322-192710-1997371823.png",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210322-192710-1997371823.png"
   },
   {
    "id": 12804,
@@ -281,15 +275,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 14505,
    "user": "esu",
    "score": 14545,
-   "date": "2022-04-02T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-04-02T00:37:46.000000Z",
+   "console": 4,
    "video": "https://youtu.be/eICVfrxSoRE",
-   "img": "20220402-183746-850051180.jpeg",
-   "comment": "[Switch Pro$] やっと出せた",
-   "source": "sheet-2023"
+   "comment": "やっと出せた",
+   "img": "20220402-183746-850051180.jpeg"
   },
   {
    "id": null,
@@ -313,15 +306,14 @@
    "img": "20220816-140215-1576578457.JPG"
   },
   {
-   "id": null,
+   "id": 15478,
    "user": "6harapikumin",
    "score": 8815,
-   "date": "2022-10-25T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-10-25T04:02:57.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20221025-220258-1416233818.jpeg",
-   "comment": "[Joy-Con Double#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20221025-220258-1416233818.jpeg"
   },
   {
    "id": 15622,
@@ -343,15 +335,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 16138,
    "user": "April_lapispik",
    "score": 12385,
-   "date": "2023-05-21T00:00:00.000000Z",
-   "console": null,
+   "date": "2023-05-21T05:17:43.000000Z",
+   "console": 4,
    "video": "https://youtu.be/PaEPDz1Zquw",
-   "img": "20230521-231743-1349786494.jpg",
-   "comment": "[Joy-Con Double#] 結構いい感じ",
-   "source": "sheet-2023"
+   "comment": "結構いい感じ",
+   "img": "20230521-231743-1349786494.jpg"
   }
  ]
 }

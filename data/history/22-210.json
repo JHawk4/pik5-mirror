@@ -51,27 +51,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 599,
    "uid": null,
    "user": "FeTellYou",
    "score": 26755,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 717,
    "uid": null,
    "user": "Selenium_pikmin",
    "score": 26755,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": true
   },
   {
@@ -123,27 +123,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 4916,
    "uid": null,
    "user": "Z_pikmin",
    "score": 26766,
-   "date": "2017-10-09T00:00:00.000000Z",
+   "date": "2017-10-09T00:16:00.000000Z",
    "video": "",
    "img": "20171009-181612-1846173427.jpg",
-   "console": null,
-   "comment": "[Wii] tWiilight garden",
+   "console": 2,
+   "comment": "tWiilight garden",
    "tie": false
   },
   {
-   "id": null,
+   "id": 7490,
    "uid": null,
    "user": "sectionmarilui",
    "score": 26768,
-   "date": "2019-05-01T00:00:00.000000Z",
+   "date": "2019-05-01T05:08:03.000000Z",
    "video": "https://www.nicovideo.jp/watch/sm35058963",
    "img": "20190501-230803-1912021073.jpg",
-   "console": null,
-   "comment": "[Wii] 新たな境地へ",
+   "console": 2,
+   "comment": "新たな境地へ",
    "tie": false
   },
   {

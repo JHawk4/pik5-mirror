@@ -51,15 +51,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 731,
    "uid": null,
    "user": "Selenium_pikmin",
    "score": 14308,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -99,15 +99,15 @@
    "tie": true
   },
   {
-   "id": null,
+   "id": 6656,
    "uid": null,
    "user": "noamoa",
    "score": 14326,
-   "date": "2018-07-27T00:00:00.000000Z",
+   "date": "2018-07-27T04:00:15.000000Z",
    "video": "",
    "img": "20180727-220015-1534601445.jpg",
-   "console": null,
-   "comment": "[Wii] ごれいの洞窟",
+   "console": 2,
+   "comment": "ごれいの洞窟",
    "tie": false
   },
   {

@@ -27,15 +27,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 2274,
    "uid": null,
    "user": "noamoa",
    "score": 2920,
-   "date": "2016-07-12T00:00:00.000000Z",
+   "date": "2016-07-12T04:30:00.000000Z",
    "video": "",
    "img": "20160712-223013-129688692.jpg",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -75,27 +75,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 11836,
    "uid": null,
    "user": "messhi475",
    "score": 4240,
-   "date": "2021-01-03T00:00:00.000000Z",
+   "date": "2021-01-03T04:20:30.000000Z",
    "video": "https://youtu.be/T9xfAEqR7FM",
    "img": "20210103-222016-1681865662.jpg",
-   "console": null,
-   "comment": "[Joy-Con Double#] ペロチャッピー達との闘いで、少しミスしました。",
+   "console": 4,
+   "comment": "ペロチャッピー達との闘いで、少しミスしました。",
    "tie": false
   },
   {
-   "id": null,
+   "id": 11870,
    "uid": null,
    "user": "ryuun",
    "score": 4600,
-   "date": "2021-01-07T00:00:00.000000Z",
-   "video": "https://youtu.be/HGdAfpmBc-8",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] めちゃくちゃです",
+   "date": "2021-01-07T01:02:53.000000Z",
+   "video": "2001/08/01 0:00:00",
+   "img": null,
+   "console": 4,
+   "comment": "めちゃくちゃです",
    "tie": false
   },
   {
@@ -147,15 +147,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 15501,
+   "uid": 278997280,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 5110,
-   "date": "2022-11-07T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1589577201233846275/pu/vid/480x270/ALduu6AraAhaYSY-.mp4?tag=12",
-   "img": "20221107-201700-1197376698.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 残7:15 理論値は5170以上です。",
+   "date": "2022-11-07T02:17:00.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1589577268636299264?s=61&t=2zAh6l-U7v2jG2o2PL50OA",
+   "console": 4,
+   "comment": "残7:15 理論値は5170以上です。",
    "tie": false
   },
   {

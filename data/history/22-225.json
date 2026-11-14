@@ -51,15 +51,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 614,
    "uid": null,
    "user": "FeTellYou",
    "score": 27999,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -87,15 +87,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 7036,
    "uid": null,
    "user": "iid01",
    "score": 28016,
-   "date": "2018-12-10T00:00:00.000000Z",
+   "date": "2018-12-10T03:54:46.000000Z",
    "video": "https://www.youtube.com/watch?v=TqrNRvoU_30",
    "img": "20181210-215446-467592081.png",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {

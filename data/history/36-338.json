@@ -3,15 +3,15 @@
  "stage": 338,
  "records": [
   {
-   "id": null,
+   "id": 11103,
    "uid": null,
    "user": "Pikleaf",
    "score": 490,
-   "date": "2020-11-09T00:00:00.000000Z",
+   "date": "2020-11-09T05:45:26.000000Z",
    "video": "https://www.youtube.com/watch?v=vEeBYcRhyUQ",
-   "img": "",
-   "console": null,
-   "comment": "[Joy-Con Double$] 3:50",
+   "img": null,
+   "console": 4,
+   "comment": "3:50",
    "tie": false
   },
   {
@@ -87,15 +87,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 15560,
    "uid": null,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 552,
-   "date": "2022-11-23T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1595355419362619399/pu/vid/640x360/MJsmzPu-HdJLcAsy.mp4?tag=12",
+   "date": "2022-11-23T00:58:11.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1595355488220504066?s=61&t=1v49bMFodYxcWbrA-xvW8A",
    "img": "20221123-185811-284994558.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 橋をかけないルートの動画が参考になりました。ありがとうございます。",
+   "console": 4,
+   "comment": "橋をかけないルートの動画が参考になりました。ありがとうございます。",
    "tie": false
   },
   {

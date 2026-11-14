@@ -99,15 +99,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 15106,
    "uid": null,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 9480,
-   "date": "2022-09-25T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1573998123869179904/pu/vid/640x360/PVuktgMDGPxEZ2ZH.mp4?tag=12",
+   "date": "2022-09-25T02:35:00.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1573998171323518978?s=21&t=Yf5eYXJtvCRADn7HQ2APAg",
    "img": "20220925-203500-1152713245.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 残4:11 ここに来て3秒更新は嬉しいです。",
+   "console": 4,
+   "comment": "残4:11 ここに来て3秒更新は嬉しいです。",
    "tie": false
   },
   {
@@ -123,15 +123,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 15434,
+   "uid": 278694074,
    "user": "esu",
    "score": 9600,
-   "date": "2022-10-17T00:00:00.000000Z",
+   "date": "2022-10-17T03:51:10.000000Z",
    "video": "https://youtu.be/lcm6p-AUXIk",
-   "img": "20221017-215110-1216364595.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] マジできつかったので多分理論値です",
+   "console": 4,
+   "comment": "マジできつかったので多分理論値です",
    "tie": false
   }
  ],

@@ -3,15 +3,13 @@
  "stage": 329,
  "posts": [
   {
-   "id": null,
+   "id": 1008,
    "user": "muratsubo",
    "score": 1450,
-   "date": "2015-11-07T00:00:00.000000Z",
-   "console": null,
+   "date": "2015-11-07T04:41:00.000000Z",
+   "console": 3,
    "video": "",
-   "img": "",
-   "comment": "[GamePad Only] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 1650,
@@ -122,15 +120,14 @@
    "img": "20201226-153728-46406942.JPG"
   },
   {
-   "id": null,
+   "id": 12767,
    "user": "sanami",
    "score": 2250,
-   "date": "2021-06-10T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-06-10T01:58:10.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210610-195802-2025018976.jpg",
-   "comment": "[Joy-Con Double#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210610-195802-2025018976.jpg"
   },
   {
    "id": 12910,

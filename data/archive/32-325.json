@@ -21,26 +21,23 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 2244,
    "user": "noamoa",
    "score": 2700,
-   "date": "2016-06-22T00:00:00.000000Z",
-   "console": null,
+   "date": "2016-06-22T04:49:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "20160622-224956-1882628407.jpg",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20160622-224956-1882628407.jpg"
   },
   {
-   "id": null,
+   "id": 3820,
    "user": "yuibitchi",
    "score": 1080,
-   "date": "2017-05-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-05-19T05:56:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 4182,
@@ -52,15 +49,13 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 6587,
    "user": "muratsubo",
    "score": 2250,
-   "date": "2018-07-01T00:00:00.000000Z",
-   "console": null,
+   "date": "2018-07-01T02:45:03.000000Z",
+   "console": 3,
    "video": "",
-   "img": "",
-   "comment": "[GamePad Only] 爆弾をひとつ余らせてしまってる",
-   "source": "sheet-2023"
+   "comment": "爆弾をひとつ余らせてしまってる"
   },
   {
    "id": 7406,
@@ -102,15 +97,14 @@
    "img": "20201113-070307-774385029.png"
   },
   {
-   "id": null,
+   "id": 11457,
    "user": "dayomin",
    "score": 1820,
-   "date": "2020-11-28T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-11-28T04:11:27.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20201128-221127-1498833583.jpeg",
-   "comment": "[Wii U Pro] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20201128-221127-1498833583.jpeg"
   },
   {
    "id": 11621,
@@ -143,15 +137,13 @@
    "img": "20210116-080720-2057050500.jpg"
   },
   {
-   "id": null,
+   "id": 11995,
    "user": "ryuun",
    "score": 3300,
-   "date": "2021-01-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-01-18T00:28:23.000000Z",
+   "console": 4,
    "video": "https://youtu.be/QbLt2-97Nrw",
-   "img": "",
-   "comment": "[Switch Pro$] まだまだ動きが洗練されていない",
-   "source": "sheet-2023"
+   "comment": "まだまだ動きが洗練されていない"
   },
   {
    "id": 12100,
@@ -223,15 +215,13 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 13168,
    "user": "shiocha78",
    "score": 2940,
-   "date": "2021-09-25T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-09-25T03:49:31.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=Pn8IcmFcOoU",
-   "img": "",
-   "comment": "[Joy-Con Double$] 掘り出す爆弾のバグがいまいち分からぬ",
-   "source": "sheet-2023"
+   "comment": "掘り出す爆弾のバグがいまいち分からぬ"
   },
   {
    "id": 13264,
@@ -371,15 +361,14 @@
    "img": "20230114-022336-1895201355.jpeg"
   },
   {
-   "id": null,
+   "id": 16137,
    "user": "April_lapispik",
    "score": 3000,
-   "date": "2023-05-21T00:00:00.000000Z",
-   "console": null,
+   "date": "2023-05-21T05:04:41.000000Z",
+   "console": 4,
    "video": "https://youtu.be/5R2Wfsum_1E",
-   "img": "20230521-230441-134665426.jpg",
-   "comment": "[Joy-Con Double#] このステージは何かとシビア",
-   "source": "sheet-2023"
+   "comment": "このステージは何かとシビア",
+   "img": "20230521-230441-134665426.jpg"
   },
   {
    "id": 16226,

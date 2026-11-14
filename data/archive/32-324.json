@@ -31,15 +31,13 @@
    "img": "20160317-142953-2010299412.jpg"
   },
   {
-   "id": null,
+   "id": 3819,
    "user": "yuibitchi",
    "score": 1135,
-   "date": "2017-05-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-05-19T05:55:00.000000Z",
+   "console": 2,
    "video": "",
-   "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 4181,
@@ -51,15 +49,13 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 4271,
    "user": "muratsubo",
    "score": 2795,
-   "date": "2017-06-24T00:00:00.000000Z",
-   "console": null,
+   "date": "2017-06-24T03:15:00.000000Z",
+   "console": 3,
    "video": "",
-   "img": "",
-   "comment": "[GamePad Only] うん",
-   "source": "sheet-2023"
+   "comment": "うん"
   },
   {
    "id": 9740,
@@ -82,15 +78,14 @@
    "img": "20201109-002104-1510069957.jpeg"
   },
   {
-   "id": null,
+   "id": 11616,
    "user": "dayomin",
    "score": 1355,
-   "date": "2020-12-07T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-07T05:26:11.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20201207-232611-1912543303.jpg",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20201207-232611-1912543303.jpg"
   },
   {
    "id": null,
@@ -123,26 +118,24 @@
    "comment": "運ゲーです"
   },
   {
-   "id": null,
+   "id": 11876,
    "user": "messhi475",
    "score": 4585,
-   "date": "2021-01-08T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-01-08T01:03:05.000000Z",
+   "console": 4,
    "video": "https://youtu.be/TVECAyki59s",
-   "img": "20210108-190226-336425643.jpg",
-   "comment": "[Joy-Con Double#] ようやく、納得できる記録にたどり着けました。",
-   "source": "sheet-2023"
+   "comment": "ようやく、納得できる記録にたどり着けました。",
+   "img": "20210108-190226-336425643.jpg"
   },
   {
-   "id": null,
+   "id": 12411,
    "user": "teona",
    "score": 3965,
-   "date": "2021-03-22T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-03-22T01:31:04.000000Z",
+   "console": 4,
    "video": "",
-   "img": "20210322-193104-1063431777.png",
-   "comment": "[Joy-Con Double#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし",
+   "img": "20210322-193104-1063431777.png"
   },
   {
    "id": 12772,
@@ -260,15 +253,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 14558,
    "user": "esu",
    "score": 5365,
-   "date": "2022-04-14T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-04-14T01:10:54.000000Z",
+   "console": 4,
    "video": "https://youtu.be/EWX46d3x23Y",
-   "img": "20220414-191054-1140374099.jpeg",
-   "comment": "[Switch Pro$] 8分台達成！！！！",
-   "source": "sheet-2023"
+   "comment": "8分台達成！！！！",
+   "img": "20220414-191054-1140374099.jpeg"
   },
   {
    "id": null,
@@ -282,26 +274,24 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 15107,
    "user": "April_lapispik",
    "score": 5055,
-   "date": "2022-09-25T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-09-25T04:24:41.000000Z",
+   "console": 4,
    "video": "https://youtu.be/8z_r6nhySWQ",
-   "img": "20220925-222441-2010621082.jpg",
-   "comment": "[Joy-Con Double#] ここまで頑張った自分を褒めたい",
-   "source": "sheet-2023"
+   "comment": "ここまで頑張った自分を褒めたい",
+   "img": "20220925-222441-2010621082.jpg"
   },
   {
-   "id": null,
+   "id": 15674,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 5375,
-   "date": "2022-12-22T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-12-22T01:03:41.000000Z",
+   "console": 4,
    "video": "https://youtu.be/UdH9wWpXqtE",
-   "img": "20221222-190342-384725209.jpeg",
-   "comment": "[Switch Pro$] 8:10は可能だと思います。",
-   "source": "sheet-2023"
+   "comment": "8:10は可能だと思います。",
+   "img": "20221222-190342-384725209.jpeg"
   },
   {
    "id": 16225,

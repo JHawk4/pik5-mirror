@@ -15,27 +15,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 3866,
    "uid": null,
    "user": "yuibitchi",
    "score": 1750,
-   "date": "2017-05-22T00:00:00.000000Z",
+   "date": "2017-05-22T00:08:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "img": null,
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 6701,
    "uid": null,
    "user": "noamoa",
    "score": 2250,
-   "date": "2018-08-12T00:00:00.000000Z",
+   "date": "2018-08-12T00:17:41.000000Z",
    "video": "",
    "img": "20180812-181741-1961328802.jpg",
-   "console": null,
-   "comment": "[Wii] 羽を全員青ポンガシに突っ込んだ",
+   "console": 2,
+   "comment": "羽を全員青ポンガシに突っ込んだ",
    "tie": false
   },
   {
@@ -158,15 +158,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 15686,
+   "uid": 278316674,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 3280,
-   "date": "2022-12-25T00:00:00.000000Z",
+   "date": "2022-12-25T01:08:32.000000Z",
    "video": "https://youtu.be/ToyscdaYivE",
-   "img": "20221225-190832-384423243.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] カレハンボ…",
+   "console": 4,
+   "comment": "カレハンボ…",
    "tie": true
   }
  ],

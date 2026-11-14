@@ -27,15 +27,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 2375,
    "uid": null,
    "user": "U3",
    "score": 14540,
-   "date": "2016-09-26T00:00:00.000000Z",
+   "date": "2016-09-26T02:43:00.000000Z",
    "video": "",
    "img": "20160926-204305-1687508578.bmp",
-   "console": null,
-   "comment": "[GamePad Only] コメントなし",
+   "console": 3,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -63,15 +63,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 12549,
    "uid": null,
    "user": "Moony",
    "score": 18590,
-   "date": "2021-04-30T00:00:00.000000Z",
+   "date": "2021-04-30T00:15:40.000000Z",
    "video": "https://www.youtube.com/watch?v=DPJfcubFAYI&ab_channel=Moony",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "img": null,
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -87,15 +87,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 14229,
    "uid": null,
    "user": "esu",
    "score": 19250,
-   "date": "2022-02-06T00:00:00.000000Z",
+   "date": "2022-02-06T00:16:29.000000Z",
    "video": "https://youtu.be/6AwAE6abQQI",
    "img": "20220206-181629-1817515557.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] めっちゃ嬉しい記録",
+   "console": 4,
+   "comment": "めっちゃ嬉しい記録",
    "tie": false
   },
   {

@@ -15,15 +15,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 2766,
    "uid": null,
    "user": "noamoa",
    "score": 2205,
-   "date": "2017-01-10T00:00:00.000000Z",
+   "date": "2017-01-10T04:19:00.000000Z",
    "video": "",
    "img": "20170110-221939-840340300.jpg",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -39,15 +39,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 11399,
    "uid": null,
    "user": "Plata",
    "score": 2585,
-   "date": "2020-11-24T00:00:00.000000Z",
+   "date": "2020-11-24T02:50:01.000000Z",
    "video": "https://youtu.be/-2iKqfCE5Qw",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] WRまであと20秒くらい",
+   "img": null,
+   "console": 4,
+   "comment": "WRまであと20秒くらい",
    "tie": false
   },
   {
@@ -101,13 +101,25 @@
   {
    "id": null,
    "uid": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3185,
+   "date": "2022-10-29T00:00:00.000000Z",
+   "video": "https://video.twimg.com/ext_tw_video/1586314821813035012/pu/vid/1280x720/j9V3KgE_RfMXW8aH.mp4?tag=12",
+   "img": "20221029-201423-1397222674.jpeg",
+   "console": null,
+   "comment": "[Switch Pro$] 残4:44 青9で行きました。",
+   "tie": false
+  },
+  {
+   "id": 15488,
+   "uid": null,
    "user": "esu",
    "score": 3195,
-   "date": "2022-10-29T00:00:00.000000Z",
+   "date": "2022-10-29T04:26:34.000000Z",
    "video": "https://youtu.be/abZ4nm5hr9M",
    "img": "20221029-222634-549493942.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 2Pは”今は”どうでもいいので1Pで",
+   "console": 4,
+   "comment": "2Pは”今は”どうでもいいので1Pで",
    "tie": false
   },
   {

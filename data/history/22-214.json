@@ -27,27 +27,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 603,
    "uid": null,
    "user": "FeTellYou",
    "score": 18330,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 2015,
    "uid": null,
    "user": "noamoa",
    "score": 18342,
-   "date": "2016-04-18T00:00:00.000000Z",
+   "date": "2016-04-18T02:41:00.000000Z",
    "video": "",
    "img": "20160418-204117-1100313122.jpg",
-   "console": null,
-   "comment": "[Wii] まだ更新の余地有り。GCだと厳しい",
+   "console": 2,
+   "comment": "まだ更新の余地有り。GCだと厳しい",
    "tie": false
   },
   {

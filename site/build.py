@@ -413,8 +413,11 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
     side = [f'<div class="navbox"><a class="head" href="{pre}index.html">{e(t.s("games"))}</a>']
     for s in GAMES:
         side.append(f'<a class="g{s}{" on" if series == s else ""}" href="{pre}{SLUG[s]}.html">{e(t.game(s))}</a>')
-    side.append(f'<a href="{pre}tas.html">{e(t.s("tas"))}</a>')
-    side.append(f'<a href="{pre}players.html">{e(t.s("players"))}</a></div>')
+    side.append("</div>")
+    side.append(f'<div class="navbox"><span class="head">{e(t.s("more"))}</span>'
+                f'<a href="{pre}tas.html">{e(t.s("tas_title"))}</a>'
+                f'<a href="{pre}players.html">{e(t.s("players"))}</a>'
+                f'<a href="{pre}suggest.html?from={quote(rel)}">{e(t.s("suggest_title"))}</a></div>')
     if series:
         for c in [c for c in CATS if c["series"] == series]:
             side.append(f'<div class="navbox"><a class="head" href="{pre}{SLUG[series]}.html#c{c["id"]}">{e(t.cat(c))}</a>')

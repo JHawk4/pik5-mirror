@@ -39,15 +39,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 2376,
    "uid": null,
    "user": "U3",
    "score": 818,
-   "date": "2016-09-27T00:00:00.000000Z",
+   "date": "2016-09-27T05:44:00.000000Z",
    "video": "",
    "img": "20160927-234455-750206560.bmp",
-   "console": null,
-   "comment": "[GamePad Only] コメントなし",
+   "console": 3,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -75,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 11234,
    "uid": null,
    "user": "toripoppo0307",
    "score": 866,
-   "date": "2020-11-16T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1328278046441304065/pu/vid/1280x720/AtgsTt96wvS8fnWQ.mp4?tag=10",
+   "date": "2020-11-16T01:09:11.000000Z",
+   "video": "https://twitter.com/toripoppo0307/status/1328278068935356418",
    "img": "20201116-190911-737200301.jpg",
-   "console": null,
-   "comment": "[Joy-Con Double#] WRタイ",
+   "console": 4,
+   "comment": "WRタイ",
    "tie": false
   },
   {
@@ -123,27 +123,25 @@
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13979,
+   "uid": 277738486,
    "user": "esu",
    "score": 868,
-   "date": "2021-11-21T00:00:00.000000Z",
+   "date": "2021-11-21T04:34:08.000000Z",
    "video": "https://youtu.be/G93tx7BB4jQ",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] 苦行",
+   "console": 4,
+   "comment": "苦行",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 15699,
+   "uid": 278494490,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 868,
-   "date": "2022-12-29T00:00:00.000000Z",
+   "date": "2022-12-29T03:14:37.000000Z",
    "video": "https://youtu.be/16Ms4mgaDjM",
-   "img": "20221229-211437-1158487178.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 全体的にきつかったです。",
+   "console": 4,
+   "comment": "全体的にきつかったです。",
    "tie": true
   },
   {

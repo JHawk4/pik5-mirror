@@ -1,5 +1,8 @@
 # pik5-mirror notes for agents
 
+- The user wants every finished change committed and pushed right away, without asking first
+  (pull --rebase before pushing; pushing to main redeploys the live site at https://jhawk4.github.io/pik5-mirror/).
+
 - Visitor suggestions from the site go to a Google Form owned by the user.
   Read them at https://docs.google.com/forms/d/1gSumsqRO9tE9dbLnjvyxNl2puufcHhAgVOtZUkaRVm0/edit#responses
   (needs the user's Google sign-in; use Claude in Chrome, keeping the window in front). Details in README.md → Suggestions.

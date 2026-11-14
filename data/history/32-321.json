@@ -27,15 +27,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 5211,
    "uid": null,
    "user": "identete",
    "score": 6185,
-   "date": "2017-12-06T00:00:00.000000Z",
+   "date": "2017-12-06T01:17:00.000000Z",
    "video": "",
    "img": "20171206-191703-1327274857.jpg",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -122,15 +122,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 16255,
+   "uid": 278125853,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 7135,
-   "date": "2023-07-14T00:00:00.000000Z",
+   "date": "2023-07-14T02:03:04.000000Z",
    "video": "https://youtu.be/tvkbyYONHgo",
-   "img": "20230714-200304-1049280628.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] この記録が出る直前にブリコ以外10:23が出ました",
+   "console": 4,
+   "comment": "この記録が出る直前にブリコ以外10:23が出ました",
    "tie": true
   }
  ],

@@ -27,27 +27,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 713,
    "uid": null,
    "user": "Selenium_pikmin",
    "score": 9392,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 1785,
    "uid": null,
    "user": "HoshiKUZU_pik",
    "score": 9418,
-   "date": "2016-03-15T00:00:00.000000Z",
+   "date": "2016-03-15T02:31:00.000000Z",
    "video": "",
    "img": "20160315-203155-746269816.jpeg",
-   "console": null,
-   "comment": "[NGC] タマゴムシ10匹",
+   "console": 1,
+   "comment": "タマゴムシ10匹",
    "tie": false
   },
   {
@@ -63,15 +63,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 6121,
    "uid": null,
    "user": "Z_pikmin",
    "score": 9458,
-   "date": "2018-03-29T00:00:00.000000Z",
+   "date": "2018-03-29T01:07:15.000000Z",
    "video": "",
    "img": "20180329-190715-4295560.jpg",
-   "console": null,
-   "comment": "[Wii] 12匹2階中央スタート",
+   "console": 2,
+   "comment": "12匹2階中央スタート",
    "tie": false
   },
   {
@@ -111,15 +111,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 14767,
    "uid": null,
    "user": "spark573",
    "score": 9492,
-   "date": "2022-06-18T00:00:00.000000Z",
+   "date": "2022-06-18T04:10:02.000000Z",
    "video": "https://youtu.be/r4BAtgxCXpE",
    "img": "20220618-221003-288332236.png",
-   "console": null,
-   "comment": "[Wii] 8+10 このシューティングは二度とできん",
+   "console": 2,
+   "comment": "8+10 このシューティングは二度とできん",
    "tie": false
   },
   {

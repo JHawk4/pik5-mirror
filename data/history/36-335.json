@@ -99,15 +99,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14262,
+   "uid": 277512698,
    "user": "esu",
    "score": 12250,
-   "date": "2022-02-18T00:00:00.000000Z",
+   "date": "2022-02-18T03:35:00.000000Z",
    "video": "https://youtu.be/JX7RRQ5uiS4",
-   "img": "20220218-213500-1866088699.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 6日間の死闘",
+   "console": 4,
+   "comment": "6日間の死闘",
    "tie": false
   }
  ],

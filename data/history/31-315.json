@@ -15,27 +15,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 2378,
    "uid": null,
    "user": "U3",
    "score": 11935,
-   "date": "2016-09-29T00:00:00.000000Z",
+   "date": "2016-09-29T02:36:00.000000Z",
    "video": "",
    "img": "20160929-203655-1280752367.bmp",
-   "console": null,
-   "comment": "[GamePad Only] コメントなし",
+   "console": 3,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 11282,
    "uid": null,
    "user": "robustar",
    "score": 13705,
-   "date": "2020-11-18T00:00:00.000000Z",
+   "date": "2020-11-18T02:50:50.000000Z",
    "video": "https://www.youtube.com/watch?v=laskYTFOZ50",
-   "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] ここは本当に安定しない…",
+   "img": null,
+   "console": 4,
+   "comment": "ここは本当に安定しない…",
    "tie": false
   },
   {
@@ -75,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 13324,
    "uid": null,
    "user": "shiocha78",
    "score": 16825,
-   "date": "2021-10-28T00:00:00.000000Z",
+   "date": "2021-10-28T01:38:18.000000Z",
    "video": "https://www.youtube.com/watch?v=Wz78uOXTSFg",
    "img": "20211028-193818-502713845.png",
-   "console": null,
-   "comment": "[Joy-Con Double$] 17000行きたい",
+   "console": 4,
+   "comment": "17000行きたい",
    "tie": false
   },
   {
@@ -111,15 +111,14 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14226,
+   "uid": 277142279,
    "user": "esu",
    "score": 18565,
-   "date": "2022-02-04T00:00:00.000000Z",
+   "date": "2022-02-04T05:07:57.000000Z",
    "video": "https://youtu.be/cr4nhzphzJA",
-   "img": "20220204-230757-1384143502.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 9分台＋大幅更新達成！！",
+   "console": 4,
+   "comment": "9分台＋大幅更新達成！！",
    "tie": false
   }
  ],

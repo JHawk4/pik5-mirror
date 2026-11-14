@@ -75,39 +75,39 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 592,
    "uid": null,
    "user": "FeTellYou",
    "score": 48283,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 4308,
    "uid": null,
    "user": "keisen2853",
    "score": 48295,
-   "date": "2017-06-28T00:00:00.000000Z",
+   "date": "2017-06-28T01:00:00.000000Z",
    "video": "",
    "img": "20170628-190034-1909314069.jpg",
-   "console": null,
-   "comment": "[NGC] 2F神引き",
+   "console": 1,
+   "comment": "2F神引き",
    "tie": false
   },
   {
-   "id": null,
+   "id": 4842,
    "uid": null,
    "user": "pikmin893",
    "score": 48301,
-   "date": "2017-09-22T00:00:00.000000Z",
+   "date": "2017-09-22T01:28:00.000000Z",
    "video": "",
    "img": "20170922-192828-151171540.png",
-   "console": null,
-   "comment": "[NGC] 運が良かった",
+   "console": 1,
+   "comment": "運が良かった",
    "tie": false
   },
   {
@@ -171,15 +171,15 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 14783,
    "uid": null,
    "user": "mercysnow",
    "score": 48310,
-   "date": "2022-06-29T00:00:00.000000Z",
+   "date": "2022-06-29T00:05:28.000000Z",
    "video": "https://youtu.be/c8Ogs_Ajz4A",
-   "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "img": null,
+   "console": 2,
+   "comment": "コメントなし",
    "tie": true
   },
   {

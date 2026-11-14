@@ -51,27 +51,27 @@
    "tie": false
   },
   {
-   "id": null,
+   "id": 729,
    "uid": null,
    "user": "Selenium_pikmin",
    "score": 14424,
-   "date": "2015-11-01T00:00:00.000000Z",
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "img": null,
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
+   "id": 2194,
    "uid": null,
    "user": "noamoa",
    "score": 14424,
-   "date": "2016-06-09T00:00:00.000000Z",
+   "date": "2016-06-09T02:21:00.000000Z",
    "video": "",
    "img": "20160609-202130-1187232801.jpg",
-   "console": null,
-   "comment": "[Wii] 近くに重さ20以上のお宝が無ければリセット",
+   "console": 2,
+   "comment": "近くに重さ20以上のお宝が無ければリセット",
    "tie": true
   },
   {

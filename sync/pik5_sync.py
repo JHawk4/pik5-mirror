@@ -285,6 +285,20 @@ def archive_entry(p: dict) -> dict:
     return out
 
 
+def same_submission(x: dict, y: dict) -> bool:
+    """Same player and score, dated within a day of each other (imported data
+    has only a local date, pik5 a UTC timestamp)."""
+    dx, dy = x.get("date"), y.get("date")
+    if not dx or not dy:
+        return True
+    try:
+        a = datetime.fromisoformat(dx.replace("Z", "+00:00"))
+        b = datetime.fromisoformat(dy.replace("Z", "+00:00"))
+    except ValueError:
+        return dx[:10] == dy[:10]
+    return abs((a - b).total_seconds()) <= 36 * 3600
+
+
 def update_archive(rule: int, sid: int, posts: list[dict]) -> bool:
     """Keep every distinct submission ever seen for a board, so leaderboards can
     be reconstructed as of any date. Keyed by (player, score); the earliest
@@ -296,12 +310,22 @@ def update_archive(rule: int, sid: int, posts: list[dict]) -> bool:
         a = archive_entry(p)
         key = (a["user"], a["score"])
         old = pool.get(key)
-        if old is None or (a["date"] or "") < (old["date"] or ""):
+        if old is None:
             pool[key] = a
+            continue
+        # Same run seen twice. An imported copy (it has a "source") only knows
+        # the day, so a copy from pik5 itself within a day of it is the same
+        # submission and wins: it has the post id, exact time and console.
+        if same_submission(old, a) and bool(old.get("source")) != bool(a.get("source")):
+            keep, other = (a, old) if old.get("source") else (old, a)
+        elif (a["date"] or "") < (old["date"] or ""):
+            keep, other = a, old
         else:
-            for f in ("video", "img"):
-                if not old.get(f) and a.get(f):
-                    old[f] = a[f]
+            keep, other = old, a
+        for f in ("video", "img", "comment"):
+            if not keep.get(f) and other.get(f):
+                keep[f] = other[f]
+        pool[key] = keep
     arc["posts"] = sorted(pool.values(), key=lambda a: (a["date"] or "", a["user"] or ""))
     return write_json(path, arc)
 
