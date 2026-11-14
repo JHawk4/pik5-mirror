@@ -1,0 +1,564 @@
+{
+ "rule": 22,
+ "stage": 223,
+ "posts": [
+  {
+   "id": 58,
+   "user": "official",
+   "score": 9784,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 210,
+   "user": "shinya_",
+   "score": 9900,
+   "date": "2012-11-01T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "黄ピクミンを使うパターンで、赤も作った結果だったと思います。"
+  },
+  {
+   "id": 235,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 9829,
+   "date": "2013-05-02T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "このステージに謎の苦手意識がある。"
+  },
+  {
+   "id": 241,
+   "user": "tororo",
+   "score": 9930,
+   "date": "2013-05-18T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "50匹全員花にしたので効率よく運搬できました"
+  },
+  {
+   "id": 446,
+   "user": "DRAFIX",
+   "score": 9875,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "運要素もとても強いですが、その運を活かし切る自信がなくて手を出せません。"
+  },
+  {
+   "id": 612,
+   "user": "FeTellYou",
+   "score": 9950,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 730,
+   "user": "Selenium_pikmin",
+   "score": 9990,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 918,
+   "user": "xxHIMExx",
+   "score": 9833,
+   "date": "2015-11-06T04:46:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1107,
+   "user": "maramon",
+   "score": 9922,
+   "date": "2015-11-09T05:02:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2261,
+   "user": "pikmin893",
+   "score": 9992,
+   "date": "2016-06-27T18:37:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1逃し(回収ミスかも)42カウント"
+  },
+  {
+   "id": 2720,
+   "user": "U3",
+   "score": 9979,
+   "date": "2017-01-06T03:16:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3203,
+   "user": "mezasi_pikmin",
+   "score": 9956,
+   "date": "2017-03-13T01:22:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "やはりシューティングの事しか考えてない"
+  },
+  {
+   "id": 3533,
+   "user": "iid01",
+   "score": 10025,
+   "date": "2017-04-16T06:01:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=Mj4RdjeKEqg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3713,
+   "user": "muratsubo",
+   "score": 9962,
+   "date": "2017-05-06T04:51:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "遊びかたがわかってきた"
+  },
+  {
+   "id": 4667,
+   "user": "HoshiKUZU_pik",
+   "score": 9975,
+   "date": "2017-09-01T01:04:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "センスないです"
+  },
+  {
+   "id": 4822,
+   "user": "keisen2853",
+   "score": 10004,
+   "date": "2017-09-20T05:57:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ゲキカラなし"
+  },
+  {
+   "id": 4836,
+   "user": "dayomin",
+   "score": 9948,
+   "date": "2017-09-21T05:51:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "皆早過ぎる"
+  },
+  {
+   "id": 4870,
+   "user": "ZEOKU",
+   "score": 9973,
+   "date": "2017-09-26T04:42:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "動きわからん"
+  },
+  {
+   "id": 4882,
+   "user": "koppacha",
+   "score": 9992,
+   "date": "2017-09-29T06:02:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1逃し残52"
+  },
+  {
+   "id": 5159,
+   "user": "flyinghawk",
+   "score": 10005,
+   "date": "2017-11-25T10:51:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "もう許して"
+  },
+  {
+   "id": 5495,
+   "user": "yuibitchi",
+   "score": 9906,
+   "date": "2018-01-04T21:16:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6175,
+   "user": "miran",
+   "score": 9967,
+   "date": "2018-04-18T07:10:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "全討伐で1回収忘れで踏んだり蹴ったり"
+  },
+  {
+   "id": 6351,
+   "user": "noamoa",
+   "score": 10011,
+   "date": "2018-05-19T19:58:56.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "エキス5匹しか吸えずカラ0なのに71残し"
+  },
+  {
+   "id": 6532,
+   "user": "HAPDAP",
+   "score": 9928,
+   "date": "2018-06-21T18:20:13.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "カラ2個、多分7逃がし"
+  },
+  {
+   "id": 6622,
+   "user": "TEL",
+   "score": 9974,
+   "date": "2018-07-13T18:10:39.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2逃しカラなし、カラがあればもっと行けた"
+  },
+  {
+   "id": 6648,
+   "user": "pik_Agnyan",
+   "score": 9965,
+   "date": "2018-07-23T05:13:10.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タイムはアレだが全討伐。"
+  },
+  {
+   "id": 6879,
+   "user": "sectionmarilui",
+   "score": 10030,
+   "date": "2018-09-15T10:51:54.000000Z",
+   "console": 2,
+   "video": "http://www.nicovideo.jp/watch/sm33863071",
+   "comment": "ゲキカラはなくてもここまでいける、あれば"
+  },
+  {
+   "id": 6937,
+   "user": "Z_pikmin",
+   "score": 10012,
+   "date": "2018-09-30T01:00:43.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ざこ"
+  },
+  {
+   "id": 6983,
+   "user": "PKtoyama",
+   "score": 9984,
+   "date": "2018-10-30T04:16:05.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ハンボは花辛で囲うか遠投で即殺したかった（）"
+  },
+  {
+   "id": 7007,
+   "user": "ikimono334",
+   "score": 10007,
+   "date": "2018-11-15T19:57:38.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "隔離ポポガシで大ロス"
+  },
+  {
+   "id": 7563,
+   "user": "shiocha78",
+   "score": 9951,
+   "date": "2019-05-25T03:33:36.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7633,
+   "user": "Tizimi77777",
+   "score": 9875,
+   "date": "2019-07-29T04:47:53.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8096,
+   "user": "enagem_akakuy",
+   "score": 9883,
+   "date": "2019-11-09T02:00:42.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8105,
+   "user": "areiku",
+   "score": 9910,
+   "date": "2019-11-29T03:31:21.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8279,
+   "user": "fuji_luck",
+   "score": 9998,
+   "date": "2020-02-27T13:58:58.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "あと2点が遠い"
+  },
+  {
+   "id": 9725,
+   "user": "zukki",
+   "score": 9942,
+   "date": "2020-08-10T14:11:27.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9810,
+   "user": "ToolAssistedPik",
+   "score": 9974,
+   "date": "2020-08-23T01:26:52.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "全討伐無理ぽ…というか、ゲキカラの影響がデカすぎませんか？"
+  },
+  {
+   "id": 10614,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 9916,
+   "date": "2020-09-27T20:11:44.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/kRgfPTo_u9o",
+   "comment": "シジミ6匹逃し"
+  },
+  {
+   "id": 10668,
+   "user": "ryuun",
+   "score": 9963,
+   "date": "2020-10-06T23:49:20.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/Dsnto8Y5BEI",
+   "comment": "3匹逃し。プレイングもガバガバなので、また出直して来ます"
+  },
+  {
+   "id": 11541,
+   "user": "messhi475",
+   "score": 9979,
+   "date": "2020-12-03T00:16:27.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "人生で初めて、シジミ全討伐か、1匹逃しの記録だったと思います。"
+  },
+  {
+   "id": 11590,
+   "user": "Spidman",
+   "score": 9894,
+   "date": "2020-12-05T00:01:20.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "黄エキスが一つしか出ず葉が多くなってしまった・・・"
+  },
+  {
+   "id": 12538,
+   "user": "nikoshu_pik",
+   "score": 10001,
+   "date": "2021-04-27T00:40:24.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=PZWKi9M5IfY",
+   "comment": "1逃し"
+  },
+  {
+   "id": 12572,
+   "user": "yuyuyunkel",
+   "score": 10005,
+   "date": "2021-05-05T06:48:21.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13169,
+   "user": "April_lapispik",
+   "score": 9965,
+   "date": "2021-09-26T03:35:34.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/LwS7UxXHnmc",
+   "comment": "シジミ22匹"
+  },
+  {
+   "id": 13289,
+   "user": "nakatatsu",
+   "score": 9982,
+   "date": "2021-10-22T09:36:36.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1逃し、からとにが1個ずつ、拠点は水路じゃない方"
+  },
+  {
+   "id": 13389,
+   "user": "makalogue",
+   "score": 9990,
+   "date": "2021-11-03T20:58:27.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=iNIstCGb2u8",
+   "comment": "サンショクシジミ23匹(1匹逃し)、タイム50"
+  },
+  {
+   "id": 14580,
+   "user": "toripoppo0307",
+   "score": 9963,
+   "date": "2022-04-16T05:11:53.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=hLwjLHt8H8E",
+   "comment": "GC版に生存権をください"
+  },
+  {
+   "id": 14875,
+   "user": "eruvoore",
+   "score": 9788,
+   "date": "2022-08-07T07:42:34.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14911,
+   "user": "mercysnow",
+   "score": 10040,
+   "date": "2022-08-14T09:25:52.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/fDHvZwBg6Ic",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15481,
+   "user": "riserise",
+   "score": 9950,
+   "date": "2022-10-27T04:44:11.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15881,
+   "user": "yukidaruma",
+   "score": 10009,
+   "date": "2023-02-25T08:58:58.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/uDGmfm5NKm0",
+   "comment": "1逃し　69"
+  },
+  {
+   "id": 16829,
+   "user": "spark573",
+   "score": 10033,
+   "date": "2023-08-26T07:18:16.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/7n9zMPvc-gw?si=QROOU5YVT0Sn0Fnr",
+   "comment": "納得"
+  },
+  {
+   "id": 17241,
+   "user": "albut3",
+   "score": 10038,
+   "date": "2023-11-13T08:46:17.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=3jnxgOyVXVA",
+   "comment": "最初のファーム以外とても良い"
+  },
+  {
+   "id": 17246,
+   "user": "atmy_17",
+   "score": 10005,
+   "date": "2023-11-14T17:50:29.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "分かってきたかも？"
+  },
+  {
+   "id": 17491,
+   "user": "mikou_musicgame",
+   "score": 10003,
+   "date": "2023-12-30T21:34:10.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17566,
+   "user": "kobachi_no_udon",
+   "score": 10044,
+   "date": "2024-01-30T08:41:59.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "録画忘れて本当にごめんなさい。本当に・・・"
+  },
+  {
+   "id": 18042,
+   "user": "Gorei_50",
+   "score": 10044,
+   "date": "2024-07-31T07:17:00.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/t1cGjXnqHT4",
+   "comment": "間欠泉がおしい。地形的にはいつもの"
+  },
+  {
+   "id": 18317,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10040,
+   "date": "2024-12-17T02:02:52.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/YZNOI2F5Diw?si=MqPQathT8BmgPXSU",
+   "comment": "この場所意外と全討伐しやすい気がします"
+  },
+  {
+   "id": 18511,
+   "user": "Argent2home",
+   "score": 10018,
+   "date": "2025-07-05T05:58:28.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/XFZoYKcazOg",
+   "comment": "1逃し"
+  },
+  {
+   "id": 19018,
+   "user": "pikitto",
+   "score": 9955,
+   "date": "2025-12-15T20:34:26.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/SdNXN0ZKvdc?si=8syIib0EJL2Of0FC",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19169,
+   "user": "alpha_0630",
+   "score": 10010,
+   "date": "2026-01-22T04:20:19.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/fr-KXstGVZk",
+   "comment": "3wayのときに"
+  },
+  {
+   "id": 19434,
+   "user": "Mutou_p2pw",
+   "score": 10013,
+   "date": "2026-05-29T06:42:47.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/4RNnRKwjxTc?si=GR5x2iChujwP_AjK",
+   "comment": "23!"
+  }
+ ]
+}

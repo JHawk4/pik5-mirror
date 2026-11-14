@@ -1,0 +1,564 @@
+{
+ "rule": 21,
+ "stage": 230,
+ "posts": [
+  {
+   "id": 65,
+   "user": "official",
+   "score": 31864,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 69,
+   "user": "tongarimasao",
+   "score": 31444,
+   "date": "2007-05-09T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "また挑戦・・・　だいぶ公式記録に近くなってきたぁ（爆"
+  },
+  {
+   "id": 101,
+   "user": "shinya_",
+   "score": 31991,
+   "date": "2008-04-19T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシあり。２Ｆが運要素。"
+  },
+  {
+   "id": 103,
+   "user": "chouhougekinamashindamagumokyanon",
+   "score": 31899,
+   "date": "2008-07-08T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "クイーンチャッピーをいかに早く倒せるかがポイントともいえる。"
+  },
+  {
+   "id": 159,
+   "user": "akisame",
+   "score": 31822,
+   "date": "2009-04-01T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式までもうちょっと。クイーンチャッピーが問題です。"
+  },
+  {
+   "id": 238,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 31874,
+   "date": "2013-05-02T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "紫１０匹だとクマに食われることが…"
+  },
+  {
+   "id": 453,
+   "user": "DRAFIX",
+   "score": 31891,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシはなし。2Fが山場だと思うのは私だけでしょうか。"
+  },
+  {
+   "id": 737,
+   "user": "Selenium_pikmin",
+   "score": 32055,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 925,
+   "user": "xxHIMExx",
+   "score": 31890,
+   "date": "2015-11-06T04:48:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1114,
+   "user": "maramon",
+   "score": 31932,
+   "date": "2015-11-09T05:05:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1222,
+   "user": "FeTellYou",
+   "score": 32137,
+   "date": "2015-11-14T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "×20引きました。ごめんなさい。"
+  },
+  {
+   "id": 1801,
+   "user": "HoshiKUZU_pik",
+   "score": 32081,
+   "date": "2016-03-15T02:38:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1899,
+   "user": "muratsubo",
+   "score": 32011,
+   "date": "2016-03-31T04:05:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2023,
+   "user": "noamoa",
+   "score": 32113,
+   "date": "2016-04-20T23:21:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "タマゴムシ10匹です"
+  },
+  {
+   "id": 2225,
+   "user": "koppacha",
+   "score": 32059,
+   "date": "2016-06-18T22:22:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "一発・タマゴムシ10匹"
+  },
+  {
+   "id": 2330,
+   "user": "PKtoyama",
+   "score": 32042,
+   "date": "2016-08-09T21:40:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "虫を一匹回収しそこねた"
+  },
+  {
+   "id": 3345,
+   "user": "HAPDAP",
+   "score": 32027,
+   "date": "2017-03-29T22:35:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "念願のタマゴムシが出ました！　32000に乗って嬉しい。"
+  },
+  {
+   "id": 3350,
+   "user": "keisen2853",
+   "score": 32095,
+   "date": "2017-03-30T08:03:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "B2までがクソタイムでムシ出ると萎える"
+  },
+  {
+   "id": 3490,
+   "user": "mezasi_pikmin",
+   "score": 32062,
+   "date": "2017-04-07T22:56:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "結局コイツの世話になる"
+  },
+  {
+   "id": 3904,
+   "user": "pikmin893",
+   "score": 32130,
+   "date": "2017-05-26T18:31:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "B3で赤ポポに投げ入れる痛恨のミス"
+  },
+  {
+   "id": 4742,
+   "user": "agosuke",
+   "score": 31808,
+   "date": "2017-09-08T06:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4788,
+   "user": "flyinghawk",
+   "score": 32180,
+   "date": "2017-09-18T01:35:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "6テイクで引いてしまった"
+  },
+  {
+   "id": 4848,
+   "user": "ZEOKU",
+   "score": 32032,
+   "date": "2017-09-22T22:54:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "時間かけすぎました"
+  },
+  {
+   "id": 4898,
+   "user": "imedin0813",
+   "score": 31870,
+   "date": "2017-10-04T07:22:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何故かゲキニガ1つ余った"
+  },
+  {
+   "id": 5308,
+   "user": "Z_pikmin",
+   "score": 32113,
+   "date": "2017-12-22T18:48:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "もう二度と来るつもりはない"
+  },
+  {
+   "id": 5549,
+   "user": "yuibitchi",
+   "score": 31886,
+   "date": "2018-01-07T04:28:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5786,
+   "user": "TEL",
+   "score": 32091,
+   "date": "2018-02-09T18:08:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "お前はいつもそうだ！！2Fでコグマに食べられ3Fで赤に入れてしまう…誰もお前を愛さない…"
+  },
+  {
+   "id": 6147,
+   "user": "pik_Agnyan",
+   "score": 32086,
+   "date": "2018-04-08T23:20:04.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "RTA中の記録3。"
+  },
+  {
+   "id": 6180,
+   "user": "miran",
+   "score": 32087,
+   "date": "2018-04-19T11:47:53.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "3Fもたついたがクイーン一撃が決まった"
+  },
+  {
+   "id": 6327,
+   "user": "ikimono334",
+   "score": 32105,
+   "date": "2018-05-17T17:59:40.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "クイーン2ターン以外は満足(1セット)"
+  },
+  {
+   "id": 6480,
+   "user": "sectionmarilui",
+   "score": 32112,
+   "date": "2018-06-16T09:33:55.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まあその内2セット出るでしょ"
+  },
+  {
+   "id": 6564,
+   "user": "toripoppo0307",
+   "score": 32072,
+   "date": "2018-06-25T23:57:35.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1セット"
+  },
+  {
+   "id": 7649,
+   "user": "Tizimi77777",
+   "score": 32035,
+   "date": "2019-08-02T03:07:32.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7979,
+   "user": "ToolAssistedPik",
+   "score": 32084,
+   "date": "2019-08-10T07:32:52.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシ１セット＋クイーンをワンターンキル"
+  },
+  {
+   "id": 8050,
+   "user": "enagem_akakuy",
+   "score": 31916,
+   "date": "2019-09-23T01:45:15.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9676,
+   "user": "shiocha78",
+   "score": 32076,
+   "date": "2020-07-28T20:45:22.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "息抜きだったんだけどなぁ。また引けることを願って"
+  },
+  {
+   "id": 9795,
+   "user": "dayomin",
+   "score": 32047,
+   "date": "2020-08-20T05:54:59.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1セットでベビチャ1死。もうやりたくない"
+  },
+  {
+   "id": 9799,
+   "user": "nikoshu_pik",
+   "score": 32107,
+   "date": "2020-08-21T04:53:33.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=N9suIDWrqdg",
+   "comment": "1セットだけど緊張した"
+  },
+  {
+   "id": 9915,
+   "user": "zukki",
+   "score": 32068,
+   "date": "2020-09-13T15:55:46.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10852,
+   "user": "ryuun",
+   "score": 32172,
+   "date": "2020-10-21T06:30:05.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/B4Hq7FRQIwk",
+   "comment": "2セット+犠牲×1。一生後悔案件"
+  },
+  {
+   "id": 11054,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 31997,
+   "date": "2020-11-06T22:52:20.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "完全に事故ったやつ"
+  },
+  {
+   "id": 11574,
+   "user": "messhi475",
+   "score": 31930,
+   "date": "2020-12-04T01:37:37.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 12628,
+   "user": "makalogue",
+   "score": 32095,
+   "date": "2021-05-16T18:23:55.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=qFYgadtSZyU",
+   "comment": "ムシ1セット10匹。タイム54→115→155→240→285"
+  },
+  {
+   "id": 12799,
+   "user": "yuyuyunkel",
+   "score": 32120,
+   "date": "2021-06-13T16:00:46.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/qFZYaGMEfyA",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12898,
+   "user": "yukidaruma",
+   "score": 32089,
+   "date": "2021-07-10T08:35:18.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12934,
+   "user": "fuji_luck",
+   "score": 32217,
+   "date": "2021-07-23T05:40:48.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/jcuMZnyz6xY",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13309,
+   "user": "April_lapispik",
+   "score": 32071,
+   "date": "2021-10-24T23:08:33.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/dIbbAZPBm6s",
+   "comment": "タマゴムシ出すまでに3日以上かかった　1セット　動画は解説つきです"
+  },
+  {
+   "id": 13318,
+   "user": "nakatatsu",
+   "score": 32058,
+   "date": "2021-10-27T06:44:17.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "はやくにタマゴですぎた、クイーンチャッピーの倒し方もわからないまま70万基準に乗ってしまった。"
+  },
+  {
+   "id": 14736,
+   "user": "mikou_musicgame",
+   "score": 32101,
+   "date": "2022-06-04T05:59:40.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "クイーン2ターン 犠牲1"
+  },
+  {
+   "id": 14882,
+   "user": "eruvoore",
+   "score": 32023,
+   "date": "2022-08-07T07:45:35.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "全ステ任天堂記録超え記念に初投稿です"
+  },
+  {
+   "id": 15041,
+   "user": "atmy_17",
+   "score": 32098,
+   "date": "2022-09-08T21:04:30.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "配置が少しあれだけどいけた。"
+  },
+  {
+   "id": 15700,
+   "user": "spark573",
+   "score": 32222,
+   "date": "2022-12-30T03:25:03.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/RY0KQ51VsUY",
+   "comment": "ただ一つだけの悔いを残して"
+  },
+  {
+   "id": 18332,
+   "user": "kobachi_no_udon",
+   "score": 32151,
+   "date": "2024-12-22T07:41:48.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/RDFcGxT1CRE",
+   "comment": "ｲ反"
+  },
+  {
+   "id": 18374,
+   "user": "alpha_0630",
+   "score": 32130,
+   "date": "2025-01-26T07:35:45.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/9jp0iNMWi4w",
+   "comment": "見返すと良くない動きしてる箇所がいくつも見つかる"
+  },
+  {
+   "id": 18472,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32245,
+   "date": "2025-04-11T02:40:41.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/7vaKSGfRmxQ?si=aaTVxF14cT4EXZxX",
+   "comment": "まいにちデメ1　19日目"
+  },
+  {
+   "id": 18930,
+   "user": "Gorei_50",
+   "score": 32248,
+   "date": "2025-10-10T09:13:03.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/I6aqUMCoRN4",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19156,
+   "user": "mercysnow",
+   "score": 32211,
+   "date": "2026-01-16T19:44:33.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/g81_YONQVn4?si=2oW-sUJl2o4WFJI7",
+   "comment": "3wayにて"
+  },
+  {
+   "id": 19226,
+   "user": "iid01",
+   "score": 32218,
+   "date": "2026-02-07T01:03:23.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=C2-xzLq2WOY",
+   "comment": "1セットをすっ飛ばして2セット。1,3,5階が良配置、テンチャ奥"
+  },
+  {
+   "id": 19248,
+   "user": "pikitto",
+   "score": 32068,
+   "date": "2026-02-20T20:23:10.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/eyHgroQzMyQ",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19347,
+   "user": "Argent2home",
+   "score": 32231,
+   "date": "2026-04-05T02:41:59.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/_scH3bz0ios",
+   "comment": "ラン対をやるべき理由"
+  },
+  {
+   "id": 19422,
+   "user": "albut3",
+   "score": 32248,
+   "date": "2026-05-22T22:40:39.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=GuPbSqaKJLU",
+   "comment": "ランダムステージ対戦はいつでも新規参加者を歓迎しています"
+  },
+  {
+   "id": 19455,
+   "user": "Mutou_p2pw",
+   "score": 32197,
+   "date": "2026-06-05T01:45:02.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/3RkRArL8FSc",
+   "comment": "爆破してから運搬のチキンプレイ"
+  }
+ ]
+}

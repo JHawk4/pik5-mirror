@@ -1,0 +1,69 @@
+{
+ "rule": 26,
+ "stage": 207,
+ "posts": [
+  {
+   "id": 3920,
+   "user": "official",
+   "score": 14802,
+   "date": "2017-05-27T23:48:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 3953,
+   "user": "koppacha",
+   "score": 14829,
+   "date": "2017-05-28T07:09:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5381,
+   "user": "HoshiKUZU_pik",
+   "score": 14833,
+   "date": "2017-12-31T00:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第1回ピク杯"
+  },
+  {
+   "id": 5980,
+   "user": "sectionmarilui",
+   "score": 14894,
+   "date": "2018-03-09T09:58:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6028,
+   "user": "albut3",
+   "score": 14863,
+   "date": "2018-03-14T23:18:05.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ここムシ出たら2P楽しそう"
+  },
+  {
+   "id": 6071,
+   "user": "TEL",
+   "score": 14844,
+   "date": "2018-03-21T02:28:48.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18444,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 14919,
+   "date": "2025-03-13T02:41:43.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/RIqvVb2Pgdk?si=3OrZqd9wtnCztrpk",
+   "comment": "自分から落とすのはダメです"
+  }
+ ]
+}

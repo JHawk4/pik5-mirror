@@ -1,0 +1,474 @@
+{
+ "rule": 31,
+ "stage": 302,
+ "posts": [
+  {
+   "id": 287,
+   "user": "official",
+   "score": 4150,
+   "date": "2013-07-24T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。"
+  },
+  {
+   "id": 306,
+   "user": "chappy4321",
+   "score": 4030,
+   "date": "2013-08-08T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "マップを覚えるのに苦労しました。"
+  },
+  {
+   "id": 330,
+   "user": "gatchi",
+   "score": 9400,
+   "date": "2013-10-09T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "なかなかオリジナルルート出来ないです…"
+  },
+  {
+   "id": 1621,
+   "user": "koppacha",
+   "score": 7150,
+   "date": "2016-03-05T20:42:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3799,
+   "user": "yuibitchi",
+   "score": 8230,
+   "date": "2017-05-19T02:56:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4158,
+   "user": "dermas",
+   "score": 6340,
+   "date": "2017-06-18T05:52:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4266,
+   "user": "muratsubo",
+   "score": 6700,
+   "date": "2017-06-24T01:05:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "キンカイをちびちび残すやつ"
+  },
+  {
+   "id": 5715,
+   "user": "Z_pikmin",
+   "score": 7780,
+   "date": "2018-01-31T23:15:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6668,
+   "user": "identete",
+   "score": 10270,
+   "date": "2018-08-02T04:06:07.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6685,
+   "user": "noamoa",
+   "score": 9700,
+   "date": "2018-08-06T06:19:29.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9802,
+   "user": "ikimono334",
+   "score": 8050,
+   "date": "2020-08-21T22:09:55.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10593,
+   "user": "6harapikumin",
+   "score": 6160,
+   "date": "2020-09-26T04:42:14.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10909,
+   "user": "robustar",
+   "score": 9100,
+   "date": "2020-10-30T01:37:15.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=r_FeCvPvXak",
+   "comment": "9000越えました"
+  },
+  {
+   "id": 10926,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 7960,
+   "date": "2020-10-31T03:36:05.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "2:48残し　かつての自分の記録は1000点ほど塗り替えました"
+  },
+  {
+   "id": 10934,
+   "user": "S_K",
+   "score": 8440,
+   "date": "2020-10-31T07:19:11.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "よろしくお願いします。"
+  },
+  {
+   "id": 10991,
+   "user": "UltimD",
+   "score": 8530,
+   "date": "2020-11-03T09:56:43.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11029,
+   "user": "fukifufuki",
+   "score": 6310,
+   "date": "2020-11-05T22:58:27.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11077,
+   "user": "imedin0813",
+   "score": 3970,
+   "date": "2020-11-08T00:52:02.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "一旦"
+  },
+  {
+   "id": 11121,
+   "user": "APerson13",
+   "score": 9370,
+   "date": "2020-11-10T21:05:59.000000Z",
+   "console": 4,
+   "video": "https://www.twitch.tv/videos/798982832",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11171,
+   "user": "kari",
+   "score": 8650,
+   "date": "2020-11-13T00:30:28.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11190,
+   "user": "nanashi74",
+   "score": 10390,
+   "date": "2020-11-13T20:45:27.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=juk6sJMBhTw",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11220,
+   "user": "alpha_0630",
+   "score": 9790,
+   "date": "2020-11-15T05:35:26.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/VBeNdgq2Oeg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11259,
+   "user": "hokogamae",
+   "score": 8500,
+   "date": "2020-11-17T07:10:04.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=sTQpFFcTsQE",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11332,
+   "user": "Kap",
+   "score": 9760,
+   "date": "2020-11-19T11:49:21.000000Z",
+   "console": 4,
+   "video": "https://www.twitch.tv/videos/808598151",
+   "comment": "bad"
+  },
+  {
+   "id": 11395,
+   "user": "AbsolutlyAsh",
+   "score": 9130,
+   "date": "2020-11-23T14:46:01.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/dqHqao7R5hE",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11412,
+   "user": "refupikumin",
+   "score": 9640,
+   "date": "2020-11-25T00:55:17.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/komarefu/status/1331526982815793154?s=19",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11596,
+   "user": "MrAracn",
+   "score": 7420,
+   "date": "2020-12-05T06:17:37.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11833,
+   "user": "Jkob",
+   "score": 5350,
+   "date": "2021-01-02T08:11:36.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "1:21 left"
+  },
+  {
+   "id": 11882,
+   "user": "mikou_musicgame",
+   "score": 9160,
+   "date": "2021-01-08T21:29:28.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11948,
+   "user": "sectionmarilui",
+   "score": 10690,
+   "date": "2021-01-14T17:36:01.000000Z",
+   "console": 4,
+   "video": "https://www.nicovideo.jp/watch/sm38122294",
+   "comment": "運ゲーに勝つ"
+  },
+  {
+   "id": 12021,
+   "user": "pikuna",
+   "score": 6670,
+   "date": "2021-01-21T02:50:05.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "あと2秒が遠い"
+  },
+  {
+   "id": 12065,
+   "user": "JHawk4",
+   "score": 10030,
+   "date": "2021-01-24T10:02:03.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12101,
+   "user": "messhi475",
+   "score": 9220,
+   "date": "2021-01-29T02:22:22.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/TvL_UKiuKAU",
+   "comment": "金塊の回収に一番悩まされるステージ・・・"
+  },
+  {
+   "id": 12131,
+   "user": "ryuun",
+   "score": 9070,
+   "date": "2021-02-02T20:47:55.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/5bNvoiLT9ZY",
+   "comment": "往復運搬物の多いステージは本当にやる気が出ない"
+  },
+  {
+   "id": 12584,
+   "user": "PiePusher11",
+   "score": 10000,
+   "date": "2021-05-09T13:10:37.000000Z",
+   "console": 4,
+   "video": "https://www.twitch.tv/videos/1017214388",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12786,
+   "user": "sanami",
+   "score": 5920,
+   "date": "2021-06-12T23:10:16.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12918,
+   "user": "Moony",
+   "score": 10780,
+   "date": "2021-07-13T12:55:12.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=DbSNLSIOlBU",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12966,
+   "user": "April_lapispik",
+   "score": 7420,
+   "date": "2021-08-08T04:40:37.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "1分未満だったときよりはマシ"
+  },
+  {
+   "id": 13154,
+   "user": "ice_cube171",
+   "score": 10150,
+   "date": "2021-09-23T11:49:32.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/eH-ZK-J0dFU",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14154,
+   "user": "Sbudiver",
+   "score": 10270,
+   "date": "2022-01-07T08:12:49.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=KGqvq0Q0-Hs",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14183,
+   "user": "ChasingJess",
+   "score": 6580,
+   "date": "2022-01-14T04:07:04.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14773,
+   "user": "shiocha78",
+   "score": 10630,
+   "date": "2022-06-22T07:15:17.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/JqxvUsgkBts",
+   "comment": "4:17残し"
+  },
+  {
+   "id": 14999,
+   "user": "esu",
+   "score": 11080,
+   "date": "2022-08-27T18:50:35.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/bMOylE4svpc",
+   "comment": "一旦これで"
+  },
+  {
+   "id": 16119,
+   "user": "pon",
+   "score": 7570,
+   "date": "2023-05-13T07:50:13.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16244,
+   "user": "futsuunoningen",
+   "score": 6220,
+   "date": "2023-07-08T21:54:46.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/cKTqdV08rxk",
+   "comment": "熱出そう"
+  },
+  {
+   "id": 18471,
+   "user": "Anthony",
+   "score": 10090,
+   "date": "2025-04-08T17:18:02.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/Rb15UHcbLD8",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18619,
+   "user": "Jay596",
+   "score": 10840,
+   "date": "2025-08-03T11:15:47.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=hqSuCVW6rzc",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18938,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 11200,
+   "date": "2025-10-17T13:47:48.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/TsUuwdEKL3k?si=4ZDoZABAUsrgmQkU",
+   "comment": "飛び降りルート"
+  },
+  {
+   "id": 19369,
+   "user": "yossysand",
+   "score": 7330,
+   "date": "2026-04-13T23:59:58.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/rBWgCdWrE2k",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19466,
+   "user": "Tanakaaaa",
+   "score": 8410,
+   "date": "2026-06-10T08:48:29.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19573,
+   "user": "SiroganeRuby",
+   "score": 7090,
+   "date": "2026-06-21T00:08:54.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 20497,
+   "user": "yukimi",
+   "score": 9970,
+   "date": "2026-11-07T10:58:59.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "むずい"
+  }
+ ]
+}

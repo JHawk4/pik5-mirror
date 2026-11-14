@@ -1,0 +1,582 @@
+{
+ "rule": 22,
+ "stage": 224,
+ "posts": [
+  {
+   "id": 59,
+   "user": "official",
+   "score": 14238,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 147,
+   "user": "dememadaradake",
+   "score": 14247,
+   "date": "2008-12-10T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "正直腹が立つコース（ルーイ/オリマーダウンにも注意）。"
+  },
+  {
+   "id": 157,
+   "user": "akisame",
+   "score": 14239,
+   "date": "2009-04-01T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "オオマンマンにゲキニガを使ってゲキカラエキスを抽出。これが最高の形。"
+  },
+  {
+   "id": 170,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 14251,
+   "date": "2010-01-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "なぜかサライムシがいないことに気づきやり直し・・・"
+  },
+  {
+   "id": 213,
+   "user": "shinya_",
+   "score": 14277,
+   "date": "2012-11-07T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "かなり頑張りましたが、上手い人はまだいけるでしょう。"
+  },
+  {
+   "id": 219,
+   "user": "chappy4321",
+   "score": 14255,
+   "date": "2012-12-26T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "さらわれて普通登れない場所に登れた"
+  },
+  {
+   "id": 447,
+   "user": "DRAFIX",
+   "score": 14258,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "トテツチホカシ大っ嫌い。"
+  },
+  {
+   "id": 731,
+   "user": "Selenium_pikmin",
+   "score": 14308,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 919,
+   "user": "xxHIMExx",
+   "score": 14257,
+   "date": "2015-11-06T04:46:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1108,
+   "user": "maramon",
+   "score": 14286,
+   "date": "2015-11-09T05:03:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1149,
+   "user": "ZEOKU",
+   "score": 14301,
+   "date": "2015-11-12T17:53:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1916,
+   "user": "FeTellYou",
+   "score": 14325,
+   "date": "2016-04-02T11:48:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "だれかがこのステージの1位を狙ってるらしいな"
+  },
+  {
+   "id": 2482,
+   "user": "HoshiKUZU_pik",
+   "score": 14320,
+   "date": "2016-12-13T07:57:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "おいゴルァ！降りろ！！（サクレウラメに対して）"
+  },
+  {
+   "id": 2748,
+   "user": "U3",
+   "score": 14309,
+   "date": "2017-01-07T17:43:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3705,
+   "user": "muratsubo",
+   "score": 14310,
+   "date": "2017-05-05T06:33:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まあまあ伸びた"
+  },
+  {
+   "id": 4457,
+   "user": "PKtoyama",
+   "score": 14317,
+   "date": "2017-07-24T22:30:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まあまあ"
+  },
+  {
+   "id": 4484,
+   "user": "pikmin893",
+   "score": 14320,
+   "date": "2017-07-30T06:20:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4931,
+   "user": "keisen2853",
+   "score": 14323,
+   "date": "2017-10-12T04:33:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4950,
+   "user": "mezasi_pikmin",
+   "score": 14303,
+   "date": "2017-10-13T05:35:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "天下一苦行"
+  },
+  {
+   "id": 5123,
+   "user": "koppacha",
+   "score": 14315,
+   "date": "2017-11-18T22:36:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5367,
+   "user": "HAPDAP",
+   "score": 14300,
+   "date": "2017-12-28T18:46:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "伸びるときは伸びる不思議なステージですよね…"
+  },
+  {
+   "id": 5496,
+   "user": "yuibitchi",
+   "score": 14260,
+   "date": "2018-01-04T21:24:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5859,
+   "user": "flyinghawk",
+   "score": 14325,
+   "date": "2018-02-18T19:28:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "嫌いだからもうやりたくない"
+  },
+  {
+   "id": 5931,
+   "user": "TEL",
+   "score": 14320,
+   "date": "2018-03-03T23:02:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "配置運◎"
+  },
+  {
+   "id": 6155,
+   "user": "miran",
+   "score": 14310,
+   "date": "2018-04-12T03:43:47.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "肩痛い"
+  },
+  {
+   "id": 6396,
+   "user": "pik_Agnyan",
+   "score": 14310,
+   "date": "2018-05-25T21:49:52.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "粘ればまだ伸びそう。"
+  },
+  {
+   "id": 6474,
+   "user": "sectionmarilui",
+   "score": 14325,
+   "date": "2018-06-12T21:36:57.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "落としたサクレにCステでつきづらいのムカつきますよね"
+  },
+  {
+   "id": 6656,
+   "user": "noamoa",
+   "score": 14326,
+   "date": "2018-07-27T04:00:15.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ごれいの洞窟"
+  },
+  {
+   "id": 6731,
+   "user": "ikimono334",
+   "score": 14325,
+   "date": "2018-08-27T17:27:31.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "もう少し伸ばしたい"
+  },
+  {
+   "id": 6961,
+   "user": "iid01",
+   "score": 14331,
+   "date": "2018-10-19T20:02:21.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=Q5KmX1XTLKo",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7470,
+   "user": "dayomin",
+   "score": 14301,
+   "date": "2019-04-30T02:04:56.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "平成最後"
+  },
+  {
+   "id": 7512,
+   "user": "enagem_akakuy",
+   "score": 14265,
+   "date": "2019-05-05T21:23:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8304,
+   "user": "Tizimi77777",
+   "score": 14305,
+   "date": "2020-03-09T02:03:50.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8344,
+   "user": "ToolAssistedPik",
+   "score": 14314,
+   "date": "2020-03-28T06:51:21.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "戦略にまだまだ改善の余地があるんだろうなぁ"
+  },
+  {
+   "id": 8421,
+   "user": "fuji_luck",
+   "score": 14326,
+   "date": "2020-05-04T03:13:05.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8550,
+   "user": "shiocha78",
+   "score": 14304,
+   "date": "2020-06-09T21:09:12.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "今なら上手くなってるかもって思ったけどくそ雑魚でした。一応更新したので"
+  },
+  {
+   "id": 8573,
+   "user": "Z_pikmin",
+   "score": 14329,
+   "date": "2020-06-13T01:14:21.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=7KFobV7BVQw",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8718,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 14316,
+   "date": "2020-06-30T01:21:17.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/hzEFhHxEHYE",
+   "comment": "間欠泉開通ミスが悲しい"
+  },
+  {
+   "id": 8815,
+   "user": "zukki",
+   "score": 14300,
+   "date": "2020-07-13T20:42:08.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8857,
+   "user": "shiragawatanuki",
+   "score": 14304,
+   "date": "2020-07-21T22:12:58.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10899,
+   "user": "ryuun",
+   "score": 14311,
+   "date": "2020-10-28T04:51:51.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/tNBI1o3fYro",
+   "comment": "めちゃくちゃセンスが無い。一番苦手なステージ"
+  },
+  {
+   "id": 11542,
+   "user": "messhi475",
+   "score": 14258,
+   "date": "2020-12-03T00:17:48.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 11681,
+   "user": "nakatatsu",
+   "score": 14309,
+   "date": "2020-12-12T05:12:28.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "リザルト画面撮り忘れです。更新したとき再度投稿します。"
+  },
+  {
+   "id": 12588,
+   "user": "yuyuyunkel",
+   "score": 14326,
+   "date": "2021-05-10T18:01:54.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/ORp7vqSCWJQ",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12629,
+   "user": "nikoshu_pik",
+   "score": 14325,
+   "date": "2021-05-17T04:12:49.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=PwL-Zxf4KIc",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13390,
+   "user": "makalogue",
+   "score": 14320,
+   "date": "2021-11-03T21:02:56.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=Vt2FrqNRlvw",
+   "comment": "タイム110"
+  },
+  {
+   "id": 13869,
+   "user": "April_lapispik",
+   "score": 14310,
+   "date": "2021-11-09T21:17:29.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/3ieoyuptUfI",
+   "comment": "このステージにおいてルーイの存在意義は薄い　動画は解説つきです"
+  },
+  {
+   "id": 14548,
+   "user": "Curtis",
+   "score": 14307,
+   "date": "2022-04-11T15:14:40.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/2HZ07tPMn2A",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14597,
+   "user": "toripoppo0307",
+   "score": 14302,
+   "date": "2022-04-20T02:18:35.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=y5Kh6nTiSc4",
+   "comment": "もういやだ"
+  },
+  {
+   "id": 14794,
+   "user": "mikou_musicgame",
+   "score": 14322,
+   "date": "2022-07-10T23:27:54.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14876,
+   "user": "eruvoore",
+   "score": 14269,
+   "date": "2022-08-07T07:42:55.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15018,
+   "user": "atmy_17",
+   "score": 14321,
+   "date": "2022-08-31T17:23:37.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "クラゲと他を巻き添えにニガかけるのってどうなんだろ。"
+  },
+  {
+   "id": 15657,
+   "user": "spark573",
+   "score": 14331,
+   "date": "2022-12-17T04:30:33.000000Z",
+   "console": 2,
+   "video": "https://www.twitch.tv/videos/1681392786",
+   "comment": "ラン対の副産物"
+  },
+  {
+   "id": 15687,
+   "user": "mercysnow",
+   "score": 14341,
+   "date": "2022-12-25T03:23:54.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/3QlaRY9LQ3I",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15841,
+   "user": "yukidaruma",
+   "score": 14321,
+   "date": "2023-02-19T05:10:56.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16173,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 14334,
+   "date": "2023-06-09T22:54:01.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/UP494eDWlFI",
+   "comment": "さらい山の手前に敵が多かったのが良かったんですかね？"
+  },
+  {
+   "id": 17557,
+   "user": "alpha_0630",
+   "score": 14317,
+   "date": "2024-01-25T05:53:53.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/pwe-TW53Oxo",
+   "comment": "難しい"
+  },
+  {
+   "id": 17612,
+   "user": "albut3",
+   "score": 14343,
+   "date": "2024-02-23T12:17:03.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=e3wLhGGXJHk",
+   "comment": "時代が追いついた"
+  },
+  {
+   "id": 17808,
+   "user": "kobachi_no_udon",
+   "score": 14339,
+   "date": "2024-05-11T06:34:41.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/Pra9r88x2Zk",
+   "comment": "敵の動きが良かったですね"
+  },
+  {
+   "id": 17860,
+   "user": "Kap",
+   "score": 14324,
+   "date": "2024-05-26T15:31:53.000000Z",
+   "console": 1,
+   "video": "https://www.twitch.tv/videos/2155314337",
+   "comment": "Duck was terrible :("
+  },
+  {
+   "id": 18465,
+   "user": "Argent2home",
+   "score": 14327,
+   "date": "2025-03-29T22:39:19.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/5mVlkS1nVaI",
+   "comment": "2日で5点のびた"
+  },
+  {
+   "id": 19354,
+   "user": "pikitto",
+   "score": 14310,
+   "date": "2026-04-07T00:53:25.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19403,
+   "user": "Mutou_p2pw",
+   "score": 14323,
+   "date": "2026-05-02T16:57:58.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/SxzxDL141N4",
+   "comment": "一発落としがめっちゃ決まってる感じ"
+  },
+  {
+   "id": 19756,
+   "user": "Gorei_50",
+   "score": 14343,
+   "date": "2026-08-27T04:00:45.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/7j-jQMoSZQg",
+   "comment": "久しぶりの更新"
+  }
+ ]
+}

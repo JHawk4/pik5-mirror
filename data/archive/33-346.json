@@ -1,0 +1,447 @@
+{
+ "rule": 33,
+ "stage": 346,
+ "posts": [
+  {
+   "id": 297,
+   "user": "official",
+   "score": 760,
+   "date": "2013-07-24T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。"
+  },
+  {
+   "id": 314,
+   "user": "chappy4321",
+   "score": 751,
+   "date": "2013-08-08T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "止まったら岩→黄→赤と投げるのが早い気がします。"
+  },
+  {
+   "id": 1627,
+   "user": "koppacha",
+   "score": 791,
+   "date": "2016-03-05T20:47:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1866,
+   "user": "PKtoyama",
+   "score": 783,
+   "date": "2016-03-24T22:06:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1890,
+   "user": "noamoa",
+   "score": 819,
+   "date": "2016-03-27T21:45:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1891,
+   "user": "muratsubo",
+   "score": 799,
+   "date": "2016-03-27T21:56:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3466,
+   "user": "identete",
+   "score": 819,
+   "date": "2017-04-02T22:23:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3828,
+   "user": "yuibitchi",
+   "score": 708,
+   "date": "2017-05-19T06:27:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4168,
+   "user": "dermas",
+   "score": 759,
+   "date": "2017-06-18T05:57:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5711,
+   "user": "Z_pikmin",
+   "score": 821,
+   "date": "2018-01-31T00:10:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8327,
+   "user": "tomatopikumin",
+   "score": 809,
+   "date": "2020-03-20T04:56:24.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8485,
+   "user": "rising",
+   "score": 801,
+   "date": "2020-05-30T22:55:28.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/CDT8tSvDMQ0 ",
+   "comment": "ピクミンの実況者がピクチャレ大会に参加"
+  },
+  {
+   "id": 9734,
+   "user": "denshamania",
+   "score": 792,
+   "date": "2020-08-11T20:21:09.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10937,
+   "user": "toripoppo0307",
+   "score": 862,
+   "date": "2020-10-31T09:05:47.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/toripoppo0307/status/1322599746117070849",
+   "comment": "もうゴールでいいよね…"
+  },
+  {
+   "id": 10938,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 808,
+   "date": "2020-10-31T09:27:23.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "犠牲ゼロ　小さい電球3つだけでゴリ押してみました"
+  },
+  {
+   "id": 11001,
+   "user": "zukki",
+   "score": 874,
+   "date": "2020-11-04T05:48:20.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/u0OsACAJQIA",
+   "comment": "これも運ゲー"
+  },
+  {
+   "id": 11044,
+   "user": "imedin0813",
+   "score": 803,
+   "date": "2020-11-06T09:51:15.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "一旦"
+  },
+  {
+   "id": 11055,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 844,
+   "date": "2020-11-06T23:09:21.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "わかりません"
+  },
+  {
+   "id": 11070,
+   "user": "yuyukkuri",
+   "score": 818,
+   "date": "2020-11-07T16:29:18.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "初見(n+1)"
+  },
+  {
+   "id": 11135,
+   "user": "hokogamae",
+   "score": 853,
+   "date": "2020-11-11T09:03:20.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/d04XO-A83Nc",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11148,
+   "user": "sumahojinazukatori",
+   "score": 869,
+   "date": "2020-11-12T06:10:52.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "上手く火力が出せません"
+  },
+  {
+   "id": 11156,
+   "user": "APerson13",
+   "score": 861,
+   "date": "2020-11-12T10:03:15.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11341,
+   "user": "AbsolutlyAsh",
+   "score": 867,
+   "date": "2020-11-20T08:49:59.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11361,
+   "user": "S_K",
+   "score": 859,
+   "date": "2020-11-21T00:03:34.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "よろしくお願いします。"
+  },
+  {
+   "id": 11419,
+   "user": "messhi475",
+   "score": 832,
+   "date": "2020-11-25T11:47:13.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11711,
+   "user": "ryuun",
+   "score": 871,
+   "date": "2020-12-17T22:26:37.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/cx9BRpjOT50",
+   "comment": "あと5秒も縮むんだってさ～！！"
+  },
+  {
+   "id": 12097,
+   "user": "mikou_musicgame",
+   "score": 874,
+   "date": "2021-01-28T13:31:07.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12416,
+   "user": "Rirure",
+   "score": 874,
+   "date": "2021-03-23T00:20:35.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "Twitterに動画あります。"
+  },
+  {
+   "id": 12548,
+   "user": "iid01",
+   "score": 877,
+   "date": "2021-04-30T00:01:00.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=aZnkE7IdYIk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12723,
+   "user": "sanami",
+   "score": 801,
+   "date": "2021-06-06T19:34:32.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12725,
+   "user": "Y-TeNdoo404",
+   "score": 873,
+   "date": "2021-06-07T07:52:51.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "i played this for 7 minutes lol"
+  },
+  {
+   "id": 12726,
+   "user": "PiePusher11",
+   "score": 875,
+   "date": "2021-06-07T08:12:40.000000Z",
+   "console": 4,
+   "video": "https://www.twitch.tv/videos/1047907074",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12727,
+   "user": "XianTwa",
+   "score": 877,
+   "date": "2021-06-07T09:17:24.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/yGuA2SrG9iw",
+   "comment": "The switch recording is missing a few seconds, for more proof see the video’s description and image"
+  },
+  {
+   "id": 12968,
+   "user": "April_lapispik",
+   "score": 847,
+   "date": "2021-08-08T04:45:38.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13123,
+   "user": "pikitto",
+   "score": 873,
+   "date": "2021-09-11T20:04:37.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "難しい"
+  },
+  {
+   "id": 13292,
+   "user": "ice_cube171",
+   "score": 875,
+   "date": "2021-10-22T11:39:38.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/y95UqZ_RNao",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14251,
+   "user": "pikuna",
+   "score": 846,
+   "date": "2022-02-12T22:46:10.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "ライトついてないのなんか草"
+  },
+  {
+   "id": 14740,
+   "user": "esu",
+   "score": 879,
+   "date": "2022-06-04T19:18:30.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/O-Ac__Ae3Kg",
+   "comment": "なんか出た"
+  },
+  {
+   "id": 15158,
+   "user": "6harapikumin",
+   "score": 852,
+   "date": "2022-10-03T20:04:45.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15489,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 879,
+   "date": "2022-10-30T00:04:35.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1586643537814499328?s=61&t=V_TYjmY4wDi1cTRIi7nT8w",
+   "comment": "22秒すら出したことがなかったのに奇跡的に21秒出せました！ピクミン3DX発売2周年の日に出せて嬉しいです。"
+  },
+  {
+   "id": 15615,
+   "user": "CyanProphecy",
+   "score": 854,
+   "date": "2022-12-02T09:02:45.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15853,
+   "user": "pon",
+   "score": 874,
+   "date": "2023-02-20T09:38:35.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15968,
+   "user": "rusuto",
+   "score": 806,
+   "date": "2023-03-20T08:05:31.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "隊員投げに苦戦した"
+  },
+  {
+   "id": 16399,
+   "user": "hanihani_gogo",
+   "score": 854,
+   "date": "2023-07-31T19:56:42.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16953,
+   "user": "shino15nome",
+   "score": 873,
+   "date": "2023-09-05T18:40:51.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "オートロックオンが恋しい"
+  },
+  {
+   "id": 19274,
+   "user": "soba3hiki",
+   "score": 841,
+   "date": "2026-02-27T03:03:46.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/UOc71dF5rr0",
+   "comment": "WiiU版初の想定外（たぶん）"
+  },
+  {
+   "id": 19444,
+   "user": "kaede_pikmin",
+   "score": 876,
+   "date": "2026-06-01T09:39:41.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/MRZZGI-n5Ao?si=BHDNSKCPWbP30wxe",
+   "comment": "リアルで時間ができたら頑張ろうかな✨"
+  },
+  {
+   "id": 19539,
+   "user": "Tanakaaaa",
+   "score": 844,
+   "date": "2026-06-12T04:08:36.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19754,
+   "user": "Jay596",
+   "score": 878,
+   "date": "2026-08-26T03:50:23.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=QfW_XbrIBrM",
+   "comment": "コメントなし"
+  }
+ ]
+}

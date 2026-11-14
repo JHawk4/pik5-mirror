@@ -1,0 +1,375 @@
+{
+ "rule": 41,
+ "stage": 403,
+ "posts": [
+  {
+   "id": 16325,
+   "user": "noamoa",
+   "score": 319,
+   "date": "2023-07-30T01:38:46.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 16343,
+   "user": "aqr2",
+   "score": 411,
+   "date": "2023-07-30T04:27:58.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16426,
+   "user": "pikpikradish",
+   "score": 272,
+   "date": "2023-08-01T06:28:19.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 16464,
+   "user": "biwako",
+   "score": 423,
+   "date": "2023-08-02T22:11:37.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず１０位以内に載ればいいなと思って"
+  },
+  {
+   "id": 16542,
+   "user": "mkt918",
+   "score": 467,
+   "date": "2023-08-06T00:40:21.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16555,
+   "user": "hocotate",
+   "score": 484,
+   "date": "2023-08-06T04:07:50.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16576,
+   "user": "keisen2853",
+   "score": 509,
+   "date": "2023-08-07T03:34:35.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=ezmhzZODQ1A",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16597,
+   "user": "atmy_17",
+   "score": 496,
+   "date": "2023-08-08T14:39:56.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16600,
+   "user": "Happa-san",
+   "score": 426,
+   "date": "2023-08-09T04:35:10.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "バタバタしすぎてて主人公息切れしてそう"
+  },
+  {
+   "id": 16633,
+   "user": "sozainoaji",
+   "score": 350,
+   "date": "2023-08-10T22:22:10.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16661,
+   "user": "yakiniku",
+   "score": 510,
+   "date": "2023-08-11T09:49:09.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/9r03DcQ-aK0",
+   "comment": "もう少し伸ばせそうな気がしなくもない"
+  },
+  {
+   "id": 16778,
+   "user": "katsun",
+   "score": 512,
+   "date": "2023-08-19T06:50:28.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "4:32残し。録画環境ありません…"
+  },
+  {
+   "id": 16822,
+   "user": "suna_39",
+   "score": 464,
+   "date": "2023-08-24T21:00:37.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16864,
+   "user": "yoshi0216",
+   "score": 418,
+   "date": "2023-08-29T17:59:16.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16891,
+   "user": "qwertyuiop",
+   "score": 449,
+   "date": "2023-08-31T04:17:24.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16963,
+   "user": "nyannsu827",
+   "score": 268,
+   "date": "2023-09-06T05:20:43.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16982,
+   "user": "robustar",
+   "score": 492,
+   "date": "2023-09-09T01:56:20.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/F9SQ50H_j0o?si=OpuugfSbJrBrtSNl",
+   "comment": "400超えたので満足です"
+  },
+  {
+   "id": 17076,
+   "user": "shino15nome",
+   "score": 525,
+   "date": "2023-09-29T22:14:43.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/GN1ODo2zrAA?si=XliAWoHEzPwm86_w",
+   "comment": "最後の処理適当にやったので正解かはわかりません"
+  },
+  {
+   "id": 17092,
+   "user": "hone-sutookume",
+   "score": 430,
+   "date": "2023-10-07T19:32:43.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17095,
+   "user": "mikou_musicgame",
+   "score": 500,
+   "date": "2023-10-08T23:04:40.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17768,
+   "user": "yoshikikawai",
+   "score": 481,
+   "date": "2024-05-06T16:00:55.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17817,
+   "user": "Otomo",
+   "score": 508,
+   "date": "2024-05-14T01:34:03.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=qoys9-iu-AE",
+   "comment": "簡単できれい！べりべりびゅーてぃふぉー！"
+  },
+  {
+   "id": 17963,
+   "user": "6harapikumin",
+   "score": 479,
+   "date": "2024-07-01T01:49:43.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18182,
+   "user": "Gunso_Begoma",
+   "score": 447,
+   "date": "2024-09-18T04:29:12.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえずの記録です。これから詰めていきたい"
+  },
+  {
+   "id": 18199,
+   "user": "wnsrn8650",
+   "score": 530,
+   "date": "2024-09-24T23:26:45.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18254,
+   "user": "knt_se7",
+   "score": 481,
+   "date": "2024-11-01T18:17:48.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18292,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 545,
+   "date": "2024-11-30T18:34:32.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/jGmZuNOcL7E?si=4_iVjOYweXnZN3ZE",
+   "comment": "運ゲーが思ったより大変でした"
+  },
+  {
+   "id": 18706,
+   "user": "HAPDAP",
+   "score": 402,
+   "date": "2025-08-29T01:43:34.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず投稿"
+  },
+  {
+   "id": 18905,
+   "user": "_Axxx",
+   "score": 471,
+   "date": "2025-09-19T09:05:53.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "やり忘れが多くなりやすいステージ😵‍💫"
+  },
+  {
+   "id": 19049,
+   "user": "y",
+   "score": 435,
+   "date": "2025-12-20T14:47:22.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19057,
+   "user": "pikitto",
+   "score": 511,
+   "date": "2025-12-25T07:49:35.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/rRU0EXrtAlM?si=pMDqtxdIypnICX5E",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19521,
+   "user": "Tanakaaaa",
+   "score": 376,
+   "date": "2026-06-11T23:20:15.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19623,
+   "user": "nitrosmish",
+   "score": 469,
+   "date": "2026-06-27T05:47:16.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "インスタント研究会より。ここかなり苦手でした"
+  },
+  {
+   "id": 19624,
+   "user": "koppacha",
+   "score": 508,
+   "date": "2026-06-27T10:00:43.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/PX57ZTJHnlg",
+   "comment": "┗(↑o↑)┛＜ｴｩﾝｪｩｩｩｩｩﾝｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ"
+  },
+  {
+   "id": 19625,
+   "user": "kobachi_no_udon",
+   "score": 549,
+   "date": "2026-06-27T23:33:30.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/tCChhhzq-EI",
+   "comment": "終盤のピクミン割り当て数が決まらない"
+  },
+  {
+   "id": 19626,
+   "user": "toripoppo0307",
+   "score": 520,
+   "date": "2026-06-28T06:50:15.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/P1G5CU7YfoE",
+   "comment": "むり"
+  },
+  {
+   "id": 19627,
+   "user": "Mutou_p2pw",
+   "score": 501,
+   "date": "2026-06-28T23:11:54.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/_Q2eHrfC8jU",
+   "comment": "インスタント研究会補講組"
+  },
+  {
+   "id": 19629,
+   "user": "mercysnow",
+   "score": 555,
+   "date": "2026-06-29T10:55:17.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/m8ECzSpQYRw?si=Kk1eRXDrdXU8w7VM",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19630,
+   "user": "albut3",
+   "score": 542,
+   "date": "2026-07-02T12:25:05.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=M50Ah--yQRM",
+   "comment": "没です"
+  },
+  {
+   "id": 19671,
+   "user": "samidare",
+   "score": 427,
+   "date": "2026-07-16T08:16:07.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19831,
+   "user": "13101575",
+   "score": 528,
+   "date": "2026-09-30T03:12:20.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "rule": 26,
+ "stage": 224,
+ "posts": [
+  {
+   "id": 3937,
+   "user": "official",
+   "score": 14235,
+   "date": "2017-05-27T23:56:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 4022,
+   "user": "koppacha",
+   "score": 14285,
+   "date": "2017-06-02T05:46:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5399,
+   "user": "miran",
+   "score": 14302,
+   "date": "2017-12-31T02:46:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第1回ピク杯"
+  },
+  {
+   "id": 5977,
+   "user": "sectionmarilui",
+   "score": 14339,
+   "date": "2018-03-09T09:53:06.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6038,
+   "user": "albut3",
+   "score": 14330,
+   "date": "2018-03-14T23:24:52.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1pよりこんなに楽だなんて"
+  },
+  {
+   "id": 6087,
+   "user": "muratsubo",
+   "score": 14306,
+   "date": "2018-03-21T02:37:56.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6692,
+   "user": "Gorei_50",
+   "score": 14341,
+   "date": "2018-08-09T22:07:07.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/12abcvONUcw",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6990,
+   "user": "iid01",
+   "score": 14340,
+   "date": "2018-11-03T23:39:35.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14848,
+   "user": "Kap",
+   "score": 14331,
+   "date": "2022-08-04T21:19:21.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "Fun time with Chemi and Kap"
+  }
+ ]
+}

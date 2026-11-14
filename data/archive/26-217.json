@@ -1,0 +1,42 @@
+{
+ "rule": 26,
+ "stage": 217,
+ "posts": [
+  {
+   "id": 3930,
+   "user": "official",
+   "score": 16423,
+   "date": "2017-05-27T23:53:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 3962,
+   "user": "koppacha",
+   "score": 16447,
+   "date": "2017-05-28T07:14:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6034,
+   "user": "albut3",
+   "score": 16555,
+   "date": "2018-03-14T23:22:40.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ルート決めないまま終わった"
+  },
+  {
+   "id": 6516,
+   "user": "sectionmarilui",
+   "score": 16578,
+   "date": "2018-06-19T02:59:20.000000Z",
+   "console": 1,
+   "video": "http://www.nicovideo.jp/watch/sm33387692",
+   "comment": "もうちょいやり方改善すればもっと上がる"
+  }
+ ]
+}

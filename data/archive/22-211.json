@@ -1,0 +1,582 @@
+{
+ "rule": 22,
+ "stage": 211,
+ "posts": [
+  {
+   "id": 46,
+   "user": "official",
+   "score": 8446,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 90,
+   "user": "kurage",
+   "score": 8436,
+   "date": "2007-09-14T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ラストのヘビガラスでやり直しまくりました。"
+  },
+  {
+   "id": 97,
+   "user": "chouhougekinamashindamagumokyanon",
+   "score": 8452,
+   "date": "2008-04-06T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "スプレーの使い方と白ピクミンの動かし方がカギ。あと埋まってる場所による運。"
+  },
+  {
+   "id": 149,
+   "user": "pitchon",
+   "score": 8492,
+   "date": "2008-12-21T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "8500点も夢じゃない！！"
+  },
+  {
+   "id": 161,
+   "user": "akisame",
+   "score": 8470,
+   "date": "2009-04-04T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ヤキチャッピーはポッドの近くまでおびき寄せて倒す。"
+  },
+  {
+   "id": 171,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 8468,
+   "date": "2010-01-22T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ヤキ、ヘビが勝負の分かれ目"
+  },
+  {
+   "id": 197,
+   "user": "shinya_",
+   "score": 8500,
+   "date": "2012-09-21T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "埋まっている宝が３つともスタート近くになった結果です。運要素には困ります。"
+  },
+  {
+   "id": 433,
+   "user": "DRAFIX",
+   "score": 8452,
+   "date": "2015-01-04T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "全ステージ中トップのシンプルさ。それにしても皆さんレベル高すぎです。"
+  },
+  {
+   "id": 600,
+   "user": "FeTellYou",
+   "score": 8520,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 718,
+   "user": "Selenium_pikmin",
+   "score": 8515,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 907,
+   "user": "xxHIMExx",
+   "score": 8475,
+   "date": "2015-11-06T04:41:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1095,
+   "user": "maramon",
+   "score": 8488,
+   "date": "2015-11-09T04:59:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1773,
+   "user": "iid01",
+   "score": 8538,
+   "date": "2016-03-14T01:40:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=bIJhsnM_nLY",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2633,
+   "user": "muratsubo",
+   "score": 8522,
+   "date": "2016-12-31T07:53:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2017,新年1発目"
+  },
+  {
+   "id": 2770,
+   "user": "U3",
+   "score": 8508,
+   "date": "2017-01-11T19:17:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2926,
+   "user": "miran",
+   "score": 8502,
+   "date": "2017-02-10T06:20:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "自分流のルートではこれが限界か"
+  },
+  {
+   "id": 3473,
+   "user": "flyinghawk",
+   "score": 8535,
+   "date": "2017-04-04T04:48:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "やっぱりiidさんはすごい"
+  },
+  {
+   "id": 3522,
+   "user": "mezasi_pikmin",
+   "score": 8513,
+   "date": "2017-04-15T00:35:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1F奥より2・3F手前のが有益の模様"
+  },
+  {
+   "id": 4027,
+   "user": "pikmin893",
+   "score": 8534,
+   "date": "2017-06-02T19:10:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "4年ぶり更新"
+  },
+  {
+   "id": 4273,
+   "user": "PKtoyama",
+   "score": 8530,
+   "date": "2017-06-24T04:46:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ヘビーガバガバスがガバガバ"
+  },
+  {
+   "id": 4580,
+   "user": "dayomin",
+   "score": 8517,
+   "date": "2017-08-22T05:28:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "手前は1Fのみ"
+  },
+  {
+   "id": 4590,
+   "user": "albut3",
+   "score": 8538,
+   "date": "2017-08-24T04:32:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "敵配置微妙、他完璧。どうやったらこれ以上行くんだ？"
+  },
+  {
+   "id": 5124,
+   "user": "HoshiKUZU_pik",
+   "score": 8542,
+   "date": "2017-11-18T23:10:00.000000Z",
+   "console": 1,
+   "video": "https://m.youtube.com/watch?v=0zP5nl4yfCQ",
+   "comment": "気が済んだ"
+  },
+  {
+   "id": 5167,
+   "user": "koppacha",
+   "score": 8517,
+   "date": "2017-11-26T00:21:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "B3F妥協だけどヤキチャが近かった"
+  },
+  {
+   "id": 5473,
+   "user": "yuibitchi",
+   "score": 8451,
+   "date": "2018-01-04T07:34:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5485,
+   "user": "HAPDAP",
+   "score": 8505,
+   "date": "2018-01-04T18:09:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "苦行"
+  },
+  {
+   "id": 5660,
+   "user": "Z_pikmin",
+   "score": 8533,
+   "date": "2018-01-22T01:42:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "701100"
+  },
+  {
+   "id": 6143,
+   "user": "ikimono334",
+   "score": 8531,
+   "date": "2018-04-06T18:46:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "全部手前引けた"
+  },
+  {
+   "id": 6494,
+   "user": "TEL",
+   "score": 8521,
+   "date": "2018-06-18T04:01:03.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タカラは手前だけど敵×"
+  },
+  {
+   "id": 6580,
+   "user": "toripoppo0307",
+   "score": 8512,
+   "date": "2018-06-30T17:59:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "超絶不満"
+  },
+  {
+   "id": 6686,
+   "user": "noamoa",
+   "score": 8531,
+   "date": "2018-08-07T16:29:52.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "全手前&ガバ"
+  },
+  {
+   "id": 6926,
+   "user": "sectionmarilui",
+   "score": 8535,
+   "date": "2018-09-26T08:26:34.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "どうして…"
+  },
+  {
+   "id": 7023,
+   "user": "pik_Agnyan",
+   "score": 8515,
+   "date": "2018-12-02T19:38:41.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "全手前、蛇が遅い。"
+  },
+  {
+   "id": 7467,
+   "user": "enagem_akakuy",
+   "score": 8492,
+   "date": "2019-04-29T19:31:19.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7521,
+   "user": "shiocha78",
+   "score": 8506,
+   "date": "2019-05-07T17:46:51.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8410,
+   "user": "fuji_luck",
+   "score": 8534,
+   "date": "2020-05-02T01:23:39.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8712,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 8469,
+   "date": "2020-06-29T14:43:03.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/MBpNtSMpAJY",
+   "comment": "割と早くヘビガラス倒せたくらいで他ガバガバ"
+  },
+  {
+   "id": 8734,
+   "user": "ZEOKU",
+   "score": 8520,
+   "date": "2020-07-02T05:32:41.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1F3F手前　敵位置△"
+  },
+  {
+   "id": 8757,
+   "user": "zukki",
+   "score": 8520,
+   "date": "2020-07-05T16:23:35.000000Z",
+   "console": 1,
+   "video": "https://www.twitch.tv/videos/671236762",
+   "comment": "敵配置はかなりいい 2Fのみ手前"
+  },
+  {
+   "id": 8855,
+   "user": "keisen2853",
+   "score": 8535,
+   "date": "2020-07-21T09:50:49.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=A3ZXmGkK7dI",
+   "comment": "ガバい"
+  },
+  {
+   "id": 9755,
+   "user": "alpha_0630",
+   "score": 8516,
+   "date": "2020-08-15T06:40:32.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10642,
+   "user": "ryuun",
+   "score": 8523,
+   "date": "2020-10-01T04:32:50.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/BzYpOCZSvGw",
+   "comment": "おもろないなぁ"
+  },
+  {
+   "id": 11512,
+   "user": "messhi475",
+   "score": 8485,
+   "date": "2020-12-01T02:24:07.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 11645,
+   "user": "6harapikumin",
+   "score": 8440,
+   "date": "2020-12-10T04:33:39.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11680,
+   "user": "nakatatsu",
+   "score": 8513,
+   "date": "2020-12-12T05:10:27.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "リザルト画面撮り忘れです。更新したときに再度投稿します。"
+  },
+  {
+   "id": 11735,
+   "user": "yuyuyunkel",
+   "score": 8541,
+   "date": "2020-12-22T07:00:46.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "脱獄"
+  },
+  {
+   "id": 12254,
+   "user": "ToolAssistedPik",
+   "score": 8533,
+   "date": "2021-02-22T22:22:05.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "投稿忘れ1。何回か更新したけど、まだ粘れそう。"
+  },
+  {
+   "id": 12501,
+   "user": "hyogakibokaro",
+   "score": 8507,
+   "date": "2021-04-20T17:17:24.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ヘビガラス練習しないと、"
+  },
+  {
+   "id": 12850,
+   "user": "April_lapispik",
+   "score": 8512,
+   "date": "2021-06-26T04:46:30.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13379,
+   "user": "makalogue",
+   "score": 8533,
+   "date": "2021-11-03T20:17:51.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=WhvewSepPqU",
+   "comment": "タイム30→78→119→139→173。全手前"
+  },
+  {
+   "id": 13897,
+   "user": "nikoshu_pik",
+   "score": 8538,
+   "date": "2021-11-16T04:27:49.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=M_qoQWQGz5I",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14863,
+   "user": "eruvoore",
+   "score": 8462,
+   "date": "2022-08-07T07:37:43.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14991,
+   "user": "atmy_17",
+   "score": 8530,
+   "date": "2022-08-23T16:19:01.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ヤキの位置が悪かった。B1は33残し。"
+  },
+  {
+   "id": 15535,
+   "user": "yukidaruma",
+   "score": 8534,
+   "date": "2022-11-19T04:51:45.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15613,
+   "user": "mercysnow",
+   "score": 8542,
+   "date": "2022-11-30T05:58:32.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/3cPeX8ZK09k",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15753,
+   "user": "mikou_musicgame",
+   "score": 8525,
+   "date": "2023-01-20T16:02:36.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16175,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 8536,
+   "date": "2023-06-10T15:01:53.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/nZLGcY9rYUY",
+   "comment": "全手前です"
+  },
+  {
+   "id": 16334,
+   "user": "Gorei_50",
+   "score": 8552,
+   "date": "2023-07-30T02:15:42.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/gZuRUTa1Hrs",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16936,
+   "user": "kobachi_no_udon",
+   "score": 8537,
+   "date": "2023-09-03T00:04:59.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/eZp_DkUkmIs",
+   "comment": "全手前ということだけで僕は満足です"
+  },
+  {
+   "id": 17104,
+   "user": "spark573",
+   "score": 8539,
+   "date": "2023-10-11T05:28:00.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/6DWljsAKPus?si=YpuLcoTEomMEUyg8",
+   "comment": "702000記念カキコ"
+  },
+  {
+   "id": 18224,
+   "user": "Tizimi77777",
+   "score": 8507,
+   "date": "2024-10-05T06:00:59.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19314,
+   "user": "pikitto",
+   "score": 8524,
+   "date": "2026-03-11T01:33:21.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/phRVWuohd2E",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 20100,
+   "user": "Mutou_p2pw",
+   "score": 8535,
+   "date": "2026-10-10T02:10:20.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/jF4ZTlj7zWc",
+   "comment": "第19回期間限定ランキング全手前にて"
+  },
+  {
+   "id": 20267,
+   "user": "Argent2home",
+   "score": 8542,
+   "date": "2026-10-10T23:47:37.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/fbK1-SBg1Rw?si=A6KoavsJt9GGXE61",
+   "comment": "きちゃれ"
+  }
+ ]
+}

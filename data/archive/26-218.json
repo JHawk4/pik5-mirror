@@ -1,0 +1,60 @@
+{
+ "rule": 26,
+ "stage": 218,
+ "posts": [
+  {
+   "id": 3931,
+   "user": "official",
+   "score": 50754,
+   "date": "2017-05-27T23:54:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 3963,
+   "user": "koppacha",
+   "score": 53852,
+   "date": "2017-05-28T07:15:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4246,
+   "user": "albut3",
+   "score": 53912,
+   "date": "2017-06-22T08:29:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=KG7KwFc64qY",
+   "comment": "良地形"
+  },
+  {
+   "id": 5978,
+   "user": "sectionmarilui",
+   "score": 53922,
+   "date": "2018-03-09T09:55:06.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6081,
+   "user": "muratsubo",
+   "score": 53866,
+   "date": "2018-03-21T02:35:25.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6991,
+   "user": "iid01",
+   "score": 53870,
+   "date": "2018-11-03T23:40:07.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

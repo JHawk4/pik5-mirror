@@ -1,0 +1,384 @@
+{
+ "rule": 10,
+ "stage": 104,
+ "posts": [
+  {
+   "id": 4,
+   "user": "koppacha",
+   "score": 317,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "久し振りにやったら敵生物との勝負が思いきり下手になってました。"
+  },
+  {
+   "id": 79,
+   "user": "akapiku",
+   "score": 476,
+   "date": "2007-05-18T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "これを越せるかな？ふっふっふ"
+  },
+  {
+   "id": 93,
+   "user": "shinya_",
+   "score": 476,
+   "date": "2008-03-09T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "平均的になるが高記録も難しめのステージ。"
+  },
+  {
+   "id": 119,
+   "user": "miraaju",
+   "score": 518,
+   "date": "2008-08-20T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "もう少し運があれば、夢の520台もいけそうです☆"
+  },
+  {
+   "id": 142,
+   "user": "koganeorima",
+   "score": 409,
+   "date": "2008-10-26T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "このステージ嫌いです。"
+  },
+  {
+   "id": 179,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 436,
+   "date": "2010-01-31T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ナメコ2匹と真珠3つは必須アイテム"
+  },
+  {
+   "id": 221,
+   "user": "tororo",
+   "score": 507,
+   "date": "2013-04-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "敵の出す５ペレットの色がランダムなので、場合によってはとても困る"
+  },
+  {
+   "id": 482,
+   "user": "HAPDAP",
+   "score": 411,
+   "date": "2015-07-15T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "+58。流石に400行ってないのは恥ずかしいので。真珠3つの確保を考えたら意外と簡単に400行けた"
+  },
+  {
+   "id": 952,
+   "user": "FeTellYou",
+   "score": 673,
+   "date": "2015-11-06T21:36:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 966,
+   "user": "noamoa",
+   "score": 652,
+   "date": "2015-11-07T03:54:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "犠牲が無かったら670ぐらい"
+  },
+  {
+   "id": 977,
+   "user": "muratsubo",
+   "score": 440,
+   "date": "2015-11-07T04:27:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1403,
+   "user": "iid01",
+   "score": 712,
+   "date": "2016-01-26T01:16:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=OoF2S7AQyH8",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1755,
+   "user": "muratsubo",
+   "score": 463,
+   "date": "2016-03-12T09:50:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2405,
+   "user": "HoshiKUZU_pik",
+   "score": 561,
+   "date": "2016-10-28T03:39:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "俺☆ルート模索中"
+  },
+  {
+   "id": 2543,
+   "user": "Gorei_50",
+   "score": 568,
+   "date": "2016-12-24T03:08:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "赤5黄5青558"
+  },
+  {
+   "id": 3840,
+   "user": "yuibitchi",
+   "score": 346,
+   "date": "2017-05-19T08:38:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3868,
+   "user": "HAPDAP",
+   "score": 487,
+   "date": "2017-05-22T02:33:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "今日は(これでも)調子良い日。"
+  },
+  {
+   "id": 5162,
+   "user": "sunadorineko",
+   "score": 517,
+   "date": "2017-11-25T14:01:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6723,
+   "user": "noamoa",
+   "score": 677,
+   "date": "2018-08-20T04:30:34.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ノーミスなら686"
+  },
+  {
+   "id": 8707,
+   "user": "alpha_0630",
+   "score": 667,
+   "date": "2020-06-29T04:47:25.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2014年のときの記録ですが…"
+  },
+  {
+   "id": 9535,
+   "user": "FeTellYou",
+   "score": 700,
+   "date": "2020-07-25T22:37:36.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/1Q5ot3utSig",
+   "comment": "お久しぶりです"
+  },
+  {
+   "id": 11584,
+   "user": "messhi475",
+   "score": 468,
+   "date": "2020-12-04T17:37:01.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "イモガエルが怖いので、よく無視していました。"
+  },
+  {
+   "id": 12366,
+   "user": "PiePusher11",
+   "score": 644,
+   "date": "2021-03-13T20:19:37.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=eoOgQuxfxJk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12382,
+   "user": "TRR",
+   "score": 728,
+   "date": "2021-03-16T23:34:46.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=1dmeIDoCPJs",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12960,
+   "user": "ling_pik_ikki",
+   "score": 702,
+   "date": "2021-08-02T01:57:11.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ロス34（黄金と蛙）、ミス4、バグ12。これでも豪運。"
+  },
+  {
+   "id": 14735,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 600,
+   "date": "2022-06-03T14:06:43.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "Wii版はバグ死が酷すぎます。"
+  },
+  {
+   "id": 15327,
+   "user": "riserise",
+   "score": 458,
+   "date": "2022-10-09T19:03:13.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15409,
+   "user": "atmy_17",
+   "score": 566,
+   "date": "2022-10-12T00:54:44.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/27HIyJ8iZ4s",
+   "comment": "カエル以外全回収を目標にやっていく予定。"
+  },
+  {
+   "id": 15569,
+   "user": "albut3",
+   "score": 687,
+   "date": "2022-11-25T16:27:03.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=eXUmt1QEYpQ&ab_channel=albut3pik",
+   "comment": "今の実力では700はいけないと思う"
+  },
+  {
+   "id": 17126,
+   "user": "JHawk4",
+   "score": 752,
+   "date": "2023-10-19T03:07:42.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=R_8yqJhVTI4",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17218,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 486,
+   "date": "2023-11-07T08:42:24.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "久々にピクチャレに来たので記録更新しました"
+  },
+  {
+   "id": 17238,
+   "user": "cesium137",
+   "score": 752,
+   "date": "2023-11-12T06:31:12.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/NDeE9x8FJaA",
+   "comment": "全回収。本当にここまで長かった..."
+  },
+  {
+   "id": 17322,
+   "user": "alpha_0630",
+   "score": 752,
+   "date": "2023-11-24T05:13:20.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/CO449NRzNkk",
+   "comment": "ラスボスのコガネモチに勝利"
+  },
+  {
+   "id": 17422,
+   "user": "StrongmanLin",
+   "score": 752,
+   "date": "2023-12-15T21:34:36.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/5fIdzb3tz-c?si=CutJDtAN4sbXMpsB",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17457,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 752,
+   "date": "2023-12-23T15:02:05.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/NA-mM2z2eBc?si=EbynWOyUR6SCjPCY",
+   "comment": "年内に達成できて良かったです"
+  },
+  {
+   "id": 17574,
+   "user": "Mokaygee",
+   "score": 752,
+   "date": "2024-02-06T04:37:25.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17901,
+   "user": "atmy_17",
+   "score": 752,
+   "date": "2024-06-10T02:21:06.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/bnah4e2zaug?si=TAf_XMCRFC-wCcSM",
+   "comment": "お久しぶりです"
+  },
+  {
+   "id": 18939,
+   "user": "tori_rakko",
+   "score": 713,
+   "date": "2025-10-20T05:20:50.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/EBRozd_CYuE",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19174,
+   "user": "pikitto",
+   "score": 640,
+   "date": "2026-01-23T19:20:39.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "どっすんの息抜き"
+  },
+  {
+   "id": 19488,
+   "user": "kobachi_no_udon",
+   "score": 752,
+   "date": "2026-06-11T04:25:42.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/M17o3fsVotU",
+   "comment": "何もかもが敵"
+  },
+  {
+   "id": 19569,
+   "user": "iid01",
+   "score": 752,
+   "date": "2026-06-20T04:58:01.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=7RJ6kcu4iZc",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19742,
+   "user": "Mutou_p2pw",
+   "score": 752,
+   "date": "2026-08-21T04:26:55.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/cVqLsXQ-zYg",
+   "comment": "カエルつよい"
+  }
+ ]
+}

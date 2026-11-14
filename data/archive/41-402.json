@@ -1,0 +1,411 @@
+{
+ "rule": 41,
+ "stage": 402,
+ "posts": [
+  {
+   "id": 16324,
+   "user": "noamoa",
+   "score": 194,
+   "date": "2023-07-30T01:38:08.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 16368,
+   "user": "kobachi_no_udon",
+   "score": 416,
+   "date": "2023-07-30T21:35:08.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/QgyKwrj7vds",
+   "comment": "ハンボとの戦いに決着がついた"
+  },
+  {
+   "id": 16425,
+   "user": "pikpikradish",
+   "score": 258,
+   "date": "2023-08-01T06:27:59.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 16438,
+   "user": "mkt918",
+   "score": 382,
+   "date": "2023-08-01T17:35:23.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 16463,
+   "user": "biwako",
+   "score": 359,
+   "date": "2023-08-02T22:10:59.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず１０位以内に載ればいいなと思って"
+  },
+  {
+   "id": 16480,
+   "user": "robustar",
+   "score": 387,
+   "date": "2023-08-03T05:58:13.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=e0O1szjBkVo",
+   "comment": "オッチンが上手に使いこなせない"
+  },
+  {
+   "id": 16527,
+   "user": "hocotate",
+   "score": 395,
+   "date": "2023-08-05T06:15:56.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16567,
+   "user": "yakiniku",
+   "score": 409,
+   "date": "2023-08-06T07:18:54.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/YXRrmGF36K8",
+   "comment": "ハンボ素直に倒されてくれ"
+  },
+  {
+   "id": 16580,
+   "user": "takeshi",
+   "score": 383,
+   "date": "2023-08-07T04:07:30.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16583,
+   "user": "atmy_17",
+   "score": 402,
+   "date": "2023-08-07T04:52:06.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/OzUW5Wwses0",
+   "comment": "間違えた投稿してすいません。"
+  },
+  {
+   "id": 16632,
+   "user": "sozainoaji",
+   "score": 321,
+   "date": "2023-08-10T22:21:58.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16722,
+   "user": "yoshi0216",
+   "score": 353,
+   "date": "2023-08-14T02:13:02.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16746,
+   "user": "Jer",
+   "score": 434,
+   "date": "2023-08-15T13:45:56.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=ohTgY_g-2mc",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16831,
+   "user": "mikou_musicgame",
+   "score": 392,
+   "date": "2023-08-26T18:00:36.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16861,
+   "user": "Lotus",
+   "score": 420,
+   "date": "2023-08-29T07:30:20.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=XH3ipnVjIQ8",
+   "comment": "もう一度ルート作り直したい欲と動き回るハンボと戦いたくない欲が半々"
+  },
+  {
+   "id": 16890,
+   "user": "qwertyuiop",
+   "score": 359,
+   "date": "2023-08-31T04:17:05.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16962,
+   "user": "nyannsu827",
+   "score": 247,
+   "date": "2023-09-06T05:19:59.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17068,
+   "user": "shino15nome",
+   "score": 436,
+   "date": "2023-09-27T21:27:14.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/_TLAA-WCEWc?si=mXoyZn0Y9iBt2TyV",
+   "comment": "このルートだと最後が1番の運要素だと思います"
+  },
+  {
+   "id": 17081,
+   "user": "MegaMinerd",
+   "score": 376,
+   "date": "2023-10-01T21:53:26.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/o6dolustAWU?si=UQgaJwVRplX4-503",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17171,
+   "user": "aqr2",
+   "score": 387,
+   "date": "2023-10-23T14:32:11.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17266,
+   "user": "Moony",
+   "score": 439,
+   "date": "2023-11-18T08:35:08.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/m5I-XIogrEQ",
+   "comment": "I think 340 is possible though luck is needed"
+  },
+  {
+   "id": 17345,
+   "user": "techimin",
+   "score": 312,
+   "date": "2023-12-01T22:33:22.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "テスト"
+  },
+  {
+   "id": 17535,
+   "user": "oiruj118",
+   "score": 338,
+   "date": "2024-01-15T00:40:05.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17701,
+   "user": "hone-sutookume",
+   "score": 365,
+   "date": "2024-04-01T22:10:28.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17748,
+   "user": "Otomo",
+   "score": 422,
+   "date": "2024-04-30T06:14:58.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=zgZaQDmSE-E",
+   "comment": "あと2秒は縮まる。ちょっと待ち時間が多い。運ゲ少な目"
+  },
+  {
+   "id": 17758,
+   "user": "yoshikikawai",
+   "score": 405,
+   "date": "2024-05-04T05:36:57.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17779,
+   "user": "6harapikumin",
+   "score": 361,
+   "date": "2024-05-10T15:53:20.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17846,
+   "user": "keisen2853",
+   "score": 452,
+   "date": "2024-05-23T00:57:29.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=TgPWCFl9o1A",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17888,
+   "user": "shiocha78",
+   "score": 448,
+   "date": "2024-06-04T05:11:47.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/cZya_jPk200",
+   "comment": "チャッピーの香り🐶=3"
+  },
+  {
+   "id": 18321,
+   "user": "wnsrn8650",
+   "score": 438,
+   "date": "2024-12-18T23:50:50.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18676,
+   "user": "_Axxx",
+   "score": 387,
+   "date": "2025-08-24T09:58:36.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18705,
+   "user": "HAPDAP",
+   "score": 318,
+   "date": "2025-08-29T01:43:22.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず投稿"
+  },
+  {
+   "id": 18983,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 463,
+   "date": "2025-11-23T19:15:36.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/Zc5KCB3c4jE?si=hPjVHiXpFmEEOmfm",
+   "comment": "オッチンの仕事量を減らしました"
+  },
+  {
+   "id": 19048,
+   "user": "y",
+   "score": 362,
+   "date": "2025-12-20T14:41:01.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19055,
+   "user": "pikitto",
+   "score": 429,
+   "date": "2025-12-25T07:45:59.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/zM6HNwNPAyw?si=vCYz0Np8gG5MQVw2",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19520,
+   "user": "Tanakaaaa",
+   "score": 326,
+   "date": "2026-06-11T23:14:23.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19670,
+   "user": "samidare",
+   "score": 338,
+   "date": "2026-07-16T08:15:25.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19704,
+   "user": "nitrosmish",
+   "score": 410,
+   "date": "2026-07-25T05:30:10.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "インスタント研究会より。正直なぜこの点数取れたかわからないです"
+  },
+  {
+   "id": 19705,
+   "user": "toripoppo0307",
+   "score": 445,
+   "date": "2026-07-25T05:30:28.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/3JQsal1A1D0",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19706,
+   "user": "Mutou_p2pw",
+   "score": 444,
+   "date": "2026-07-25T23:19:08.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/09HxFlND83M",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19708,
+   "user": "albut3",
+   "score": 457,
+   "date": "2026-07-27T02:34:08.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=hiimNN9ABMg",
+   "comment": "簡略化ルート"
+  },
+  {
+   "id": 19718,
+   "user": "mercysnow",
+   "score": 464,
+   "date": "2026-08-04T00:03:40.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/pm3m827J4zs?si=w8MHp-O5OiTMQ6U-",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19732,
+   "user": "koppacha",
+   "score": 410,
+   "date": "2026-08-10T11:57:17.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/jOW5tWadwlU",
+   "comment": "🙄←研究会で出した記録を一発で越えたときの顔"
+  },
+  {
+   "id": 19829,
+   "user": "13101575",
+   "score": 457,
+   "date": "2026-09-29T16:08:05.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19845,
+   "user": "96_Leaf",
+   "score": 460,
+   "date": "2026-10-05T01:12:56.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/0mIGFDfFUHA",
+   "comment": "後半が雑"
+  }
+ ]
+}

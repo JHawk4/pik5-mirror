@@ -1,0 +1,87 @@
+{
+ "rule": 26,
+ "stage": 215,
+ "posts": [
+  {
+   "id": 3928,
+   "user": "official",
+   "score": 6199,
+   "date": "2017-05-27T23:52:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 3960,
+   "user": "koppacha",
+   "score": 6233,
+   "date": "2017-05-28T07:13:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5389,
+   "user": "muratsubo",
+   "score": 6234,
+   "date": "2017-12-31T01:49:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第1回ピク杯"
+  },
+  {
+   "id": 6033,
+   "user": "albut3",
+   "score": 6257,
+   "date": "2018-03-14T23:21:25.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "70万RTA余興その1"
+  },
+  {
+   "id": 6079,
+   "user": "TEL",
+   "score": 6235,
+   "date": "2018-03-21T02:33:46.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6200,
+   "user": "sectionmarilui",
+   "score": 6256,
+   "date": "2018-04-21T07:29:49.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "どこかしらでガバる"
+  },
+  {
+   "id": 6989,
+   "user": "iid01",
+   "score": 6259,
+   "date": "2018-11-03T23:38:57.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7572,
+   "user": "Gorei_50",
+   "score": 6260,
+   "date": "2019-06-01T05:07:12.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/AJNflV0Gtlk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16022,
+   "user": "atmy_17",
+   "score": 6234,
+   "date": "2023-03-31T21:58:18.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

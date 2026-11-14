@@ -1,0 +1,645 @@
+{
+ "rule": 22,
+ "stage": 216,
+ "posts": [
+  {
+   "id": 51,
+   "user": "official",
+   "score": 5960,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 72,
+   "user": "tongarimasao",
+   "score": 5937,
+   "date": "2007-05-11T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "いったい何がいけなかったのか～～～"
+  },
+  {
+   "id": 85,
+   "user": "chounenryoudainamo",
+   "score": 5940,
+   "date": "2007-07-30T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "出来るだけ巣に宝を入れさせない。"
+  },
+  {
+   "id": 95,
+   "user": "shinya_",
+   "score": 5974,
+   "date": "2008-03-11T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "どれだけ早く倒せるかが。"
+  },
+  {
+   "id": 121,
+   "user": "Johannes",
+   "score": 5976,
+   "date": "2008-08-29T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ついに出た！"
+  },
+  {
+   "id": 155,
+   "user": "akisame",
+   "score": 5961,
+   "date": "2009-04-01T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1点・・・　（ちなみに投稿者はパンモドキの鼻の穴を目だと思っていた。）"
+  },
+  {
+   "id": 439,
+   "user": "DRAFIX",
+   "score": 5975,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "「野郎ぶっ殺してやらぁぁぁ！」-パンモドキに向けて"
+  },
+  {
+   "id": 605,
+   "user": "FeTellYou",
+   "score": 5988,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 723,
+   "user": "Selenium_pikmin",
+   "score": 5985,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 926,
+   "user": "xxHIMExx",
+   "score": 5958,
+   "date": "2015-11-06T04:49:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1100,
+   "user": "maramon",
+   "score": 5984,
+   "date": "2015-11-09T05:01:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1811,
+   "user": "ZEOKU",
+   "score": 5983,
+   "date": "2016-03-16T05:38:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "スコアかくところでっかくなってる！"
+  },
+  {
+   "id": 1824,
+   "user": "koppacha",
+   "score": 5988,
+   "date": "2016-03-19T00:39:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2297,
+   "user": "mezasi_pikmin",
+   "score": 5979,
+   "date": "2016-07-28T17:57:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "運"
+  },
+  {
+   "id": 2436,
+   "user": "noamoa",
+   "score": 5989,
+   "date": "2016-11-13T03:18:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "残り103で全回収したのに勿体ないことした"
+  },
+  {
+   "id": 2488,
+   "user": "U3",
+   "score": 5985,
+   "date": "2016-12-16T03:47:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2493,
+   "user": "HAPDAP",
+   "score": 5973,
+   "date": "2016-12-16T17:36:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "地味に専用曲があるボスだよねコイツ。"
+  },
+  {
+   "id": 2504,
+   "user": "HoshiKUZU_pik",
+   "score": 5996,
+   "date": "2016-12-19T05:56:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "なぁにこれ？"
+  },
+  {
+   "id": 3747,
+   "user": "miran",
+   "score": 5985,
+   "date": "2017-05-12T22:10:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "スナイプ力がない"
+  },
+  {
+   "id": 4477,
+   "user": "flyinghawk",
+   "score": 5994,
+   "date": "2017-07-27T08:01:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "(クッキー)食べないでくださーい"
+  },
+  {
+   "id": 4505,
+   "user": "PKtoyama",
+   "score": 5985,
+   "date": "2017-08-01T09:42:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1点更新"
+  },
+  {
+   "id": 4796,
+   "user": "imedin0813",
+   "score": 5962,
+   "date": "2017-09-18T07:40:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "きついです。"
+  },
+  {
+   "id": 5486,
+   "user": "yuibitchi",
+   "score": 5962,
+   "date": "2018-01-04T18:59:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5529,
+   "user": "Z_pikmin",
+   "score": 5987,
+   "date": "2018-01-06T06:01:00.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/qmVAls5ex6Q",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5631,
+   "user": "pikmin893",
+   "score": 5992,
+   "date": "2018-01-13T22:51:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "人権を得た…のか…？"
+  },
+  {
+   "id": 5851,
+   "user": "iid01",
+   "score": 5993,
+   "date": "2018-02-18T15:51:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=kKSRL5Jsjeo",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5905,
+   "user": "TEL",
+   "score": 5978,
+   "date": "2018-02-28T09:57:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6349,
+   "user": "toripoppo0307",
+   "score": 5978,
+   "date": "2018-05-19T12:09:28.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "あとすこし…"
+  },
+  {
+   "id": 6601,
+   "user": "areiku",
+   "score": 5983,
+   "date": "2018-07-04T05:04:39.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6671,
+   "user": "pik_Agnyan",
+   "score": 5993,
+   "date": "2018-08-03T23:26:45.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まだ更新できそう。"
+  },
+  {
+   "id": 7095,
+   "user": "fuji_luck",
+   "score": 5991,
+   "date": "2019-01-25T03:42:40.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7394,
+   "user": "sectionmarilui",
+   "score": 5995,
+   "date": "2019-04-05T07:48:18.000000Z",
+   "console": 1,
+   "video": "https://www.nicovideo.jp/watch/sm34918182",
+   "comment": "つまりはそういうことだ"
+  },
+  {
+   "id": 7559,
+   "user": "shiocha78",
+   "score": 5974,
+   "date": "2019-05-25T03:30:37.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7623,
+   "user": "Tizimi77777",
+   "score": 5964,
+   "date": "2019-07-21T21:57:18.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8124,
+   "user": "enagem_akakuy",
+   "score": 5975,
+   "date": "2019-12-22T01:13:21.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8222,
+   "user": "ikimono334",
+   "score": 5991,
+   "date": "2020-01-26T20:05:06.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "理不尽なステージ"
+  },
+  {
+   "id": 8519,
+   "user": "dayomin",
+   "score": 5979,
+   "date": "2020-06-07T05:10:42.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "妖怪いちたりない"
+  },
+  {
+   "id": 8570,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 5974,
+   "date": "2020-06-12T12:15:10.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/_LqJ4-Y6qEo",
+   "comment": "きっつい"
+  },
+  {
+   "id": 8581,
+   "user": "muratsubo",
+   "score": 5985,
+   "date": "2020-06-14T13:57:31.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "おひさ～"
+  },
+  {
+   "id": 9667,
+   "user": "zukki",
+   "score": 5978,
+   "date": "2020-07-27T21:13:56.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "奪えた時は楽しい"
+  },
+  {
+   "id": 10603,
+   "user": "shizei3",
+   "score": 5948,
+   "date": "2020-09-27T04:08:26.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10627,
+   "user": "ryuun",
+   "score": 5986,
+   "date": "2020-09-30T00:35:19.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/AIRAupbKv2U",
+   "comment": "もうやりたくないので、このスコアで妥協する"
+  },
+  {
+   "id": 11525,
+   "user": "yuyuyunkel",
+   "score": 5989,
+   "date": "2020-12-01T21:08:07.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "すんごいのび太"
+  },
+  {
+   "id": 11526,
+   "user": "messhi475",
+   "score": 5965,
+   "date": "2020-12-02T00:24:12.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 11591,
+   "user": "Spidman",
+   "score": 5962,
+   "date": "2020-12-05T00:38:53.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ピクミン切り替えがキツイ・・・"
+  },
+  {
+   "id": 12526,
+   "user": "hyogakibokaro",
+   "score": 5981,
+   "date": "2021-04-23T00:46:49.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何が良かったのかよく分からないが今までよりダントツで高かった"
+  },
+  {
+   "id": 12540,
+   "user": "nikoshu_pik",
+   "score": 5988,
+   "date": "2021-04-27T00:44:06.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=46FlOQ_Bj2k",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12933,
+   "user": "April_lapispik",
+   "score": 5982,
+   "date": "2021-07-22T06:56:13.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "FINAL FLOORの演出を初めて邪魔に思った"
+  },
+  {
+   "id": 13114,
+   "user": "keisen2853",
+   "score": 5994,
+   "date": "2021-08-31T04:25:31.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=y8jU76CFFP4",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13302,
+   "user": "nakatatsu",
+   "score": 5984,
+   "date": "2021-10-24T02:33:05.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "きた！頑張ればあと2点くらい行けそう"
+  },
+  {
+   "id": 13303,
+   "user": "yudoufu",
+   "score": 5988,
+   "date": "2021-10-24T06:34:52.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13383,
+   "user": "makalogue",
+   "score": 5990,
+   "date": "2021-11-03T20:40:50.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=cdKMkwJflEg",
+   "comment": "タイム100"
+  },
+  {
+   "id": 14056,
+   "user": "yukidaruma",
+   "score": 5991,
+   "date": "2021-12-07T15:21:58.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14737,
+   "user": "mikou_musicgame",
+   "score": 5980,
+   "date": "2022-06-04T06:01:05.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14764,
+   "user": "spark573",
+   "score": 5995,
+   "date": "2022-06-15T06:41:47.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/jLgHrw3gI8w",
+   "comment": "国民の義務"
+  },
+  {
+   "id": 14836,
+   "user": "samuraitamashi",
+   "score": 5965,
+   "date": "2022-07-26T14:17:14.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "なぜ？"
+  },
+  {
+   "id": 14868,
+   "user": "eruvoore",
+   "score": 5965,
+   "date": "2022-08-07T07:40:03.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14894,
+   "user": "mercysnow",
+   "score": 6000,
+   "date": "2022-08-11T23:51:39.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/nuiscAi3S_Y",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15124,
+   "user": "6harapikumin",
+   "score": 5966,
+   "date": "2022-09-28T04:42:48.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15166,
+   "user": "ToolAssistedPik",
+   "score": 6001,
+   "date": "2022-10-05T06:54:13.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/01LbTPdBx2A",
+   "comment": "ミスが痛い。これではまだ食神を名乗ることはできないパン…"
+  },
+  {
+   "id": 17258,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 5964,
+   "date": "2023-11-17T06:35:44.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず公式越え"
+  },
+  {
+   "id": 17766,
+   "user": "kobachi_no_udon",
+   "score": 6001,
+   "date": "2024-05-06T03:25:20.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/ocLUZzzFx8k",
+   "comment": "おいしい"
+  },
+  {
+   "id": 18037,
+   "user": "atmy_17",
+   "score": 5987,
+   "date": "2024-07-30T09:34:23.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18146,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 5997,
+   "date": "2024-09-03T03:22:58.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/F5XqqpPUAGY?si=ZmG1idcjlVnuPIIk",
+   "comment": "まだまだですね"
+  },
+  {
+   "id": 18376,
+   "user": "albut3",
+   "score": 6000,
+   "date": "2025-01-26T10:21:19.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=r3B9GErlSa0",
+   "comment": "701500レイドバトル開催記念"
+  },
+  {
+   "id": 18935,
+   "user": "Gorei_50",
+   "score": 6003,
+   "date": "2025-10-12T05:33:43.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/UL0yHfnCxtc",
+   "comment": "挑戦状2025"
+  },
+  {
+   "id": 18984,
+   "user": "alpha_0630",
+   "score": 5989,
+   "date": "2025-11-24T06:00:24.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/XlLNua3p2sI",
+   "comment": "ほんの少しだけわかってきた"
+  },
+  {
+   "id": 19395,
+   "user": "KSK_yukaripik",
+   "score": 5997,
+   "date": "2026-04-27T08:48:13.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=UYSCLvt63xE",
+   "comment": "楽しかったり苦しかったりする神ステ"
+  },
+  {
+   "id": 19634,
+   "user": "Argent2home",
+   "score": 5993,
+   "date": "2026-07-04T08:12:36.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/M911fNjHnl0",
+   "comment": "ヘクトる前に仕留める"
+  },
+  {
+   "id": 19783,
+   "user": "pikitto",
+   "score": 5986,
+   "date": "2026-09-10T03:21:32.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/fi1COlWCJ0w",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 20365,
+   "user": "Mutou_p2pw",
+   "score": 5991,
+   "date": "2026-10-26T23:51:49.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "ポッド下の加勢やめてください"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "rule": 34,
+ "stage": 328,
+ "posts": [
+  {
+   "id": 4622,
+   "user": "koppacha",
+   "score": 1200,
+   "date": "2017-08-27T04:18:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11920,
+   "user": "Johnson",
+   "score": 7980,
+   "date": "2021-01-14T07:01:08.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/aKmq5H-nO08",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12998,
+   "user": "sozainoaji",
+   "score": 2710,
+   "date": "2021-08-13T20:46:38.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15633,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3260,
+   "date": "2022-12-09T03:41:35.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "前回の記録が低すぎたので大幅更新しました。"
+  }
+ ]
+}

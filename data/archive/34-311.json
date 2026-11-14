@@ -1,0 +1,51 @@
+{
+ "rule": 34,
+ "stage": 311,
+ "posts": [
+  {
+   "id": 4551,
+   "user": "identete",
+   "score": 13880,
+   "date": "2017-08-16T00:29:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4605,
+   "user": "koppacha",
+   "score": 6710,
+   "date": "2017-08-27T04:11:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11919,
+   "user": "Johnson",
+   "score": 16850,
+   "date": "2021-01-14T06:59:22.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/T_5aLTZe2ws",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16104,
+   "user": "sozainoaji",
+   "score": 18050,
+   "date": "2023-05-05T19:09:06.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19326,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 18950,
+   "date": "2026-03-17T01:31:49.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/zHLv8ijf5O8?si=KnBQT2QSUdeo2YB9",
+   "comment": "最後のキンカイがひどい"
+  }
+ ]
+}

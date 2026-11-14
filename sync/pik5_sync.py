@@ -263,7 +263,9 @@ def sync():
             hist["lower_is_better"] = low
             hist["records"] = merge_history(hist["records"], tops, low)
             changed += write_json(hpath, hist)
+            changed += update_archive(rule, sid, posts)
 
+    changed += sync_players(c, users)
     changed += write_json(DATA / "categories.json", categories_out)
     changed += write_json(DATA / "stages.json", {str(k): v for k, v in sorted(stages_out.items())})
     changed += write_json(DATA / "users.json", dict(sorted(users.items(), key=lambda kv: kv[0].lower())))
@@ -273,6 +275,79 @@ def sync():
         "synced_at": started.isoformat(timespec="seconds"),
     })
     print(f"done: {changed} files changed in {datetime.now(timezone.utc) - started}")
+
+
+def archive_entry(p: dict) -> dict:
+    keep = ("id", "user", "score", "date", "console", "video", "comment")
+    return {k: p.get(k) for k in keep}
+
+
+def update_archive(rule: int, sid: int, posts: list[dict]) -> bool:
+    """Keep every distinct submission ever seen for a board, so leaderboards can
+    be reconstructed as of any date. Keyed by (player, score); the earliest
+    date wins. If pik5 ever exposes full submission history, feed it in here."""
+    path = DATA / "archive" / f"{rule}-{sid}.json"
+    arc = read_json(path, {"rule": rule, "stage": sid, "posts": []})
+    pool = {(a["user"], a["score"]): a for a in arc["posts"]}
+    for p in posts:
+        a = archive_entry(p)
+        key = (a["user"], a["score"])
+        old = pool.get(key)
+        if old is None or (a["date"] or "") < (old["date"] or ""):
+            pool[key] = a
+        elif not old.get("video") and a.get("video"):
+            old["video"] = a["video"]
+    arc["posts"] = sorted(pool.values(), key=lambda a: (a["date"] or "", a["user"] or ""))
+    return write_json(path, arc)
+
+
+PROFILE_MAX_AGE_DAYS = 30
+PROFILE_FETCH_LIMIT = 40  # per sync, to stay polite
+
+
+def notable_players() -> list[str]:
+    """Players worth a profile lookup: current #1s and the top 25 of each game."""
+    wr: dict[str, int] = {}
+    for f in (DATA / "boards").glob("*.json"):
+        for p in read_json(f, {}).get("posts", []):
+            if p.get("rank") == 1:
+                wr[p["user"]] = wr.get(p["user"], 0) + 1
+    out = sorted(wr, key=lambda u: -wr[u])
+    for tid in SERIES_TOTALS.values():
+        for r in read_json(DATA / "totals" / f"{tid}.json", {}).get("rows", [])[:25]:
+            if r["user"] not in out:
+                out.append(r["user"])
+    return out
+
+
+def sync_players(c: "Client", users: dict) -> bool:
+    """Fetch pik5 profiles for notable players to find linked speedrun.com
+    accounts, then read English name + country from speedrun.com's public API."""
+    path = DATA / "players.json"
+    players = read_json(path, {})
+    now = datetime.now(timezone.utc)
+    fetched = 0
+    for uid in notable_players():
+        prof = players.get(uid, {})
+        age = (now - datetime.fromisoformat(prof["checked"])).days if prof.get("checked") else 10**6
+        if age < PROFILE_MAX_AGE_DAYS:
+            continue
+        if fetched >= PROFILE_FETCH_LIMIT:
+            break
+        fetched += 1
+        d = c.page(f"user/{uid}")
+        if d is None:
+            continue
+        src = (d.get("userSettings") or {}).get("srcUserId")
+        prof = {"checked": now.isoformat(timespec="seconds"), "src": src}
+        if src:
+            s = fetch(f"https://www.speedrun.com/api/v1/users/{src}", as_json=True)
+            data = (s or {}).get("data") or {}
+            prof["src_name"] = (data.get("names") or {}).get("international")
+            prof["country"] = (((data.get("location") or {}).get("country") or {}).get("code") or "").lower() or None
+        players[uid] = prof
+    print(f"player profiles: {fetched} fetched, {len(players)} cached")
+    return write_json(path, dict(sorted(players.items())))
 
 
 def total_payload(d: dict, total_id: int) -> dict:
@@ -316,12 +391,16 @@ def backfill(rules: list[int]):
             board = read_json(DATA / "boards" / f"{rule}-{sid}.json", {})
             low = board.get("lower_is_better", hist.get("lower_is_better", False))
             cands = []
+            seen = []
             for year in range(this_year - 1, FIRST_YEAR - 1, -1):
                 d = cl.page(f"stage/{sid}/0/{rule}/{year}")
                 posts = (d or {}).get("posts") or []
                 if not posts:
                     break  # nothing earlier than this
-                cands += [wr_entry(norm_post(p)) for p in posts]
+                normed = [norm_post(p) for p in posts]
+                seen += normed
+                cands += [wr_entry(p) for p in normed]
+            update_archive(rule, sid, seen)
             hist["lower_is_better"] = low
             hist["records"] = merge_history(hist["records"], cands, low)
             hist["backfilled"] = True
@@ -329,8 +408,18 @@ def backfill(rules: list[int]):
             print(f"backfill {rule}/{sid}: {len(hist['records'])} WRs")
 
 
+def players_only():
+    """Refresh player profiles without a full board sync."""
+    c = Client()
+    users = read_json(DATA / "users.json", {})
+    sync_players(c, users)
+
+
 if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == "backfill":
+    cmd = sys.argv[1] if len(sys.argv) > 1 else "sync"
+    if cmd == "backfill":
         backfill([int(a) for a in sys.argv[2:]])
+    elif cmd == "players":
+        players_only()
     else:
         sync()

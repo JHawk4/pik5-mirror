@@ -1,0 +1,78 @@
+{
+ "rule": 26,
+ "stage": 219,
+ "posts": [
+  {
+   "id": 3932,
+   "user": "official",
+   "score": 11631,
+   "date": "2017-05-27T23:54:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 4017,
+   "user": "koppacha",
+   "score": 11683,
+   "date": "2017-06-02T05:43:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4245,
+   "user": "albut3",
+   "score": 11708,
+   "date": "2017-06-22T08:25:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=f8nSHCbSKXY",
+   "comment": "2F神配置"
+  },
+  {
+   "id": 5970,
+   "user": "sectionmarilui",
+   "score": 11699,
+   "date": "2018-03-09T08:03:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6082,
+   "user": "muratsubo",
+   "score": 11672,
+   "date": "2018-03-21T02:35:47.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6694,
+   "user": "Gorei_50",
+   "score": 11704,
+   "date": "2018-08-09T22:11:39.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/bDzae7TuYlg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6993,
+   "user": "iid01",
+   "score": 11707,
+   "date": "2018-11-03T23:41:47.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18473,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 11703,
+   "date": "2025-04-12T03:18:12.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/XJpOVxfIyxM?si=m7HgcbRcD0zTrLe1",
+   "comment": "コメントなし"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "rule": 26,
+ "stage": 225,
+ "posts": [
+  {
+   "id": 3938,
+   "user": "official",
+   "score": 27888,
+   "date": "2017-05-27T23:57:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 4023,
+   "user": "koppacha",
+   "score": 27989,
+   "date": "2017-06-02T05:46:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4248,
+   "user": "albut3",
+   "score": 27999,
+   "date": "2017-06-22T08:30:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=KG7KwFc64qY",
+   "comment": "適当"
+  },
+  {
+   "id": 6088,
+   "user": "muratsubo",
+   "score": 27997,
+   "date": "2018-03-21T02:38:13.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6517,
+   "user": "sectionmarilui",
+   "score": 28006,
+   "date": "2018-06-19T03:02:56.000000Z",
+   "console": 1,
+   "video": "http://www.nicovideo.jp/watch/sm33390604",
+   "comment": "更新はしたけど前回のやり方の方があまりガチャせずに済みそう"
+  },
+  {
+   "id": 6997,
+   "user": "miran",
+   "score": 28009,
+   "date": "2018-11-03T23:44:33.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7592,
+   "user": "Gorei_50",
+   "score": 28011,
+   "date": "2019-06-29T04:26:43.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/R1id9TrhW30",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18463,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 28011,
+   "date": "2025-03-26T03:42:53.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/3_YdtvEdDQA?si=8MRBwQN0B9KHQniS",
+   "comment": "奇跡の生還"
+  }
+ ]
+}

@@ -1,0 +1,339 @@
+{
+ "rule": 41,
+ "stage": 406,
+ "posts": [
+  {
+   "id": 16375,
+   "user": "spark573",
+   "score": 552,
+   "date": "2023-07-31T04:53:24.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/spark573/status/1686009078646996992",
+   "comment": "ステージは面白いと思う　操作は……"
+  },
+  {
+   "id": 16429,
+   "user": "pikpikradish",
+   "score": 391,
+   "date": "2023-08-01T06:29:44.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16445,
+   "user": "mkt918",
+   "score": 479,
+   "date": "2023-08-01T17:39:01.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16457,
+   "user": "keisen2853",
+   "score": 589,
+   "date": "2023-08-02T03:23:02.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=ZgajDAfkIiM",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16471,
+   "user": "aqr2",
+   "score": 428,
+   "date": "2023-08-03T00:48:01.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16590,
+   "user": "kobachi_no_udon",
+   "score": 580,
+   "date": "2023-08-08T01:56:47.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/1fVQSr1UEY8",
+   "comment": "やや怪しい動きはあるがいったん。"
+  },
+  {
+   "id": 16621,
+   "user": "Otomo",
+   "score": 582,
+   "date": "2023-08-10T14:10:10.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=0AHk-J9p9ms",
+   "comment": "もう少し調整できそうな気がする！"
+  },
+  {
+   "id": 16636,
+   "user": "sozainoaji",
+   "score": 428,
+   "date": "2023-08-10T22:23:11.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16774,
+   "user": "muratsubo",
+   "score": 580,
+   "date": "2023-08-19T04:36:21.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "336g + 244s"
+  },
+  {
+   "id": 16777,
+   "user": "katsun",
+   "score": 544,
+   "date": "2023-08-19T06:45:10.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16824,
+   "user": "yakiniku",
+   "score": 602,
+   "date": "2023-08-25T04:10:38.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/3swZr_v2tLg?si=_k6u-7jZSy3QZYH7",
+   "comment": "600点突破"
+  },
+  {
+   "id": 16894,
+   "user": "qwertyuiop",
+   "score": 566,
+   "date": "2023-08-31T04:18:38.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16903,
+   "user": "yoshi0216",
+   "score": 439,
+   "date": "2023-08-31T06:27:15.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17008,
+   "user": "fluky",
+   "score": 617,
+   "date": "2023-09-14T02:57:10.000000Z",
+   "console": 4,
+   "video": "https://youtube.com/watch?v=o6Nu9Ijt2Gk",
+   "comment": "オッチン爆走ルート"
+  },
+  {
+   "id": 17114,
+   "user": "hocotate",
+   "score": 583,
+   "date": "2023-10-14T08:09:04.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17143,
+   "user": "hone-sutookume",
+   "score": 376,
+   "date": "2023-10-19T19:56:37.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17256,
+   "user": "Moony",
+   "score": 621,
+   "date": "2023-11-16T21:54:35.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/_IbDcwes5oE",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17438,
+   "user": "shino15nome",
+   "score": 621,
+   "date": "2023-12-20T02:32:14.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/L7MAFwOZm-4?si=zV9e_mf4jp8FhriH",
+   "comment": "初爆走です"
+  },
+  {
+   "id": 17829,
+   "user": "yoshikikawai",
+   "score": 588,
+   "date": "2024-05-17T22:47:59.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "目標4分のこし"
+  },
+  {
+   "id": 17965,
+   "user": "6harapikumin",
+   "score": 560,
+   "date": "2024-07-01T01:50:57.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18208,
+   "user": "wnsrn8650",
+   "score": 602,
+   "date": "2024-09-26T22:41:15.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "緊張しすぎた"
+  },
+  {
+   "id": 18250,
+   "user": "knt_se7",
+   "score": 500,
+   "date": "2024-10-21T03:02:50.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18513,
+   "user": "kitotch-pikmin-",
+   "score": 590,
+   "date": "2025-07-09T00:39:52.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "自己満足です。"
+  },
+  {
+   "id": 18687,
+   "user": "_Axxx",
+   "score": 560,
+   "date": "2025-08-25T00:36:34.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18709,
+   "user": "HAPDAP",
+   "score": 480,
+   "date": "2025-08-29T01:44:12.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず投稿"
+  },
+  {
+   "id": 19225,
+   "user": "pikitto",
+   "score": 605,
+   "date": "2026-02-05T22:47:40.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/0va8IoXDFFU",
+   "comment": "一旦やってみた"
+  },
+  {
+   "id": 19228,
+   "user": "nitrosmish",
+   "score": 561,
+   "date": "2026-02-07T05:36:39.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "第二回インスタント研究会参加"
+  },
+  {
+   "id": 19242,
+   "user": "Gorei_50",
+   "score": 637,
+   "date": "2026-02-15T07:41:50.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/t2blErjrPqA",
+   "comment": "やるかは不明"
+  },
+  {
+   "id": 19246,
+   "user": "koppacha",
+   "score": 622,
+   "date": "2026-02-20T07:19:34.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/O2JmyQt2wj0",
+   "comment": "PDCAぐるぐる"
+  },
+  {
+   "id": 19273,
+   "user": "96_Leaf",
+   "score": 644,
+   "date": "2026-02-26T02:58:48.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/WF7c-Xmxu7M",
+   "comment": "神のルートに感謝"
+  },
+  {
+   "id": 19301,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 650,
+   "date": "2026-03-05T02:00:58.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/Zq4Zupz3AKg?si=YktBAFJMjcawdF8L",
+   "comment": "新ルートで更新できないので一旦"
+  },
+  {
+   "id": 19305,
+   "user": "mercysnow",
+   "score": 650,
+   "date": "2026-03-07T21:45:40.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/AJxKXRvSo_4?si=-36molnYlqDbM2Ob",
+   "comment": "わたしはあなたがたに超重を教える"
+  },
+  {
+   "id": 19331,
+   "user": "April_lapispik",
+   "score": 607,
+   "date": "2026-03-28T06:55:18.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/V3tz3mPgbXw",
+   "comment": "まだいける"
+  },
+  {
+   "id": 19379,
+   "user": "albut3",
+   "score": 650,
+   "date": "2026-04-18T11:29:51.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=6m2QUX9djPo",
+   "comment": "前半むずすぎこのルート"
+  },
+  {
+   "id": 19523,
+   "user": "Tanakaaaa",
+   "score": 483,
+   "date": "2026-06-12T00:04:47.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19649,
+   "user": "toripoppo0307",
+   "score": 598,
+   "date": "2026-07-10T05:12:33.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "仮。研究会の時のスコア"
+  },
+  {
+   "id": 19674,
+   "user": "samidare",
+   "score": 483,
+   "date": "2026-07-16T08:17:03.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

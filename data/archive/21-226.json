@@ -1,0 +1,546 @@
+{
+ "rule": 21,
+ "stage": 226,
+ "posts": [
+  {
+   "id": 61,
+   "user": "official",
+   "score": 32403,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 163,
+   "user": "akisame",
+   "score": 32447,
+   "date": "2009-04-05T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "100匹までふやしました。葉だから足が遅い。"
+  },
+  {
+   "id": 177,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 32453,
+   "date": "2010-01-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "キクヅモリはタフだし、壁は硬いし、空騒ぎアラーム多いしで大変でした。"
+  },
+  {
+   "id": 215,
+   "user": "shinya_",
+   "score": 32544,
+   "date": "2012-11-07T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "赤を少なくする勢いでやりましたが…他に地下３で運がよかったんでしょうか。"
+  },
+  {
+   "id": 242,
+   "user": "tororo",
+   "score": 32510,
+   "date": "2013-05-19T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "スプレーをいつ使うか悩んでしまいます"
+  },
+  {
+   "id": 449,
+   "user": "DRAFIX",
+   "score": 32569,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "3Fあるある「壊れる壁が2連続」「ブタドックリが水場に逃げた」「水場の向こうの間欠炎の先の電極を超えた所にあるお宝」"
+  },
+  {
+   "id": 733,
+   "user": "Selenium_pikmin",
+   "score": 32585,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 921,
+   "user": "xxHIMExx",
+   "score": 32441,
+   "date": "2015-11-06T04:46:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1110,
+   "user": "maramon",
+   "score": 32561,
+   "date": "2015-11-09T05:03:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1137,
+   "user": "ZEOKU",
+   "score": 32598,
+   "date": "2015-11-11T16:05:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1359,
+   "user": "FeTellYou",
+   "score": 32626,
+   "date": "2015-12-06T00:54:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシはよ"
+  },
+  {
+   "id": 2130,
+   "user": "HoshiKUZU_pik",
+   "score": 32659,
+   "date": "2016-05-11T06:50:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシ6匹。3Fの地形に苦しめられた"
+  },
+  {
+   "id": 2367,
+   "user": "PKtoyama",
+   "score": 32590,
+   "date": "2016-09-01T06:08:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "三階の地形がまあまあ良かった"
+  },
+  {
+   "id": 3108,
+   "user": "muratsubo",
+   "score": 32577,
+   "date": "2017-02-27T22:27:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントあり"
+  },
+  {
+   "id": 3516,
+   "user": "iid01",
+   "score": 32701,
+   "date": "2017-04-14T20:53:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=o8raoC2Tq9M",
+   "comment": "1発で出たのは奇跡"
+  },
+  {
+   "id": 3549,
+   "user": "pikmin893",
+   "score": 32650,
+   "date": "2017-04-19T21:37:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3694,
+   "user": "mezasi_pikmin",
+   "score": 32598,
+   "date": "2017-05-03T22:44:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "目標まであと少し"
+  },
+  {
+   "id": 4145,
+   "user": "koppacha",
+   "score": 32606,
+   "date": "2017-06-17T02:26:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第一の壁突破"
+  },
+  {
+   "id": 4734,
+   "user": "agosuke",
+   "score": 32305,
+   "date": "2017-09-08T05:34:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4760,
+   "user": "sectionmarilui",
+   "score": 32643,
+   "date": "2017-09-10T12:41:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "アッ　この川、「深い」ッッ"
+  },
+  {
+   "id": 4919,
+   "user": "flyinghawk",
+   "score": 32643,
+   "date": "2017-10-09T17:54:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "赤82青18でもここまで行けるよ"
+  },
+  {
+   "id": 5515,
+   "user": "yuibitchi",
+   "score": 32471,
+   "date": "2018-01-05T21:02:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6173,
+   "user": "miran",
+   "score": 32616,
+   "date": "2018-04-18T07:06:03.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "慣れるとあっさり"
+  },
+  {
+   "id": 6244,
+   "user": "ikimono334",
+   "score": 32661,
+   "date": "2018-05-05T02:49:47.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "9匹ゴミ配置"
+  },
+  {
+   "id": 6488,
+   "user": "dayomin",
+   "score": 32601,
+   "date": "2018-06-17T00:52:12.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2Fメダルがゲート外にあった強運でそのまま600超え"
+  },
+  {
+   "id": 6505,
+   "user": "noamoa",
+   "score": 32651,
+   "date": "2018-06-18T22:07:37.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "卵が1個置いてた(虫は出ない)"
+  },
+  {
+   "id": 6522,
+   "user": "TEL",
+   "score": 32608,
+   "date": "2018-06-19T04:47:24.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6525,
+   "user": "HAPDAP",
+   "score": 32578,
+   "date": "2018-06-20T18:22:19.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "あぐにゃんに2Fの行き方教えてもらった"
+  },
+  {
+   "id": 6597,
+   "user": "Z_pikmin",
+   "score": 32648,
+   "date": "2018-07-03T21:57:23.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7533,
+   "user": "shiocha78",
+   "score": 32569,
+   "date": "2019-05-07T19:16:59.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8045,
+   "user": "Tizimi77777",
+   "score": 32533,
+   "date": "2019-09-22T20:17:20.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8046,
+   "user": "enagem_akakuy",
+   "score": 32522,
+   "date": "2019-09-22T22:04:40.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8112,
+   "user": "fuji_luck",
+   "score": 32681,
+   "date": "2019-12-13T05:36:26.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "8匹。2階81"
+  },
+  {
+   "id": 8253,
+   "user": "ToolAssistedPik",
+   "score": 32619,
+   "date": "2020-02-08T22:23:05.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "赤100匹戦法再び。タマゴください"
+  },
+  {
+   "id": 8669,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 32521,
+   "date": "2020-06-22T14:46:01.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "青20以上増やしちゃったからもう少し減らす予定"
+  },
+  {
+   "id": 8809,
+   "user": "zukki",
+   "score": 32605,
+   "date": "2020-07-13T19:48:07.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "赤100全力お祈り"
+  },
+  {
+   "id": 8832,
+   "user": "keisen2853",
+   "score": 32674,
+   "date": "2020-07-18T21:55:49.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=MdrKppbdv8k",
+   "comment": "タマゴムシなし、3F神配置"
+  },
+  {
+   "id": 8916,
+   "user": "pik_Agnyan",
+   "score": 32621,
+   "date": "2020-07-23T07:02:31.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ようやく更新、しかしまだまだ詰められる。"
+  },
+  {
+   "id": 9710,
+   "user": "toripoppo0307",
+   "score": 32590,
+   "date": "2020-08-09T04:07:01.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9912,
+   "user": "nikoshu_pik",
+   "score": 32644,
+   "date": "2020-09-13T07:18:07.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=CpPWOWiLUX8",
+   "comment": "3F良配置が出ない"
+  },
+  {
+   "id": 10784,
+   "user": "ryuun",
+   "score": 32593,
+   "date": "2020-10-16T08:26:39.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/o5k8aUQDlYo",
+   "comment": "下見段階のスコア"
+  },
+  {
+   "id": 11570,
+   "user": "messhi475",
+   "score": 32542,
+   "date": "2020-12-04T01:31:27.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 13214,
+   "user": "April_lapispik",
+   "score": 32583,
+   "date": "2021-10-05T04:43:16.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/fzaP-oLjqCg",
+   "comment": "1ステージが長すぎる　動画は解説つきです"
+  },
+  {
+   "id": 13279,
+   "user": "nakatatsu",
+   "score": 32588,
+   "date": "2021-10-19T04:55:44.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2回目でいけた、タマゴはなし"
+  },
+  {
+   "id": 13392,
+   "user": "makalogue",
+   "score": 32637,
+   "date": "2021-11-03T21:05:36.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=bFoFgnUQVIs",
+   "comment": "タイム41→81→197"
+  },
+  {
+   "id": 14221,
+   "user": "yuyuyunkel",
+   "score": 32648,
+   "date": "2022-02-02T03:15:18.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14242,
+   "user": "mikou_musicgame",
+   "score": 32641,
+   "date": "2022-02-08T21:20:13.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14878,
+   "user": "eruvoore",
+   "score": 32484,
+   "date": "2022-08-07T07:43:44.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15155,
+   "user": "mercysnow",
+   "score": 32727,
+   "date": "2022-10-02T23:44:20.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/WR-w8L5_YlA",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15887,
+   "user": "atmy_17",
+   "score": 32628,
+   "date": "2023-02-26T19:48:06.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16270,
+   "user": "albut3",
+   "score": 32702,
+   "date": "2023-07-17T22:47:31.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=feyPAMfVomI",
+   "comment": "ランダム対戦イベントにて。突っ込みどころしかない1Fと2F"
+  },
+  {
+   "id": 17223,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32736,
+   "date": "2023-11-08T03:08:42.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/TpAf3aBd_Vg?si=0FaCOqA-XnrSvrAL",
+   "comment": "2セット出ていないので真のWRではありません"
+  },
+  {
+   "id": 18136,
+   "user": "yukidaruma",
+   "score": 32725,
+   "date": "2024-08-30T19:07:10.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/ymEo5FVpnB4?si=7u-Djy3uh_V5q9zT",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18379,
+   "user": "alpha_0630",
+   "score": 32627,
+   "date": "2025-01-28T07:01:38.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/2eixXN5ToeM",
+   "comment": "また後でやる"
+  },
+  {
+   "id": 18387,
+   "user": "spark573",
+   "score": 32738,
+   "date": "2025-02-01T02:19:55.000000Z",
+   "console": 2,
+   "video": "https://www.twitch.tv/videos/2369437615",
+   "comment": "ラン対で事件発生"
+  },
+  {
+   "id": 18629,
+   "user": "Gorei_50",
+   "score": 32803,
+   "date": "2025-08-10T06:48:44.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/czAvCBnPN7U",
+   "comment": "余地"
+  },
+  {
+   "id": 18979,
+   "user": "Argent2home",
+   "score": 32681,
+   "date": "2025-11-21T03:46:50.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/uAs_-IyNtBU",
+   "comment": "sauce pour croquettes"
+  },
+  {
+   "id": 19257,
+   "user": "pikitto",
+   "score": 32612,
+   "date": "2026-02-21T14:35:10.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/qffsGbN0d88",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19376,
+   "user": "kobachi_no_udon",
+   "score": 32728,
+   "date": "2026-04-18T10:57:50.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/qK-e-Wog8kA",
+   "comment": "最後の1匹当たったと思ったんだけどなぁ"
+  },
+  {
+   "id": 19425,
+   "user": "Mutou_p2pw",
+   "score": 32667,
+   "date": "2026-05-23T16:37:57.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/T1p0C4Ko7Vo",
+   "comment": "ムシ○配置△動き×"
+  }
+ ]
+}

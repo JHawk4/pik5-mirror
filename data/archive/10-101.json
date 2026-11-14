@@ -1,0 +1,357 @@
+{
+ "rule": 10,
+ "stage": 101,
+ "posts": [
+  {
+   "id": 76,
+   "user": "akapiku",
+   "score": 204,
+   "date": "2007-05-18T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まぁまぁかな・・・。"
+  },
+  {
+   "id": 104,
+   "user": "koppacha",
+   "score": 264,
+   "date": "2008-07-12T06:00:00.000000Z",
+   "console": 1,
+   "video": "http://www.nicovideo.jp/watch/sm3719225",
+   "comment": "更新。コガネモチ以外全部回収。"
+  },
+  {
+   "id": 139,
+   "user": "koganeorima",
+   "score": 238,
+   "date": "2008-10-24T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "かなりがんばりました。"
+  },
+  {
+   "id": 178,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 223,
+   "date": "2010-01-31T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "全回収はキツイものがある・・・"
+  },
+  {
+   "id": 222,
+   "user": "tororo",
+   "score": 264,
+   "date": "2013-04-18T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コガネモチをひっくり返したい…"
+  },
+  {
+   "id": 480,
+   "user": "HAPDAP",
+   "score": 239,
+   "date": "2015-07-15T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "+7。黄ピクミンを30以上増やし、最後に高台の10×3を回収。"
+  },
+  {
+   "id": 497,
+   "user": "koppacha",
+   "score": 273,
+   "date": "2015-10-31T01:55:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 958,
+   "user": "noamoa",
+   "score": 278,
+   "date": "2015-11-07T03:47:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "全回収＋無犠+"
+  },
+  {
+   "id": 974,
+   "user": "muratsubo",
+   "score": 251,
+   "date": "2015-11-07T04:26:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1399,
+   "user": "iid01",
+   "score": 278,
+   "date": "2016-01-26T01:13:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=NGtN60SFK_0",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2373,
+   "user": "HoshiKUZU_pik",
+   "score": 278,
+   "date": "2016-09-22T04:06:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "Aボタン反応してくれないのツラい"
+  },
+  {
+   "id": 2576,
+   "user": "Gorei_50",
+   "score": 273,
+   "date": "2016-12-27T05:03:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2843,
+   "user": "U3",
+   "score": 278,
+   "date": "2017-01-25T22:23:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "日没間際までかかった"
+  },
+  {
+   "id": 3666,
+   "user": "HAPDAP",
+   "score": 262,
+   "date": "2017-04-30T22:19:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "自分にしては上出来。"
+  },
+  {
+   "id": 3714,
+   "user": "muratsubo",
+   "score": 270,
+   "date": "2017-05-06T05:35:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コガネモチでわちゃわちゃした"
+  },
+  {
+   "id": 3875,
+   "user": "yuibitchi",
+   "score": 278,
+   "date": "2017-05-23T01:02:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 5070,
+   "user": "Z_pikmin",
+   "score": 278,
+   "date": "2017-10-29T01:02:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "時間かけすぎ"
+  },
+  {
+   "id": 5176,
+   "user": "sunadorineko",
+   "score": 266,
+   "date": "2017-11-28T04:56:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コガネモチがもう少し"
+  },
+  {
+   "id": 8703,
+   "user": "alpha_0630",
+   "score": 278,
+   "date": "2020-06-29T02:56:51.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11299,
+   "user": "PiePusher11",
+   "score": 278,
+   "date": "2020-11-18T11:48:25.000000Z",
+   "console": 1,
+   "video": "https://www.twitch.tv/videos/47113405",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11581,
+   "user": "messhi475",
+   "score": 256,
+   "date": "2020-12-04T17:29:08.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14436,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 278,
+   "date": "2022-03-21T14:47:48.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/YRwR3FsWqck",
+   "comment": "理論値です。"
+  },
+  {
+   "id": 14768,
+   "user": "atmy_17",
+   "score": 278,
+   "date": "2022-06-18T16:02:15.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/-DPBrkdwrAo",
+   "comment": "途中ポーズしたけど"
+  },
+  {
+   "id": 15283,
+   "user": "riserise",
+   "score": 278,
+   "date": "2022-10-09T02:41:50.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/pjwud9ldeMs",
+   "comment": "やったね"
+  },
+  {
+   "id": 15565,
+   "user": "albut3",
+   "score": 278,
+   "date": "2022-11-24T10:21:43.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=3vlufpGmS3k&ab_channel=albut3pik",
+   "comment": "コガネモチの背中に8回当てるだけのゲーム"
+  },
+  {
+   "id": 16651,
+   "user": "cesium137",
+   "score": 278,
+   "date": "2023-08-11T02:29:03.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/rn_Fa2L5XqE",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16830,
+   "user": "Gorei_50",
+   "score": 278,
+   "date": "2023-08-26T09:19:44.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/Zjg-9zuDVOI",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17120,
+   "user": "Argent2home",
+   "score": 278,
+   "date": "2023-10-17T19:30:10.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/ygGSJUu36y8?si=Otc8BQVjfw2d_ogn",
+   "comment": "他はムズそうだから勉強しないとなぁ"
+  },
+  {
+   "id": 17122,
+   "user": "JHawk4",
+   "score": 278,
+   "date": "2023-10-19T03:05:58.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17216,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 270,
+   "date": "2023-11-07T08:40:37.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "久々にピクチャレに来たので記録更新しました"
+  },
+  {
+   "id": 17417,
+   "user": "StrongmanLin",
+   "score": 278,
+   "date": "2023-12-15T21:29:34.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/LfOK1sjhMW8",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17596,
+   "user": "Mokaygee",
+   "score": 278,
+   "date": "2024-02-14T16:51:38.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/tS7FnduVnAI?t=1003",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17606,
+   "user": "tcbtrio",
+   "score": 278,
+   "date": "2024-02-19T03:46:59.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/channel/UCzH4CaKknBxhtJkbjNxfC8w",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18388,
+   "user": "toripoppo0307",
+   "score": 273,
+   "date": "2025-02-01T06:14:26.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18889,
+   "user": "tori_rakko",
+   "score": 278,
+   "date": "2025-09-14T02:42:27.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19071,
+   "user": "pikitto",
+   "score": 278,
+   "date": "2025-12-28T22:48:12.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/wTgpXSPc6VU?si=ZeyWvxecoDIpmBCr",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19485,
+   "user": "kobachi_no_udon",
+   "score": 278,
+   "date": "2026-06-11T04:21:33.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/oWj7geZ0wHM",
+   "comment": "ゲーミングコガネモチ"
+  },
+  {
+   "id": 19628,
+   "user": "Mutou_p2pw",
+   "score": 278,
+   "date": "2026-06-29T02:24:08.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/VK2uZrIcu3o",
+   "comment": "チュートリアルおわり"
+  },
+  {
+   "id": 19815,
+   "user": "tpmorp_otm",
+   "score": 253,
+   "date": "2026-09-23T07:11:22.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

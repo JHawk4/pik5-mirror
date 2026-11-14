@@ -1,0 +1,51 @@
+{
+ "rule": 34,
+ "stage": 323,
+ "posts": [
+  {
+   "id": 4617,
+   "user": "koppacha",
+   "score": 1700,
+   "date": "2017-08-27T04:16:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11933,
+   "user": "Johnson",
+   "score": 4600,
+   "date": "2021-01-14T10:39:39.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/Z7yb1H2sFsg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14925,
+   "user": "kakkizu",
+   "score": 2990,
+   "date": "2022-08-16T20:32:27.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15061,
+   "user": "sozainoaji",
+   "score": 4660,
+   "date": "2022-09-15T04:03:43.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15655,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 5080,
+   "date": "2022-12-16T15:01:46.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "7:15は行けます。"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "rule": 34,
+ "stage": 333,
+ "posts": [
+  {
+   "id": 11944,
+   "user": "Johnson",
+   "score": 15210,
+   "date": "2021-01-14T10:52:55.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/6L2OahWs_Xk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15492,
+   "user": "sozainoaji",
+   "score": 15510,
+   "date": "2022-11-01T02:55:48.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16262,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 15690,
+   "date": "2023-07-14T02:22:07.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "かなり前に1秒だけ更新しました"
+  },
+  {
+   "id": 18729,
+   "user": "Jay596",
+   "score": 15810,
+   "date": "2025-09-03T14:49:59.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=NUUCdK4WD5A",
+   "comment": "コメントなし"
+  }
+ ]
+}

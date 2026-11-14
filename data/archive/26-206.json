@@ -1,0 +1,69 @@
+{
+ "rule": 26,
+ "stage": 206,
+ "posts": [
+  {
+   "id": 3919,
+   "user": "official",
+   "score": 9321,
+   "date": "2017-05-27T23:48:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 3952,
+   "user": "koppacha",
+   "score": 9345,
+   "date": "2017-05-28T07:09:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5380,
+   "user": "Selenium_pikmin",
+   "score": 9337,
+   "date": "2017-12-31T00:53:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第1回ピク杯"
+  },
+  {
+   "id": 6027,
+   "user": "albut3",
+   "score": 9349,
+   "date": "2018-03-14T23:17:21.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "押したけどムシ出ず"
+  },
+  {
+   "id": 6070,
+   "user": "TEL",
+   "score": 9335,
+   "date": "2018-03-21T02:28:27.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6519,
+   "user": "sectionmarilui",
+   "score": 9401,
+   "date": "2018-06-19T03:06:52.000000Z",
+   "console": 1,
+   "video": "http://www.nicovideo.jp/watch/sm33390604",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18396,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 9427,
+   "date": "2025-02-05T03:27:27.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/4p34R87GX98?si=2RUHEke7KKcwStqh",
+   "comment": "2テイク目で出ました"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "rule": 34,
+ "stage": 307,
+ "posts": [
+  {
+   "id": 4601,
+   "user": "koppacha",
+   "score": 5160,
+   "date": "2017-08-27T04:09:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11974,
+   "user": "Johnson",
+   "score": 10590,
+   "date": "2021-01-15T21:13:30.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/CmUcnaO9AgY",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12450,
+   "user": "tfgwmn",
+   "score": 11010,
+   "date": "2021-04-02T04:02:51.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=ZIQs8BYB9x4",
+   "comment": "やったー！"
+  },
+  {
+   "id": 14632,
+   "user": "esu",
+   "score": 12480,
+   "date": "2022-04-29T22:59:32.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "結構強い"
+  },
+  {
+   "id": 14919,
+   "user": "kakkizu",
+   "score": 8010,
+   "date": "2022-08-16T20:26:29.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15631,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 12510,
+   "date": "2022-12-06T23:44:07.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "途中ミスしました。"
+  },
+  {
+   "id": 16103,
+   "user": "sozainoaji",
+   "score": 11790,
+   "date": "2023-05-05T19:08:23.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

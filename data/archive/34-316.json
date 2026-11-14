@@ -1,0 +1,60 @@
+{
+ "rule": 34,
+ "stage": 316,
+ "posts": [
+  {
+   "id": 4610,
+   "user": "koppacha",
+   "score": 10760,
+   "date": "2017-08-27T04:13:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12219,
+   "user": "Johnson",
+   "score": 10280,
+   "date": "2021-02-18T15:38:07.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=Q0fyPLtjb3g",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13268,
+   "user": "kakkizu",
+   "score": 4250,
+   "date": "2021-10-17T15:49:56.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "しっかりやりました。"
+  },
+  {
+   "id": 14489,
+   "user": "sozainoaji",
+   "score": 11030,
+   "date": "2022-03-30T03:55:34.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14779,
+   "user": "ice_cube171",
+   "score": 11330,
+   "date": "2022-06-26T11:49:15.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/rt5bs3-H2vg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15643,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 11570,
+   "date": "2022-12-13T00:07:58.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "…"
+  }
+ ]
+}

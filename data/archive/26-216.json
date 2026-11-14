@@ -1,0 +1,60 @@
+{
+ "rule": 26,
+ "stage": 216,
+ "posts": [
+  {
+   "id": 3929,
+   "user": "official",
+   "score": 5962,
+   "date": "2017-05-27T23:53:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 3961,
+   "user": "koppacha",
+   "score": 5967,
+   "date": "2017-05-28T07:14:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4244,
+   "user": "albut3",
+   "score": 5981,
+   "date": "2017-06-22T08:23:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=to9iRUAMzFE",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5390,
+   "user": "HoshiKUZU_pik",
+   "score": 5975,
+   "date": "2017-12-31T01:54:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第1回ピク杯"
+  },
+  {
+   "id": 6080,
+   "user": "muratsubo",
+   "score": 5971,
+   "date": "2018-03-21T02:34:32.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6199,
+   "user": "sectionmarilui",
+   "score": 5990,
+   "date": "2018-04-21T07:28:10.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "画面小さくて難しい(そして運ゲー)"
+  }
+ ]
+}

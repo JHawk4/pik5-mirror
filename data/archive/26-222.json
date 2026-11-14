@@ -1,0 +1,60 @@
+{
+ "rule": 26,
+ "stage": 222,
+ "posts": [
+  {
+   "id": 3935,
+   "user": "official",
+   "score": 14380,
+   "date": "2017-05-27T23:56:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 4020,
+   "user": "koppacha",
+   "score": 14402,
+   "date": "2017-06-02T05:44:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4247,
+   "user": "albut3",
+   "score": 14426,
+   "date": "2017-06-22T08:30:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=KG7KwFc64qY",
+   "comment": "まだいけそうだけど"
+  },
+  {
+   "id": 5396,
+   "user": "HoshiKUZU_pik",
+   "score": 14397,
+   "date": "2017-12-31T02:36:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第1回ピク杯"
+  },
+  {
+   "id": 6085,
+   "user": "muratsubo",
+   "score": 14411,
+   "date": "2018-03-21T02:37:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6197,
+   "user": "sectionmarilui",
+   "score": 14427,
+   "date": "2018-04-21T07:23:15.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

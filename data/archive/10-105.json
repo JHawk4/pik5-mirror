@@ -1,0 +1,330 @@
+{
+ "rule": 10,
+ "stage": 105,
+ "posts": [
+  {
+   "id": 5,
+   "user": "koppacha",
+   "score": 233,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ヘビガラス戦と２０ペレットが間に合わず。でも比較的頑張った方です。"
+  },
+  {
+   "id": 80,
+   "user": "akapiku",
+   "score": 224,
+   "date": "2007-05-18T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まだいけそうかな？"
+  },
+  {
+   "id": 94,
+   "user": "shinya_",
+   "score": 239,
+   "date": "2008-03-09T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ヘビガラスのことがあって運次第。"
+  },
+  {
+   "id": 122,
+   "user": "piichiboy",
+   "score": 246,
+   "date": "2008-09-02T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "きっと全て取れば270は超えるはず・・・"
+  },
+  {
+   "id": 143,
+   "user": "koganeorima",
+   "score": 218,
+   "date": "2008-10-26T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "僕にとっては限界かも・・・"
+  },
+  {
+   "id": 164,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 234,
+   "date": "2009-07-03T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ダマグモ・・・"
+  },
+  {
+   "id": 223,
+   "user": "tororo",
+   "score": 276,
+   "date": "2013-04-18T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "青20未回収、ダマグモで死亡３。ヘビガラスの出現パターンによってどれだけ時間に余裕ができるかが変わる"
+  },
+  {
+   "id": 483,
+   "user": "HAPDAP",
+   "score": 254,
+   "date": "2015-07-15T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "+9。ヘビガラス無視。青20付近の赤10がものすごく重要な気がする"
+  },
+  {
+   "id": 963,
+   "user": "noamoa",
+   "score": 299,
+   "date": "2015-11-07T03:52:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "全回収+無犠牲"
+  },
+  {
+   "id": 978,
+   "user": "muratsubo",
+   "score": 252,
+   "date": "2015-11-07T04:28:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1402,
+   "user": "iid01",
+   "score": 299,
+   "date": "2016-01-26T01:16:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=p2BH6T8HOuE",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1827,
+   "user": "muratsubo",
+   "score": 299,
+   "date": "2016-03-20T18:47:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "（＊`・∀・´＊）"
+  },
+  {
+   "id": 2374,
+   "user": "HoshiKUZU_pik",
+   "score": 299,
+   "date": "2016-09-22T04:10:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ボスがいるけど、個人的には他と比べればやりやすいステージ"
+  },
+  {
+   "id": 2579,
+   "user": "Gorei_50",
+   "score": 299,
+   "date": "2016-12-27T05:15:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2844,
+   "user": "U3",
+   "score": 299,
+   "date": "2017-01-26T00:25:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3773,
+   "user": "HAPDAP",
+   "score": 297,
+   "date": "2017-05-15T19:38:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ヘビガラスに2匹食われた…！"
+  },
+  {
+   "id": 3842,
+   "user": "yuibitchi",
+   "score": 299,
+   "date": "2017-05-19T08:42:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5175,
+   "user": "sunadorineko",
+   "score": 258,
+   "date": "2017-11-28T00:30:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5896,
+   "user": "Z_pikmin",
+   "score": 299,
+   "date": "2018-02-27T00:43:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ヌルゲー"
+  },
+  {
+   "id": 8705,
+   "user": "alpha_0630",
+   "score": 299,
+   "date": "2020-06-29T03:13:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11302,
+   "user": "PiePusher11",
+   "score": 299,
+   "date": "2020-11-18T11:51:01.000000Z",
+   "console": 1,
+   "video": "https://www.twitch.tv/videos/46497084",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11585,
+   "user": "messhi475",
+   "score": 243,
+   "date": "2020-12-04T17:38:36.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "昔から、ヘビガラスは無視していました。"
+  },
+  {
+   "id": 14440,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 299,
+   "date": "2022-03-21T14:54:48.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/Gms2WRbXhuQ",
+   "comment": "理論値です。"
+  },
+  {
+   "id": 14774,
+   "user": "atmy_17",
+   "score": 299,
+   "date": "2022-06-22T17:36:24.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/-M2S2g8_kFA",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15094,
+   "user": "riserise",
+   "score": 299,
+   "date": "2022-09-19T21:26:45.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/808NG8_1Ha4",
+   "comment": "初理論値出たー！"
+  },
+  {
+   "id": 15539,
+   "user": "albut3",
+   "score": 299,
+   "date": "2022-11-19T11:56:44.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=E3xzDeRXVlw&ab_channel=albut3pik",
+   "comment": "気が向いたら効率化する"
+  },
+  {
+   "id": 16659,
+   "user": "cesium137",
+   "score": 299,
+   "date": "2023-08-11T07:17:53.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/m3X5zMU0MjU",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17125,
+   "user": "JHawk4",
+   "score": 299,
+   "date": "2023-10-19T03:07:07.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17219,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 273,
+   "date": "2023-11-07T08:43:22.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "久々にピクチャレに来たので記録更新しました"
+  },
+  {
+   "id": 17348,
+   "user": "toripoppo0307",
+   "score": 299,
+   "date": "2023-12-01T23:16:52.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/-QvEfeTB1NM",
+   "comment": "いろいろガバい"
+  },
+  {
+   "id": 17421,
+   "user": "StrongmanLin",
+   "score": 299,
+   "date": "2023-12-15T21:32:05.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/jUPHhma-QN4",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17575,
+   "user": "Mokaygee",
+   "score": 299,
+   "date": "2024-02-06T04:37:41.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18892,
+   "user": "tori_rakko",
+   "score": 299,
+   "date": "2025-09-14T02:43:53.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19099,
+   "user": "pikitto",
+   "score": 299,
+   "date": "2026-01-07T18:50:17.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19489,
+   "user": "kobachi_no_udon",
+   "score": 299,
+   "date": "2026-06-11T04:26:39.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/8HPLZbZ1QoQ",
+   "comment": "ダマグモに苦戦した"
+  },
+  {
+   "id": 19744,
+   "user": "Mutou_p2pw",
+   "score": 299,
+   "date": "2026-08-21T05:52:11.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/hqVD5ubqlUI",
+   "comment": "大水源に10回誤入場"
+  }
+ ]
+}

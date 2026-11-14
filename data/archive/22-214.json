@@ -1,0 +1,645 @@
+{
+ "rule": 22,
+ "stage": 214,
+ "posts": [
+  {
+   "id": 49,
+   "user": "official",
+   "score": 18303,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 73,
+   "user": "kurage",
+   "score": 18251,
+   "date": "2007-05-14T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "100匹でショイグモ全部倒したキショイグモに何度もやられた（笑"
+  },
+  {
+   "id": 114,
+   "user": "chouhougekinamashindamagumokyanon",
+   "score": 18302,
+   "date": "2008-08-15T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "このコースをやっていて、ショイグモは色ごとに耐久力も異なるということに気づいた。"
+  },
+  {
+   "id": 200,
+   "user": "shinya_",
+   "score": 18290,
+   "date": "2012-09-21T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "キショイグモは赤では危ないですからね…。赤は散ってる結果でようやくこれです。"
+  },
+  {
+   "id": 231,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 18291,
+   "date": "2013-05-02T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録強し…"
+  },
+  {
+   "id": 245,
+   "user": "chappy4321",
+   "score": 18299,
+   "date": "2013-06-30T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "どうしても一位にはなれません…"
+  },
+  {
+   "id": 437,
+   "user": "DRAFIX",
+   "score": 18315,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "やり込むうちに大好きになってしまいました。嫁ステージ。"
+  },
+  {
+   "id": 603,
+   "user": "FeTellYou",
+   "score": 18330,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 721,
+   "user": "Selenium_pikmin",
+   "score": 18323,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 910,
+   "user": "xxHIMExx",
+   "score": 18281,
+   "date": "2015-11-06T04:42:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1098,
+   "user": "maramon",
+   "score": 18320,
+   "date": "2015-11-09T05:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1957,
+   "user": "ZEOKU",
+   "score": 18323,
+   "date": "2016-04-06T16:52:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1976,
+   "user": "muratsubo",
+   "score": 18326,
+   "date": "2016-04-09T08:11:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2015,
+   "user": "noamoa",
+   "score": 18342,
+   "date": "2016-04-18T02:41:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "まだ更新の余地有り。GCだと厳しい"
+  },
+  {
+   "id": 2409,
+   "user": "miran",
+   "score": 18325,
+   "date": "2016-11-05T06:11:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ムラサキ死すべし慈悲はない"
+  },
+  {
+   "id": 2458,
+   "user": "mezasi_pikmin",
+   "score": 18310,
+   "date": "2016-11-19T05:32:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "歴史に残るクソゲー"
+  },
+  {
+   "id": 2551,
+   "user": "koppacha",
+   "score": 18327,
+   "date": "2016-12-25T06:57:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3556,
+   "user": "U3",
+   "score": 18326,
+   "date": "2017-04-22T19:56:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1ヶ月ピクミン触らないまま終わりそうだった"
+  },
+  {
+   "id": 4350,
+   "user": "sectionmarilui",
+   "score": 18340,
+   "date": "2017-07-05T11:46:00.000000Z",
+   "console": 1,
+   "video": "http://www.nicovideo.jp/watch/sm31519567",
+   "comment": "こっから先は何かに覚醒した人外のみが踏み入れる領域っぽい"
+  },
+  {
+   "id": 4546,
+   "user": "areiku",
+   "score": 18306,
+   "date": "2017-08-13T06:06:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4795,
+   "user": "imedin0813",
+   "score": 18307,
+   "date": "2017-09-18T06:50:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "謎の落下死。"
+  },
+  {
+   "id": 5056,
+   "user": "keisen2853",
+   "score": 18337,
+   "date": "2017-10-26T08:27:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "リハビリ"
+  },
+  {
+   "id": 5066,
+   "user": "pikmin893",
+   "score": 18334,
+   "date": "2017-10-28T03:40:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5476,
+   "user": "yuibitchi",
+   "score": 18312,
+   "date": "2018-01-04T09:23:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5607,
+   "user": "Z_pikmin",
+   "score": 18341,
+   "date": "2018-01-10T06:13:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "つらい"
+  },
+  {
+   "id": 5849,
+   "user": "iid01",
+   "score": 18344,
+   "date": "2018-02-18T15:44:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=nMdPhALbJwk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6050,
+   "user": "TEL",
+   "score": 18323,
+   "date": "2018-03-16T05:42:24.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6053,
+   "user": "HoshiKUZU_pik",
+   "score": 18345,
+   "date": "2018-03-16T21:12:03.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=f_PFjqp9t5E",
+   "comment": "wii勢の方々、あとは任せます"
+  },
+  {
+   "id": 6106,
+   "user": "PKtoyama",
+   "score": 18339,
+   "date": "2018-03-25T06:26:46.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "慣れてきたなあ"
+  },
+  {
+   "id": 6379,
+   "user": "C4_child35",
+   "score": 18288,
+   "date": "2018-05-22T09:39:17.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6560,
+   "user": "HAPDAP",
+   "score": 18315,
+   "date": "2018-06-25T16:15:35.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "95残し　適当でも更新できるもんだな…"
+  },
+  {
+   "id": 6650,
+   "user": "flyinghawk",
+   "score": 18342,
+   "date": "2018-07-23T22:05:42.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "よく分からん"
+  },
+  {
+   "id": 6922,
+   "user": "ikimono334",
+   "score": 18335,
+   "date": "2018-09-26T02:38:33.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "苦手"
+  },
+  {
+   "id": 7568,
+   "user": "enagem_akakuy",
+   "score": 18304,
+   "date": "2019-05-25T20:30:13.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8035,
+   "user": "fuji_luck",
+   "score": 18338,
+   "date": "2019-09-19T07:23:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "毒を1回だけ吐かれた"
+  },
+  {
+   "id": 8217,
+   "user": "ToolAssistedPik",
+   "score": 18326,
+   "date": "2020-01-25T21:29:49.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "これ以上は伸ばせそうにないです。ぐぬぬ…"
+  },
+  {
+   "id": 8307,
+   "user": "Tizimi77777",
+   "score": 18321,
+   "date": "2020-03-12T02:58:48.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8590,
+   "user": "dayomin",
+   "score": 18320,
+   "date": "2020-06-15T06:34:17.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8692,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 18324,
+   "date": "2020-06-27T00:19:42.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/OzOGEi9Mk2A",
+   "comment": "粘りに粘ったら一気に7更新したけどめっさきつい"
+  },
+  {
+   "id": 8784,
+   "user": "alpha_0630",
+   "score": 18320,
+   "date": "2020-07-10T21:03:19.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8821,
+   "user": "zukki",
+   "score": 18328,
+   "date": "2020-07-15T21:22:58.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ちょっと伸び"
+  },
+  {
+   "id": 10606,
+   "user": "nikoshu_pik",
+   "score": 18333,
+   "date": "2020-09-27T06:54:27.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=vew6kpk__dY",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10707,
+   "user": "ryuun",
+   "score": 18330,
+   "date": "2020-10-10T22:55:22.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/SAmn7RVpNPI",
+   "comment": "連打苦手民にとってはなかなか辛かった"
+  },
+  {
+   "id": 11246,
+   "user": "pik_Agnyan",
+   "score": 18331,
+   "date": "2020-11-16T15:53:43.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=4TZEgP0PjBQ&t=3056s",
+   "comment": "新コントローラーの力か。"
+  },
+  {
+   "id": 11515,
+   "user": "messhi475",
+   "score": 18280,
+   "date": "2020-12-01T02:28:05.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 11567,
+   "user": "Spidman",
+   "score": 18307,
+   "date": "2020-12-03T22:46:42.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12424,
+   "user": "shiocha78",
+   "score": 18331,
+   "date": "2021-03-25T00:25:58.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=pHHyrgA7fFs",
+   "comment": "やっぱ上位は強いなぁ"
+  },
+  {
+   "id": 12502,
+   "user": "hyogakibokaro",
+   "score": 18285,
+   "date": "2021-04-20T17:33:21.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "体力2倍のショイグモ厄介。。"
+  },
+  {
+   "id": 12986,
+   "user": "yuyuyunkel",
+   "score": 18340,
+   "date": "2021-08-09T09:21:59.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/-pIVo_8qv5A",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13176,
+   "user": "nakatatsu",
+   "score": 18325,
+   "date": "2021-09-27T04:49:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "日を置いてやったら一発目でいけた"
+  },
+  {
+   "id": 13381,
+   "user": "makalogue",
+   "score": 18331,
+   "date": "2021-11-03T20:35:42.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=CDMtCKpBgXM",
+   "comment": "タイム111"
+  },
+  {
+   "id": 13841,
+   "user": "toripoppo0307",
+   "score": 18320,
+   "date": "2021-11-08T01:48:34.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ピクミン仕事しろ"
+  },
+  {
+   "id": 13868,
+   "user": "April_lapispik",
+   "score": 18326,
+   "date": "2021-11-09T21:13:50.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/SOMs4DeoS-s",
+   "comment": "大変だった　動画は解説つきです"
+  },
+  {
+   "id": 14284,
+   "user": "mercysnow",
+   "score": 18352,
+   "date": "2022-02-28T11:02:41.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/O8vM6cjhLk0",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14827,
+   "user": "samuraitamashi",
+   "score": 18334,
+   "date": "2022-07-25T17:40:17.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "今更ですが初投稿です。得意コースなので"
+  },
+  {
+   "id": 14866,
+   "user": "eruvoore",
+   "score": 18304,
+   "date": "2022-08-07T07:39:22.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15415,
+   "user": "mikou_musicgame",
+   "score": 18338,
+   "date": "2022-10-13T03:16:12.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16069,
+   "user": "yukidaruma",
+   "score": 18342,
+   "date": "2023-04-22T10:36:26.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/ACA9Tz6HSN4",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16357,
+   "user": "riserise",
+   "score": 18321,
+   "date": "2023-07-30T07:41:22.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17717,
+   "user": "spark573",
+   "score": 18348,
+   "date": "2024-04-14T04:40:33.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/TBBMbmcMCgs?si=AA-zQQengk7TQJMH",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17741,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 18349,
+   "date": "2024-04-26T03:57:53.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/iB90FSB_Hls?si=IAay3aceJ78_tfg-",
+   "comment": "ひとまず満足です"
+  },
+  {
+   "id": 17877,
+   "user": "6harapikumin",
+   "score": 18310,
+   "date": "2024-05-31T09:20:35.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18001,
+   "user": "kobachi_no_udon",
+   "score": 18352,
+   "date": "2024-07-14T03:25:27.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/fnUY-QjmL1c",
+   "comment": "今、流行りと噂の右回り"
+  },
+  {
+   "id": 18036,
+   "user": "atmy_17",
+   "score": 18340,
+   "date": "2024-07-30T09:33:28.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18733,
+   "user": "Argent2home",
+   "score": 18341,
+   "date": "2025-09-05T21:53:18.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "switch2ロード早すぎ"
+  },
+  {
+   "id": 18924,
+   "user": "albut3",
+   "score": 18355,
+   "date": "2025-10-05T07:45:11.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=5IuIuVIKY9w",
+   "comment": "卒ショイ"
+  },
+  {
+   "id": 19387,
+   "user": "pikitto",
+   "score": 18332,
+   "date": "2026-04-23T19:38:49.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19401,
+   "user": "Mutou_p2pw",
+   "score": 18338,
+   "date": "2026-04-30T22:54:09.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/IyvJnD_6MlY",
+   "comment": "2回持たれた"
+  },
+  {
+   "id": 19413,
+   "user": "KSK_yukaripik",
+   "score": 18339,
+   "date": "2026-05-17T05:20:59.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "いきなり伸びた"
+  },
+  {
+   "id": 19747,
+   "user": "Gorei_50",
+   "score": 18351,
+   "date": "2026-08-22T12:02:11.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/5gIk47ddHmM",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19828,
+   "user": "tpmorp_otm",
+   "score": 18291,
+   "date": "2026-09-29T07:29:38.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

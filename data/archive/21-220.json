@@ -1,0 +1,645 @@
+{
+ "rule": 21,
+ "stage": 220,
+ "posts": [
+  {
+   "id": 55,
+   "user": "official",
+   "score": 15353,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 86,
+   "user": "chounenryoudainamo",
+   "score": 15349,
+   "date": "2007-08-05T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "白の花が１個しかなかった。"
+  },
+  {
+   "id": 88,
+   "user": "chappi-pikumin",
+   "score": 15349,
+   "date": "2007-08-11T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "調子がよければケメクジ速攻"
+  },
+  {
+   "id": 115,
+   "user": "chouhougekinamashindamagumokyanon",
+   "score": 15385,
+   "date": "2008-08-15T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "シャコモドキがなぜか好きになれない。"
+  },
+  {
+   "id": 160,
+   "user": "akisame",
+   "score": 15385,
+   "date": "2009-04-03T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "自己記録更新ッ！いやー頑張りました。"
+  },
+  {
+   "id": 173,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 15383,
+   "date": "2010-01-22T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "実際トイレにこんなやついたら・・・"
+  },
+  {
+   "id": 203,
+   "user": "shinya_",
+   "score": 15413,
+   "date": "2012-10-10T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "時間が２１３残ったと思います。やっぱ配置によりますね。"
+  },
+  {
+   "id": 207,
+   "user": "koganeorima",
+   "score": 15393,
+   "date": "2012-10-27T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1Fの配置によって記録がかなり変わりますね。"
+  },
+  {
+   "id": 443,
+   "user": "DRAFIX",
+   "score": 15403,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "「あのひとの庭」といい「鉄人の穴」といい、青のみのステージはお宝が重いですね。青ピクミン可哀想。"
+  },
+  {
+   "id": 727,
+   "user": "Selenium_pikmin",
+   "score": 15440,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 915,
+   "user": "xxHIMExx",
+   "score": 15375,
+   "date": "2015-11-06T04:44:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1104,
+   "user": "maramon",
+   "score": 15428,
+   "date": "2015-11-09T05:02:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1280,
+   "user": "FeTellYou",
+   "score": 15440,
+   "date": "2015-11-15T00:28:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシ6匹"
+  },
+  {
+   "id": 2197,
+   "user": "noamoa",
+   "score": 15480,
+   "date": "2016-06-10T03:05:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "タマゴムシ8匹"
+  },
+  {
+   "id": 3120,
+   "user": "miran",
+   "score": 15426,
+   "date": "2017-03-01T20:49:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴ無しではここが限界レベル"
+  },
+  {
+   "id": 3221,
+   "user": "ZEOKU",
+   "score": 15482,
+   "date": "2017-03-14T22:37:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "けものフレンズ見てたら２５分で記録でました"
+  },
+  {
+   "id": 3337,
+   "user": "mezasi_pikmin",
+   "score": 15416,
+   "date": "2017-03-28T08:20:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "といれフレンズ"
+  },
+  {
+   "id": 3340,
+   "user": "muratsubo",
+   "score": 15443,
+   "date": "2017-03-28T22:48:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "はじめて1Fで140残った"
+  },
+  {
+   "id": 4592,
+   "user": "sectionmarilui",
+   "score": 15476,
+   "date": "2017-08-26T20:20:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "なんで宝が全部微妙に遠い時にタマゴミムシ出るの？"
+  },
+  {
+   "id": 4737,
+   "user": "agosuke",
+   "score": 15347,
+   "date": "2017-09-08T05:38:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4904,
+   "user": "imedin0813",
+   "score": 15386,
+   "date": "2017-10-05T07:23:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "少しだけ更新"
+  },
+  {
+   "id": 5491,
+   "user": "yuibitchi",
+   "score": 15389,
+   "date": "2018-01-04T20:35:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5671,
+   "user": "Z_pikmin",
+   "score": 15492,
+   "date": "2018-01-24T22:09:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5723,
+   "user": "pikmin893",
+   "score": 15496,
+   "date": "2018-02-02T15:37:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "寄せて8匹はザコ"
+  },
+  {
+   "id": 5855,
+   "user": "iid01",
+   "score": 15513,
+   "date": "2018-02-18T16:00:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=ndfUZzz_Qts",
+   "comment": "10匹、タイム109+104"
+  },
+  {
+   "id": 6347,
+   "user": "flyinghawk",
+   "score": 15491,
+   "date": "2018-05-19T06:38:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "あんまり配置良くない"
+  },
+  {
+   "id": 6438,
+   "user": "pik_Agnyan",
+   "score": 15469,
+   "date": "2018-06-05T10:14:50.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "長かった、本当に。"
+  },
+  {
+   "id": 6500,
+   "user": "PKtoyama",
+   "score": 15437,
+   "date": "2018-06-18T08:42:13.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6625,
+   "user": "HAPDAP",
+   "score": 15409,
+   "date": "2018-07-13T18:35:18.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "209残し、配置は良かったが白花が1個はつらい"
+  },
+  {
+   "id": 6636,
+   "user": "garapagosu",
+   "score": 15393,
+   "date": "2018-07-18T13:06:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6902,
+   "user": "ikimono334",
+   "score": 15466,
+   "date": "2018-09-19T18:46:54.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "またもやくそ配置"
+  },
+  {
+   "id": 6957,
+   "user": "TEL",
+   "score": 15456,
+   "date": "2018-10-12T04:40:06.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "7匹"
+  },
+  {
+   "id": 7284,
+   "user": "HoshiKUZU_pik",
+   "score": 15516,
+   "date": "2019-02-21T00:32:17.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "詰めが甘かった"
+  },
+  {
+   "id": 7436,
+   "user": "toripoppo0307",
+   "score": 15434,
+   "date": "2019-04-25T02:08:54.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "超クソ配置9匹バグ死1、出したのは2018-10-5"
+  },
+  {
+   "id": 7562,
+   "user": "shiocha78",
+   "score": 15438,
+   "date": "2019-05-25T03:32:49.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7968,
+   "user": "ToolAssistedPik",
+   "score": 15493,
+   "date": "2019-08-04T06:32:07.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ちょっと微妙な配置であきらめかけてた時に、タマゴから出てきた。"
+  },
+  {
+   "id": 8126,
+   "user": "enagem_akakuy",
+   "score": 15401,
+   "date": "2019-12-22T01:27:21.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8315,
+   "user": "Tizimi77777",
+   "score": 15413,
+   "date": "2020-03-15T02:35:20.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8756,
+   "user": "dayomin",
+   "score": 15428,
+   "date": "2020-07-05T05:55:22.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8759,
+   "user": "shiragawatanuki",
+   "score": 15441,
+   "date": "2020-07-06T21:00:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ムシ×７　タマゴ２個引いてこの記録だよ！"
+  },
+  {
+   "id": 8780,
+   "user": "zukki",
+   "score": 15431,
+   "date": "2020-07-10T19:18:49.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "たまご見たことない"
+  },
+  {
+   "id": 8839,
+   "user": "fuji_luck",
+   "score": 15505,
+   "date": "2020-07-20T06:54:15.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "5月30日。9匹。104+111"
+  },
+  {
+   "id": 9728,
+   "user": "mikou_musicgame",
+   "score": 15479,
+   "date": "2020-08-11T05:09:29.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ムシ8"
+  },
+  {
+   "id": 9731,
+   "user": "keisen2853",
+   "score": 15565,
+   "date": "2020-08-11T08:47:11.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=UDXBhT7NBQo",
+   "comment": "想定外のムシ17匹"
+  },
+  {
+   "id": 10613,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 15412,
+   "date": "2020-09-27T20:09:54.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/UZG78oCh_w4",
+   "comment": "タマゴ0"
+  },
+  {
+   "id": 10631,
+   "user": "nikoshu_pik",
+   "score": 15481,
+   "date": "2020-09-30T02:30:57.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "1セット8匹"
+  },
+  {
+   "id": 10773,
+   "user": "ryuun",
+   "score": 15431,
+   "date": "2020-10-15T03:57:07.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/XX8txfGxy7Q",
+   "comment": "なかなか満足いくプレイングが出来ないでいる"
+  },
+  {
+   "id": 11530,
+   "user": "messhi475",
+   "score": 15401,
+   "date": "2020-12-02T00:33:45.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 12085,
+   "user": "nakatatsu",
+   "score": 15438,
+   "date": "2021-01-27T01:07:40.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "なんと3回目で出せた(タマゴなし)"
+  },
+  {
+   "id": 12530,
+   "user": "hyogakibokaro",
+   "score": 15405,
+   "date": "2021-04-23T20:04:40.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "オオマンマングダった"
+  },
+  {
+   "id": 12859,
+   "user": "mercysnow",
+   "score": 15532,
+   "date": "2021-07-02T06:23:05.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/SEgU9Qt_JXc",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12866,
+   "user": "yuyuyunkel",
+   "score": 15492,
+   "date": "2021-07-07T08:55:38.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13127,
+   "user": "April_lapispik",
+   "score": 15426,
+   "date": "2021-09-14T02:59:07.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ムシなし"
+  },
+  {
+   "id": 13386,
+   "user": "makalogue",
+   "score": 15472,
+   "date": "2021-11-03T20:50:51.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=lmt-NcjGJcI",
+   "comment": "ムシ1セット9匹、タイム82→182"
+  },
+  {
+   "id": 14075,
+   "user": "yukidaruma",
+   "score": 15506,
+   "date": "2021-12-17T05:33:39.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/jATHDL61YW4",
+   "comment": "ムシ10"
+  },
+  {
+   "id": 14549,
+   "user": "Curtis",
+   "score": 15459,
+   "date": "2022-04-11T15:17:03.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/Bi8K7SEHbCg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14790,
+   "user": "spark573",
+   "score": 15508,
+   "date": "2022-07-05T06:00:23.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/OXH-Yss7BhA",
+   "comment": "9匹　おさんぽタマゴムシに気を取られた"
+  },
+  {
+   "id": 14872,
+   "user": "eruvoore",
+   "score": 15395,
+   "date": "2022-08-07T07:41:32.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15906,
+   "user": "atmy_17",
+   "score": 15483,
+   "date": "2023-03-06T01:09:07.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ムシ狩りミス"
+  },
+  {
+   "id": 16064,
+   "user": "PiePusher11",
+   "score": 15419,
+   "date": "2023-04-16T17:30:35.000000Z",
+   "console": 1,
+   "video": "https://www.twitch.tv/videos/1795920684",
+   "comment": "no mitite"
+  },
+  {
+   "id": 16316,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 15566,
+   "date": "2023-07-30T01:04:24.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "1セット目が7しか倒せなかったから2セット目が出たと思うことにします…"
+  },
+  {
+   "id": 16356,
+   "user": "riserise",
+   "score": 15465,
+   "date": "2023-07-30T07:33:36.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17534,
+   "user": "kobachi_no_udon",
+   "score": 15543,
+   "date": "2024-01-15T00:25:48.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/nkOtv_n1WlQ",
+   "comment": "とても良い地形でムシ出た！"
+  },
+  {
+   "id": 17661,
+   "user": "albut3",
+   "score": 15524,
+   "date": "2024-03-25T04:01:20.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=tXn9v2YNGmE",
+   "comment": "あと15点ぐらいは出る配置ですよね？？"
+  },
+  {
+   "id": 17884,
+   "user": "6harapikumin",
+   "score": 15395,
+   "date": "2024-06-02T14:11:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18405,
+   "user": "alpha_0630",
+   "score": 15475,
+   "date": "2025-02-10T17:32:43.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/f90I9HqgGyM",
+   "comment": "8匹　タイムはクソ"
+  },
+  {
+   "id": 18495,
+   "user": "Gorei_50",
+   "score": 15599,
+   "date": "2025-05-31T06:23:48.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/u6mByieen3k",
+   "comment": "偉いとこ20討伐だけ"
+  },
+  {
+   "id": 19158,
+   "user": "koppacha",
+   "score": 15460,
+   "date": "2026-01-17T08:00:58.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/sjFF6AF3vOY",
+   "comment": "3wayレイドバトルにて。このステージやっぱり闇が深い"
+  },
+  {
+   "id": 19276,
+   "user": "pikitto",
+   "score": 15444,
+   "date": "2026-02-27T06:44:15.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/Xy2defMzx-E",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19343,
+   "user": "Mutou_p2pw",
+   "score": 15460,
+   "date": "2026-04-02T22:37:59.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/bpGXyvgTXnQ",
+   "comment": "ムシ8だけど配置悪い、トテツチ下手。埋まり悪い"
+  },
+  {
+   "id": 19427,
+   "user": "Argent2home",
+   "score": 15523,
+   "date": "2026-05-24T03:34:59.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/_FgpCPWvlf4",
+   "comment": "RTA中に出ると非常に効率の悪いムーブになるステージ"
+  }
+ ]
+}

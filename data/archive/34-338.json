@@ -1,0 +1,33 @@
+{
+ "rule": 34,
+ "stage": 338,
+ "posts": [
+  {
+   "id": 12220,
+   "user": "Johnson",
+   "score": 520,
+   "date": "2021-02-18T15:40:53.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=Ez6NUOjNAOU",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14296,
+   "user": "sozainoaji",
+   "score": 518,
+   "date": "2022-03-05T22:24:07.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15679,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 558,
+   "date": "2022-12-23T00:25:49.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "前回の記録が低すぎたので新ルートで大幅更新しました。"
+  }
+ ]
+}

@@ -1,0 +1,555 @@
+{
+ "rule": 21,
+ "stage": 229,
+ "posts": [
+  {
+   "id": 64,
+   "user": "official",
+   "score": 33078,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 82,
+   "user": "chouhougekinamashindamagumokyanon",
+   "score": 33073,
+   "date": "2007-07-07T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "お宝や生物が大量に運ばれる様子はまるでパレードにも見える。と思う。"
+  },
+  {
+   "id": 212,
+   "user": "shinya_",
+   "score": 33179,
+   "date": "2012-11-01T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシが出ました。出ない相当の点数でも高いのでしょうか。"
+  },
+  {
+   "id": 237,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 33036,
+   "date": "2013-05-02T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "バケツの上のタマコキン"
+  },
+  {
+   "id": 452,
+   "user": "DRAFIX",
+   "score": 33180,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシあり。言いたい事が多すぎて困りますが、とにかく難関です。"
+  },
+  {
+   "id": 618,
+   "user": "FeTellYou",
+   "score": 33213,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 736,
+   "user": "Selenium_pikmin",
+   "score": 33198,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 924,
+   "user": "xxHIMExx",
+   "score": 33028,
+   "date": "2015-11-06T04:47:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1113,
+   "user": "maramon",
+   "score": 33110,
+   "date": "2015-11-09T05:04:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1601,
+   "user": "ZEOKU",
+   "score": 33211,
+   "date": "2016-03-04T23:37:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1800,
+   "user": "HoshiKUZU_pik",
+   "score": 33211,
+   "date": "2016-03-15T02:37:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2395,
+   "user": "mezasi_pikmin",
+   "score": 33198,
+   "date": "2016-10-15T22:31:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "妥協しないと沼になる"
+  },
+  {
+   "id": 2443,
+   "user": "muratsubo",
+   "score": 33179,
+   "date": "2016-11-14T05:25:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2570,
+   "user": "PKtoyama",
+   "score": 33200,
+   "date": "2016-12-26T22:43:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "疲れた"
+  },
+  {
+   "id": 2907,
+   "user": "miran",
+   "score": 33196,
+   "date": "2017-02-08T00:18:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "200台に乗せたい人生だった"
+  },
+  {
+   "id": 3352,
+   "user": "flyinghawk",
+   "score": 33294,
+   "date": "2017-03-30T20:22:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "謝るしかない"
+  },
+  {
+   "id": 4202,
+   "user": "keisen2853",
+   "score": 33247,
+   "date": "2017-06-18T09:09:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "もうやることなさそう"
+  },
+  {
+   "id": 4236,
+   "user": "pikmin893",
+   "score": 33241,
+   "date": "2017-06-22T02:35:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "わりとクソみたいな配置だった気がするけど"
+  },
+  {
+   "id": 4679,
+   "user": "koppacha",
+   "score": 33223,
+   "date": "2017-09-02T21:16:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2バケツ1セット"
+  },
+  {
+   "id": 4741,
+   "user": "agosuke",
+   "score": 33065,
+   "date": "2017-09-08T06:38:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5744,
+   "user": "yuibitchi",
+   "score": 33098,
+   "date": "2018-02-04T23:54:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5858,
+   "user": "iid01",
+   "score": 33263,
+   "date": "2018-02-18T16:03:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6299,
+   "user": "dayomin",
+   "score": 33215,
+   "date": "2018-05-13T02:56:17.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "新チャレ挑戦中のタマゴムシ10匹"
+  },
+  {
+   "id": 6492,
+   "user": "TEL",
+   "score": 33270,
+   "date": "2018-06-18T03:59:31.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ダレカタスケテクレ・・・"
+  },
+  {
+   "id": 6530,
+   "user": "HAPDAP",
+   "score": 33139,
+   "date": "2018-06-20T21:55:21.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "虫　が　出　て　こ　れ"
+  },
+  {
+   "id": 6647,
+   "user": "ikimono334",
+   "score": 33247,
+   "date": "2018-07-23T00:10:35.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "少しだけ更新"
+  },
+  {
+   "id": 6700,
+   "user": "noamoa",
+   "score": 33241,
+   "date": "2018-08-11T19:47:04.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "タマコキンで10カウントぐらいロス"
+  },
+  {
+   "id": 6870,
+   "user": "sectionmarilui",
+   "score": 33257,
+   "date": "2018-09-13T00:06:12.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ダイナミック気の迷い♡"
+  },
+  {
+   "id": 6956,
+   "user": "Z_pikmin",
+   "score": 33248,
+   "date": "2018-10-11T01:02:52.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "間欠泉をたたくピクミンを信じていられれば250もあった"
+  },
+  {
+   "id": 7648,
+   "user": "Tizimi77777",
+   "score": 33102,
+   "date": "2019-08-01T07:27:40.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8047,
+   "user": "enagem_akakuy",
+   "score": 33090,
+   "date": "2019-09-22T22:40:58.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8249,
+   "user": "fuji_luck",
+   "score": 33252,
+   "date": "2020-02-08T03:03:03.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8422,
+   "user": "ToolAssistedPik",
+   "score": 33233,
+   "date": "2020-05-04T05:02:43.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "投稿し忘れてたやつ。2セット粘ったけど出ないですね…"
+  },
+  {
+   "id": 8560,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 33112,
+   "date": "2020-06-10T22:46:07.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/w02OTPyyC0E",
+   "comment": "タマゴムシ出たけどうーむー"
+  },
+  {
+   "id": 8778,
+   "user": "zukki",
+   "score": 33205,
+   "date": "2020-07-10T14:09:08.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "やっと虫"
+  },
+  {
+   "id": 8835,
+   "user": "pik_Agnyan",
+   "score": 33233,
+   "date": "2020-07-19T07:14:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "新環境での初更新。"
+  },
+  {
+   "id": 9712,
+   "user": "shiocha78",
+   "score": 33224,
+   "date": "2020-08-09T04:17:17.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "そこそこ"
+  },
+  {
+   "id": 9866,
+   "user": "mikou_musicgame",
+   "score": 33245,
+   "date": "2020-09-04T05:14:40.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "バケツ2の地形"
+  },
+  {
+   "id": 10785,
+   "user": "ryuun",
+   "score": 33222,
+   "date": "2020-10-16T08:28:30.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/5ZyuK01mO84",
+   "comment": "考えてプレイできていない"
+  },
+  {
+   "id": 11573,
+   "user": "messhi475",
+   "score": 33191,
+   "date": "2020-12-04T01:36:12.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 11767,
+   "user": "nikoshu_pik",
+   "score": 33248,
+   "date": "2020-12-27T01:08:14.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=RDNfm_GqTv8",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12520,
+   "user": "hyogakibokaro",
+   "score": 33098,
+   "date": "2021-04-22T17:51:39.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "タマゴキンが厄介"
+  },
+  {
+   "id": 12627,
+   "user": "makalogue",
+   "score": 33228,
+   "date": "2021-05-16T18:22:27.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=nauFiz-Hgek",
+   "comment": "ムシ1セット10匹。タイム108"
+  },
+  {
+   "id": 12903,
+   "user": "yukidaruma",
+   "score": 33215,
+   "date": "2021-07-10T08:43:25.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "1セット"
+  },
+  {
+   "id": 13339,
+   "user": "nakatatsu",
+   "score": 33221,
+   "date": "2021-10-30T07:03:05.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ようやくタマゴ+それなりの地形が出た"
+  },
+  {
+   "id": 14060,
+   "user": "yuyuyunkel",
+   "score": 33262,
+   "date": "2021-12-08T06:09:07.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14125,
+   "user": "April_lapispik",
+   "score": 33220,
+   "date": "2021-12-25T05:26:17.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/9brDUxp-YTE",
+   "comment": "今度は逃さず1セット　動画は解説つきです"
+  },
+  {
+   "id": 14881,
+   "user": "eruvoore",
+   "score": 33119,
+   "date": "2022-08-07T07:44:54.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15091,
+   "user": "albut3",
+   "score": 33270,
+   "date": "2022-09-19T10:36:28.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=yMcX-kjhEJw&ab_channel=albut3pik",
+   "comment": "謎の早さ"
+  },
+  {
+   "id": 15432,
+   "user": "spark573",
+   "score": 33270,
+   "date": "2022-10-16T04:57:01.000000Z",
+   "console": 2,
+   "video": "https://www.twitch.tv/videos/1625881477",
+   "comment": "ラン対の副産物"
+  },
+  {
+   "id": 15436,
+   "user": "toripoppo0307",
+   "score": 33203,
+   "date": "2022-10-17T06:54:46.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "不満"
+  },
+  {
+   "id": 15500,
+   "user": "mercysnow",
+   "score": 33272,
+   "date": "2022-11-06T06:07:02.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/5QR-KZz9HTQ",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17295,
+   "user": "atmy_17",
+   "score": 33220,
+   "date": "2023-11-21T20:51:44.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17568,
+   "user": "alpha_0630",
+   "score": 33225,
+   "date": "2024-02-03T16:52:13.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/zjP0uRVCnXs",
+   "comment": "良くない地形"
+  },
+  {
+   "id": 18050,
+   "user": "Gorei_50",
+   "score": 33362,
+   "date": "2024-08-03T01:07:57.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/n-hsqtINAYw",
+   "comment": "????? ??????? ?????"
+  },
+  {
+   "id": 18488,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 33280,
+   "date": "2025-05-14T02:58:44.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/GMoE1Kr6WwQ?si=PkI7Rcru4wNzVf73",
+   "comment": "2セット狙いなので先割りです"
+  },
+  {
+   "id": 18922,
+   "user": "av0cad0",
+   "score": 33134,
+   "date": "2025-10-03T06:33:17.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "もっと頑張る！"
+  },
+  {
+   "id": 19252,
+   "user": "kobachi_no_udon",
+   "score": 33277,
+   "date": "2026-02-21T06:02:42.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/2KCYbdtUaDM",
+   "comment": "第3回インスタント研究会　最高！"
+  },
+  {
+   "id": 19255,
+   "user": "pikitto",
+   "score": 33242,
+   "date": "2026-02-21T14:20:42.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/LJkdzkGrbBk",
+   "comment": "グダグダすぎて見苦しい"
+  },
+  {
+   "id": 19300,
+   "user": "Mutou_p2pw",
+   "score": 33240,
+   "date": "2026-03-04T16:00:54.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "ムシ91連外し"
+  },
+  {
+   "id": 19360,
+   "user": "Argent2home",
+   "score": 33288,
+   "date": "2026-04-11T06:53:25.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/TO2Bb7920EE",
+   "comment": "想像以上に運搬がきつかった。"
+  }
+ ]
+}

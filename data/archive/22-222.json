@@ -1,0 +1,573 @@
+{
+ "rule": 22,
+ "stage": 222,
+ "posts": [
+  {
+   "id": 57,
+   "user": "official",
+   "score": 14339,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 204,
+   "user": "shinya_",
+   "score": 14400,
+   "date": "2012-10-10T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "倒し方改善で、全回収できました。でも伸びの少なさ…>14389から"
+  },
+  {
+   "id": 240,
+   "user": "tororo",
+   "score": 14383,
+   "date": "2013-05-18T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "クマがたくさんいるので怖いです"
+  },
+  {
+   "id": 418,
+   "user": "kanichan",
+   "score": 14419,
+   "date": "2014-07-25T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "この記録が出たときは、かなり興奮しました。しかし、ピクミンのお宝運びに少し手間取ったこともあったので、ひょっとしたら、あと2秒ほどタイムを縮めることができたのではないかとも思いました。"
+  },
+  {
+   "id": 445,
+   "user": "DRAFIX",
+   "score": 14403,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ここほど紫が欲しくなるステージはそうそうないでしょう。"
+  },
+  {
+   "id": 729,
+   "user": "Selenium_pikmin",
+   "score": 14424,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 917,
+   "user": "xxHIMExx",
+   "score": 14405,
+   "date": "2015-11-06T04:45:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1129,
+   "user": "maramon",
+   "score": 14415,
+   "date": "2015-11-10T07:25:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1363,
+   "user": "ZEOKU",
+   "score": 14419,
+   "date": "2015-12-13T17:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1793,
+   "user": "HoshiKUZU_pik",
+   "score": 14423,
+   "date": "2016-03-15T02:35:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1844,
+   "user": "FeTellYou",
+   "score": 14422,
+   "date": "2016-03-21T00:14:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "なんでや"
+  },
+  {
+   "id": 2194,
+   "user": "noamoa",
+   "score": 14424,
+   "date": "2016-06-09T02:21:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "近くに重さ20以上のお宝が無ければリセット"
+  },
+  {
+   "id": 2929,
+   "user": "U3",
+   "score": 14410,
+   "date": "2017-02-10T06:45:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3151,
+   "user": "HAPDAP",
+   "score": 14404,
+   "date": "2017-03-04T20:08:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "タイムロスが多いなぁ…"
+  },
+  {
+   "id": 3353,
+   "user": "muratsubo",
+   "score": 14419,
+   "date": "2017-03-30T22:13:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "4人目の10位タイ"
+  },
+  {
+   "id": 3358,
+   "user": "keisen2853",
+   "score": 14422,
+   "date": "2017-03-31T14:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3363,
+   "user": "mezasi_pikmin",
+   "score": 14415,
+   "date": "2017-03-31T18:59:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "上手く行けば確かに伸びる感じがする"
+  },
+  {
+   "id": 3520,
+   "user": "koppacha",
+   "score": 14417,
+   "date": "2017-04-14T22:47:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "もう無理"
+  },
+  {
+   "id": 3564,
+   "user": "iid01",
+   "score": 14433,
+   "date": "2017-04-23T06:06:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=2RxN9dmye5Y",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4421,
+   "user": "PKtoyama",
+   "score": 14425,
+   "date": "2017-07-19T07:19:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "なんか不完全燃焼"
+  },
+  {
+   "id": 4591,
+   "user": "flyinghawk",
+   "score": 14424,
+   "date": "2017-08-26T18:15:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "どうすればいいか全然わからん"
+  },
+  {
+   "id": 5011,
+   "user": "pikmin893",
+   "score": 14430,
+   "date": "2017-10-14T23:52:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "期チャレをやってたはずだった"
+  },
+  {
+   "id": 5494,
+   "user": "yuibitchi",
+   "score": 14404,
+   "date": "2018-01-04T21:07:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5897,
+   "user": "ikimono334",
+   "score": 14425,
+   "date": "2018-02-27T02:06:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "手前20でもここまでいけた"
+  },
+  {
+   "id": 5909,
+   "user": "TEL",
+   "score": 14420,
+   "date": "2018-02-28T21:22:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6141,
+   "user": "sectionmarilui",
+   "score": 14428,
+   "date": "2018-04-04T11:36:08.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "後からクマ2体でこれ"
+  },
+  {
+   "id": 6172,
+   "user": "miran",
+   "score": 14418,
+   "date": "2018-04-18T07:05:03.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まだ伸びるべくして"
+  },
+  {
+   "id": 6215,
+   "user": "dayomin",
+   "score": 14410,
+   "date": "2018-04-22T04:41:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6326,
+   "user": "C4_child35",
+   "score": 14362,
+   "date": "2018-05-17T09:35:20.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "チビクマ1匹割っちゃいました"
+  },
+  {
+   "id": 6412,
+   "user": "pik_Agnyan",
+   "score": 14424,
+   "date": "2018-05-28T08:02:33.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "楽しい。"
+  },
+  {
+   "id": 6928,
+   "user": "Z_pikmin",
+   "score": 14424,
+   "date": "2018-09-27T03:57:47.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "嫌い"
+  },
+  {
+   "id": 7443,
+   "user": "shiocha78",
+   "score": 14417,
+   "date": "2019-04-27T05:38:23.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7998,
+   "user": "enagem_akakuy",
+   "score": 14384,
+   "date": "2019-08-29T17:26:08.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8345,
+   "user": "ToolAssistedPik",
+   "score": 14420,
+   "date": "2020-03-28T06:54:28.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "チビクマ強ぇ…親の腹の下に潜り込まないで。"
+  },
+  {
+   "id": 8568,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 14406,
+   "date": "2020-06-12T12:06:40.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/zh64H-l4mC4",
+   "comment": "難しいけどシンプルなステージだから極めやすい（かも）"
+  },
+  {
+   "id": 8808,
+   "user": "zukki",
+   "score": 14417,
+   "date": "2020-07-13T19:06:18.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "はよ来て"
+  },
+  {
+   "id": 8842,
+   "user": "fuji_luck",
+   "score": 14427,
+   "date": "2020-07-20T07:31:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "6月20日"
+  },
+  {
+   "id": 9907,
+   "user": "Tizimi77777",
+   "score": 14415,
+   "date": "2020-09-12T23:53:46.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10630,
+   "user": "ryuun",
+   "score": 14422,
+   "date": "2020-09-30T02:08:03.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/ctQ82z3ZvU0",
+   "comment": "チビクマつっよ"
+  },
+  {
+   "id": 11540,
+   "user": "messhi475",
+   "score": 14344,
+   "date": "2020-12-03T00:10:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2のクマチャッピーは”最強”最恐”最凶”だと思います。"
+  },
+  {
+   "id": 11674,
+   "user": "nakatatsu",
+   "score": 14420,
+   "date": "2020-12-12T04:42:19.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "初投稿です。70万点目指しています。"
+  },
+  {
+   "id": 12539,
+   "user": "nikoshu_pik",
+   "score": 14425,
+   "date": "2021-04-27T00:42:22.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=rExmxQee5E8",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12547,
+   "user": "yuyuyunkel",
+   "score": 14426,
+   "date": "2021-04-29T07:30:57.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13135,
+   "user": "April_lapispik",
+   "score": 14417,
+   "date": "2021-09-19T20:01:54.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/wGyerwWV3E4",
+   "comment": "クマチャッピーの気分次第？　動画は解説つきです"
+  },
+  {
+   "id": 13388,
+   "user": "makalogue",
+   "score": 14422,
+   "date": "2021-11-03T20:56:46.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=RAFtxhrwcIk",
+   "comment": "タイム42"
+  },
+  {
+   "id": 14739,
+   "user": "yukidaruma",
+   "score": 14429,
+   "date": "2022-06-04T08:22:17.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/iMQMytO5-34",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14830,
+   "user": "samuraitamashi",
+   "score": 14411,
+   "date": "2022-07-26T02:12:58.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "もうちょっといけそうでいけないこのもどかしさ"
+  },
+  {
+   "id": 14845,
+   "user": "mercysnow",
+   "score": 14434,
+   "date": "2022-08-01T07:24:39.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/rGip_FgmndA",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14874,
+   "user": "eruvoore",
+   "score": 14403,
+   "date": "2022-08-07T07:42:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14891,
+   "user": "spark573",
+   "score": 14431,
+   "date": "2022-08-11T06:49:32.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/fHNzNtkPyrM",
+   "comment": "1点は伸びそうな感じするけどそれ以上は……"
+  },
+  {
+   "id": 15017,
+   "user": "atmy_17",
+   "score": 14423,
+   "date": "2022-08-31T02:36:22.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "なんで更新できたのか。"
+  },
+  {
+   "id": 15109,
+   "user": "toripoppo0307",
+   "score": 14419,
+   "date": "2022-09-25T11:42:03.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/xwE64M3p4WY",
+   "comment": "久々にやったら1点伸びた"
+  },
+  {
+   "id": 15528,
+   "user": "mikou_musicgame",
+   "score": 14424,
+   "date": "2022-11-14T02:56:05.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17276,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 14408,
+   "date": "2023-11-19T06:15:06.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "自分なりに好記録が出せたと思うが、先駆者たちには遠く及ばず…"
+  },
+  {
+   "id": 17352,
+   "user": "Argent2home",
+   "score": 14431,
+   "date": "2023-12-02T02:12:33.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/zbfi2G4FMJA?si=QJR11mlPnVd9oTKW",
+   "comment": "GC戦略でこれ以上はムズそう"
+  },
+  {
+   "id": 17453,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 14434,
+   "date": "2023-12-23T02:23:16.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/jh-QIO_GoS4?si=SiLAaqjpGn-PgnGE",
+   "comment": "人力14436は多分可能です"
+  },
+  {
+   "id": 17508,
+   "user": "albut3",
+   "score": 14437,
+   "date": "2024-01-06T15:41:24.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=hE9d6RK7nck",
+   "comment": "地底の支配者"
+  },
+  {
+   "id": 17517,
+   "user": "kobachi_no_udon",
+   "score": 14435,
+   "date": "2024-01-09T06:42:28.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/VdEgTa6Fg20",
+   "comment": "なぜか通せた"
+  },
+  {
+   "id": 17840,
+   "user": "Gorei_50",
+   "score": 14437,
+   "date": "2024-05-21T06:13:49.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/1KzXfkuwotU",
+   "comment": "む"
+  },
+  {
+   "id": 18390,
+   "user": "alpha_0630",
+   "score": 14420,
+   "date": "2025-02-01T06:45:31.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/F3H7cF59PzA",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18928,
+   "user": "KSK_yukaripik",
+   "score": 14428,
+   "date": "2025-10-09T06:31:02.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "完走率の低さが課題"
+  },
+  {
+   "id": 19785,
+   "user": "Mutou_p2pw",
+   "score": 14428,
+   "date": "2026-09-11T04:31:38.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/0xMgOu2JYBs?si=9FcxSc7OzdbEs6E-",
+   "comment": "ラン対最高"
+  },
+  {
+   "id": 20506,
+   "user": "pikitto",
+   "score": 14418,
+   "date": "2026-11-08T10:50:06.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

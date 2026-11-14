@@ -1,0 +1,411 @@
+{
+ "rule": 33,
+ "stage": 350,
+ "posts": [
+  {
+   "id": 301,
+   "user": "official",
+   "score": 442,
+   "date": "2013-07-24T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。"
+  },
+  {
+   "id": 413,
+   "user": "matcha",
+   "score": 562,
+   "date": "2014-07-22T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "想定外超えるのは苦労した"
+  },
+  {
+   "id": 1911,
+   "user": "noamoa",
+   "score": 563,
+   "date": "2016-04-01T22:51:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ゴリ押し"
+  },
+  {
+   "id": 1974,
+   "user": "PKtoyama",
+   "score": 586,
+   "date": "2016-04-09T02:46:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "やり方変えないと2分はきれないか"
+  },
+  {
+   "id": 3832,
+   "user": "yuibitchi",
+   "score": 420,
+   "date": "2017-05-19T06:45:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4172,
+   "user": "dermas",
+   "score": 493,
+   "date": "2017-06-18T05:58:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4260,
+   "user": "muratsubo",
+   "score": 528,
+   "date": "2017-06-23T22:44:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5709,
+   "user": "Z_pikmin",
+   "score": 551,
+   "date": "2018-01-31T00:03:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8313,
+   "user": "tomatopikumin",
+   "score": 493,
+   "date": "2020-03-15T02:33:44.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "リザルトで撮り逃した"
+  },
+  {
+   "id": 8493,
+   "user": "rising",
+   "score": 518,
+   "date": "2020-06-01T07:17:26.000000Z",
+   "console": 3,
+   "video": "https://youtu.be/1YpK51zH6XM ",
+   "comment": "ピクミンの実況者がチャレンジ"
+  },
+  {
+   "id": 9701,
+   "user": "me",
+   "score": 564,
+   "date": "2020-08-05T15:54:19.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11048,
+   "user": "imedin0813",
+   "score": 537,
+   "date": "2020-11-06T10:03:05.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "一旦"
+  },
+  {
+   "id": 11114,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 639,
+   "date": "2020-11-10T05:33:11.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "犠牲7匹　ゴリ押したら何故か犠牲が減ってタイムも伸びました"
+  },
+  {
+   "id": 11125,
+   "user": "APerson13",
+   "score": 630,
+   "date": "2020-11-10T21:12:06.000000Z",
+   "console": 4,
+   "video": "https://www.twitch.tv/videos/798982835",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11152,
+   "user": "sumahojinazukatori",
+   "score": 660,
+   "date": "2020-11-12T06:41:35.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "上手く火力が出せません其の三"
+  },
+  {
+   "id": 11173,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 667,
+   "date": "2020-11-13T03:35:21.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/p1nC-Z3Bmv4",
+   "comment": "デレた"
+  },
+  {
+   "id": 11195,
+   "user": "zukki",
+   "score": 669,
+   "date": "2020-11-14T00:12:57.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/d7HT_UluVdw",
+   "comment": "ずっと撒き散らしててほしい"
+  },
+  {
+   "id": 11196,
+   "user": "mikou_musicgame",
+   "score": 668,
+   "date": "2020-11-14T01:19:24.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "まだいけそうだけどつらい"
+  },
+  {
+   "id": 11340,
+   "user": "AbsolutlyAsh",
+   "score": 637,
+   "date": "2020-11-20T08:48:13.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11423,
+   "user": "messhi475",
+   "score": 630,
+   "date": "2020-11-25T11:52:21.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11472,
+   "user": "yuyukkuri",
+   "score": 494,
+   "date": "2020-11-28T19:00:01.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/wTOWk-z-PM0",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11488,
+   "user": "nuinuisousou",
+   "score": 662,
+   "date": "2020-11-29T17:35:27.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "１分切れた"
+  },
+  {
+   "id": 11708,
+   "user": "ryuun",
+   "score": 660,
+   "date": "2020-12-17T19:37:18.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/rmz9bEaa1s4",
+   "comment": "飛んだらすぐ落とすのが大事なのかな、と思った"
+  },
+  {
+   "id": 12272,
+   "user": "pikuna",
+   "score": 611,
+   "date": "2021-02-26T18:37:38.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "１００秒切りたかった"
+  },
+  {
+   "id": 12477,
+   "user": "Zeps",
+   "score": 590,
+   "date": "2021-04-11T06:06:21.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=ILRnDO7QrKI",
+   "comment": "took way too long lmao"
+  },
+  {
+   "id": 12482,
+   "user": "Y-TeNdoo404",
+   "score": 680,
+   "date": "2021-04-13T09:58:36.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=xxWU-nJ-Nrc",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12719,
+   "user": "sanami",
+   "score": 560,
+   "date": "2021-06-06T18:29:18.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12819,
+   "user": "PiePusher11",
+   "score": 666,
+   "date": "2021-06-15T14:29:32.000000Z",
+   "console": 4,
+   "video": "https://www.twitch.tv/r/e/eyJsb2NhdGlvbiI6IndhdGNoX2hlcmUiLCJlbWFpbF9pZCI6ImVjMWM2OWE1LTA3NDEtNGNkOC04MjU0LWU4MzhkMTUxZmVmMyIsIm5hbWUiOiJ5b3V0dWJlX2V4cG9ydF9zdWNjZXNzIiwiY3RhX3ZhbHVlIjoiIn0=/28526708/88284af40051fced04d39a8bd784cace760be9ec/legacyPath?custom_domain_target_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgRzwP51svuk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12840,
+   "user": "TheRealBobby0",
+   "score": 667,
+   "date": "2021-06-24T07:15:32.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12841,
+   "user": "XianTwa",
+   "score": 673,
+   "date": "2021-06-24T07:58:52.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/DbMm65Ia7L4",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12862,
+   "user": "April_lapispik",
+   "score": 665,
+   "date": "2021-07-02T22:27:02.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13312,
+   "user": "ice_cube171",
+   "score": 662,
+   "date": "2021-10-25T11:11:40.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/SXLC9M3TlBU",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13735,
+   "user": "iid01",
+   "score": 675,
+   "date": "2021-11-07T00:02:41.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=nGEeioids8A",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14149,
+   "user": "Sbudiver",
+   "score": 676,
+   "date": "2022-01-05T16:55:43.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=y77GKSnV35M",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15531,
+   "user": "arukii",
+   "score": 653,
+   "date": "2022-11-17T23:52:34.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15553,
+   "user": "hatake",
+   "score": 655,
+   "date": "2022-11-22T14:26:48.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15620,
+   "user": "CyanProphecy",
+   "score": 603,
+   "date": "2022-12-02T12:06:46.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15967,
+   "user": "rusuto",
+   "score": 575,
+   "date": "2023-03-20T07:30:03.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "ごり押し"
+  },
+  {
+   "id": 16003,
+   "user": "toripoppo0307",
+   "score": 658,
+   "date": "2023-03-26T04:38:35.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/DLLTPyNiCGk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16013,
+   "user": "koppacha",
+   "score": 644,
+   "date": "2023-03-30T03:36:40.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "いかに回復させないかが大事？"
+  },
+  {
+   "id": 16116,
+   "user": "pon",
+   "score": 655,
+   "date": "2023-05-12T09:51:00.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16256,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 678,
+   "date": "2023-07-14T02:11:20.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/nXMTPrjCbsw",
+   "comment": "このステージ粘るよりタマゴムシ粘る方が楽しいのでもうやらないと思います"
+  },
+  {
+   "id": 17893,
+   "user": "6harapikumin",
+   "score": 657,
+   "date": "2024-06-07T10:07:05.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18606,
+   "user": "Jay596",
+   "score": 675,
+   "date": "2025-07-29T02:57:41.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=BBfTYsN9BQM",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19544,
+   "user": "Tanakaaaa",
+   "score": 618,
+   "date": "2026-06-12T04:30:56.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

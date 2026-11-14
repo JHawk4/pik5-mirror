@@ -1,0 +1,51 @@
+{
+ "rule": 26,
+ "stage": 223,
+ "posts": [
+  {
+   "id": 3936,
+   "user": "official",
+   "score": 9847,
+   "date": "2017-05-27T23:56:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 4021,
+   "user": "koppacha",
+   "score": 9953,
+   "date": "2017-06-02T05:45:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6086,
+   "user": "muratsubo",
+   "score": 9986,
+   "date": "2018-03-21T02:37:37.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6515,
+   "user": "sectionmarilui",
+   "score": 10001,
+   "date": "2018-06-19T02:56:47.000000Z",
+   "console": 1,
+   "video": "http://www.nicovideo.jp/watch/sm33389129",
+   "comment": "まだまだ伸ばせる"
+  },
+  {
+   "id": 6682,
+   "user": "albut3",
+   "score": 10015,
+   "date": "2018-08-06T02:42:16.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=TKbatyBENnk",
+   "comment": "チェックしまくり"
+  }
+ ]
+}

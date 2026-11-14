@@ -1,0 +1,555 @@
+{
+ "rule": 21,
+ "stage": 217,
+ "posts": [
+  {
+   "id": 52,
+   "user": "official",
+   "score": 16316,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 137,
+   "user": "Johannes",
+   "score": 16355,
+   "date": "2008-10-07T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "挑戦者の少ないステージだったのでがんばってみました。"
+  },
+  {
+   "id": 162,
+   "user": "akisame",
+   "score": 16387,
+   "date": "2009-04-05T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "参加者が少なかったのでやってみました。"
+  },
+  {
+   "id": 172,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 16387,
+   "date": "2010-01-22T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "3秒の更新ｗｗ"
+  },
+  {
+   "id": 205,
+   "user": "shinya_",
+   "score": 16503,
+   "date": "2012-10-10T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシあり。なし相当の点数を出すのも難しいです"
+  },
+  {
+   "id": 440,
+   "user": "DRAFIX",
+   "score": 16403,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ガス管の向こうのタマゴムシがひたすら面倒。そして雑な操作で紫が感電死。"
+  },
+  {
+   "id": 724,
+   "user": "Selenium_pikmin",
+   "score": 16537,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 518,
+   "user": "keisen2853",
+   "score": 16592,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 912,
+   "user": "xxHIMExx",
+   "score": 16296,
+   "date": "2015-11-06T04:43:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1101,
+   "user": "maramon",
+   "score": 16459,
+   "date": "2015-11-09T05:01:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1278,
+   "user": "FeTellYou",
+   "score": 16631,
+   "date": "2015-11-14T23:10:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "iidさんを越えたぜええええ"
+  },
+  {
+   "id": 1287,
+   "user": "pikmin893",
+   "score": 16639,
+   "date": "2015-11-16T03:15:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシ"
+  },
+  {
+   "id": 1721,
+   "user": "muratsubo",
+   "score": 16522,
+   "date": "2016-03-10T11:34:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1958,
+   "user": "ZEOKU",
+   "score": 16541,
+   "date": "2016-04-06T17:03:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2464,
+   "user": "HoshiKUZU_pik",
+   "score": 16624,
+   "date": "2016-11-30T05:22:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まさか2セット出るとは思わずgdってしまった…後悔"
+  },
+  {
+   "id": 2548,
+   "user": "PKtoyama",
+   "score": 16601,
+   "date": "2016-12-25T02:30:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "なえる"
+  },
+  {
+   "id": 2582,
+   "user": "mezasi_pikmin",
+   "score": 16605,
+   "date": "2016-12-27T17:42:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "エレキムシに特攻した紫の犠牲は忘れない"
+  },
+  {
+   "id": 2628,
+   "user": "koppacha",
+   "score": 16625,
+   "date": "2016-12-30T05:14:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3122,
+   "user": "miran",
+   "score": 16593,
+   "date": "2017-03-01T22:26:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "活性タマゴムシの不意打ちで29匹。"
+  },
+  {
+   "id": 4687,
+   "user": "Z_pikmin",
+   "score": 16652,
+   "date": "2017-09-04T01:56:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4787,
+   "user": "flyinghawk",
+   "score": 16648,
+   "date": "2017-09-18T01:11:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "許された"
+  },
+  {
+   "id": 5554,
+   "user": "yuibitchi",
+   "score": 16528,
+   "date": "2018-01-07T05:16:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5852,
+   "user": "iid01",
+   "score": 16671,
+   "date": "2018-02-18T15:57:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=xUdH6YYDVv0",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6158,
+   "user": "HAPDAP",
+   "score": 16533,
+   "date": "2018-04-13T00:04:35.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "誕生日の力ってすげー！！！"
+  },
+  {
+   "id": 6325,
+   "user": "C4_child35",
+   "score": 16340,
+   "date": "2018-05-17T09:33:43.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6624,
+   "user": "TEL",
+   "score": 16666,
+   "date": "2018-07-13T18:12:16.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2セット×過去最高タイム"
+  },
+  {
+   "id": 6851,
+   "user": "pik_Agnyan",
+   "score": 16626,
+   "date": "2018-09-03T07:27:31.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "焦って相当なガバプレイだった。"
+  },
+  {
+   "id": 6854,
+   "user": "noamoa",
+   "score": 16658,
+   "date": "2018-09-05T22:19:46.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "70万RTA中に起きた奇跡"
+  },
+  {
+   "id": 6894,
+   "user": "ikimono334",
+   "score": 16661,
+   "date": "2018-09-18T21:14:37.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマコキン処理すこしぐだった"
+  },
+  {
+   "id": 7050,
+   "user": "sectionmarilui",
+   "score": 16656,
+   "date": "2018-12-22T11:05:54.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "エレキ配置だめです（え"
+  },
+  {
+   "id": 7430,
+   "user": "shiocha78",
+   "score": 16549,
+   "date": "2019-04-22T18:05:08.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ムシ10"
+  },
+  {
+   "id": 7574,
+   "user": "enagem_akakuy",
+   "score": 16376,
+   "date": "2019-06-01T20:10:28.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7582,
+   "user": "ToolAssistedPik",
+   "score": 16624,
+   "date": "2019-06-15T22:11:25.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2セット出たのに、全回収したか不安になって数点無駄に落とした"
+  },
+  {
+   "id": 7624,
+   "user": "Tizimi77777",
+   "score": 16430,
+   "date": "2019-07-21T22:52:06.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8691,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 16494,
+   "date": "2020-06-27T00:17:38.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/FWtqhzcvmHc",
+   "comment": "タマゴムシ19体（紫いながら1体逃す痛恨のミス）"
+  },
+  {
+   "id": 8748,
+   "user": "zukki",
+   "score": 16538,
+   "date": "2020-07-04T00:50:48.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8854,
+   "user": "dayomin",
+   "score": 16527,
+   "date": "2020-07-21T06:46:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9905,
+   "user": "fuji_luck",
+   "score": 16683,
+   "date": "2020-09-12T05:45:44.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/5GEpx8qFQJw",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10609,
+   "user": "nikoshu_pik",
+   "score": 16650,
+   "date": "2020-09-27T06:58:27.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=W9UO1wVTvEI",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10610,
+   "user": "mikou_musicgame",
+   "score": 16648,
+   "date": "2020-09-27T13:35:35.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10771,
+   "user": "ryuun",
+   "score": 16539,
+   "date": "2020-10-15T03:48:33.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/CN61ah0e4rM",
+   "comment": "70万点参考スコアを越えられればそれでいいのだ"
+  },
+  {
+   "id": 11527,
+   "user": "messhi475",
+   "score": 16499,
+   "date": "2020-12-02T00:27:57.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "おそらく、タマゴムシ20匹回収した記録かと思われます。"
+  },
+  {
+   "id": 11676,
+   "user": "nakatatsu",
+   "score": 16545,
+   "date": "2020-12-12T04:47:45.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12536,
+   "user": "yuyuyunkel",
+   "score": 16661,
+   "date": "2021-04-25T02:10:15.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "うれし"
+  },
+  {
+   "id": 12616,
+   "user": "makalogue",
+   "score": 16639,
+   "date": "2021-05-16T17:34:36.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=qgV1GdPBvkU",
+   "comment": "ムシはタマゴから2セット20匹、地面から1セット10匹。タイム99"
+  },
+  {
+   "id": 12957,
+   "user": "April_lapispik",
+   "score": 16539,
+   "date": "2021-08-01T05:49:25.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/vgirlEVg1f8",
+   "comment": "解説つき証拠動画を上げてみました。"
+  },
+  {
+   "id": 14054,
+   "user": "yukidaruma",
+   "score": 16653,
+   "date": "2021-12-07T15:18:14.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14112,
+   "user": "mercysnow",
+   "score": 16684,
+   "date": "2021-12-20T06:33:22.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/Vyb2P2_qZUw",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14568,
+   "user": "toripoppo0307",
+   "score": 16604,
+   "date": "2022-04-15T00:34:13.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=7Eqag7yAbyE",
+   "comment": "どうして…"
+  },
+  {
+   "id": 14869,
+   "user": "eruvoore",
+   "score": 16448,
+   "date": "2022-08-07T07:40:27.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15846,
+   "user": "spark573",
+   "score": 16683,
+   "date": "2023-02-19T22:56:26.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/aJyv2zavXdM",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17305,
+   "user": "atmy_17",
+   "score": 16656,
+   "date": "2023-11-22T09:28:16.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "最後のご乱心とダイヤ忘れ"
+  },
+  {
+   "id": 17878,
+   "user": "6harapikumin",
+   "score": 16438,
+   "date": "2024-05-31T09:21:42.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18338,
+   "user": "kobachi_no_udon",
+   "score": 16687,
+   "date": "2024-12-27T06:18:03.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/2iuSOwz30QU",
+   "comment": "大事なのは無犠牲であること"
+  },
+  {
+   "id": 18410,
+   "user": "albut3",
+   "score": 16674,
+   "date": "2025-02-15T08:09:48.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "録画押せてない2025"
+  },
+  {
+   "id": 18477,
+   "user": "Argent2home",
+   "score": 16671,
+   "date": "2025-04-19T14:16:16.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/PUrAxNtEerM",
+   "comment": "ヨーヨーが一番遠い袋小路なの悲しい"
+  },
+  {
+   "id": 18486,
+   "user": "Gorei_50",
+   "score": 16700,
+   "date": "2025-05-07T06:25:17.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/k5t9ehanW5I",
+   "comment": "キリがいい"
+  },
+  {
+   "id": 19160,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 16680,
+   "date": "2026-01-18T06:35:06.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/PuRGqkOBHOw?si=7ovcCGHq6tC8Cs_A",
+   "comment": "4wayにて"
+  },
+  {
+   "id": 19313,
+   "user": "pikitto",
+   "score": 16542,
+   "date": "2026-03-10T21:22:07.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19372,
+   "user": "Mutou_p2pw",
+   "score": 16563,
+   "date": "2026-04-17T18:16:00.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/0rlzGJy6wgU",
+   "comment": "2セット粘る気持ちがない"
+  },
+  {
+   "id": 20305,
+   "user": "alpha_0630",
+   "score": 16661,
+   "date": "2026-10-12T02:25:08.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/XBSsFifvI9w",
+   "comment": "ゲーム起動して一回目で出た"
+  }
+ ]
+}

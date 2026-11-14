@@ -1,0 +1,573 @@
+{
+ "rule": 22,
+ "stage": 227,
+ "posts": [
+  {
+   "id": 62,
+   "user": "official",
+   "score": 10294,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 83,
+   "user": "chouhougekinamashindamagumokyanon",
+   "score": 10306,
+   "date": "2007-07-08T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "キショイグモが怖くて仕方がない。"
+  },
+  {
+   "id": 158,
+   "user": "akisame",
+   "score": 9205,
+   "date": "2009-04-01T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "10000いけない・・・　キショイグモがルリかムラサキだったらよかったのに（泣"
+  },
+  {
+   "id": 186,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 10302,
+   "date": "2010-03-24T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "サクレ多いしキショに物とられるしで恐ろしいステージ。"
+  },
+  {
+   "id": 211,
+   "user": "shinya_",
+   "score": 10332,
+   "date": "2012-11-01T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "とにかくキショイグモがきついです。安定するもので赤１匹の方法です。"
+  },
+  {
+   "id": 423,
+   "user": "kanichan",
+   "score": 10348,
+   "date": "2014-09-01T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ある程度、サクレショイグモが荷物運ぶピクミンに落ちてこない運が必要"
+  },
+  {
+   "id": 450,
+   "user": "DRAFIX",
+   "score": 10301,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "スコアが伸びる兆しが見えないです。少しでも気を抜くと事故るのも辛い。"
+  },
+  {
+   "id": 616,
+   "user": "FeTellYou",
+   "score": 10365,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 734,
+   "user": "Selenium_pikmin",
+   "score": 10367,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 922,
+   "user": "xxHIMExx",
+   "score": 10318,
+   "date": "2015-11-06T04:47:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1144,
+   "user": "ZEOKU",
+   "score": 10336,
+   "date": "2015-11-11T17:42:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1154,
+   "user": "maramon",
+   "score": 10324,
+   "date": "2015-11-13T02:24:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2583,
+   "user": "mezasi_pikmin",
+   "score": 10332,
+   "date": "2016-12-27T18:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "キショイの死骸が降ってくる珍事が"
+  },
+  {
+   "id": 3099,
+   "user": "muratsubo",
+   "score": 10368,
+   "date": "2017-02-26T07:11:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "binjo"
+  },
+  {
+   "id": 3244,
+   "user": "iid01",
+   "score": 10391,
+   "date": "2017-03-18T18:07:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=jKHnoCyC52I",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3262,
+   "user": "U3",
+   "score": 10359,
+   "date": "2017-03-20T22:44:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3486,
+   "user": "miran",
+   "score": 10381,
+   "date": "2017-04-07T20:44:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "かなり前の記録だけれども"
+  },
+  {
+   "id": 3565,
+   "user": "HoshiKUZU_pik",
+   "score": 10376,
+   "date": "2017-04-23T19:31:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "奥に焼きチャッピー"
+  },
+  {
+   "id": 3701,
+   "user": "PKtoyama",
+   "score": 10373,
+   "date": "2017-05-04T09:55:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3771,
+   "user": "keisen2853",
+   "score": 10384,
+   "date": "2017-05-15T14:26:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まだまだ"
+  },
+  {
+   "id": 3991,
+   "user": "pikmin893",
+   "score": 10385,
+   "date": "2017-05-31T05:11:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "きらい"
+  },
+  {
+   "id": 5546,
+   "user": "yuibitchi",
+   "score": 10317,
+   "date": "2018-01-07T03:34:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5625,
+   "user": "dayomin",
+   "score": 10348,
+   "date": "2018-01-12T22:32:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5634,
+   "user": "flyinghawk",
+   "score": 10380,
+   "date": "2018-01-14T02:37:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "いずれまた来ます"
+  },
+  {
+   "id": 5887,
+   "user": "ikimono334",
+   "score": 10380,
+   "date": "2018-02-25T05:46:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "疲れた"
+  },
+  {
+   "id": 6469,
+   "user": "pik_Agnyan",
+   "score": 10368,
+   "date": "2018-06-10T09:33:49.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まだ伸ばせそう。"
+  },
+  {
+   "id": 6568,
+   "user": "HAPDAP",
+   "score": 10348,
+   "date": "2018-06-26T17:47:12.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "タイム68、ゲキニガを爆弾に使った"
+  },
+  {
+   "id": 6577,
+   "user": "noamoa",
+   "score": 10378,
+   "date": "2018-06-29T22:00:23.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "サクレにニガ使った"
+  },
+  {
+   "id": 6623,
+   "user": "TEL",
+   "score": 10375,
+   "date": "2018-07-13T18:11:30.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6906,
+   "user": "Z_pikmin",
+   "score": 10383,
+   "date": "2018-09-20T02:35:48.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6954,
+   "user": "sectionmarilui",
+   "score": 10384,
+   "date": "2018-10-07T22:21:59.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "なかなか"
+  },
+  {
+   "id": 7566,
+   "user": "shiocha78",
+   "score": 10366,
+   "date": "2019-05-25T03:37:10.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8044,
+   "user": "Tizimi77777",
+   "score": 10347,
+   "date": "2019-09-22T20:16:27.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8053,
+   "user": "enagem_akakuy",
+   "score": 10315,
+   "date": "2019-09-23T04:17:48.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8300,
+   "user": "Gorei_50",
+   "score": 10396,
+   "date": "2020-03-07T22:34:10.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/0WAux-kVrGk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8569,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 10339,
+   "date": "2020-06-12T12:10:36.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/CSC4w6KNEFQ",
+   "comment": "視聴者様に落下物の対処法を教わりました。頭があがらないです"
+  },
+  {
+   "id": 8779,
+   "user": "zukki",
+   "score": 10368,
+   "date": "2020-07-10T18:02:43.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "つらい"
+  },
+  {
+   "id": 10729,
+   "user": "ryuun",
+   "score": 10372,
+   "date": "2020-10-11T22:08:09.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/CDfYvTvDsZ4",
+   "comment": "「もったいない」を繰り返して人は強くなる"
+  },
+  {
+   "id": 10866,
+   "user": "ToolAssistedPik",
+   "score": 10373,
+   "date": "2020-10-24T06:38:05.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "切株から落ちる事故発生。これがなければあと2,3点は上げられた。"
+  },
+  {
+   "id": 11571,
+   "user": "messhi475",
+   "score": 10290,
+   "date": "2020-12-04T01:32:56.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 11677,
+   "user": "nakatatsu",
+   "score": 10372,
+   "date": "2020-12-12T04:50:17.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "こんな点数出て自分でもびっくり"
+  },
+  {
+   "id": 12208,
+   "user": "fuji_luck",
+   "score": 10381,
+   "date": "2021-02-14T03:19:17.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=FPdZhvNNHI4",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12495,
+   "user": "hyogakibokaro",
+   "score": 10330,
+   "date": "2021-04-20T00:44:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "普通に難しかった。。"
+  },
+  {
+   "id": 12754,
+   "user": "nikoshu_pik",
+   "score": 10385,
+   "date": "2021-06-09T05:02:59.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=vOAkRLiJCdY",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13129,
+   "user": "makalogue",
+   "score": 10385,
+   "date": "2021-09-17T00:47:55.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=SZ_G9IRdtpU",
+   "comment": "タイム105"
+  },
+  {
+   "id": 13215,
+   "user": "April_lapispik",
+   "score": 10360,
+   "date": "2021-10-05T04:46:31.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/tD1toGfGcus",
+   "comment": "かなりの配置ゲーという印象　動画は解説つきです"
+  },
+  {
+   "id": 14041,
+   "user": "yuyuyunkel",
+   "score": 10386,
+   "date": "2021-11-30T13:09:57.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14770,
+   "user": "albut3",
+   "score": 10395,
+   "date": "2022-06-19T20:00:54.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=R_Kuu9wh5ng",
+   "comment": "これと逆側スタートのほうがスコア出ると思う"
+  },
+  {
+   "id": 14879,
+   "user": "eruvoore",
+   "score": 10299,
+   "date": "2022-08-07T07:44:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14887,
+   "user": "mercysnow",
+   "score": 10395,
+   "date": "2022-08-09T10:22:51.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/896cPCUfI_8",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15473,
+   "user": "mikou_musicgame",
+   "score": 10381,
+   "date": "2022-10-22T23:15:52.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15536,
+   "user": "yukidaruma",
+   "score": 10380,
+   "date": "2022-11-19T09:57:48.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15819,
+   "user": "toripoppo0307",
+   "score": 10375,
+   "date": "2023-02-13T21:02:51.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/n57Sy1XOFp8",
+   "comment": "妥協"
+  },
+  {
+   "id": 15876,
+   "user": "atmy_17",
+   "score": 10380,
+   "date": "2023-02-22T23:34:36.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15937,
+   "user": "koppacha",
+   "score": 10369,
+   "date": "2023-03-12T05:32:31.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "うーん"
+  },
+  {
+   "id": 17047,
+   "user": "spark573",
+   "score": 10392,
+   "date": "2023-09-23T09:07:50.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/2Hc5TVPeNQw?si=Vehhe05cYOljEQp_",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18236,
+   "user": "Argent2home",
+   "score": 10398,
+   "date": "2024-10-13T03:20:07.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/ONitzi-bvTY",
+   "comment": "それでも私は５匹旅"
+  },
+  {
+   "id": 18989,
+   "user": "KSK_yukaripik",
+   "score": 10386,
+   "date": "2025-11-28T05:30:06.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=CHe6pe9wtig",
+   "comment": "初動が酷すぎる"
+  },
+  {
+   "id": 19031,
+   "user": "alpha_0630",
+   "score": 10386,
+   "date": "2025-12-16T06:27:25.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/0ERfSA2ieSk",
+   "comment": "コメントなし "
+  },
+  {
+   "id": 19250,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10400,
+   "date": "2026-02-20T23:38:02.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/zRGwJySGSUU?si=be0sVFZnC6wn7v5d",
+   "comment": "WR history駆け込み"
+  },
+  {
+   "id": 19307,
+   "user": "pikitto",
+   "score": 10387,
+   "date": "2026-03-09T01:35:56.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/U0Sk7K9eYIM",
+   "comment": "間欠泉奥です。"
+  },
+  {
+   "id": 19420,
+   "user": "kobachi_no_udon",
+   "score": 10400,
+   "date": "2026-05-20T07:50:21.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/bnaB4KyrhgY",
+   "comment": "間欠泉121カウントで開いてるじゃん！！！"
+  },
+  {
+   "id": 20358,
+   "user": "Mutou_p2pw",
+   "score": 10390,
+   "date": "2026-10-22T03:06:24.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/lg3YKYVq2Ro",
+   "comment": "なんで早いかわからん"
+  }
+ ]
+}

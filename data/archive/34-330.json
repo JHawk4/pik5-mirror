@@ -1,0 +1,51 @@
+{
+ "rule": 34,
+ "stage": 330,
+ "posts": [
+  {
+   "id": 4624,
+   "user": "koppacha",
+   "score": 785,
+   "date": "2017-08-27T04:19:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11941,
+   "user": "Johnson",
+   "score": 3485,
+   "date": "2021-01-14T10:48:56.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/B8h5ByXAYXg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14683,
+   "user": "esu",
+   "score": 3745,
+   "date": "2022-05-07T18:52:44.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15455,
+   "user": "sozainoaji",
+   "score": 3445,
+   "date": "2022-10-19T03:39:24.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15530,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3795,
+   "date": "2022-11-15T23:49:34.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "残5:32 少し2Pの方が有利だと思います。"
+  }
+ ]
+}

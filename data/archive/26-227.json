@@ -1,0 +1,69 @@
+{
+ "rule": 26,
+ "stage": 227,
+ "posts": [
+  {
+   "id": 3940,
+   "user": "official",
+   "score": 10313,
+   "date": "2017-05-27T23:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 4024,
+   "user": "koppacha",
+   "score": 10349,
+   "date": "2017-06-02T05:47:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5158,
+   "user": "albut3",
+   "score": 10385,
+   "date": "2017-11-25T10:28:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1pよりはるかに楽"
+  },
+  {
+   "id": 5400,
+   "user": "HoshiKUZU_pik",
+   "score": 10256,
+   "date": "2017-12-31T02:49:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第1回ピク杯"
+  },
+  {
+   "id": 5976,
+   "user": "sectionmarilui",
+   "score": 10387,
+   "date": "2018-03-09T09:51:47.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6090,
+   "user": "PKtoyama",
+   "score": 10382,
+   "date": "2018-03-21T02:39:10.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6995,
+   "user": "miran",
+   "score": 10387,
+   "date": "2018-11-03T23:43:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

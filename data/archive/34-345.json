@@ -1,0 +1,42 @@
+{
+ "rule": 34,
+ "stage": 345,
+ "posts": [
+  {
+   "id": 4625,
+   "user": "koppacha",
+   "score": 383,
+   "date": "2017-08-27T04:19:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15114,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 405,
+   "date": "2022-09-26T23:47:17.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "ここは2Pの仕事がありません。"
+  },
+  {
+   "id": 15291,
+   "user": "sozainoaji",
+   "score": 388,
+   "date": "2022-10-09T03:40:14.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19760,
+   "user": "Jay596",
+   "score": 407,
+   "date": "2026-09-03T13:37:41.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=wkgK_oEq9N0",
+   "comment": "w/tcbtrio"
+  }
+ ]
+}

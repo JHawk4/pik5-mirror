@@ -1,0 +1,357 @@
+{
+ "rule": 10,
+ "stage": 102,
+ "posts": [
+  {
+   "id": 2,
+   "user": "koppacha",
+   "score": 366,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "すみません、手抜きです・・。"
+  },
+  {
+   "id": 77,
+   "user": "akapiku",
+   "score": 389,
+   "date": "2007-05-18T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まだいけると思います"
+  },
+  {
+   "id": 84,
+   "user": "miraaju",
+   "score": 549,
+   "date": "2007-07-22T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "もう限界です"
+  },
+  {
+   "id": 140,
+   "user": "koganeorima",
+   "score": 480,
+   "date": "2008-10-24T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "もう少しがんばれば５００いけるかも。"
+  },
+  {
+   "id": 166,
+   "user": "surasura",
+   "score": 402,
+   "date": "2009-08-16T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "やったー！４００台いった！"
+  },
+  {
+   "id": 181,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 462,
+   "date": "2010-03-24T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "500>>(越えられない壁)>>>>>462　クマなく回ることなんてできない。クマだけにｗｗｗ"
+  },
+  {
+   "id": 220,
+   "user": "tororo",
+   "score": 503,
+   "date": "2013-04-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "本編でショックアブゾーバーがあった所の敵＋青10と橋の先の黄20が未回収…そっちまで手が回らん！"
+  },
+  {
+   "id": 481,
+   "user": "HAPDAP",
+   "score": 490,
+   "date": "2015-07-15T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "+47。連打速度に比例して得点が上がっていくのが楽しくなってきた"
+  },
+  {
+   "id": 972,
+   "user": "noamoa",
+   "score": 522,
+   "date": "2015-11-07T04:16:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "Wii版はチャッピーを爆破出来なくて辛い"
+  },
+  {
+   "id": 975,
+   "user": "muratsubo",
+   "score": 437,
+   "date": "2015-11-07T04:27:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1400,
+   "user": "iid01",
+   "score": 569,
+   "date": "2016-01-26T01:14:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1470,
+   "user": "noamoa",
+   "score": 569,
+   "date": "2016-02-14T00:24:00.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/P98yZ-7Pksw",
+   "comment": "Wiiの爆弾の仕様がひどい"
+  },
+  {
+   "id": 2294,
+   "user": "muratsubo",
+   "score": 569,
+   "date": "2016-07-24T23:26:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "（＊`・∀・´＊）"
+  },
+  {
+   "id": 2387,
+   "user": "HoshiKUZU_pik",
+   "score": 569,
+   "date": "2016-10-07T18:14:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "なんで爆弾こっちに置くの？死にたいのかな？"
+  },
+  {
+   "id": 2577,
+   "user": "Gorei_50",
+   "score": 569,
+   "date": "2016-12-27T05:13:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3668,
+   "user": "HAPDAP",
+   "score": 497,
+   "date": "2017-04-30T22:42:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "500に乗らない。"
+  },
+  {
+   "id": 3879,
+   "user": "yuibitchi",
+   "score": 519,
+   "date": "2017-05-23T03:27:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5220,
+   "user": "sunadorineko",
+   "score": 538,
+   "date": "2017-12-11T03:13:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "やっと500超えた！"
+  },
+  {
+   "id": 8704,
+   "user": "alpha_0630",
+   "score": 569,
+   "date": "2020-06-29T02:58:15.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8716,
+   "user": "chw",
+   "score": 158,
+   "date": "2020-06-29T18:45:35.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "pikpik ninzin"
+  },
+  {
+   "id": 11300,
+   "user": "PiePusher11",
+   "score": 569,
+   "date": "2020-11-18T11:49:12.000000Z",
+   "console": 1,
+   "video": "https://www.twitch.tv/videos/47140793",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11582,
+   "user": "messhi475",
+   "score": 485,
+   "date": "2020-12-04T17:32:21.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ショックアブゾーバーがある場所は、いつもスルーしています。"
+  },
+  {
+   "id": 14724,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 550,
+   "date": "2022-05-23T00:07:11.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "残り19匹の内訳はおそらくショックアブゾーバーの所のアカコ(4)×4匹と犠牲3です。"
+  },
+  {
+   "id": 14793,
+   "user": "atmy_17",
+   "score": 569,
+   "date": "2022-07-09T03:57:07.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/kWoPL4f12LU",
+   "comment": "爆弾を極力使わないという答えにたどり着いた。"
+  },
+  {
+   "id": 15416,
+   "user": "riserise",
+   "score": 541,
+   "date": "2022-10-13T05:34:24.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15537,
+   "user": "albut3",
+   "score": 569,
+   "date": "2022-11-19T11:54:13.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=pHLV1y8moLI&ab_channel=albut3pik",
+   "comment": "開幕フタクチルート最高～"
+  },
+  {
+   "id": 15872,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 569,
+   "date": "2023-02-22T19:25:40.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/5tNKoUpFoJk",
+   "comment": "理論値です。爆弾を最低限しか使わなかったので時間ギリギリです。"
+  },
+  {
+   "id": 16652,
+   "user": "cesium137",
+   "score": 569,
+   "date": "2023-08-11T02:32:41.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/mxyuvWMcMug",
+   "comment": "バグ死がない天国のような環境"
+  },
+  {
+   "id": 16665,
+   "user": "Rirure",
+   "score": 519,
+   "date": "2023-08-11T21:49:08.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/S4mJWr3ynkA",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17123,
+   "user": "JHawk4",
+   "score": 569,
+   "date": "2023-10-19T03:06:40.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17220,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 480,
+   "date": "2023-11-07T09:22:56.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "久々にピクチャレに来たので記録更新しました"
+  },
+  {
+   "id": 17418,
+   "user": "StrongmanLin",
+   "score": 569,
+   "date": "2023-12-15T21:30:12.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/s8IC25Cwuz8",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17591,
+   "user": "Mokaygee",
+   "score": 569,
+   "date": "2024-02-13T14:30:26.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/5oQnUhzMBBw",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18890,
+   "user": "tori_rakko",
+   "score": 569,
+   "date": "2025-09-14T02:42:57.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19083,
+   "user": "pikitto",
+   "score": 569,
+   "date": "2025-12-31T20:52:05.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/_a3Y1zYdXz8",
+   "comment": "理論値いくだけなら簡単"
+  },
+  {
+   "id": 19486,
+   "user": "kobachi_no_udon",
+   "score": 569,
+   "date": "2026-06-11T04:22:22.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/cftFHKgh0L0",
+   "comment": "バクダンとチャッピーと"
+  },
+  {
+   "id": 19615,
+   "user": "Abebe0311",
+   "score": 402,
+   "date": "2026-06-24T02:32:01.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "400行った！嬉しい！"
+  },
+  {
+   "id": 19651,
+   "user": "Mutou_p2pw",
+   "score": 569,
+   "date": "2026-07-11T05:49:41.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/8obSVecSOeo?si=-X8vSxI8P81Zoq8m",
+   "comment": "戦闘の運ゲー感"
+  },
+  {
+   "id": 19816,
+   "user": "tpmorp_otm",
+   "score": 458,
+   "date": "2026-09-24T08:32:12.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

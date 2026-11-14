@@ -1,0 +1,69 @@
+{
+ "rule": 26,
+ "stage": 213,
+ "posts": [
+  {
+   "id": 3926,
+   "user": "official",
+   "score": 48323,
+   "date": "2017-05-27T23:52:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 3964,
+   "user": "koppacha",
+   "score": 48351,
+   "date": "2017-05-28T07:16:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5386,
+   "user": "HoshiKUZU_pik",
+   "score": 48316,
+   "date": "2017-12-31T01:42:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第1回ピク杯"
+  },
+  {
+   "id": 5986,
+   "user": "sectionmarilui",
+   "score": 48370,
+   "date": "2018-03-09T10:07:16.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6032,
+   "user": "albut3",
+   "score": 48375,
+   "date": "2018-03-14T23:20:18.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6077,
+   "user": "TEL",
+   "score": 48360,
+   "date": "2018-03-21T02:32:45.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7591,
+   "user": "Gorei_50",
+   "score": 48390,
+   "date": "2019-06-29T04:25:15.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/RM4BmRrGH6Y",
+   "comment": "コメントなし"
+  }
+ ]
+}

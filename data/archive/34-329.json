@@ -1,0 +1,51 @@
+{
+ "rule": 34,
+ "stage": 329,
+ "posts": [
+  {
+   "id": 4623,
+   "user": "koppacha",
+   "score": 1810,
+   "date": "2017-08-27T04:18:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12599,
+   "user": "Johnson",
+   "score": 4870,
+   "date": "2021-05-16T12:01:03.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=MKCevMAopyM",
+   "comment": "Nice improvement"
+  },
+  {
+   "id": 14985,
+   "user": "esu",
+   "score": 5470,
+   "date": "2022-08-22T02:48:50.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "まぁまぁ"
+  },
+  {
+   "id": 15454,
+   "user": "sozainoaji",
+   "score": 5050,
+   "date": "2022-10-19T03:38:53.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15490,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 5510,
+   "date": "2022-10-30T23:20:54.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "残7:47 最後のミスのせいで1秒ロスしました。"
+  }
+ ]
+}

@@ -1,0 +1,681 @@
+{
+ "rule": 21,
+ "stage": 202,
+ "posts": [
+  {
+   "id": 37,
+   "user": "official",
+   "score": 37690,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 81,
+   "user": "Johannes",
+   "score": 37777,
+   "date": "2007-06-08T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "無我夢中で挑戦しました。"
+  },
+  {
+   "id": 89,
+   "user": "scottish-fold",
+   "score": 37750,
+   "date": "2007-09-13T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "先週の記録をセーブしないで電源を落とした為 写真しか証拠が無くなってしまい 必死でした。"
+  },
+  {
+   "id": 111,
+   "user": "chouhougekinamashindamagumokyanon",
+   "score": 37752,
+   "date": "2008-08-15T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "たまたまタマゴからタマゴムシが出てきて子の記録になった。"
+  },
+  {
+   "id": 188,
+   "user": "shinya_",
+   "score": 37690,
+   "date": "2012-09-19T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ようやく微量に上がったのにこれなんですね。紫たくさん作った方がいい？"
+  },
+  {
+   "id": 226,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 37664,
+   "date": "2013-05-02T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "念のために記録を載せる。本当に念のためだ。"
+  },
+  {
+   "id": 425,
+   "user": "DRAFIX",
+   "score": 37763,
+   "date": "2014-12-27T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "紫は6~7匹がちょうどいい感じでした。2Fも白でガンガン運ぶ方が早いです。"
+  },
+  {
+   "id": 709,
+   "user": "Selenium_pikmin",
+   "score": 37877,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 899,
+   "user": "xxHIMExx",
+   "score": 37742,
+   "date": "2015-11-06T04:36:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1072,
+   "user": "maramon",
+   "score": 37780,
+   "date": "2015-11-08T03:12:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1344,
+   "user": "ZEOKU",
+   "score": 37875,
+   "date": "2015-11-30T00:41:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1358,
+   "user": "FeTellYou",
+   "score": 37891,
+   "date": "2015-12-02T20:50:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "どうすりゃ900乗るんだ"
+  },
+  {
+   "id": 2266,
+   "user": "pikmin893",
+   "score": 37897,
+   "date": "2016-07-06T16:30:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "B2でのゴミ地形は絶許"
+  },
+  {
+   "id": 2271,
+   "user": "PKtoyama",
+   "score": 37857,
+   "date": "2016-07-10T00:25:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2セットきた！！！タイムは遅い！w"
+  },
+  {
+   "id": 2398,
+   "user": "mezasi_pikmin",
+   "score": 37835,
+   "date": "2016-10-20T03:54:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシ"
+  },
+  {
+   "id": 2772,
+   "user": "ao1415",
+   "score": 37695,
+   "date": "2017-01-12T03:07:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ようやく公式超えた"
+  },
+  {
+   "id": 3089,
+   "user": "koppacha",
+   "score": 37874,
+   "date": "2017-02-26T00:37:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "B1F10匹＋B2F20匹＝タマゴムシ30匹"
+  },
+  {
+   "id": 4318,
+   "user": "miran",
+   "score": 37817,
+   "date": "2017-06-30T09:10:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1セット。アンハッピーセット。"
+  },
+  {
+   "id": 4407,
+   "user": "pikminnotoko",
+   "score": 37868,
+   "date": "2017-07-17T21:38:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "雑魚"
+  },
+  {
+   "id": 4561,
+   "user": "muratsubo",
+   "score": 37819,
+   "date": "2017-08-18T05:52:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "講座ありがたい"
+  },
+  {
+   "id": 4744,
+   "user": "agosuke",
+   "score": 37676,
+   "date": "2017-09-08T07:42:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4830,
+   "user": "Z_pikmin",
+   "score": 37908,
+   "date": "2017-09-21T01:32:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5318,
+   "user": "pik_Agnyan",
+   "score": 37898,
+   "date": "2017-12-23T13:51:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "初の2セット！しかも2階で！"
+  },
+  {
+   "id": 5331,
+   "user": "sectionmarilui",
+   "score": 37904,
+   "date": "2017-12-25T23:17:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "たまごなしでピクミンとはなんぞやってとこ学んできます"
+  },
+  {
+   "id": 5430,
+   "user": "yuibitchi",
+   "score": 37756,
+   "date": "2018-01-01T23:52:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5680,
+   "user": "ikimono334",
+   "score": 37898,
+   "date": "2018-01-26T21:23:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1Fムシ2セットタイム遅い・・・"
+  },
+  {
+   "id": 5807,
+   "user": "flyinghawk",
+   "score": 37909,
+   "date": "2018-02-13T19:11:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "2セット出るまでがしんどすぎ"
+  },
+  {
+   "id": 5813,
+   "user": "ahiru",
+   "score": 37881,
+   "date": "2018-02-15T08:13:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5921,
+   "user": "HoshiKUZU_pik",
+   "score": 37904,
+   "date": "2018-03-01T23:19:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6217,
+   "user": "tomatopikumin",
+   "score": 37750,
+   "date": "2018-04-22T06:07:15.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6358,
+   "user": "C4_child35",
+   "score": 37696,
+   "date": "2018-05-20T07:00:25.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシ出るタイミングが白ピクしかいない時とか勘弁してください…… タマゴムシ18"
+  },
+  {
+   "id": 6561,
+   "user": "HAPDAP",
+   "score": 37867,
+   "date": "2018-06-25T16:37:35.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "2セット147残し、2セット出た…のに(´；ω；｀)"
+  },
+  {
+   "id": 6562,
+   "user": "toripoppo0307",
+   "score": 37872,
+   "date": "2018-06-25T18:45:09.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "たすけてくれ…たすけてくれよぉ…"
+  },
+  {
+   "id": 6583,
+   "user": "dayomin",
+   "score": 37795,
+   "date": "2018-06-30T20:37:31.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "俺も2セット引きたい人生だった"
+  },
+  {
+   "id": 6609,
+   "user": "areiku",
+   "score": 37873,
+   "date": "2018-07-09T06:01:58.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "理想地形2セット埋まり見つからず。900超えは余裕だったはず"
+  },
+  {
+   "id": 6852,
+   "user": "noamoa",
+   "score": 37936,
+   "date": "2018-09-04T20:47:21.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "初2セット&良地形"
+  },
+  {
+   "id": 6859,
+   "user": "TEL",
+   "score": 37836,
+   "date": "2018-09-06T07:16:49.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1セット中央＋S字"
+  },
+  {
+   "id": 7413,
+   "user": "ToolAssistedPik",
+   "score": 37888,
+   "date": "2019-04-14T00:32:03.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "１階で２セット、１匹回収忘れ。"
+  },
+  {
+   "id": 7999,
+   "user": "enagem_akakuy",
+   "score": 37770,
+   "date": "2019-08-29T19:32:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8342,
+   "user": "mikou_musicgame",
+   "score": 37910,
+   "date": "2020-03-27T17:44:15.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "やっと2セットで良い感じに出来た"
+  },
+  {
+   "id": 8406,
+   "user": "shiocha78",
+   "score": 37905,
+   "date": "2020-04-29T23:48:21.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "やったぜ"
+  },
+  {
+   "id": 8664,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 37700,
+   "date": "2020-06-22T09:39:18.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/JvkRFMu_AXM",
+   "comment": "タマゴムシ処理計19(2B含む)運送ミス多し"
+  },
+  {
+   "id": 8685,
+   "user": "zukki",
+   "score": 37888,
+   "date": "2020-06-26T17:55:21.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/QFQXERobaLU",
+   "comment": "運を台無しにするクソ雑魚ムーブ 1F1セット2F2セット"
+  },
+  {
+   "id": 8732,
+   "user": "mayka",
+   "score": 37747,
+   "date": "2020-07-02T01:47:16.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ふきのとうにタイム使わされた"
+  },
+  {
+   "id": 9682,
+   "user": "keisen2853",
+   "score": 37926,
+   "date": "2020-07-31T05:10:17.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=YNhYSix_vd4",
+   "comment": "1匹逃し"
+  },
+  {
+   "id": 9770,
+   "user": "nikoshu_pik",
+   "score": 37925,
+   "date": "2020-08-18T01:28:43.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=t2AnjEFAC-4",
+   "comment": "事故発生"
+  },
+  {
+   "id": 9805,
+   "user": "6harapikumin",
+   "score": 37753,
+   "date": "2020-08-22T04:09:30.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9880,
+   "user": "ryuun",
+   "score": 37882,
+   "date": "2020-09-06T20:05:44.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/9PgSj5wETjY",
+   "comment": "後悔は残るが、70万点参考スコアを越えたのでもうやらない。やりたくない"
+  },
+  {
+   "id": 10601,
+   "user": "shizei3",
+   "score": 37739,
+   "date": "2020-09-27T00:45:25.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "新参です。よろしくお願いします。"
+  },
+  {
+   "id": 11365,
+   "user": "messhi475",
+   "score": 37693,
+   "date": "2020-11-21T05:29:18.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録だろうか・・・"
+  },
+  {
+   "id": 11401,
+   "user": "yuyuyunkel",
+   "score": 37911,
+   "date": "2020-11-24T06:48:19.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "つかれた"
+  },
+  {
+   "id": 11532,
+   "user": "Spidman",
+   "score": 37777,
+   "date": "2020-12-02T03:16:28.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "最後の回収ミスさえなければ公式タイム越えてた"
+  },
+  {
+   "id": 12130,
+   "user": "fuji_luck",
+   "score": 37920,
+   "date": "2021-02-01T23:28:22.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1階タイム110。2階ムシ19"
+  },
+  {
+   "id": 12451,
+   "user": "mercysnow",
+   "score": 37944,
+   "date": "2021-04-03T03:09:15.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/IKjxGbbwntE",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12678,
+   "user": "makalogue",
+   "score": 37913,
+   "date": "2021-06-02T03:08:12.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=kCODYnmH_To",
+   "comment": "地下1でムシ2セット20匹、地下2でムシ1セット10匹。タイム87→163"
+  },
+  {
+   "id": 13208,
+   "user": "nakatatsu",
+   "score": 37824,
+   "date": "2021-10-04T06:18:43.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "この70万基準高い。。"
+  },
+  {
+   "id": 14481,
+   "user": "spark573",
+   "score": 37935,
+   "date": "2022-03-29T02:51:55.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/dUwzs66GGbA",
+   "comment": "98+87 1Fの配置以外は全部良かった"
+  },
+  {
+   "id": 14745,
+   "user": "Tizimi77777",
+   "score": 37802,
+   "date": "2022-06-08T04:16:24.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1set"
+  },
+  {
+   "id": 14854,
+   "user": "eruvoore",
+   "score": 37779,
+   "date": "2022-08-07T07:34:08.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15054,
+   "user": "riserise",
+   "score": 37755,
+   "date": "2022-09-12T02:18:11.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "1Fで1セット"
+  },
+  {
+   "id": 15132,
+   "user": "hyogakibokaro",
+   "score": 37782,
+   "date": "2022-09-28T19:11:47.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "金回収し忘れてロスした…"
+  },
+  {
+   "id": 15992,
+   "user": "yukidaruma",
+   "score": 37920,
+   "date": "2023-03-25T02:26:02.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/CWCV10Ja9A0",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16156,
+   "user": "naza",
+   "score": 36500,
+   "date": "2023-06-02T11:39:37.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ども"
+  },
+  {
+   "id": 17242,
+   "user": "atmy_17",
+   "score": 37897,
+   "date": "2023-11-13T20:32:22.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17520,
+   "user": "kobachi_no_udon",
+   "score": 37951,
+   "date": "2024-01-10T02:29:52.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/tOIhaUeVXTQ",
+   "comment": "通常地形2セット最高！ 111+90"
+  },
+  {
+   "id": 17765,
+   "user": "Gorei_50",
+   "score": 38039,
+   "date": "2024-05-05T07:43:53.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/scZyrb7QBp0",
+   "comment": "111+78 YY"
+  },
+  {
+   "id": 17854,
+   "user": "albut3",
+   "score": 37951,
+   "date": "2024-05-25T08:50:14.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=zNtQC3dfu-k",
+   "comment": "まさかの展開"
+  },
+  {
+   "id": 18360,
+   "user": "April_lapispik",
+   "score": 37864,
+   "date": "2025-01-12T07:27:08.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/JjtXFNrM_E8",
+   "comment": "旧70万参考+39"
+  },
+  {
+   "id": 18370,
+   "user": "Argent2home",
+   "score": 37944,
+   "date": "2025-01-24T20:16:14.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/R4C_O-BKrPE",
+   "comment": "701500点レイドで見たドリーム"
+  },
+  {
+   "id": 18614,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 37952,
+   "date": "2025-08-01T16:52:38.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/JyDjY-1vAqM?si=6z4tnWLQNwGNYEoo",
+   "comment": "第2回ムシ取り大会にて"
+  },
+  {
+   "id": 18949,
+   "user": "alpha_0630",
+   "score": 37883,
+   "date": "2025-11-01T03:54:02.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/C121lYqhO0E",
+   "comment": "本当にひどい"
+  },
+  {
+   "id": 19032,
+   "user": "pikitto",
+   "score": 37912,
+   "date": "2025-12-17T00:29:15.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/zM6HNwNPAyw?si=vCYz0Np8gG5MQVw2",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19184,
+   "user": "iid01",
+   "score": 37951,
+   "date": "2026-01-30T05:47:35.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=rWB5TCiNSRg",
+   "comment": "1階2階ともに良地形、112+89"
+  },
+  {
+   "id": 19794,
+   "user": "Mutou_p2pw",
+   "score": 37926,
+   "date": "2026-09-14T23:56:00.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/KajgpO6EVgI",
+   "comment": "2階2セット1逃し"
+  },
+  {
+   "id": 19803,
+   "user": "tpmorp_otm",
+   "score": 37672,
+   "date": "2026-09-21T00:38:34.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

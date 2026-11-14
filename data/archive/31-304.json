@@ -1,0 +1,384 @@
+{
+ "rule": 31,
+ "stage": 304,
+ "posts": [
+  {
+   "id": 289,
+   "user": "official",
+   "score": 4380,
+   "date": "2013-07-24T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。"
+  },
+  {
+   "id": 308,
+   "user": "chappy4321",
+   "score": 3300,
+   "date": "2013-08-08T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "そんなにやりこんでません"
+  },
+  {
+   "id": 1623,
+   "user": "koppacha",
+   "score": 11070,
+   "date": "2016-03-05T20:42:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3456,
+   "user": "identete",
+   "score": 13290,
+   "date": "2017-04-02T18:19:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3800,
+   "user": "yuibitchi",
+   "score": 9270,
+   "date": "2017-05-19T02:57:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4160,
+   "user": "dermas",
+   "score": 8070,
+   "date": "2017-06-18T05:53:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4234,
+   "user": "muratsubo",
+   "score": 8880,
+   "date": "2017-06-21T21:11:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "hakushu"
+  },
+  {
+   "id": 6617,
+   "user": "noamoa",
+   "score": 11430,
+   "date": "2018-07-11T07:09:43.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9829,
+   "user": "ikimono334",
+   "score": 11640,
+   "date": "2020-08-26T02:24:01.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10935,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 11220,
+   "date": "2020-10-31T07:48:53.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "4:26残し　ゲキカラあると違うなぁ"
+  },
+  {
+   "id": 11032,
+   "user": "fukifufuki",
+   "score": 8340,
+   "date": "2020-11-05T23:41:07.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11079,
+   "user": "imedin0813",
+   "score": 3750,
+   "date": "2020-11-08T00:54:18.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "一旦"
+  },
+  {
+   "id": 11174,
+   "user": "hokogamae",
+   "score": 10560,
+   "date": "2020-11-13T03:47:03.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/-V_UMx0MJ_M",
+   "comment": "もっと紫を上手に使いたい"
+  },
+  {
+   "id": 11344,
+   "user": "nuinuisousou",
+   "score": 9600,
+   "date": "2020-11-20T10:03:55.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11359,
+   "user": "alpha_0630",
+   "score": 13620,
+   "date": "2020-11-20T20:11:37.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/H2lKHf7DCjk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11409,
+   "user": "refupikumin",
+   "score": 12750,
+   "date": "2020-11-25T00:25:28.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/komarefu/status/1331522818308096002?s=19",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11424,
+   "user": "yuyukkuri",
+   "score": 4140,
+   "date": "2020-11-26T00:48:54.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/VvPs694dmNQ",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11503,
+   "user": "MrAracn",
+   "score": 10140,
+   "date": "2020-11-30T08:39:41.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/SkD9RJpptOU",
+   "comment": "Room for a lot of improvement"
+  },
+  {
+   "id": 11531,
+   "user": "robustar",
+   "score": 12360,
+   "date": "2020-12-02T00:41:06.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/9feUWN4f_gc",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11556,
+   "user": "AbsolutlyAsh",
+   "score": 11430,
+   "date": "2020-12-03T11:32:48.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/rVNk5GjYrjc",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11599,
+   "user": "Jay596",
+   "score": 13830,
+   "date": "2020-12-05T12:28:44.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=KW4vKkoOphk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11773,
+   "user": "messhi475",
+   "score": 12690,
+   "date": "2020-12-28T02:15:31.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/NrKrVtB-UF0",
+   "comment": "ようやく、納得できる記録にたどり着けました。"
+  },
+  {
+   "id": 11818,
+   "user": "Santa",
+   "score": 12960,
+   "date": "2020-12-31T01:40:07.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/0gmVXjVNS5Y",
+   "comment": "微妙。"
+  },
+  {
+   "id": 11965,
+   "user": "Moony",
+   "score": 13620,
+   "date": "2021-01-15T20:48:33.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=JDAq-pvGx5c",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12014,
+   "user": "sectionmarilui",
+   "score": 14460,
+   "date": "2021-01-20T17:16:42.000000Z",
+   "console": 4,
+   "video": "https://www.nicovideo.jp/watch/sm38151826",
+   "comment": "ゲキカラはつよい"
+  },
+  {
+   "id": 12067,
+   "user": "JHawk4",
+   "score": 13650,
+   "date": "2021-01-24T10:02:53.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=evF9v57AFXg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12136,
+   "user": "ryuun",
+   "score": 13080,
+   "date": "2021-02-04T18:28:43.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/Hx0sYxPjfvU",
+   "comment": "ピクミンの配分が綺麗にまとまった"
+  },
+  {
+   "id": 12463,
+   "user": "Lusonice2021",
+   "score": 9300,
+   "date": "2021-04-07T00:43:15.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=ZUqlGQz9DVc",
+   "comment": "25:23 - no nectar + no gyro"
+  },
+  {
+   "id": 12775,
+   "user": "sanami",
+   "score": 8070,
+   "date": "2021-06-10T18:34:30.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12996,
+   "user": "April_lapispik",
+   "score": 12450,
+   "date": "2021-08-12T04:33:39.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13156,
+   "user": "ice_cube171",
+   "score": 12600,
+   "date": "2021-09-23T11:52:48.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/e_pzw_fh4F0",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13983,
+   "user": "mikou_musicgame",
+   "score": 11460,
+   "date": "2021-11-21T22:10:59.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14167,
+   "user": "ChasingJess",
+   "score": 7620,
+   "date": "2022-01-14T01:10:26.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14301,
+   "user": "shiocha78",
+   "score": 13350,
+   "date": "2022-03-07T05:35:55.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=HKRudP0cFh8",
+   "comment": "5:37残し"
+  },
+  {
+   "id": 15144,
+   "user": "6harapikumin",
+   "score": 11250,
+   "date": "2022-10-01T04:44:01.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15561,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 15360,
+   "date": "2022-11-23T01:45:57.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1595367653241413632?s=61&t=1v49bMFodYxcWbrA-xvW8A",
+   "comment": "残6:44 小技を使いました。"
+  },
+  {
+   "id": 15562,
+   "user": "esu",
+   "score": 15360,
+   "date": "2022-11-24T03:28:51.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/lmz5ZjkQI0A",
+   "comment": "うーん…"
+  },
+  {
+   "id": 18991,
+   "user": "Gunso_Begoma",
+   "score": 11280,
+   "date": "2025-12-04T22:08:16.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/L9mnmN2uG2I",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 19370,
+   "user": "yossysand",
+   "score": 9630,
+   "date": "2026-04-14T00:00:32.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/Wak3mlOG3Mk",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19468,
+   "user": "Tanakaaaa",
+   "score": 10830,
+   "date": "2026-06-10T08:49:04.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19575,
+   "user": "SiroganeRuby",
+   "score": 10890,
+   "date": "2026-06-21T00:09:36.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 20359,
+   "user": "96_Leaf",
+   "score": 14670,
+   "date": "2026-10-23T06:55:41.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/azv4ZCrhG6c",
+   "comment": "Switch2のロード短縮がハス周期に影響してます"
+  }
+ ]
+}

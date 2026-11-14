@@ -1,0 +1,33 @@
+{
+ "rule": 34,
+ "stage": 340,
+ "posts": [
+  {
+   "id": 12104,
+   "user": "Johnson",
+   "score": 18490,
+   "date": "2021-01-29T14:16:28.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=q4gj06Q-2o0",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15511,
+   "user": "sozainoaji",
+   "score": 19450,
+   "date": "2022-11-10T03:20:40.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15513,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 19630,
+   "date": "2022-11-11T02:23:25.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "残10:21 2人プレイで20000点は行けるのでしょうか。"
+  }
+ ]
+}

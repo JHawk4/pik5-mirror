@@ -1,0 +1,69 @@
+{
+ "rule": 26,
+ "stage": 226,
+ "posts": [
+  {
+   "id": 3939,
+   "user": "official",
+   "score": 32506,
+   "date": "2017-05-27T23:57:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 4220,
+   "user": "koppacha",
+   "score": 32575,
+   "date": "2017-06-21T05:45:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4326,
+   "user": "muratsubo",
+   "score": 32572,
+   "date": "2017-07-01T05:38:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "おしい"
+  },
+  {
+   "id": 6039,
+   "user": "albut3",
+   "score": 32669,
+   "date": "2018-03-14T23:25:33.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ムシなし！"
+  },
+  {
+   "id": 6089,
+   "user": "PKtoyama",
+   "score": 32606,
+   "date": "2018-03-21T02:38:49.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7303,
+   "user": "sectionmarilui",
+   "score": 32664,
+   "date": "2019-03-04T19:16:36.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/6Lgysg8fn28",
+   "comment": "そこそこ奥が深い"
+  },
+  {
+   "id": 18392,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32672,
+   "date": "2025-02-01T20:34:13.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/kwedXQTuX-Q?si=c-18iblytactClKs",
+   "comment": "3F3壁の中ではかなり良い配置でした"
+  }
+ ]
+}

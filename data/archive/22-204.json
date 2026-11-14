@@ -1,0 +1,690 @@
+{
+ "rule": 22,
+ "stage": 204,
+ "posts": [
+  {
+   "id": 39,
+   "user": "official",
+   "score": 13915,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 107,
+   "user": "chounenryoudainamo",
+   "score": 13871,
+   "date": "2008-08-06T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "食われた..."
+  },
+  {
+   "id": 108,
+   "user": "chappi-pikumin",
+   "score": 13896,
+   "date": "2008-08-09T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "初めての3位に入った。"
+  },
+  {
+   "id": 112,
+   "user": "chouhougekinamashindamagumokyanon",
+   "score": 13900,
+   "date": "2008-08-15T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録は遠い…"
+  },
+  {
+   "id": 183,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 13919,
+   "date": "2010-03-24T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "少しづつタイムを縮めていった集大成(?)"
+  },
+  {
+   "id": 189,
+   "user": "shinya_",
+   "score": 13925,
+   "date": "2012-09-19T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ゲキニガをイモガエルからシャコモドキにしたり散ってもいいようにしました"
+  },
+  {
+   "id": 427,
+   "user": "DRAFIX",
+   "score": 13935,
+   "date": "2014-12-27T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "壊さずに全回収できる壁がある奇跡的な配置に出会えました。運に感謝。"
+  },
+  {
+   "id": 593,
+   "user": "FeTellYou",
+   "score": 13962,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 711,
+   "user": "Selenium_pikmin",
+   "score": 13954,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 901,
+   "user": "xxHIMExx",
+   "score": 13924,
+   "date": "2015-11-06T04:39:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1088,
+   "user": "maramon",
+   "score": 13941,
+   "date": "2015-11-09T04:57:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2144,
+   "user": "ZEOKU",
+   "score": 13952,
+   "date": "2016-05-20T05:27:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2394,
+   "user": "pikmin893",
+   "score": 13967,
+   "date": "2016-10-15T05:01:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=5mZo4OMGhvI&feature=youtu.be",
+   "comment": "意☆味☆不☆明"
+  },
+  {
+   "id": 2412,
+   "user": "mezasi_pikmin",
+   "score": 13940,
+   "date": "2016-11-09T05:32:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "運"
+  },
+  {
+   "id": 2821,
+   "user": "U3",
+   "score": 13942,
+   "date": "2017-01-21T20:02:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2857,
+   "user": "ao1415",
+   "score": 13939,
+   "date": "2017-01-30T05:08:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "無犠牲にするのがつらい・・・"
+  },
+  {
+   "id": 3696,
+   "user": "HAPDAP",
+   "score": 13943,
+   "date": "2017-05-03T23:46:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "この辺スコア密集し過ぎ。"
+  },
+  {
+   "id": 4148,
+   "user": "PKtoyama",
+   "score": 13962,
+   "date": "2017-06-17T06:53:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "魔境化をすすめてしまった"
+  },
+  {
+   "id": 4345,
+   "user": "miran",
+   "score": 13951,
+   "date": "2017-07-04T05:48:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "青二才"
+  },
+  {
+   "id": 4416,
+   "user": "pikminnotoko",
+   "score": 13945,
+   "date": "2017-07-18T20:18:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まだ弱い"
+  },
+  {
+   "id": 4790,
+   "user": "imedin0813",
+   "score": 13935,
+   "date": "2017-09-18T03:48:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "壊さなくて良い壁のある神ルートでした。"
+  },
+  {
+   "id": 5131,
+   "user": "muratsubo",
+   "score": 13957,
+   "date": "2017-11-19T08:54:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "6"
+  },
+  {
+   "id": 5433,
+   "user": "yuibitchi",
+   "score": 13929,
+   "date": "2018-01-02T00:28:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5684,
+   "user": "dayomin",
+   "score": 13944,
+   "date": "2018-01-27T07:36:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5843,
+   "user": "iid01",
+   "score": 13967,
+   "date": "2018-02-18T15:33:00.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=TcPG_t9kEm8",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5916,
+   "user": "TEL",
+   "score": 13960,
+   "date": "2018-03-01T03:22:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5993,
+   "user": "koppacha",
+   "score": 13954,
+   "date": "2018-03-10T22:33:40.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6043,
+   "user": "areiku",
+   "score": 13950,
+   "date": "2018-03-15T03:36:46.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6136,
+   "user": "HoshiKUZU_pik",
+   "score": 13969,
+   "date": "2018-04-03T05:49:49.000000Z",
+   "console": 1,
+   "video": "https://m.youtube.com/watch?v=sZRWrDbT3Wo",
+   "comment": "気づいたら終わってた"
+  },
+  {
+   "id": 6220,
+   "user": "keisen2853",
+   "score": 13965,
+   "date": "2018-04-25T11:15:54.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "クソ"
+  },
+  {
+   "id": 6342,
+   "user": "tomatopikumin",
+   "score": 13922,
+   "date": "2018-05-18T23:32:35.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6368,
+   "user": "C4_child35",
+   "score": 13921,
+   "date": "2018-05-21T08:19:21.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "壁破壊が1枚いらない配置が欲しかった"
+  },
+  {
+   "id": 6389,
+   "user": "earaxm",
+   "score": 13945,
+   "date": "2018-05-24T01:17:38.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "今の実力じゃこの辺りが限界かな…"
+  },
+  {
+   "id": 6417,
+   "user": "akurori",
+   "score": 13922,
+   "date": "2018-06-01T06:18:19.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6423,
+   "user": "flyinghawk",
+   "score": 13965,
+   "date": "2018-06-02T19:40:52.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "配置ゲーム"
+  },
+  {
+   "id": 6644,
+   "user": "noamoa",
+   "score": 13962,
+   "date": "2018-07-21T21:14:38.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ミスをしなければ65だった"
+  },
+  {
+   "id": 6913,
+   "user": "sectionmarilui",
+   "score": 13968,
+   "date": "2018-09-23T05:38:18.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6917,
+   "user": "Z_pikmin",
+   "score": 13970,
+   "date": "2018-09-23T23:27:31.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "この記録が2位以下になったらこのコメントは表示されるのか"
+  },
+  {
+   "id": 7282,
+   "user": "fuji_luck",
+   "score": 13963,
+   "date": "2019-02-20T06:42:04.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7461,
+   "user": "enagem_akakuy",
+   "score": 13924,
+   "date": "2019-04-29T19:28:06.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8195,
+   "user": "ikimono334",
+   "score": 13969,
+   "date": "2020-01-19T05:53:23.000000Z",
+   "console": 2,
+   "video": "https://www.nicovideo.jp/watch/sm36250265",
+   "comment": "惜しかった"
+  },
+  {
+   "id": 8336,
+   "user": "shiocha78",
+   "score": 13952,
+   "date": "2020-03-26T08:58:41.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "やったぜ"
+  },
+  {
+   "id": 8459,
+   "user": "toripoppo0307",
+   "score": 13957,
+   "date": "2020-05-15T22:50:49.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/KG0EXWYT12U",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8602,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 13939,
+   "date": "2020-06-16T09:02:26.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/nnNtuZ5JW74",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 8838,
+   "user": "Tizimi77777",
+   "score": 13941,
+   "date": "2020-07-20T05:28:13.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9695,
+   "user": "pik_Agnyan",
+   "score": 13955,
+   "date": "2020-08-03T07:46:13.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "なんか出たし、まだいけた。"
+  },
+  {
+   "id": 9838,
+   "user": "6harapikumin",
+   "score": 13918,
+   "date": "2020-08-27T05:21:11.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9846,
+   "user": "mikou_musicgame",
+   "score": 13961,
+   "date": "2020-08-28T21:55:29.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "結構良い配置"
+  },
+  {
+   "id": 9849,
+   "user": "ToolAssistedPik",
+   "score": 13960,
+   "date": "2020-08-29T04:57:16.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "今日の成果１。良配置なかなか来ないです。"
+  },
+  {
+   "id": 9853,
+   "user": "alpha_0630",
+   "score": 13959,
+   "date": "2020-08-29T18:21:03.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/cUwAHgCwSZs",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9858,
+   "user": "zukki",
+   "score": 13963,
+   "date": "2020-08-30T03:49:06.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9884,
+   "user": "ryuun",
+   "score": 13955,
+   "date": "2020-09-06T23:39:30.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/iyQV2rFfqR0",
+   "comment": "いわゆる神配置だったが、今の自分の実力ではここまでだった"
+  },
+  {
+   "id": 11367,
+   "user": "messhi475",
+   "score": 13919,
+   "date": "2020-11-21T05:35:26.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録だろうか・・・"
+  },
+  {
+   "id": 12493,
+   "user": "hyogakibokaro",
+   "score": 13911,
+   "date": "2021-04-19T22:41:04.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "かえる苦戦した"
+  },
+  {
+   "id": 12578,
+   "user": "nikoshu_pik",
+   "score": 13967,
+   "date": "2021-05-07T23:51:44.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=CMUssdfHj_U",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12585,
+   "user": "yuyuyunkel",
+   "score": 13969,
+   "date": "2021-05-09T18:07:24.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/3Dd3Wk3ih20",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13161,
+   "user": "nakatatsu",
+   "score": 13950,
+   "date": "2021-09-23T16:10:28.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "まだつめれそう"
+  },
+  {
+   "id": 13374,
+   "user": "makalogue",
+   "score": 13959,
+   "date": "2021-11-03T20:09:24.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=G2r1KFA7c8k",
+   "comment": "タイム119"
+  },
+  {
+   "id": 14856,
+   "user": "eruvoore",
+   "score": 13924,
+   "date": "2022-08-07T07:35:08.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14888,
+   "user": "mercysnow",
+   "score": 13973,
+   "date": "2022-08-10T00:50:44.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/bwasPVKC3qw",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15935,
+   "user": "yukidaruma",
+   "score": 13969,
+   "date": "2023-03-11T10:18:00.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/OZ3BS13Xihg",
+   "comment": "最近だと一番嬉しい更新"
+  },
+  {
+   "id": 16035,
+   "user": "riserise",
+   "score": 13928,
+   "date": "2023-04-04T11:32:05.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16044,
+   "user": "atmy_17",
+   "score": 13964,
+   "date": "2023-04-06T23:01:24.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17016,
+   "user": "spark573",
+   "score": 13973,
+   "date": "2023-09-16T07:57:36.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/PZpByvVrevY?si=CRHVSvCX1v2OZnjh",
+   "comment": "なんか一瞬で出た"
+  },
+  {
+   "id": 17585,
+   "user": "kobachi_no_udon",
+   "score": 13979,
+   "date": "2024-02-10T01:57:32.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/uReBodONKvE",
+   "comment": "びっくり"
+  },
+  {
+   "id": 18344,
+   "user": "MRBE",
+   "score": 13865,
+   "date": "2024-12-30T04:46:43.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "初クリアです"
+  },
+  {
+   "id": 18353,
+   "user": "shino15nome",
+   "score": 13971,
+   "date": "2025-01-07T12:28:50.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/O_kHF-rFRWI?si=4c-yVgbuh1whFXwx",
+   "comment": "ガチでミスった"
+  },
+  {
+   "id": 18358,
+   "user": "albut3",
+   "score": 13976,
+   "date": "2025-01-11T10:50:04.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=kwzt-3PjGp8",
+   "comment": "キレがない"
+  },
+  {
+   "id": 18363,
+   "user": "April_lapispik",
+   "score": 13954,
+   "date": "2025-01-17T05:18:46.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/j28FdnLp33g",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18409,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 13976,
+   "date": "2025-02-14T16:25:50.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/57yzQ4WpK4k?si=NVTziEkzEzRC9vEk",
+   "comment": "ヤクザカブレ"
+  },
+  {
+   "id": 18601,
+   "user": "Gorei_50",
+   "score": 13982,
+   "date": "2025-07-27T04:27:08.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/CmdWhJAlCoU",
+   "comment": "落飾"
+  },
+  {
+   "id": 18923,
+   "user": "Argent2home",
+   "score": 13969,
+   "date": "2025-10-04T01:30:37.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/OnD0SM_9HyQ",
+   "comment": "回収我慢できない愚か者"
+  },
+  {
+   "id": 18990,
+   "user": "KSK_yukaripik",
+   "score": 13972,
+   "date": "2025-12-01T10:33:06.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/8-i4pqZtMXM",
+   "comment": "ヤクザカブレ　指運が良すぎた"
+  },
+  {
+   "id": 19316,
+   "user": "Mutou_p2pw",
+   "score": 13968,
+   "date": "2026-03-12T01:31:24.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "7時間程度ヤクザ地形"
+  },
+  {
+   "id": 19318,
+   "user": "pikitto",
+   "score": 13959,
+   "date": "2026-03-14T17:36:36.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/OH0pIULxHfY",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19807,
+   "user": "tpmorp_otm",
+   "score": 13937,
+   "date": "2026-09-22T07:52:57.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

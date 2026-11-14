@@ -1,0 +1,60 @@
+{
+ "rule": 26,
+ "stage": 221,
+ "posts": [
+  {
+   "id": 3934,
+   "user": "official",
+   "score": 32258,
+   "date": "2017-05-27T23:55:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 4019,
+   "user": "koppacha",
+   "score": 35376,
+   "date": "2017-06-02T05:44:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5395,
+   "user": "Selenium_pikmin",
+   "score": 35327,
+   "date": "2017-12-31T02:25:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第1回ピク杯"
+  },
+  {
+   "id": 6036,
+   "user": "albut3",
+   "score": 35402,
+   "date": "2018-03-14T23:23:38.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "引っかからず"
+  },
+  {
+   "id": 6084,
+   "user": "muratsubo",
+   "score": 35340,
+   "date": "2018-03-21T02:36:48.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6521,
+   "user": "sectionmarilui",
+   "score": 35403,
+   "date": "2018-06-19T03:11:03.000000Z",
+   "console": 1,
+   "video": "http://www.nicovideo.jp/watch/sm33387627",
+   "comment": "2Pだと中々楽しい"
+  }
+ ]
+}

@@ -1,0 +1,618 @@
+{
+ "rule": 22,
+ "stage": 225,
+ "posts": [
+  {
+   "id": 60,
+   "user": "official",
+   "score": 27894,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 66,
+   "user": "akapiku",
+   "score": 26270,
+   "date": "2007-04-30T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "２Fがピンチだった。どんどん死んでいくー"
+  },
+  {
+   "id": 105,
+   "user": "chounenryoudainamo",
+   "score": 27724,
+   "date": "2008-07-29T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "２階がむずかしかった。"
+  },
+  {
+   "id": 146,
+   "user": "dememadaradake",
+   "score": 27852,
+   "date": "2008-12-09T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ダマグモキャノン討伐：慣れれば簡単"
+  },
+  {
+   "id": 151,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 27911,
+   "date": "2009-01-18T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "キャノンが撃ち終わったら黄連投でおｋ。"
+  },
+  {
+   "id": 214,
+   "user": "shinya_",
+   "score": 27913,
+   "date": "2012-11-07T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ダマグモキャノンの倒し方改善と、運が重なりました。"
+  },
+  {
+   "id": 448,
+   "user": "DRAFIX",
+   "score": 27930,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "砲撃を喰らいながらも特攻するオリマー隊長。これぞベテラン宇宙飛行士の風格。"
+  },
+  {
+   "id": 614,
+   "user": "FeTellYou",
+   "score": 27999,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 732,
+   "user": "Selenium_pikmin",
+   "score": 27993,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 920,
+   "user": "xxHIMExx",
+   "score": 27946,
+   "date": "2015-11-06T04:46:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1286,
+   "user": "maramon",
+   "score": 27972,
+   "date": "2015-11-15T16:13:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1605,
+   "user": "ZEOKU",
+   "score": 27977,
+   "date": "2016-03-05T01:16:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2094,
+   "user": "HoshiKUZU_pik",
+   "score": 27999,
+   "date": "2016-05-02T19:41:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2934,
+   "user": "U3",
+   "score": 27988,
+   "date": "2017-02-10T20:23:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3106,
+   "user": "muratsubo",
+   "score": 27986,
+   "date": "2017-02-27T07:28:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "間欠泉が遠い～"
+  },
+  {
+   "id": 3121,
+   "user": "miran",
+   "score": 27993,
+   "date": "2017-03-01T20:50:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "このスコアの人多くない…？"
+  },
+  {
+   "id": 3993,
+   "user": "pikmin893",
+   "score": 28011,
+   "date": "2017-05-31T07:36:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "おしい、地形的にはいつもの"
+  },
+  {
+   "id": 4056,
+   "user": "keisen2853",
+   "score": 28006,
+   "date": "2017-06-04T23:27:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "間欠泉が拠点対岸"
+  },
+  {
+   "id": 4482,
+   "user": "PKtoyama",
+   "score": 28000,
+   "date": "2017-07-29T22:32:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "できるようになると楽しい"
+  },
+  {
+   "id": 4564,
+   "user": "areiku",
+   "score": 27948,
+   "date": "2017-08-19T06:32:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4740,
+   "user": "agosuke",
+   "score": 27890,
+   "date": "2017-09-08T06:24:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5128,
+   "user": "mezasi_pikmin",
+   "score": 27984,
+   "date": "2017-11-19T01:40:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "粉砕失敗干物"
+  },
+  {
+   "id": 5134,
+   "user": "Z_pikmin",
+   "score": 28004,
+   "date": "2017-11-20T01:03:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5514,
+   "user": "yuibitchi",
+   "score": 27912,
+   "date": "2018-01-05T20:42:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6117,
+   "user": "tomatopikumin",
+   "score": 27976,
+   "date": "2018-03-27T15:56:50.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6554,
+   "user": "HAPDAP",
+   "score": 27973,
+   "date": "2018-06-24T15:15:50.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "133残し、まだまだ"
+  },
+  {
+   "id": 6950,
+   "user": "sectionmarilui",
+   "score": 28005,
+   "date": "2018-10-04T06:42:20.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "やり方模索ちう"
+  },
+  {
+   "id": 7036,
+   "user": "iid01",
+   "score": 28016,
+   "date": "2018-12-10T03:54:46.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=TqrNRvoU_30",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7565,
+   "user": "shiocha78",
+   "score": 27978,
+   "date": "2019-05-25T03:36:17.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7638,
+   "user": "Tizimi77777",
+   "score": 27970,
+   "date": "2019-07-31T03:44:30.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7990,
+   "user": "enagem_akakuy",
+   "score": 27937,
+   "date": "2019-08-17T17:56:20.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8263,
+   "user": "ikimono334",
+   "score": 28006,
+   "date": "2020-02-11T06:11:38.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8310,
+   "user": "flyinghawk",
+   "score": 28006,
+   "date": "2020-03-14T03:53:54.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "意外と時間かかった"
+  },
+  {
+   "id": 8698,
+   "user": "noamoa",
+   "score": 28008,
+   "date": "2020-06-28T23:52:33.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/Znr8-7DrNfA",
+   "comment": "B1は61"
+  },
+  {
+   "id": 8736,
+   "user": "TEL",
+   "score": 27992,
+   "date": "2020-07-02T21:21:40.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "間欠泉押せなくて2秒損したり色々クソ"
+  },
+  {
+   "id": 8750,
+   "user": "mayka",
+   "score": 28003,
+   "date": "2020-07-04T22:41:58.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ついに28000台が出せました"
+  },
+  {
+   "id": 9737,
+   "user": "WaterFall",
+   "score": 27981,
+   "date": "2020-08-12T02:42:54.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "あと19pt"
+  },
+  {
+   "id": 9789,
+   "user": "pik_Agnyan",
+   "score": 28001,
+   "date": "2020-08-19T07:55:26.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "1F59、オヤジ手前毒ガス。"
+  },
+  {
+   "id": 9803,
+   "user": "ToolAssistedPik",
+   "score": 28008,
+   "date": "2020-08-21T23:04:12.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/uPOOUiXudHs",
+   "comment": "満足できるまで粘った。キャノンが危なかった。"
+  },
+  {
+   "id": 9813,
+   "user": "dayomin",
+   "score": 27982,
+   "date": "2020-08-23T05:55:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10611,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 27957,
+   "date": "2020-09-27T19:03:58.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/MRbh0V27UCw?t=2649",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10626,
+   "user": "ryuun",
+   "score": 28004,
+   "date": "2020-09-29T21:12:03.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/wv38r7oYzs4",
+   "comment": "1・2F共に地形が固定で、タマゴも無く敵の数も一定というだけで好きになるには十分すぎた"
+  },
+  {
+   "id": 10868,
+   "user": "nikoshu_pik",
+   "score": 28012,
+   "date": "2020-10-24T07:44:09.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=PbCPQqsDroA",
+   "comment": "対岸に投げすぎた"
+  },
+  {
+   "id": 11543,
+   "user": "messhi475",
+   "score": 27963,
+   "date": "2020-12-03T00:19:28.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 12274,
+   "user": "fuji_luck",
+   "score": 28006,
+   "date": "2021-02-26T23:24:45.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/QLb0h9lLYq0",
+   "comment": "70万RTA中の記録"
+  },
+  {
+   "id": 13171,
+   "user": "April_lapispik",
+   "score": 27984,
+   "date": "2021-09-26T03:42:02.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/MfdtZm1pSyY",
+   "comment": "タマコキンが意外と運ゲー"
+  },
+  {
+   "id": 13232,
+   "user": "mercysnow",
+   "score": 28021,
+   "date": "2021-10-09T10:55:00.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/ItUAoVsX-vU",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13296,
+   "user": "nakatatsu",
+   "score": 27991,
+   "date": "2021-10-22T22:06:46.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "一階がぐだった時に限って2階良配置、もっといける"
+  },
+  {
+   "id": 13391,
+   "user": "makalogue",
+   "score": 28004,
+   "date": "2021-11-03T21:04:11.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=xDViEMbzoMo",
+   "comment": "タイム57→164"
+  },
+  {
+   "id": 14040,
+   "user": "yuyuyunkel",
+   "score": 28010,
+   "date": "2021-11-30T13:08:52.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14245,
+   "user": "mikou_musicgame",
+   "score": 28007,
+   "date": "2022-02-09T15:25:55.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14595,
+   "user": "toripoppo0307",
+   "score": 27986,
+   "date": "2022-04-19T00:49:59.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/cHNtiIzsCOA",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14877,
+   "user": "eruvoore",
+   "score": 27945,
+   "date": "2022-08-07T07:43:20.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15990,
+   "user": "yukidaruma",
+   "score": 28009,
+   "date": "2023-03-24T14:33:33.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/bA3NpRRkohQ",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17294,
+   "user": "atmy_17",
+   "score": 28009,
+   "date": "2023-11-21T11:41:22.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17377,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 28024,
+   "date": "2023-12-06T00:28:04.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/aN4oqcB5bsU?si=FaUOwsosHaUU99jT",
+   "comment": "1Fも2Fもおそらく自己ベです"
+  },
+  {
+   "id": 17505,
+   "user": "zukki",
+   "score": 28010,
+   "date": "2024-01-04T23:18:26.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/Gsd6Qawck90?si=f7mhTf75PpvVBNeo",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17558,
+   "user": "alpha_0630",
+   "score": 28009,
+   "date": "2024-01-25T05:55:29.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/POFg9Qnh1M8",
+   "comment": "もっとうまくやりたかった"
+  },
+  {
+   "id": 17617,
+   "user": "albut3",
+   "score": 28025,
+   "date": "2024-02-25T02:18:52.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=zMAKL5lsUYU",
+   "comment": "またキャノン失敗したかと思ったら勝ってた"
+  },
+  {
+   "id": 17898,
+   "user": "Kap",
+   "score": 28009,
+   "date": "2024-06-09T08:45:28.000000Z",
+   "console": 1,
+   "video": "https://www.twitch.tv/videos/2155314337",
+   "comment": "Bad 1, really good 2"
+  },
+  {
+   "id": 18359,
+   "user": "spark573",
+   "score": 28023,
+   "date": "2025-01-11T23:29:40.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/EkYA_E9jWXs?si=KLv7goy0xg9m1ItG",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19309,
+   "user": "pikitto",
+   "score": 28008,
+   "date": "2026-03-10T05:17:40.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/PbLV0YIoZ7I",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19356,
+   "user": "Mutou_p2pw",
+   "score": 28006,
+   "date": "2026-04-11T02:30:24.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "録画忘れは良くない"
+  },
+  {
+   "id": 19389,
+   "user": "kobachi_no_udon",
+   "score": 28026,
+   "date": "2026-04-24T10:43:56.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/ebV3E1BbhTo",
+   "comment": "なんか最後怪しくないですか？？？"
+  },
+  {
+   "id": 19394,
+   "user": "koppacha",
+   "score": 28003,
+   "date": "2026-04-26T05:56:53.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/2bGUvnJOXTk",
+   "comment": "B1F56（自己べは61）いったんこれで許して"
+  },
+  {
+   "id": 19716,
+   "user": "Gorei_50",
+   "score": 28031,
+   "date": "2026-07-31T20:09:53.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/Kc5LgZXZyag",
+   "comment": "67(笑)+124"
+  },
+  {
+   "id": 19719,
+   "user": "Argent2home",
+   "score": 28020,
+   "date": "2026-08-05T02:41:09.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/v1qePODxQJw",
+   "comment": "手前にたましいの石があるなぁ...(^-^;"
+  },
+  {
+   "id": 20306,
+   "user": "tpmorp_otm",
+   "score": 27964,
+   "date": "2026-10-12T09:19:36.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

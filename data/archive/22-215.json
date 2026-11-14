@@ -1,0 +1,573 @@
+{
+ "rule": 22,
+ "stage": 215,
+ "posts": [
+  {
+   "id": 50,
+   "user": "official",
+   "score": 6176,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 74,
+   "user": "kurage",
+   "score": 6194,
+   "date": "2007-05-14T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ゾウノアシを10回くらい倒して出た記録（笑"
+  },
+  {
+   "id": 201,
+   "user": "shinya_",
+   "score": 6201,
+   "date": "2012-09-21T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "かなり効率が問われるステージのようです。つまり苦手。"
+  },
+  {
+   "id": 438,
+   "user": "DRAFIX",
+   "score": 6196,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "お宝は左右交互に配置されているようです。伸びしろ多し。"
+  },
+  {
+   "id": 604,
+   "user": "FeTellYou",
+   "score": 6233,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 722,
+   "user": "Selenium_pikmin",
+   "score": 6240,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 911,
+   "user": "xxHIMExx",
+   "score": 6173,
+   "date": "2015-11-06T04:43:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1264,
+   "user": "maramon",
+   "score": 6208,
+   "date": "2015-11-14T07:29:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1587,
+   "user": "ZEOKU",
+   "score": 6231,
+   "date": "2016-03-04T00:23:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2886,
+   "user": "miran",
+   "score": 6224,
+   "date": "2017-02-03T19:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3219,
+   "user": "U3",
+   "score": 6219,
+   "date": "2017-03-14T20:01:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4496,
+   "user": "PKtoyama",
+   "score": 6242,
+   "date": "2017-07-31T18:56:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "これ以上どうすればいいんだ"
+  },
+  {
+   "id": 4557,
+   "user": "pikmin893",
+   "score": 6247,
+   "date": "2017-08-17T22:35:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": ""
+  },
+  {
+   "id": 4568,
+   "user": "koppacha",
+   "score": 6239,
+   "date": "2017-08-20T00:45:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4736,
+   "user": "agosuke",
+   "score": 6167,
+   "date": "2017-09-08T05:38:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4903,
+   "user": "imedin0813",
+   "score": 6180,
+   "date": "2017-10-05T07:16:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "大変"
+  },
+  {
+   "id": 5099,
+   "user": "Z_pikmin",
+   "score": 6242,
+   "date": "2017-11-11T03:43:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "弱いけど満足"
+  },
+  {
+   "id": 5316,
+   "user": "mezasi_pikmin",
+   "score": 6233,
+   "date": "2017-12-23T03:43:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "伸びそうだけど色々アレでアレ"
+  },
+  {
+   "id": 5477,
+   "user": "yuibitchi",
+   "score": 6199,
+   "date": "2018-01-04T09:43:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5681,
+   "user": "pik_Agnyan",
+   "score": 6237,
+   "date": "2018-01-26T23:24:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "連打しすぎて疲れた。"
+  },
+  {
+   "id": 5945,
+   "user": "TEL",
+   "score": 6246,
+   "date": "2018-03-05T19:37:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ゾウノアシたどり着くまでもショイグモ処理も遅いけど妥協"
+  },
+  {
+   "id": 5947,
+   "user": "keisen2853",
+   "score": 6254,
+   "date": "2018-03-05T21:35:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5958,
+   "user": "sectionmarilui",
+   "score": 6258,
+   "date": "2018-03-07T07:20:00.000000Z",
+   "console": 1,
+   "video": "http://www.nicovideo.jp/watch/sm32849530",
+   "comment": "もうやりたくなくない"
+  },
+  {
+   "id": 6001,
+   "user": "dayomin",
+   "score": 6234,
+   "date": "2018-03-11T08:02:53.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "20位以内復帰"
+  },
+  {
+   "id": 6064,
+   "user": "flyinghawk",
+   "score": 6250,
+   "date": "2018-03-20T20:31:18.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "甘すぎ"
+  },
+  {
+   "id": 6159,
+   "user": "HoshiKUZU_pik",
+   "score": 6256,
+   "date": "2018-04-13T00:34:35.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ゾウノアシに嫌われた男"
+  },
+  {
+   "id": 6481,
+   "user": "iid01",
+   "score": 6259,
+   "date": "2018-06-16T18:29:59.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=0TlmM39QlXA",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6527,
+   "user": "HAPDAP",
+   "score": 6229,
+   "date": "2018-06-20T19:13:44.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ゾウノアシってどう考えても160カウントくらいまで倒せないんだけど"
+  },
+  {
+   "id": 6618,
+   "user": "noamoa",
+   "score": 6250,
+   "date": "2018-07-11T22:46:35.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ゾウノアシ2キル"
+  },
+  {
+   "id": 7590,
+   "user": "shiocha78",
+   "score": 6246,
+   "date": "2019-06-26T08:08:11.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タイミング教えてくれたお二方に感謝"
+  },
+  {
+   "id": 7595,
+   "user": "ikimono334",
+   "score": 6254,
+   "date": "2019-07-04T19:37:28.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "クモ処理失敗"
+  },
+  {
+   "id": 8129,
+   "user": "enagem_akakuy",
+   "score": 6205,
+   "date": "2019-12-22T16:35:03.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8325,
+   "user": "Tizimi77777",
+   "score": 6243,
+   "date": "2020-03-19T08:47:57.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8374,
+   "user": "mikou_musicgame",
+   "score": 6244,
+   "date": "2020-04-12T23:27:23.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8386,
+   "user": "ToolAssistedPik",
+   "score": 6246,
+   "date": "2020-04-18T04:15:20.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ようやっと手前間欠泉の一番奥ダイヤ。"
+  },
+  {
+   "id": 8433,
+   "user": "toripoppo0307",
+   "score": 6246,
+   "date": "2020-05-09T01:30:00.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/xezstCruq8U",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8555,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 6188,
+   "date": "2020-06-10T18:08:20.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/s2IbTLNpzQo",
+   "comment": "いやしんどいす"
+  },
+  {
+   "id": 8672,
+   "user": "muratsubo",
+   "score": 6234,
+   "date": "2020-06-22T21:03:29.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "「傾き」という概念がありましたね"
+  },
+  {
+   "id": 8724,
+   "user": "zukki",
+   "score": 6245,
+   "date": "2020-06-30T15:23:57.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "雑にやりすぎた"
+  },
+  {
+   "id": 8841,
+   "user": "fuji_luck",
+   "score": 6251,
+   "date": "2020-07-20T07:25:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "6月17日"
+  },
+  {
+   "id": 10651,
+   "user": "ryuun",
+   "score": 6241,
+   "date": "2020-10-03T19:13:54.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/by6BGc3pM98",
+   "comment": "腕が死による"
+  },
+  {
+   "id": 11516,
+   "user": "messhi475",
+   "score": 6202,
+   "date": "2020-12-01T02:29:24.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 12084,
+   "user": "nakatatsu",
+   "score": 6244,
+   "date": "2021-01-27T00:34:06.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "やっと間欠泉手前出てくれた"
+  },
+  {
+   "id": 12524,
+   "user": "hyogakibokaro",
+   "score": 6198,
+   "date": "2021-04-22T23:00:07.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "これでもか。。"
+  },
+  {
+   "id": 13382,
+   "user": "makalogue",
+   "score": 6248,
+   "date": "2021-11-03T20:37:43.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=Ih4iRIi_8IY",
+   "comment": "タイム138"
+  },
+  {
+   "id": 13844,
+   "user": "alpha_0630",
+   "score": 6244,
+   "date": "2021-11-09T06:10:49.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/ShOsQmset6c",
+   "comment": "ガバ"
+  },
+  {
+   "id": 13870,
+   "user": "nikoshu_pik",
+   "score": 6252,
+   "date": "2021-11-10T03:38:43.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=BTNgp9E6qOc",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14044,
+   "user": "April_lapispik",
+   "score": 6239,
+   "date": "2021-12-04T00:57:16.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "惜しい"
+  },
+  {
+   "id": 14068,
+   "user": "yukidaruma",
+   "score": 6240,
+   "date": "2021-12-12T05:17:48.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14282,
+   "user": "yuyuyunkel",
+   "score": 6249,
+   "date": "2022-02-27T08:59:02.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 14867,
+   "user": "eruvoore",
+   "score": 6192,
+   "date": "2022-08-07T07:39:43.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15122,
+   "user": "6harapikumin",
+   "score": 6207,
+   "date": "2022-09-28T02:30:50.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15567,
+   "user": "mercysnow",
+   "score": 6259,
+   "date": "2022-11-25T06:33:55.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/aKqUVokNxR4",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16376,
+   "user": "spark573",
+   "score": 6259,
+   "date": "2023-07-31T04:58:00.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/UKv2hdHmRgI",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17189,
+   "user": "albut3",
+   "score": 6261,
+   "date": "2023-10-28T08:05:12.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=jqt4X5G4_io",
+   "comment": "うれしい"
+  },
+  {
+   "id": 17253,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 6184,
+   "date": "2023-11-16T09:54:34.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず公式越え"
+  },
+  {
+   "id": 17278,
+   "user": "atmy_17",
+   "score": 6248,
+   "date": "2023-11-19T23:43:55.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "デレの成功率上がってきたはいいけど動きがイマイチ分かってない"
+  },
+  {
+   "id": 17746,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 6261,
+   "date": "2024-04-30T01:09:29.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/ufWKx41Xy6s?si=Uw6cgYE2I0Z3RFJp",
+   "comment": "運良く短時間で出せました"
+  },
+  {
+   "id": 18484,
+   "user": "Gorei_50",
+   "score": 6264,
+   "date": "2025-05-04T11:48:57.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/7oZhT0duDKM",
+   "comment": "満足な点数、不満足なプレイ"
+  },
+  {
+   "id": 19312,
+   "user": "pikitto",
+   "score": 6245,
+   "date": "2026-03-10T21:00:04.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "このステージあんまり好きじゃない"
+  },
+  {
+   "id": 19404,
+   "user": "Mutou_p2pw",
+   "score": 6252,
+   "date": "2026-05-02T17:08:57.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/CRv1HSWDcg8",
+   "comment": "ゾウデレできた！"
+  },
+  {
+   "id": 19410,
+   "user": "Argent2home",
+   "score": 6261,
+   "date": "2026-05-09T00:27:38.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/b-jNGSxzkJY",
+   "comment": "ムラショイ運んでくれなくて危なかった。"
+  },
+  {
+   "id": 19561,
+   "user": "kobachi_no_udon",
+   "score": 6261,
+   "date": "2026-06-18T00:25:25.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/Q0s1JdTYrgE",
+   "comment": "なかよし"
+  }
+ ]
+}

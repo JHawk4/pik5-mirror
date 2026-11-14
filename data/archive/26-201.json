@@ -1,0 +1,87 @@
+{
+ "rule": 26,
+ "stage": 201,
+ "posts": [
+  {
+   "id": 3914,
+   "user": "official",
+   "score": 35068,
+   "date": "2017-05-27T23:45:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 3947,
+   "user": "koppacha",
+   "score": 35079,
+   "date": "2017-05-28T07:05:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシ0匹"
+  },
+  {
+   "id": 4103,
+   "user": "flyinghawk",
+   "score": 35093,
+   "date": "2017-06-09T23:36:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシ3匹"
+  },
+  {
+   "id": 5375,
+   "user": "HoshiKUZU_pik",
+   "score": 35061,
+   "date": "2017-12-31T00:23:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "第1回ピク杯"
+  },
+  {
+   "id": 6023,
+   "user": "albut3",
+   "score": 35117,
+   "date": "2018-03-14T23:14:38.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "中央ムシ"
+  },
+  {
+   "id": 6065,
+   "user": "muratsubo",
+   "score": 35108,
+   "date": "2018-03-21T02:25:43.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6204,
+   "user": "sectionmarilui",
+   "score": 35161,
+   "date": "2018-04-21T07:47:14.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ムシ出なさすぎだけど10匹はおいしい"
+  },
+  {
+   "id": 16020,
+   "user": "atmy_17",
+   "score": 35118,
+   "date": "2023-03-31T20:00:38.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18395,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 35161,
+   "date": "2025-02-04T03:43:13.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/75Do6fCbHoQ?si=462tsDjHt0hh-rhZ",
+   "comment": "シングルシューティングです"
+  }
+ ]
+}

@@ -1,0 +1,519 @@
+{
+ "rule": 41,
+ "stage": 401,
+ "posts": [
+  {
+   "id": 16323,
+   "user": "noamoa",
+   "score": 161,
+   "date": "2023-07-30T01:37:12.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 16344,
+   "user": "alpha_0630",
+   "score": 326,
+   "date": "2023-07-30T05:48:45.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/0yygNyoGzjo",
+   "comment": "体験版"
+  },
+  {
+   "id": 16363,
+   "user": "kobachi_no_udon",
+   "score": 336,
+   "date": "2023-07-30T18:46:09.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/Up0eKgOjuZE",
+   "comment": "体験版"
+  },
+  {
+   "id": 16370,
+   "user": "Otomo",
+   "score": 330,
+   "date": "2023-07-30T23:37:13.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "体験版"
+  },
+  {
+   "id": 16419,
+   "user": "hocotate",
+   "score": 315,
+   "date": "2023-08-01T04:23:14.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "製品版"
+  },
+  {
+   "id": 16424,
+   "user": "pikpikradish",
+   "score": 307,
+   "date": "2023-08-01T06:27:42.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 16462,
+   "user": "biwako",
+   "score": 309,
+   "date": "2023-08-02T22:08:51.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず１０位以内に載ればいいなと思って"
+  },
+  {
+   "id": 16469,
+   "user": "mkt918",
+   "score": 317,
+   "date": "2023-08-03T00:21:00.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16479,
+   "user": "robustar",
+   "score": 331,
+   "date": "2023-08-03T05:56:40.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=Omsp9rryzFs",
+   "comment": "ここ本当に伸びない"
+  },
+  {
+   "id": 16498,
+   "user": "Lillabelle_",
+   "score": 337,
+   "date": "2023-08-04T03:31:24.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/_Lillabelle_/status/1687440818481815552?s=20",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16507,
+   "user": "PiePusher11",
+   "score": 334,
+   "date": "2023-08-04T12:02:34.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16511,
+   "user": "mikou_musicgame",
+   "score": 320,
+   "date": "2023-08-04T18:14:58.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず"
+  },
+  {
+   "id": 16516,
+   "user": "momo",
+   "score": 348,
+   "date": "2023-08-04T22:01:53.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/p70792/status/1687719316744249344",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16631,
+   "user": "sozainoaji",
+   "score": 286,
+   "date": "2023-08-10T22:21:39.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16664,
+   "user": "keisen2853",
+   "score": 349,
+   "date": "2023-08-11T21:36:31.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=jhqSTBQfmP0",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16720,
+   "user": "yuyuyunkel",
+   "score": 345,
+   "date": "2023-08-13T22:49:32.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "久々投稿"
+  },
+  {
+   "id": 16721,
+   "user": "yoshi0216",
+   "score": 313,
+   "date": "2023-08-14T01:45:55.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16735,
+   "user": "LinkSond",
+   "score": 339,
+   "date": "2023-08-14T19:28:26.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/1E4R2diap2A",
+   "comment": "Dandori Issue, unfortunately"
+  },
+  {
+   "id": 16742,
+   "user": "katsun",
+   "score": 308,
+   "date": "2023-08-15T08:04:57.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "テスト2"
+  },
+  {
+   "id": 16773,
+   "user": "hyogakibokaro",
+   "score": 336,
+   "date": "2023-08-18T21:12:33.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16801,
+   "user": "Jer",
+   "score": 353,
+   "date": "2023-08-21T06:22:06.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/l5Zarc0idC4",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16823,
+   "user": "hanihani_gogo",
+   "score": 321,
+   "date": "2023-08-25T01:03:38.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "下手ですが、何か？"
+  },
+  {
+   "id": 16838,
+   "user": "takeshi",
+   "score": 351,
+   "date": "2023-08-27T08:09:01.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16889,
+   "user": "qwertyuiop",
+   "score": 311,
+   "date": "2023-08-31T04:16:53.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16961,
+   "user": "nyannsu827",
+   "score": 258,
+   "date": "2023-09-06T05:19:23.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17006,
+   "user": "Lotus",
+   "score": 336,
+   "date": "2023-09-13T04:49:41.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "ダンドリ養成所なにもわからない"
+  },
+  {
+   "id": 17061,
+   "user": "Kumakuma",
+   "score": 328,
+   "date": "2023-09-26T08:50:49.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "ジャイロ有り無しってそんな変わるんかな。チャート見直さんとこれ以上は無理や"
+  },
+  {
+   "id": 17160,
+   "user": "hone-sutookume",
+   "score": 295,
+   "date": "2023-10-21T17:42:35.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17169,
+   "user": "aqr2",
+   "score": 323,
+   "date": "2023-10-23T13:12:13.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17450,
+   "user": "techimin",
+   "score": 311,
+   "date": "2023-12-22T20:13:31.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17502,
+   "user": "Anthony",
+   "score": 335,
+   "date": "2024-01-03T17:43:57.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/DiK897BhHho",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17538,
+   "user": "oobakekagami",
+   "score": 350,
+   "date": "2024-01-17T23:46:07.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/KvgY6wC3AOY",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17581,
+   "user": "Pikusuke",
+   "score": 292,
+   "date": "2024-02-09T18:13:39.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "楽しかったです"
+  },
+  {
+   "id": 17750,
+   "user": "yoshikikawai",
+   "score": 331,
+   "date": "2024-04-30T16:13:42.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17804,
+   "user": "6harapikumin",
+   "score": 323,
+   "date": "2024-05-10T19:55:20.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17887,
+   "user": "shiocha78",
+   "score": 348,
+   "date": "2024-06-04T05:08:57.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/fkxo3DJCTlU",
+   "comment": "kako no ibutsu"
+  },
+  {
+   "id": 18186,
+   "user": "wnsrn8650",
+   "score": 342,
+   "date": "2024-09-21T23:28:27.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18269,
+   "user": "shino15nome",
+   "score": 357,
+   "date": "2024-11-13T05:56:51.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/NWxwkbfA8rU?si=-PFLsXHhsdRTwvKW",
+   "comment": "楽しすぎる"
+  },
+  {
+   "id": 18489,
+   "user": "sugarsugarlun",
+   "score": 290,
+   "date": "2025-05-16T03:42:15.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18675,
+   "user": "_Axxx",
+   "score": 338,
+   "date": "2025-08-24T09:57:46.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18704,
+   "user": "HAPDAP",
+   "score": 274,
+   "date": "2025-08-29T01:43:10.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "とりあえず投稿"
+  },
+  {
+   "id": 18978,
+   "user": "albut3",
+   "score": 363,
+   "date": "2025-11-20T03:55:07.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=qDuFyrvVQok",
+   "comment": "養成完了"
+  },
+  {
+   "id": 18981,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 363,
+   "date": "2025-11-22T02:15:18.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/h6qHa5IFGss?si=v42Lbf5ZAThijlBz",
+   "comment": "最後ミスってますが"
+  },
+  {
+   "id": 19063,
+   "user": "y",
+   "score": 336,
+   "date": "2025-12-28T17:17:41.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19431,
+   "user": "mercysnow",
+   "score": 363,
+   "date": "2026-05-27T07:17:18.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/RdtB1FtYT9Y?si=vsHi9e3YKZ9xIAOh",
+   "comment": "もうやりたくない"
+  },
+  {
+   "id": 19506,
+   "user": "Tanakaaaa",
+   "score": 275,
+   "date": "2026-06-11T22:21:35.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19669,
+   "user": "samidare",
+   "score": 288,
+   "date": "2026-07-16T08:14:40.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19766,
+   "user": "April_lapispik",
+   "score": 327,
+   "date": "2026-09-05T06:00:23.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "嫌"
+  },
+  {
+   "id": 19767,
+   "user": "nitrosmish",
+   "score": 339,
+   "date": "2026-09-05T06:05:01.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "インスタント研究会より。ずっと昔から苦手意識あったんですが少しは…"
+  },
+  {
+   "id": 19768,
+   "user": "toripoppo0307",
+   "score": 352,
+   "date": "2026-09-05T10:59:08.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/qv7Qig0UEDU",
+   "comment": "やったー"
+  },
+  {
+   "id": 19769,
+   "user": "Mutou_p2pw",
+   "score": 352,
+   "date": "2026-09-05T17:52:32.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/ZNKoXjEP6m0?si=9vl07hCMNyDEcxn7",
+   "comment": "もうちょっと伸びそう"
+  },
+  {
+   "id": 19770,
+   "user": "koppacha",
+   "score": 347,
+   "date": "2026-09-05T18:27:58.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "インスタント研究会より"
+  },
+  {
+   "id": 19781,
+   "user": "himazinn",
+   "score": 328,
+   "date": "2026-09-10T02:24:40.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=GYND8SFiJwI",
+   "comment": "Switch2 Edition配信決定記念に初投稿。初心者です。"
+  },
+  {
+   "id": 19786,
+   "user": "96_Leaf",
+   "score": 360,
+   "date": "2026-09-11T11:18:02.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/jZr4KK3X640",
+   "comment": "ドローン解禁"
+  },
+  {
+   "id": 19822,
+   "user": "13101575",
+   "score": 359,
+   "date": "2026-09-29T00:10:00.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 19839,
+   "user": "pikitto",
+   "score": 360,
+   "date": "2026-10-02T21:03:56.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/rrEEIJPMQGU?si=7oigS4cMYMyU_Sqh",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 20561,
+   "user": "Gorei_50",
+   "score": 363,
+   "date": "2026-11-13T21:47:34.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/Jmzy6ZM3QOE",
+   "comment": "コメントなし"
+  }
+ ]
+}

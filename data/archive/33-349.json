@@ -1,0 +1,384 @@
+{
+ "rule": 33,
+ "stage": 349,
+ "posts": [
+  {
+   "id": 300,
+   "user": "official",
+   "score": 781,
+   "date": "2013-07-24T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。"
+  },
+  {
+   "id": 412,
+   "user": "yamany",
+   "score": 791,
+   "date": "2014-07-18T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "限界"
+  },
+  {
+   "id": 1017,
+   "user": "muratsubo",
+   "score": 706,
+   "date": "2015-11-07T04:58:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1630,
+   "user": "koppacha",
+   "score": 809,
+   "date": "2016-03-05T20:48:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2238,
+   "user": "noamoa",
+   "score": 803,
+   "date": "2016-06-20T05:50:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2376,
+   "user": "U3",
+   "score": 818,
+   "date": "2016-09-27T05:44:00.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 3831,
+   "user": "yuibitchi",
+   "score": 663,
+   "date": "2017-05-19T06:32:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4171,
+   "user": "dermas",
+   "score": 698,
+   "date": "2017-06-18T05:58:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5705,
+   "user": "Z_pikmin",
+   "score": 818,
+   "date": "2018-01-30T23:19:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6109,
+   "user": "tomatopikumin",
+   "score": 780,
+   "date": "2018-03-26T05:56:09.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8492,
+   "user": "rising",
+   "score": 783,
+   "date": "2020-06-01T05:36:46.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/etvEAH44LXU ",
+   "comment": "ピクミンの実況者がチャレンジ"
+  },
+  {
+   "id": 10721,
+   "user": "sdsg",
+   "score": 817,
+   "date": "2020-10-11T06:28:43.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 10969,
+   "user": "zukki",
+   "score": 863,
+   "date": "2020-11-02T07:00:59.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/H5Z9SwoQe4c",
+   "comment": "負けないぞ"
+  },
+  {
+   "id": 11057,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 856,
+   "date": "2020-11-07T01:06:20.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "やっとワンキルできた"
+  },
+  {
+   "id": 11091,
+   "user": "imedin0813",
+   "score": 791,
+   "date": "2020-11-08T06:25:39.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "一旦"
+  },
+  {
+   "id": 11112,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 827,
+   "date": "2020-11-10T05:05:34.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "犠牲4匹　ダメージを与え過ぎないのも重要ですね"
+  },
+  {
+   "id": 11151,
+   "user": "sumahojinazukatori",
+   "score": 859,
+   "date": "2020-11-12T06:35:23.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/0i_QHl-jyFc",
+   "comment": "上手く火力が出せません其の二"
+  },
+  {
+   "id": 11167,
+   "user": "April_lapispik",
+   "score": 781,
+   "date": "2020-11-12T23:13:48.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11234,
+   "user": "toripoppo0307",
+   "score": 866,
+   "date": "2020-11-16T01:09:11.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/toripoppo0307/status/1328278068935356418",
+   "comment": "WRタイ"
+  },
+  {
+   "id": 11281,
+   "user": "yuyukkuri",
+   "score": 775,
+   "date": "2020-11-18T02:49:22.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11422,
+   "user": "messhi475",
+   "score": 817,
+   "date": "2020-11-25T11:51:12.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11558,
+   "user": "PiePusher11",
+   "score": 867,
+   "date": "2020-12-03T16:14:51.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=9Kng2khbmpQ",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11639,
+   "user": "AbsolutlyAsh",
+   "score": 864,
+   "date": "2020-12-09T13:29:57.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/YS7fapHzg_4",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11709,
+   "user": "ryuun",
+   "score": 865,
+   "date": "2020-12-17T20:50:26.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/VDlRnejksOY",
+   "comment": "連打苦手民なりに頑張った"
+  },
+  {
+   "id": 11792,
+   "user": "mikou_musicgame",
+   "score": 866,
+   "date": "2020-12-30T00:07:03.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12034,
+   "user": "pikuna",
+   "score": 833,
+   "date": "2021-01-22T17:30:38.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "どうやったらワンキルできんの"
+  },
+  {
+   "id": 12095,
+   "user": "iid01",
+   "score": 866,
+   "date": "2021-01-28T07:02:46.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=b4D9eADzhBM",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12808,
+   "user": "sanami",
+   "score": 783,
+   "date": "2021-06-13T17:46:30.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12823,
+   "user": "Y-TeNdoo404",
+   "score": 866,
+   "date": "2021-06-16T07:50:02.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 12828,
+   "user": "XianTwa",
+   "score": 867,
+   "date": "2021-06-18T11:33:09.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/NvwokVtRz3Q",
+   "comment": "Sorry for bad video quality"
+  },
+  {
+   "id": 13115,
+   "user": "K",
+   "score": 862,
+   "date": "2021-09-03T08:20:56.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "やっと30秒台"
+  },
+  {
+   "id": 13305,
+   "user": "ice_cube171",
+   "score": 866,
+   "date": "2021-10-24T12:40:21.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/UG0tQV41_Vw",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 13979,
+   "user": "esu",
+   "score": 868,
+   "date": "2021-11-21T04:34:08.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/G93tx7BB4jQ",
+   "comment": "苦行"
+  },
+  {
+   "id": 15131,
+   "user": "6harapikumin",
+   "score": 854,
+   "date": "2022-09-28T12:58:39.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15618,
+   "user": "CyanProphecy",
+   "score": 843,
+   "date": "2022-12-02T11:54:44.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15699,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 868,
+   "date": "2022-12-29T03:14:37.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/16Ms4mgaDjM",
+   "comment": "全体的にきつかったです。"
+  },
+  {
+   "id": 15858,
+   "user": "pon",
+   "score": 864,
+   "date": "2023-02-20T23:27:12.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15973,
+   "user": "rusuto",
+   "score": 797,
+   "date": "2023-03-20T21:13:44.000000Z",
+   "console": 3,
+   "video": "",
+   "comment": "思ったように攻撃しにくい"
+  },
+  {
+   "id": 16396,
+   "user": "hanihani_gogo",
+   "score": 854,
+   "date": "2023-07-31T19:54:55.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17002,
+   "user": "usa2wan2",
+   "score": 857,
+   "date": "2023-09-11T05:36:25.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "三十秒台出したい"
+  },
+  {
+   "id": 19691,
+   "user": "kaede_pikmin",
+   "score": 867,
+   "date": "2026-07-21T20:48:22.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/3xWgg4aJh_M",
+   "comment": "リアルで空いてる時間全部ヌマアラシに注いでやっと33秒！✨ここの周回は当分やらないと思うけど、次やるときは32秒を目標にします💕"
+  },
+  {
+   "id": 19750,
+   "user": "Jay596",
+   "score": 868,
+   "date": "2026-08-24T12:57:30.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=JIC2vY-ltGw",
+   "comment": "weird respawn after crystal break"
+  }
+ ]
+}

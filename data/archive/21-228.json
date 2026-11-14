@@ -1,0 +1,564 @@
+{
+ "rule": 21,
+ "stage": 228,
+ "posts": [
+  {
+   "id": 63,
+   "user": "official",
+   "score": 32421,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 96,
+   "user": "shinya_",
+   "score": 32454,
+   "date": "2008-03-14T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシが出てこの記録だが他のも？運要素がかなり強い。"
+  },
+  {
+   "id": 120,
+   "user": "chounenryoudainamo",
+   "score": 32291,
+   "date": "2008-08-24T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ドスン！ビリビリ！ピョン！ふ～"
+  },
+  {
+   "id": 236,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 32413,
+   "date": "2013-05-02T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "降ってくる生物を探すのに時間が…"
+  },
+  {
+   "id": 451,
+   "user": "DRAFIX",
+   "score": 32455,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシあり。アメボウズも丁寧に処理しないとピクミンが潰されてしまいます。"
+  },
+  {
+   "id": 735,
+   "user": "Selenium_pikmin",
+   "score": 32573,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 529,
+   "user": "keisen2853",
+   "score": 32648,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 815,
+   "user": "muratsubo",
+   "score": 32492,
+   "date": "2015-11-02T22:29:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": ""
+  },
+  {
+   "id": 923,
+   "user": "xxHIMExx",
+   "score": 32352,
+   "date": "2015-11-06T04:47:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1112,
+   "user": "maramon",
+   "score": 32466,
+   "date": "2015-11-09T05:04:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1361,
+   "user": "FeTellYou",
+   "score": 32576,
+   "date": "2015-12-06T02:19:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "虫18"
+  },
+  {
+   "id": 1799,
+   "user": "HoshiKUZU_pik",
+   "score": 32619,
+   "date": "2016-03-15T02:37:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1944,
+   "user": "ZEOKU",
+   "score": 32592,
+   "date": "2016-04-05T06:50:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2067,
+   "user": "noamoa",
+   "score": 32614,
+   "date": "2016-04-29T02:12:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "タマゴムシ2セット引いた上に良地形"
+  },
+  {
+   "id": 2407,
+   "user": "pikmin893",
+   "score": 32601,
+   "date": "2016-10-28T21:44:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "微妙"
+  },
+  {
+   "id": 2498,
+   "user": "HAPDAP",
+   "score": 32463,
+   "date": "2016-12-16T17:42:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "ﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞﾄﾞ"
+  },
+  {
+   "id": 3854,
+   "user": "mezasi_pikmin",
+   "score": 32567,
+   "date": "2017-05-20T18:33:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "70万達成です"
+  },
+  {
+   "id": 4329,
+   "user": "miran",
+   "score": 32596,
+   "date": "2017-07-02T04:33:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ラスト卵に全てを賭けて多めに連れて行ったら大当たり"
+  },
+  {
+   "id": 4415,
+   "user": "pikminnotoko",
+   "score": 32580,
+   "date": "2017-07-18T18:13:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "5時間かけて2セットゴミ配置を引く男"
+  },
+  {
+   "id": 5026,
+   "user": "imedin0813",
+   "score": 32426,
+   "date": "2017-10-15T11:32:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴムシひいたときに限って土管×2&2死…"
+  },
+  {
+   "id": 5168,
+   "user": "sectionmarilui",
+   "score": 32634,
+   "date": "2017-11-26T00:44:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "たすけて…たすけてくれよぉ…なぁ…"
+  },
+  {
+   "id": 5547,
+   "user": "yuibitchi",
+   "score": 32367,
+   "date": "2018-01-07T03:50:00.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5803,
+   "user": "dayomin",
+   "score": 32553,
+   "date": "2018-02-12T05:27:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "初2セットで1匹死亡"
+  },
+  {
+   "id": 5868,
+   "user": "pik_Agnyan",
+   "score": 32575,
+   "date": "2018-02-20T15:17:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5941,
+   "user": "TEL",
+   "score": 32604,
+   "date": "2018-03-05T02:13:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "もうちょい練習"
+  },
+  {
+   "id": 6579,
+   "user": "toripoppo0307",
+   "score": 32723,
+   "date": "2018-06-30T08:02:23.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=_qgSBFhgrgY",
+   "comment": " 4セット(回収漏れ1)。夢であってほしかった。本当に謝るしかない。"
+  },
+  {
+   "id": 6591,
+   "user": "ikimono334",
+   "score": 32625,
+   "date": "2018-07-02T04:04:39.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "土管一つしかない良地形+2セット"
+  },
+  {
+   "id": 6602,
+   "user": "areiku",
+   "score": 32498,
+   "date": "2018-07-04T05:06:15.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6603,
+   "user": "PKtoyama",
+   "score": 32568,
+   "date": "2018-07-04T05:26:57.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7014,
+   "user": "Z_pikmin",
+   "score": 32617,
+   "date": "2018-11-19T03:50:46.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 7971,
+   "user": "Tizimi77777",
+   "score": 32495,
+   "date": "2019-08-07T01:32:03.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8048,
+   "user": "enagem_akakuy",
+   "score": 32507,
+   "date": "2019-09-22T23:09:10.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8224,
+   "user": "shiocha78",
+   "score": 32584,
+   "date": "2020-01-28T16:13:18.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8358,
+   "user": "mikou_musicgame",
+   "score": 32589,
+   "date": "2020-04-03T22:46:10.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8807,
+   "user": "zukki",
+   "score": 32579,
+   "date": "2020-07-13T08:00:16.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "地形見て即リセしてればこんな後悔せずに済んだ"
+  },
+  {
+   "id": 9022,
+   "user": "flyinghawk",
+   "score": 32678,
+   "date": "2020-07-23T20:59:07.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "期間限定の産物、投稿認められました。管理人さんありがとうございます。"
+  },
+  {
+   "id": 9660,
+   "user": "YT7GyX7X6SN2S8v",
+   "score": 32582,
+   "date": "2020-07-26T04:43:35.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/AYe6zm2Zf10",
+   "comment": "期チャレより　タマゴムシ20"
+  },
+  {
+   "id": 9673,
+   "user": "koppacha",
+   "score": 32588,
+   "date": "2020-07-28T07:41:58.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=ZWsGOINHGak",
+   "comment": "第15回期間限定の産物"
+  },
+  {
+   "id": 10583,
+   "user": "nikoshu_pik",
+   "score": 32638,
+   "date": "2020-09-23T04:46:22.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=WDUSJCQIB6E",
+   "comment": "3セット  ありがとう期間限定"
+  },
+  {
+   "id": 10844,
+   "user": "makalogue",
+   "score": 32644,
+   "date": "2020-10-18T18:46:02.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=MAFG4my4wOs",
+   "comment": "ムシ3セット、キショイグモ回収忘れ1、タイム114"
+  },
+  {
+   "id": 11207,
+   "user": "mercysnow",
+   "score": 32669,
+   "date": "2020-11-14T21:30:27.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/WXU87jYB54k",
+   "comment": "悲しい"
+  },
+  {
+   "id": 11497,
+   "user": "fuji_luck",
+   "score": 32701,
+   "date": "2020-11-30T05:16:51.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "タマゴ4個から3セット"
+  },
+  {
+   "id": 11572,
+   "user": "messhi475",
+   "score": 32500,
+   "date": "2020-12-04T01:34:38.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "何年前に出した記録でしょうか・・・"
+  },
+  {
+   "id": 11589,
+   "user": "Spidman",
+   "score": 32426,
+   "date": "2020-12-04T23:48:38.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "回収し忘れが多すぎる"
+  },
+  {
+   "id": 11816,
+   "user": "yuyuyunkel",
+   "score": 32610,
+   "date": "2020-12-30T14:09:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "つらい"
+  },
+  {
+   "id": 12394,
+   "user": "ryuun",
+   "score": 32688,
+   "date": "2021-03-18T16:48:00.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/R1D-djvOjI0",
+   "comment": "とにかく犠牲を出さないように、忘れものを出さないように慎重にプレイした"
+  },
+  {
+   "id": 12661,
+   "user": "ToolAssistedPik",
+   "score": 32609,
+   "date": "2021-05-30T00:43:50.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "最初の2個で2セット来たので慎重になり過ぎた。3セットください。"
+  },
+  {
+   "id": 13308,
+   "user": "April_lapispik",
+   "score": 32557,
+   "date": "2021-10-24T23:00:00.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/gh4kXF8rqr8",
+   "comment": "探してよかったタマゴムシ　2セット　動画は解説つきです"
+  },
+  {
+   "id": 13341,
+   "user": "nakatatsu",
+   "score": 32568,
+   "date": "2021-10-30T21:48:39.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "ようやく2セット"
+  },
+  {
+   "id": 14880,
+   "user": "eruvoore",
+   "score": 32505,
+   "date": "2022-08-07T07:44:32.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 15994,
+   "user": "yukidaruma",
+   "score": 32614,
+   "date": "2023-03-25T07:20:02.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16036,
+   "user": "albut3",
+   "score": 32708,
+   "date": "2023-04-04T17:27:04.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=DKFrblUB6gQ",
+   "comment": "遅いプレイがムシを呼ぶ"
+  },
+  {
+   "id": 17119,
+   "user": "atmy_17",
+   "score": 32581,
+   "date": "2023-10-17T19:23:22.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17454,
+   "user": "Argent2home",
+   "score": 32691,
+   "date": "2023-12-23T02:31:27.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/i-TX3CPKRXo?si=3uESb_GkRxwwPcjj",
+   "comment": "ラン対でドリームを掴め！"
+  },
+  {
+   "id": 17466,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32714,
+   "date": "2023-12-25T23:54:19.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/jnjqTfSmgCs?si=A_t5IgA0ssl29kxz",
+   "comment": "他ステージの息抜きにやったら数分で出ました"
+  },
+  {
+   "id": 17536,
+   "user": "alpha_0630",
+   "score": 32609,
+   "date": "2024-01-15T06:33:54.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/psfYAiyFo_o",
+   "comment": "ムシが出て慎重になりすぎた"
+  },
+  {
+   "id": 18048,
+   "user": "kobachi_no_udon",
+   "score": 32723,
+   "date": "2024-08-02T09:37:11.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/fDzazfgXewI",
+   "comment": "感慨無量"
+  },
+  {
+   "id": 18107,
+   "user": "spark573",
+   "score": 32742,
+   "date": "2024-08-23T04:54:21.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/F6qyW6vtjbY?si=hiKc2CfEsrq10HG9",
+   "comment": "200時間で出やがった。よい地形"
+  },
+  {
+   "id": 18502,
+   "user": "Gorei_50",
+   "score": 32740,
+   "date": "2025-06-20T07:15:35.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/sfm7p17PEjk",
+   "comment": "もったいない"
+  },
+  {
+   "id": 19179,
+   "user": "pikitto",
+   "score": 32577,
+   "date": "2026-01-24T02:28:03.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/_WmhQAUpG3g?si=dfIpZTHhnOsxkEx4",
+   "comment": "やっと救われた"
+  },
+  {
+   "id": 19199,
+   "user": "iid01",
+   "score": 32705,
+   "date": "2026-01-30T21:21:34.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=Pb5vAtFXED8",
+   "comment": "2セット狙ってたら出やがった。いい配置と慎重プレイ"
+  },
+  {
+   "id": 19299,
+   "user": "Mutou_p2pw",
+   "score": 32618,
+   "date": "2026-03-04T15:58:46.000000Z",
+   "console": 4,
+   "video": "",
+   "comment": "コメントなし"
+  }
+ ]
+}

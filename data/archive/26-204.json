@@ -1,0 +1,78 @@
+{
+ "rule": 26,
+ "stage": 204,
+ "posts": [
+  {
+   "id": 3917,
+   "user": "official",
+   "score": 13903,
+   "date": "2017-05-27T23:47:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "公式記録です。"
+  },
+  {
+   "id": 3950,
+   "user": "koppacha",
+   "score": 13934,
+   "date": "2017-05-28T07:08:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 4106,
+   "user": "flyinghawk",
+   "score": 13947,
+   "date": "2017-06-10T00:07:00.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "適当"
+  },
+  {
+   "id": 5982,
+   "user": "sectionmarilui",
+   "score": 13964,
+   "date": "2018-03-09T10:01:59.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6025,
+   "user": "albut3",
+   "score": 13962,
+   "date": "2018-03-14T23:16:02.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6068,
+   "user": "muratsubo",
+   "score": 13940,
+   "date": "2018-03-21T02:27:28.000000Z",
+   "console": 1,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16021,
+   "user": "atmy_17",
+   "score": 13957,
+   "date": "2023-03-31T20:40:35.000000Z",
+   "console": 2,
+   "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18415,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 13967,
+   "date": "2025-02-19T03:02:09.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/HsxHC4FG2_M?si=9YVlAkbjbjq3_CwX",
+   "comment": "WRではありませんが　その2"
+  }
+ ]
+}
