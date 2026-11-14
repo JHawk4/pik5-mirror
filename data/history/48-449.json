@@ -23,6 +23,17 @@
    "console": 4,
    "comment": "葉ピク×",
    "tie": true
+  },
+  {
+   "id": 20565,
+   "uid": 315214024,
+   "user": "iid01",
+   "score": 220,
+   "date": "2026-11-14T04:47:18.000000Z",
+   "video": "https://www.youtube.com/watch?v=ZyUwh7kyHbw",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
   }
  ],
  "lower_is_better": false
