@@ -1,6 +1,6 @@
 /* Layout modeled on classic record-history sites (rounded sidebar boxes,
    white content panel, plain bordered tables, Verdana 12px), coloured like a
-   Pikmin field: grass-green page, leaf-green sidebar and accents. */
+   Pikmin field: grass-green page, leaf-green sidebar, warm orange-yellow accent. */
 :root {
   --page: #e4eed2;          /* pale grass */
   --page-2: #d3e4b8;        /* grass, for the background fade */
@@ -13,7 +13,7 @@
   --muted: #5f6b58;
   --proof: #f4f8ee;
   --gold: #c08a00;
-  --accent: #4b9a3c;        /* leaf-green accent for rules and headers */
+  --accent: #f2a01c;        /* warm orange-yellow, as on the Pikmin 4 cover */
   color-scheme: light;
 }
 
@@ -47,7 +47,7 @@ a:hover { text-decoration: underline; }
 #nav { width: 230px; flex: none; padding-right: 10px; }
 .navbox {
   background: linear-gradient(135deg, var(--side), var(--side-2)); border-radius: 0 25px 25px 0;
-  padding: 10px 10px 12px 12px; margin-bottom: 10px;
+  padding: 10px 10px 12px 12px; margin-bottom: 10px; box-shadow: inset 4px 0 0 var(--accent);
 }
 .navbox a { display: block; color: #fff; padding: 0 0 0 0; }
 .navbox a.head { font-weight: 700; text-decoration: underline; margin-bottom: 2px; }
