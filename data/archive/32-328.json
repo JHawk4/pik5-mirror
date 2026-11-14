@@ -12,13 +12,15 @@
    "comment": "コメントなし"
   },
   {
-   "id": 3866,
+   "id": null,
    "user": "yuibitchi",
    "score": 1750,
-   "date": "2017-05-22T00:08:00.000000Z",
-   "console": 2,
+   "date": "2017-05-22T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 4190,
@@ -39,14 +41,15 @@
    "comment": "#334"
   },
   {
-   "id": 6701,
+   "id": null,
    "user": "noamoa",
    "score": 2250,
-   "date": "2018-08-12T00:17:41.000000Z",
-   "console": 2,
+   "date": "2018-08-12T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "羽を全員青ポンガシに突っ込んだ",
-   "img": "20180812-181741-1961328802.jpg"
+   "img": "20180812-181741-1961328802.jpg",
+   "comment": "[Wii] 羽を全員青ポンガシに突っ込んだ",
+   "source": "sheet-2023"
   },
   {
    "id": 7409,
@@ -59,6 +62,17 @@
    "img": "20190411-170627-265817530.bmp"
   },
   {
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 2280,
+   "date": "2020-11-22T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201122-141050-1691658579.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
    "id": 11602,
    "user": "messhi475",
    "score": 2040,
@@ -69,14 +83,15 @@
    "img": "20201206-173724-500762597.JPG"
   },
   {
-   "id": 12413,
+   "id": null,
    "user": "teona",
    "score": 2150,
-   "date": "2021-03-22T01:34:03.000000Z",
-   "console": 4,
+   "date": "2021-03-22T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20210322-193403-464868876.png"
+   "img": "20210322-193403-464868876.png",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12764,
@@ -137,6 +152,61 @@
    "img": "20211103-150118-2090051128.JPG"
   },
   {
+   "id": null,
+   "user": "esu",
+   "score": 3060,
+   "date": "2021-11-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/wsZgHbSZKOk",
+   "img": "20211120-103216-427529589.jpeg",
+   "comment": "[Switch Pro$] ウオノコが1ターンキルできない",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 2570,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-160123-804838876.jpeg",
+   "comment": "[Joy-Con Double$] 残3:32 ウオノコエリアが運ゲーかもしれません。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3070,
+   "date": "2022-08-18T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1560210399093727232/pu/vid/1280x720/Wn7bmpkvoDoC81xd.mp4?tag=12",
+   "img": "20220818-192411-2105387398.jpeg",
+   "comment": "[Switch Pro$] 残4:22 カレハンボの処理に時間がかかりました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 3210,
+   "date": "2022-08-19T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/OiFTvY4fgOM",
+   "img": "20220819-180211-1144151463.jpeg",
+   "comment": "[Switch Pro$] おっしゃああ！",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3230,
+   "date": "2022-11-06T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1589228709458116609/pu/vid/480x270/R7ZArFnvLEReyQML.mp4?tag=12",
+   "img": "20221106-211312-1273666546.jpeg",
+   "comment": "[Switch Pro$] 残4:38 最後失敗しました。",
+   "source": "sheet-2023"
+  },
+  {
    "id": 15505,
    "user": "esu",
    "score": 3280,
@@ -147,14 +217,15 @@
    "img": "20221109-164046-12375777.jpeg"
   },
   {
-   "id": 15686,
+   "id": null,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 3280,
-   "date": "2022-12-25T01:08:32.000000Z",
-   "console": 4,
+   "date": "2022-12-25T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/ToyscdaYivE",
-   "comment": "カレハンボ…",
-   "img": "20221225-190832-384423243.jpeg"
+   "img": "20221225-190832-384423243.jpeg",
+   "comment": "[Switch Pro$] カレハンボ…",
+   "source": "sheet-2023"
   },
   {
    "id": 16229,

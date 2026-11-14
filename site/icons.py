@@ -112,3 +112,11 @@ def difficulty_icon(code, lang):
             f'<rect x="0" y="0" width="14" height="14" rx="3" fill="{color}"/>'
             f'<text x="7" y="10.5" font-size="9.5" font-weight="700" text-anchor="middle" fill="#fff" '
             f'font-family="Verdana,sans-serif">{letter}</text></svg></span>')
+
+
+# Site logo: a simple sprouting stem with a leaf (drawn here, generic plant art).
+SPROUT = ('<svg viewBox="0 0 26 32" width="22" height="27" aria-hidden="true">'
+          '<path d="M13 31 C13 22 12.5 15 13 7" stroke="#3c8531" stroke-width="2.4" fill="none" stroke-linecap="round"/>'
+          '<path d="M13 8 C14 2.5 19.5 0.5 24 2.2 C22.5 7.5 17.5 9.5 13 8 Z" fill="#5fb447" stroke="#3c8531" stroke-width="1.2"/>'
+          '<path d="M13.3 7.6 C16.5 5.6 19.5 4 22.5 3" stroke="#3c8531" stroke-width="0.9" fill="none"/>'
+          '<ellipse cx="13" cy="31" rx="6.5" ry="1.4" fill="#8a6b3f" opacity=".45"/></svg>')

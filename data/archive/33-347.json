@@ -21,13 +21,15 @@
    "comment": "アメニュウドウの次にプラチナ苦労しました。こんな記録が出せたのも奇跡ですｗ"
   },
   {
-   "id": 1015,
+   "id": null,
    "user": "muratsubo",
    "score": 673,
-   "date": "2015-11-07T04:58:00.000000Z",
-   "console": 3,
+   "date": "2015-11-07T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii U Pro] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 1488,
@@ -76,32 +78,37 @@
    "comment": "コメントなし"
   },
   {
-   "id": 4169,
+   "id": null,
    "user": "dermas",
    "score": 661,
-   "date": "2017-06-18T05:58:00.000000Z",
-   "console": 2,
+   "date": "2017-06-18T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 4560,
+   "id": null,
    "user": "suma",
    "score": 641,
-   "date": "2017-08-18T04:08:00.000000Z",
-   "console": 3,
+   "date": "2017-08-18T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20170818-220843-699815874.JPG"
+   "img": "20170818-220843-699815874.JPG",
+   "comment": "[GamePad Only] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 5697,
+   "id": null,
    "user": "Z_pikmin",
    "score": 688,
-   "date": "2018-01-30T05:22:00.000000Z",
-   "console": 2,
+   "date": "2018-01-30T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 6112,
@@ -163,13 +170,15 @@
    "img": "20201103-114531-129153628.jpg"
   },
   {
-   "id": 10999,
+   "id": null,
    "user": "toripoppo0307",
    "score": 720,
-   "date": "2020-11-04T04:38:25.000000Z",
-   "console": 4,
-   "video": "https://twitter.com/toripoppo0307/status/1323982304935469059",
-   "comment": "運に見放された男"
+   "date": "2020-11-04T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1323982274736521216/pu/vid/1280x720/3nYld46V0UNlEE4h.mp4?tag=10",
+   "img": "",
+   "comment": "[Joy-Con Double#] 運に見放された男",
+   "source": "sheet-2023"
   },
   {
    "id": 11045,
@@ -211,14 +220,37 @@
    "img": "20201113-170815-141957744.jpeg"
   },
   {
-   "id": 11279,
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 722,
+   "date": "2020-11-14T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201114-105551-220171901.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "yuyukkuri",
    "score": 710,
-   "date": "2020-11-18T02:41:37.000000Z",
-   "console": 4,
+   "date": "2020-11-18T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20201118-204137-1620713006.png"
+   "img": "20201118-204137-1620713006.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "PiePusher11",
+   "score": 722,
+   "date": "2020-11-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201119-150957-1430590078.jpg",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11342,
@@ -260,13 +292,37 @@
    "img": "20201224-041458-2128588843.jpg"
   },
   {
-   "id": 12421,
+   "id": null,
+   "user": "iid01",
+   "score": 723,
+   "date": "2021-01-29T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=JPXGAAXgE0w",
+   "img": "20210129-005921-1806560832.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Jay596",
+   "score": 721,
+   "date": "2021-02-02T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/L98W5OF2bcw?t=141",
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "Rirure",
    "score": 724,
-   "date": "2021-03-24T01:36:30.000000Z",
-   "console": 4,
+   "date": "2021-03-24T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/XeeC18bOZBo",
-   "comment": "お祈りゲーミング。まだ縮まりそう…"
+   "img": "",
+   "comment": "[Switch Pro$] お祈りゲーミング。まだ縮まりそう…",
+   "source": "sheet-2023"
   },
   {
    "id": 12745,
@@ -278,14 +334,37 @@
    "comment": "コメントなし"
   },
   {
-   "id": 12766,
+   "id": null,
+   "user": "PiePusher11",
+   "score": 725,
+   "date": "2021-06-09T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=-i2EkYhZ144",
+   "img": "",
+   "comment": "[Joy-Con Double$] 53 is possible",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 724,
+   "date": "2021-06-09T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210609-155450-1911314859.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "sanami",
    "score": 707,
-   "date": "2021-06-10T01:47:28.000000Z",
-   "console": 4,
+   "date": "2021-06-10T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20210610-194721-120294255.jpg"
+   "img": "20210610-194721-120294255.jpg",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12792,
@@ -295,6 +374,17 @@
    "console": 4,
    "video": "",
    "comment": "コメントなし"
+  },
+  {
+   "id": null,
+   "user": "Jay596",
+   "score": 722,
+   "date": "2021-06-14T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210614-000143-1920674373.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12829,
@@ -316,14 +406,59 @@
    "comment": "コメントなし"
   },
   {
-   "id": 14073,
+   "id": null,
+   "user": "esu",
+   "score": 727,
+   "date": "2021-11-21T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/IFqSAMOj70I",
+   "img": "20211121-222643-692418690.jpeg",
+   "comment": "[Switch Pro$] URLを間違えたのでチャンネルからお願いします",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "iid01",
    "score": 725,
-   "date": "2021-12-17T00:24:24.000000Z",
-   "console": 4,
+   "date": "2021-12-17T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=_UaSYcpNc00",
-   "comment": "コメントなし",
-   "img": "20211217-182424-903837373.jpg"
+   "img": "20211217-182424-903837373.jpg",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 725,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-202423-1898168781.jpeg",
+   "comment": "[Joy-Con Double$] 満足しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "6harapikumin",
+   "score": 716,
+   "date": "2022-09-29T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220929-030728-773158071.heic",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 728,
+   "date": "2022-11-13T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1591540814341341185/pu/pl/zIsaFkzycGgXqvOH.m3u8?tag=12&container=fmp4",
+   "img": "20221113-062107-812748347.jpeg",
+   "comment": "[Switch Pro$] 運ゲーに勝ちました！",
+   "source": "sheet-2023"
   },
   {
    "id": 15527,
@@ -363,6 +498,17 @@
    "video": "",
    "comment": "コメントなし",
    "img": "20230107-153141-1210634315.JPG"
+  },
+  {
+   "id": null,
+   "user": "pon",
+   "score": 715,
+   "date": "2023-02-21T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20230221-031750-218648166.jpg",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 15894,

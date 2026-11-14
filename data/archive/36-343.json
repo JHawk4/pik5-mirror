@@ -22,6 +22,17 @@
    "img": "20201113-123742-391977545.jpg"
   },
   {
+   "id": null,
+   "user": "PiePusher11",
+   "score": 548,
+   "date": "2020-11-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=8-DWJpWeI0M",
+   "img": "",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
    "id": 11356,
    "user": "Yellowishpik",
    "score": 557,
@@ -41,14 +52,15 @@
    "img": "20201208-170503-1648580284.JPG"
   },
   {
-   "id": 11659,
+   "id": null,
    "user": "imedin0813",
    "score": 204,
-   "date": "2020-12-11T01:52:17.000000Z",
-   "console": 4,
+   "date": "2020-12-11T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "カス記録を投稿することでハードルを下げる",
-   "img": "20201211-195217-129843438.jpeg"
+   "img": "20201211-195217-129843438.jpeg",
+   "comment": "[Joy-Con Double#] カス記録を投稿することでハードルを下げる",
+   "source": "sheet-2023"
   },
   {
    "id": 11700,
@@ -70,14 +82,15 @@
    "img": "20201227-103300-977061348.JPG"
   },
   {
-   "id": 11798,
+   "id": null,
    "user": "RexMcPwn",
    "score": 569,
-   "date": "2020-12-30T02:04:20.000000Z",
-   "console": 4,
+   "date": "2020-12-30T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20201230-200420-2038388577.jpg"
+   "img": "20201230-200420-2038388577.jpg",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11890,
@@ -118,14 +131,103 @@
    "img": "20210609-131505-1238068532.jpg"
   },
   {
-   "id": 13261,
+   "id": null,
    "user": "Jay596",
    "score": 596,
-   "date": "2021-10-17T04:07:01.000000Z",
-   "console": 4,
+   "date": "2021-10-17T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20211017-220701-1696025710.png"
+   "img": "20211017-220701-1696025710.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 610,
+   "date": "2021-11-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/w_BOkL0v1rM",
+   "img": "20211120-174158-1493898530.jpeg",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 611,
+   "date": "2022-02-06T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/k8wDhAmrJlc",
+   "img": "20220206-181352-1311399431.jpeg",
+   "comment": "[Switch Pro$] 1秒だけ更新",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 530,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-205314-183711091.jpeg",
+   "comment": "[Joy-Con Double$] 上手く出来ないです。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 548,
+   "date": "2022-03-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220319-123225-272422454.jpeg",
+   "comment": "[Joy-Con Double$] 4分切り出来ました｡",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 557,
+   "date": "2022-04-04T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220404-164021-1996303601.jpeg",
+   "comment": "[Joy-Con Double$] 「エリア移動の技」を使いました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 606,
+   "date": "2022-08-21T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1561289154000211969/pu/vid/640x360/1Wy_kfzAulMUppWI.mp4?tag=12",
+   "img": "20220821-185623-226355476.jpeg",
+   "comment": "[Switch Pro$] スイショウ越しでピクミンや隊員を掴めることを知りました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 622,
+   "date": "2022-10-13T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1580399217578999809/pu/vid/480x270/Sl54SaJiSPZSCefb.mp4?tag=12",
+   "img": "20221013-122750-1892100902.jpeg",
+   "comment": "[Switch Pro$] クマチャッピーが運ゲーだと思います。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 622,
+   "date": "2022-10-13T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/KCQUyc3oxiE",
+   "img": "",
+   "comment": "[Switch Pro$] めんどいので一旦同タイで",
+   "source": "sheet-2023"
   },
   {
    "id": 15452,
@@ -157,13 +259,15 @@
    "img": "20221023-150327-1494763068.jpeg"
   },
   {
-   "id": 15867,
+   "id": null,
    "user": "April_lapispik",
    "score": 532,
-   "date": "2023-02-22T04:02:32.000000Z",
-   "console": 4,
+   "date": "2023-02-22T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/ggC2q_7kJ3k",
-   "comment": "やる気低め"
+   "img": "",
+   "comment": "[Joy-Con Double#] やる気低め",
+   "source": "sheet-2023"
   },
   {
    "id": 16240,

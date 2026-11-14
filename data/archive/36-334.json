@@ -21,14 +21,15 @@
    "comment": "コメントなし"
   },
   {
-   "id": 11146,
+   "id": null,
    "user": "alpha_0630",
    "score": 17120,
-   "date": "2020-11-12T05:51:25.000000Z",
-   "console": 4,
+   "date": "2020-11-12T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/Aji9BQresIE",
-   "comment": "コメントなし",
-   "img": "20201112-235125-1732061889.jpg"
+   "img": "20201112-235125-1732061889.jpg",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11217,
@@ -41,23 +42,26 @@
    "img": "20201115-164602-312420101.JPG"
   },
   {
-   "id": 11315,
-   "user": "yuyukkuri",
-   "score": 9770,
-   "date": "2020-11-19T00:03:28.000000Z",
-   "console": 4,
-   "video": "",
-   "comment": "(*´▽｀*)"
-  },
-  {
-   "id": 11319,
+   "id": null,
    "user": "messhi475",
    "score": 16280,
-   "date": "2020-11-19T00:13:46.000000Z",
-   "console": 4,
+   "date": "2020-11-19T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "ダマグモは、序盤～中盤に倒すべきなのかな？",
-   "img": "20201119-181346-152876732.JPG"
+   "img": "20201119-181346-152876732.JPG",
+   "comment": "[Joy-Con Double$] ダマグモは、序盤～中盤に倒すべきなのかな？",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "yuyukkuri",
+   "score": 9770,
+   "date": "2020-11-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "",
+   "comment": "[Switch Pro$] (*´▽｀*)",
+   "source": "sheet-2023"
   },
   {
    "id": 11349,
@@ -107,14 +111,26 @@
    "img": "20201218-073617-288143154.JPG"
   },
   {
-   "id": 11796,
+   "id": null,
+   "user": "PiePusher11",
+   "score": 16880,
+   "date": "2020-12-20T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201220-052407-657825857.PNG",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "RexMcPwn",
    "score": 17000,
-   "date": "2020-12-30T02:03:02.000000Z",
-   "console": 4,
+   "date": "2020-12-30T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20201230-200302-1282374331.jpg"
+   "img": "20201230-200302-1282374331.jpg",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11872,
@@ -126,14 +142,37 @@
    "comment": "コメントなし"
   },
   {
-   "id": 12551,
+   "id": null,
+   "user": "JHawk4",
+   "score": 17630,
+   "date": "2021-01-25T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=552yV0TYUfE",
+   "img": "",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Jay596",
+   "score": 17870,
+   "date": "2021-03-03T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/3KA-7fcjJDU?t=614",
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "shiragawatanuki",
    "score": 16520,
-   "date": "2021-04-30T05:09:43.000000Z",
-   "console": 4,
+   "date": "2021-04-30T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20210430-230943-1774451055.jpg"
+   "img": "20210430-230943-1774451055.jpg",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12676,
@@ -156,14 +195,15 @@
    "img": "20210608-092731-458273643.jpg"
   },
   {
-   "id": 12994,
+   "id": null,
    "user": "yudoufu",
    "score": 9980,
-   "date": "2021-08-10T04:35:53.000000Z",
-   "console": 4,
+   "date": "2021-08-10T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20210810-223553-798042080.jpg"
+   "img": "20210810-223553-798042080.jpg",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 13299,
@@ -184,6 +224,39 @@
    "comment": "コメントなし"
   },
   {
+   "id": null,
+   "user": "Jay596",
+   "score": 17990,
+   "date": "2021-10-30T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=fvaAZzKL-TA",
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 18380,
+   "date": "2021-11-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/sCSvbsgnaf8",
+   "img": "20211120-151845-1578473974.jpeg",
+   "comment": "[Switch Pro$] 多分WRです",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 18500,
+   "date": "2021-12-19T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/3hpjDEwkIVw",
+   "img": "20211219-204623-1304589228.jpeg",
+   "comment": "[Switch Pro$] 18500点達成！",
+   "source": "sheet-2023"
+  },
+  {
    "id": 14198,
    "user": "Myelin_sr",
    "score": 17300,
@@ -193,24 +266,70 @@
    "comment": "コメントなし"
   },
   {
-   "id": 14668,
-   "user": "esu",
-   "score": 18530,
-   "date": "2022-05-05T05:12:45.000000Z",
-   "console": 4,
-   "video": "https://youtu.be/_Q8uV5a0rNc",
-   "comment": "9：35までやろうと思います",
-   "img": "20220505-231245-102817255.jpeg"
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 17240,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-203842-231703230.jpeg",
+   "comment": "[Joy-Con Double$] 現在公式ランキングの世界記録が17000点なので、チートによる荒らし予防のために世界記録の上限があるみたいですね。本当は17000点超えられるのに…と思います。",
+   "source": "sheet-2023"
   },
   {
-   "id": 15438,
+   "id": null,
+   "user": "esu",
+   "score": 18530,
+   "date": "2022-05-05T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/_Q8uV5a0rNc",
+   "img": "20220505-231245-102817255.jpeg",
+   "comment": "[Switch Pro$] 9：35までやろうと思います",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 17510,
+   "date": "2022-05-22T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220522-211231-1977000368.jpeg",
+   "comment": "[Joy-Con Double$] 残8:59 9分残したいです。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 17990,
+   "date": "2022-08-07T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1556144335133241345/pu/vid/1280x720/DkBLjNkgFkS_h1_K.mp4?tag=12",
+   "img": "20220807-140636-672599898.jpeg",
+   "comment": "[Switch Pro$] 残9:15 18000行けませんでした。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 18110,
+   "date": "2022-08-25T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1562565171301990403/pu/vid/640x360/vVzqGuc0IeTqxBe2.mp4?tag=12",
+   "img": "20220825-072110-1978361434.jpeg",
+   "comment": "[Switch Pro$] 残9:19 18000点達成しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "6harapikumin",
    "score": 15590,
-   "date": "2022-10-18T01:19:20.000000Z",
-   "console": 4,
+   "date": "2022-10-18T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20221018-191920-592927193.jpeg"
+   "img": "20221018-191920-592927193.jpeg",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 15443,
@@ -249,23 +368,26 @@
    "comment": "久々に来たけどやっぱレベル高いな笑笑"
   },
   {
-   "id": 15975,
+   "id": null,
    "user": "shiocha78",
    "score": 17630,
-   "date": "2023-03-21T00:22:57.000000Z",
-   "console": 4,
+   "date": "2023-03-21T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=5zUiHBDNNyY",
-   "comment": "9:03残し"
+   "img": "",
+   "comment": "[Joy-Con Double$] 9:03残し",
+   "source": "sheet-2023"
   },
   {
-   "id": 16260,
+   "id": null,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 18260,
-   "date": "2023-07-14T02:17:36.000000Z",
-   "console": 4,
+   "date": "2023-07-14T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "もっと頑張らないとダメですね…",
-   "img": "20230714-201736-958973859.jpeg"
+   "img": "20230714-201736-958973859.jpeg",
+   "comment": "[Switch Pro$] もっと頑張らないとダメですね…",
+   "source": "sheet-2023"
   },
   {
    "id": 18529,

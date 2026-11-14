@@ -21,23 +21,26 @@
    "comment": "コメントなし"
   },
   {
-   "id": 2244,
+   "id": null,
    "user": "noamoa",
    "score": 2700,
-   "date": "2016-06-22T04:49:00.000000Z",
-   "console": 2,
+   "date": "2016-06-22T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20160622-224956-1882628407.jpg"
+   "img": "20160622-224956-1882628407.jpg",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 3820,
+   "id": null,
    "user": "yuibitchi",
    "score": 1080,
-   "date": "2017-05-19T05:56:00.000000Z",
-   "console": 2,
+   "date": "2017-05-19T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 4182,
@@ -49,13 +52,15 @@
    "comment": "コメントなし"
   },
   {
-   "id": 6587,
+   "id": null,
    "user": "muratsubo",
    "score": 2250,
-   "date": "2018-07-01T02:45:03.000000Z",
-   "console": 3,
+   "date": "2018-07-01T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "爆弾をひとつ余らせてしまってる"
+   "img": "",
+   "comment": "[GamePad Only] 爆弾をひとつ余らせてしまってる",
+   "source": "sheet-2023"
   },
   {
    "id": 7406,
@@ -97,14 +102,15 @@
    "img": "20201113-070307-774385029.png"
   },
   {
-   "id": 11457,
+   "id": null,
    "user": "dayomin",
    "score": 1820,
-   "date": "2020-11-28T04:11:27.000000Z",
-   "console": 4,
+   "date": "2020-11-28T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20201128-221127-1498833583.jpeg"
+   "img": "20201128-221127-1498833583.jpeg",
+   "comment": "[Wii U Pro] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11621,
@@ -114,6 +120,17 @@
    "console": 2,
    "video": "https://www.youtube.com/watch?v=EGUNorrRyNc&feature=emb_title",
    "comment": "コメントなし"
+  },
+  {
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 2840,
+   "date": "2020-12-15T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201215-001547-81404194.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11962,
@@ -126,13 +143,15 @@
    "img": "20210116-080720-2057050500.jpg"
   },
   {
-   "id": 11995,
+   "id": null,
    "user": "ryuun",
    "score": 3300,
-   "date": "2021-01-18T00:28:23.000000Z",
-   "console": 4,
+   "date": "2021-01-18T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/QbLt2-97Nrw",
-   "comment": "まだまだ動きが洗練されていない"
+   "img": "",
+   "comment": "[Switch Pro$] まだまだ動きが洗練されていない",
+   "source": "sheet-2023"
   },
   {
    "id": 12100,
@@ -164,6 +183,17 @@
    "comment": "コメントなし"
   },
   {
+   "id": null,
+   "user": "April_lapispik",
+   "score": 2780,
+   "date": "2021-07-10T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210710-222525-1271727924.jpg",
+   "comment": "[Joy-Con Double#] ボウリングステージ",
+   "source": "sheet-2023"
+  },
+  {
    "id": 12908,
    "user": "Refu",
    "score": 3190,
@@ -193,13 +223,15 @@
    "comment": "コメントなし"
   },
   {
-   "id": 13168,
+   "id": null,
    "user": "shiocha78",
    "score": 2940,
-   "date": "2021-09-25T03:49:31.000000Z",
-   "console": 4,
+   "date": "2021-09-25T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=Pn8IcmFcOoU",
-   "comment": "掘り出す爆弾のバグがいまいち分からぬ"
+   "img": "",
+   "comment": "[Joy-Con Double$] 掘り出す爆弾のバグがいまいち分からぬ",
+   "source": "sheet-2023"
   },
   {
    "id": 13264,
@@ -209,6 +241,39 @@
    "console": 4,
    "video": "https://youtu.be/XttvI8RX34A",
    "comment": "コメントなし"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 3700,
+   "date": "2021-11-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/FE-b51RVBwo",
+   "img": "20211120-102732-1715763914.jpeg",
+   "comment": "[Switch Pro$] コチャッピーがくそすぎる",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 3740,
+   "date": "2022-01-07T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/eQyZHWM1tTo",
+   "img": "20220107-230757-1048936703.jpeg",
+   "comment": "[Switch Pro$] WiiU版のルートが知りたいな",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3030,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-154845-985000156.jpeg",
+   "comment": "[Joy-Con Double$] 残3:23 恐らくミッション全ステージの中で一番雰囲気が怖いステージでしょうね。",
+   "source": "sheet-2023"
   },
   {
    "id": 14532,
@@ -221,6 +286,17 @@
    "img": "20220408-155441-558664130.jpeg"
   },
   {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3220,
+   "date": "2022-04-10T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220410-111954-1824156200.jpeg",
+   "comment": "[Joy-Con Double$] 残3:42 岩ピクミンは作っていません。",
+   "source": "sheet-2023"
+  },
+  {
    "id": 14680,
    "user": "mikou_musicgame",
    "score": 3060,
@@ -229,6 +305,39 @@
    "video": "",
    "comment": "コメントなし",
    "img": "20220507-172524-77313412.JPG"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3630,
+   "date": "2022-08-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1560829974898429952/pu/vid/480x270/gpKQkSQ8G4yTtvkN.mp4?tag=12",
+   "img": "20220820-145806-1186853018.jpeg",
+   "comment": "[Switch Pro$] 残4:23 クマチャッピーと鉄球(コチャッピー)が運ゲーです。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "hyogakibokaro",
+   "score": 2990,
+   "date": "2022-10-23T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20221023-161952-1664208056.jpeg",
+   "comment": "[Switch Pro$] ボウリング次第でもっと行けそう",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "hyogakibokaro",
+   "score": 3250,
+   "date": "2022-11-14T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20221114-172604-2062414121.jpeg",
+   "comment": "[NGC] ちょいミスった",
+   "source": "sheet-2023"
   },
   {
    "id": 15638,
@@ -241,6 +350,17 @@
    "img": "20221211-113243-293655651.jpeg"
   },
   {
+   "id": null,
+   "user": "hyogakibokaro",
+   "score": 3290,
+   "date": "2023-01-01T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/0_ylfFEnyf0",
+   "img": "20230101-233441-46690483.jpg",
+   "comment": "[Switch Pro$] ボーリング",
+   "source": "sheet-2023"
+  },
+  {
    "id": 15745,
    "user": "hyogakibokaro",
    "score": 3360,
@@ -251,14 +371,15 @@
    "img": "20230114-022336-1895201355.jpeg"
   },
   {
-   "id": 16137,
+   "id": null,
    "user": "April_lapispik",
    "score": 3000,
-   "date": "2023-05-21T05:04:41.000000Z",
-   "console": 4,
+   "date": "2023-05-21T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/5R2Wfsum_1E",
-   "comment": "このステージは何かとシビア",
-   "img": "20230521-230441-134665426.jpg"
+   "img": "20230521-230441-134665426.jpg",
+   "comment": "[Joy-Con Double#] このステージは何かとシビア",
+   "source": "sheet-2023"
   },
   {
    "id": 16226,

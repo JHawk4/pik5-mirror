@@ -12,14 +12,37 @@
    "comment": "コメントなし"
   },
   {
-   "id": 11656,
+   "id": null,
+   "user": "PiePusher11",
+   "score": 16450,
+   "date": "2020-11-14T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.twitch.tv/videos/801928573",
+   "img": "",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Jay596",
+   "score": 17260,
+   "date": "2020-12-09T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=UvBWGuhy9rY",
+   "img": "",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "imedin0813",
    "score": 8140,
-   "date": "2020-12-11T01:39:34.000000Z",
-   "console": 4,
+   "date": "2020-12-11T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "カス記録を投稿することでハードルを下げる",
-   "img": "20201211-193934-226344710.jpeg"
+   "img": "20201211-193934-226344710.jpeg",
+   "comment": "[Joy-Con Double#] カス記録を投稿することでハードルを下げる",
+   "source": "sheet-2023"
   },
   {
    "id": 11722,
@@ -41,14 +64,26 @@
    "img": "20201228-005226-1848362924.jpg"
   },
   {
-   "id": 11794,
+   "id": null,
    "user": "messhi475",
    "score": 18280,
-   "date": "2020-12-30T00:58:31.000000Z",
-   "console": 4,
+   "date": "2020-12-30T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/Wf0fG6NNzmA",
-   "comment": "フタクチドックリの金塊でリセットが多発しました。",
-   "img": "20201230-185819-355791102.jpg"
+   "img": "20201230-185819-355791102.jpg",
+   "comment": "[Joy-Con Double#] フタクチドックリの金塊でリセットが多発しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 16390,
+   "date": "2021-03-02T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210302-112105-1972713172.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12306,
@@ -60,13 +95,37 @@
    "comment": "コメントなし"
   },
   {
-   "id": 12647,
+   "id": null,
+   "user": "Jay596",
+   "score": 19210,
+   "date": "2021-03-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210319-224348-101254370.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Moony",
+   "score": 19510,
+   "date": "2021-04-06T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/L73FgrxckVo",
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "Moony",
    "score": 19720,
-   "date": "2021-05-25T00:36:39.000000Z",
-   "console": 4,
+   "date": "2021-05-25T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=Gol8mijFCL8&ab_channel=Moony",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12740,
@@ -99,14 +158,26 @@
    "img": "20210613-125407-1770482194.JPG"
   },
   {
-   "id": 13394,
+   "id": null,
+   "user": "Jay596",
+   "score": 19480,
+   "date": "2021-10-17T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20211017-220431-1271526925.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "Jay596",
    "score": 19660,
-   "date": "2021-11-04T02:02:02.000000Z",
-   "console": 4,
+   "date": "2021-11-04T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20211104-200202-1076067807.png"
+   "img": "20211104-200202-1076067807.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 13894,
@@ -116,6 +187,94 @@
    "console": 4,
    "video": "https://youtu.be/6jPsw5-LPho",
    "comment": "コメントなし"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 20410,
+   "date": "2021-11-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/1MHhUTcBRHQ",
+   "img": "20211120-152129-440150152.jpeg",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 20500,
+   "date": "2022-01-04T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/NHYjQoU3XZs",
+   "img": "20220104-215911-486588338.jpeg",
+   "comment": "[Switch Pro$] どれだけ早くロード画面を乱用出来るかでタイムが変わるステージ",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 17590,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-204856-1341365961.jpeg",
+   "comment": "[Joy-Con Double$] 想定外(17000)達成しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 17890,
+   "date": "2022-03-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220319-122950-598463534.jpeg",
+   "comment": "[Joy-Con Double$] 残9:23 10秒更新しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 18310,
+   "date": "2022-03-25T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220325-145557-2048235302.jpeg",
+   "comment": "[Joy-Con Double$] 残9:37 「エリア移動の技」を使いました｡",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 18820,
+   "date": "2022-04-07T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220407-204609-1841979322.jpeg",
+   "comment": "[Joy-Con Double$] 残9:54 17秒も更新しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 20110,
+   "date": "2022-08-21T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1561287530045407233/pu/vid/480x270/fS2au4GaxCnKfAA1.mp4?tag=12",
+   "img": "20220821-185334-1098197929.jpeg",
+   "comment": "[Switch Pro$] 残10:37 20000点達成しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 20680,
+   "date": "2022-10-10T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/uHnz149Wo5s",
+   "img": "20221010-223822-843177890.jpeg",
+   "comment": "[Switch Pro$] 11分行きたいけど一旦",
+   "source": "sheet-2023"
   },
   {
    "id": 15449,
@@ -155,13 +314,15 @@
    "comment": "コメントなし"
   },
   {
-   "id": 15864,
+   "id": null,
    "user": "April_lapispik",
    "score": 15700,
-   "date": "2023-02-22T03:49:03.000000Z",
-   "console": 4,
+   "date": "2023-02-22T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/H_bAi7ZBKgQ",
-   "comment": "フタクチ後ろの50金塊が厄介"
+   "img": "",
+   "comment": "[Joy-Con Double#] フタクチ後ろの50金塊が厄介",
+   "source": "sheet-2023"
   },
   {
    "id": 16237,

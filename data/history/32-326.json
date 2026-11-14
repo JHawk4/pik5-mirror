@@ -3,6 +3,78 @@
  "stage": 326,
  "records": [
   {
+   "id": 1648,
+   "uid": null,
+   "user": "koppacha",
+   "score": 2070,
+   "date": "2016-03-05T20:54:00.000000Z",
+   "video": "",
+   "img": null,
+   "console": 3,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": null,
+   "uid": null,
+   "user": "identete",
+   "score": 2920,
+   "date": "2017-04-03T00:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": null,
+   "comment": "[Wii] コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6640,
+   "uid": null,
+   "user": "noamoa",
+   "score": 3400,
+   "date": "2018-07-20T21:38:45.000000Z",
+   "video": "",
+   "img": "20180721-153845-1296344161.jpg",
+   "console": 2,
+   "comment": "ほとんどの敵は放置で倒せる",
+   "tie": false
+  },
+  {
+   "id": 11493,
+   "uid": null,
+   "user": "nanashi74",
+   "score": 4230,
+   "date": "2020-11-29T23:00:56.000000Z",
+   "video": "https://www.youtube.com/watch?v=b_IAejgN7IY",
+   "img": "20201130-170056-1486968188.jpeg",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": null,
+   "uid": null,
+   "user": "esu",
+   "score": 4310,
+   "date": "2021-11-20T00:00:00.000000Z",
+   "video": "https://youtu.be/SHQsxv3Obz8",
+   "img": "20211120-102901-680832959.jpeg",
+   "console": null,
+   "comment": "[Switch Pro$] きつい",
+   "tie": false
+  },
+  {
+   "id": null,
+   "uid": null,
+   "user": "esu",
+   "score": 4350,
+   "date": "2022-01-23T00:00:00.000000Z",
+   "video": "https://youtu.be/eh36l3IV5-c",
+   "img": "20220123-205456-1836939196.jpeg",
+   "console": null,
+   "comment": "[Switch Pro$] 結構早く出せた",
+   "tie": false
+  },
+  {
    "id": 15637,
    "uid": 278721359,
    "user": "Bl6AltMzq5Jx4aM",

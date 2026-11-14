@@ -21,23 +21,26 @@
    "comment": "コメントなし"
   },
   {
-   "id": 2274,
+   "id": null,
    "user": "noamoa",
    "score": 2920,
-   "date": "2016-07-12T04:30:00.000000Z",
-   "console": 2,
+   "date": "2016-07-12T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20160712-223013-129688692.jpg"
+   "img": "20160712-223013-129688692.jpg",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 3818,
+   "id": null,
    "user": "yuibitchi",
    "score": 2410,
-   "date": "2017-05-19T05:38:00.000000Z",
-   "console": 2,
+   "date": "2017-05-19T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 4180,
@@ -77,14 +80,37 @@
    "comment": "Its ccccoooollllllddddd"
   },
   {
-   "id": 11617,
+   "id": null,
    "user": "dayomin",
    "score": 1840,
-   "date": "2020-12-07T05:56:38.000000Z",
-   "console": 4,
+   "date": "2020-12-07T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20201207-235638-2002853905.jpg"
+   "img": "20201207-235638-2002853905.jpg",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "April_lapispik",
+   "score": 3040,
+   "date": "2020-12-12T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201212-224501-1020592312.jpg",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 4080,
+   "date": "2020-12-25T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201225-161735-1290381711.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11790,
@@ -96,33 +122,48 @@
    "comment": "コメントなし"
   },
   {
-   "id": 11836,
+   "id": null,
    "user": "messhi475",
    "score": 4240,
-   "date": "2021-01-03T04:20:30.000000Z",
-   "console": 4,
+   "date": "2021-01-03T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/T9xfAEqR7FM",
-   "comment": "ペロチャッピー達との闘いで、少しミスしました。",
-   "img": "20210103-222016-1681865662.jpg"
+   "img": "20210103-222016-1681865662.jpg",
+   "comment": "[Joy-Con Double#] ペロチャッピー達との闘いで、少しミスしました。",
+   "source": "sheet-2023"
   },
   {
-   "id": 11870,
+   "id": null,
    "user": "ryuun",
    "score": 4600,
-   "date": "2021-01-07T01:02:53.000000Z",
-   "console": 4,
-   "video": "2001/08/01 0:00:00",
-   "comment": "めちゃくちゃです"
+   "date": "2021-01-07T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/HGdAfpmBc-8",
+   "img": "",
+   "comment": "[Switch Pro$] めちゃくちゃです",
+   "source": "sheet-2023"
   },
   {
-   "id": 12260,
+   "id": null,
    "user": "S_K",
    "score": 3650,
-   "date": "2021-02-24T02:08:24.000000Z",
-   "console": 4,
+   "date": "2021-02-24T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20210224-200824-519342107.jpeg"
+   "img": "20210224-200824-519342107.jpeg",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "toripoppo0307",
+   "score": 4270,
+   "date": "2021-02-26T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1365267049040154630/pu/pl/RJ7QNrSVAS5uGGs5.m3u8?tag=10",
+   "img": "20210226-204807-1043936185.jpg",
+   "comment": "[Joy-Con Double#] もうちょい伸ばせる",
+   "source": "sheet-2023"
   },
   {
    "id": 12334,
@@ -134,13 +175,15 @@
    "comment": "コメントなし"
   },
   {
-   "id": 12488,
+   "id": null,
    "user": "toripoppo0307",
    "score": 4310,
-   "date": "2021-04-18T02:51:59.000000Z",
-   "console": 4,
+   "date": "2021-04-18T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=cgpTxXqHk8o",
-   "comment": "動きがクソザコナメクジのそれ"
+   "img": "",
+   "comment": "[Joy-Con Double#] 動きがクソザコナメクジのそれ",
+   "source": "sheet-2023"
   },
   {
    "id": 12813,
@@ -163,14 +206,15 @@
    "img": "20210709-113220-951416480.jpg"
   },
   {
-   "id": 12875,
+   "id": null,
    "user": "April_lapispik",
    "score": 4100,
-   "date": "2021-07-10T04:12:52.000000Z",
-   "console": 4,
+   "date": "2021-07-10T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "ルートを考えるのが難しかった",
-   "img": "20210710-221252-2094739391.jpg"
+   "img": "20210710-221252-2094739391.jpg",
+   "comment": "[Joy-Con Double#] ルートを考えるのが難しかった",
+   "source": "sheet-2023"
   },
   {
    "id": 12975,
@@ -191,6 +235,83 @@
    "comment": "コメントなし"
   },
   {
+   "id": null,
+   "user": "esu",
+   "score": 5090,
+   "date": "2021-11-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/U4UJ4qOTNmU",
+   "img": "20211120-102336-63454821.jpeg",
+   "comment": "[Switch Pro$] The・運ゲー",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 5100,
+   "date": "2022-03-04T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/JBFIu8XH-po",
+   "img": "20220304-224128-1350688746.jpeg",
+   "comment": "[Switch Pro$] ラストの処理の速さでスコアが変わってきます",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 4090,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-154224-929787746.jpeg",
+   "comment": "[Joy-Con Double$] 残5:33 なぜ「原生生物をたおせ！」のステージ6〜15だけタイムボーナスが1秒あたり10点なのでしょうか。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 4230,
+   "date": "2022-03-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220319-121742-1961804949.jpeg",
+   "comment": "[Joy-Con Double$] 残5:47 登場ピクミンの種類が迷いの雪原みたいですね。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 4260,
+   "date": "2022-03-25T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220325-150030-1821688526.jpeg",
+   "comment": "[Joy-Con Double$] 残5:50 3秒更新しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 4390,
+   "date": "2022-04-10T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220410-111744-54826884.jpeg",
+   "comment": "[Joy-Con Double$] 残6:03 6分残せました｡",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 4860,
+   "date": "2022-07-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1549687600436625408/pu/vid/640x360/GQAcSyMjBUMBNX9a.mp4?tag=12",
+   "img": "20220720-183837-822455194.jpeg",
+   "comment": "[Joy-Con Double$] 残6:50 ビリーは黄1で倒せることを知りました。",
+   "source": "sheet-2023"
+  },
+  {
    "id": 14912,
    "user": "mikou_musicgame",
    "score": 4350,
@@ -201,14 +322,15 @@
    "img": "20220815-124803-223036290.JPG"
   },
   {
-   "id": 15501,
+   "id": null,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 5110,
-   "date": "2022-11-07T02:17:00.000000Z",
-   "console": 4,
-   "video": "https://twitter.com/bl6altmzq5jx4am/status/1589577268636299264?s=61&t=2zAh6l-U7v2jG2o2PL50OA",
-   "comment": "残7:15 理論値は5170以上です。",
-   "img": "20221107-201700-1197376698.jpeg"
+   "date": "2022-11-07T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1589577201233846275/pu/vid/480x270/ALduu6AraAhaYSY-.mp4?tag=12",
+   "img": "20221107-201700-1197376698.jpeg",
+   "comment": "[Switch Pro$] 残7:15 理論値は5170以上です。",
+   "source": "sheet-2023"
   },
   {
    "id": 15506,

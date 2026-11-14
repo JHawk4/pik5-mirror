@@ -12,22 +12,26 @@
    "comment": "コメントなし"
   },
   {
-   "id": 3469,
+   "id": null,
    "user": "identete",
    "score": 2920,
-   "date": "2017-04-03T00:32:00.000000Z",
-   "console": 2,
+   "date": "2017-04-03T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 3821,
+   "id": null,
    "user": "yuibitchi",
    "score": 2360,
-   "date": "2017-05-19T05:58:00.000000Z",
-   "console": 2,
+   "date": "2017-05-19T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 4188,
@@ -58,14 +62,15 @@
    "img": "20180721-153845-1296344161.jpg"
   },
   {
-   "id": 7407,
+   "id": null,
    "user": "ikimono334",
    "score": 2920,
-   "date": "2019-04-10T04:10:56.000000Z",
-   "console": 2,
+   "date": "2019-04-10T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20190410-221056-942050193.bmp"
+   "img": "20190410-221056-942050193.bmp",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11090,
@@ -86,6 +91,17 @@
    "video": "https://www.youtube.com/watch?v=b_IAejgN7IY",
    "comment": "コメントなし",
    "img": "20201130-170056-1486968188.jpeg"
+  },
+  {
+   "id": null,
+   "user": "April_lapispik",
+   "score": 3200,
+   "date": "2020-12-25T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201225-002015-1736985392.jpeg",
+   "comment": "[Joy-Con Double$] ミズンボウを倒すのが大変",
+   "source": "sheet-2023"
   },
   {
    "id": 11791,
@@ -166,14 +182,70 @@
    "comment": "コメントなし"
   },
   {
-   "id": 14196,
+   "id": null,
+   "user": "esu",
+   "score": 4310,
+   "date": "2021-11-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/SHQsxv3Obz8",
+   "img": "20211120-102901-680832959.jpeg",
+   "comment": "[Switch Pro$] きつい",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "esu",
    "score": 4350,
-   "date": "2022-01-23T02:54:56.000000Z",
-   "console": 4,
+   "date": "2022-01-23T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/eh36l3IV5-c",
-   "comment": "結構早く出せた",
-   "img": "20220123-205456-1836939196.jpeg"
+   "img": "20220123-205456-1836939196.jpeg",
+   "comment": "[Switch Pro$] 結構早く出せた",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3810,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-155231-1859500136.jpeg",
+   "comment": "[Joy-Con Double$] 残5:12 ブタドックリ、ミズブタは赤、青1匹をそれぞれ投げれば放置で倒せますね。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3820,
+   "date": "2022-03-25T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220325-150746-1258194309.jpeg",
+   "comment": "[Joy-Con Double$] 残5:13 1秒だけ更新しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 3840,
+   "date": "2022-04-04T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220404-163833-1109711926.jpeg",
+   "comment": "[Joy-Con Double$] 残5:15 ミズブタ1匹だけ倒すのが遅くなってしまいました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 4230,
+   "date": "2022-08-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1560829679619440642/pu/vid/1280x720/SuIdjtcRwpPWQ9Yl.mp4?tag=12",
+   "img": "20220820-150232-1486365032.jpeg",
+   "comment": "[Switch Pro$] 残5:54 アワダコが運ゲーだと思います。",
+   "source": "sheet-2023"
   },
   {
    "id": 15637,

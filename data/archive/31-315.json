@@ -12,23 +12,26 @@
    "comment": "コメントなし"
   },
   {
-   "id": 2378,
+   "id": null,
    "user": "U3",
    "score": 11935,
-   "date": "2016-09-29T02:36:00.000000Z",
-   "console": 3,
+   "date": "2016-09-29T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20160929-203655-1280752367.bmp"
+   "img": "20160929-203655-1280752367.bmp",
+   "comment": "[GamePad Only] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 3812,
+   "id": null,
    "user": "yuibitchi",
    "score": 4705,
-   "date": "2017-05-19T04:38:00.000000Z",
-   "console": 2,
+   "date": "2017-05-19T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 4187,
@@ -40,23 +43,26 @@
    "comment": "コメントなし"
   },
   {
-   "id": 4268,
+   "id": null,
    "user": "muratsubo",
    "score": 8755,
-   "date": "2017-06-24T02:02:00.000000Z",
-   "console": 3,
+   "date": "2017-06-24T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "アワダコ運びわすれた"
+   "img": "",
+   "comment": "[GamePad Only] アワダコ運びわすれた",
+   "source": "sheet-2023"
   },
   {
-   "id": 6632,
+   "id": null,
    "user": "noamoa",
    "score": 11515,
-   "date": "2018-07-16T05:24:28.000000Z",
-   "console": 2,
+   "date": "2018-07-16T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "ヨケ笛の使い方が難しい…",
-   "img": "20180716-232428-1706970174.jpg"
+   "img": "20180716-232428-1706970174.jpg",
+   "comment": "[Wii] ヨケ笛の使い方が難しい…",
+   "source": "sheet-2023"
   },
   {
    "id": 7113,
@@ -68,13 +74,15 @@
    "comment": "コメントなし"
   },
   {
-   "id": 11282,
+   "id": null,
    "user": "robustar",
    "score": 13705,
-   "date": "2020-11-18T02:50:50.000000Z",
-   "console": 4,
+   "date": "2020-11-18T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=laskYTFOZ50",
-   "comment": "ここは本当に安定しない…"
+   "img": "",
+   "comment": "[Switch Pro$] ここは本当に安定しない…",
+   "source": "sheet-2023"
   },
   {
    "id": 11345,
@@ -86,13 +94,26 @@
    "comment": "世界記録が遠い"
   },
   {
-   "id": 11455,
+   "id": null,
    "user": "Plata",
    "score": 12355,
-   "date": "2020-11-28T01:37:17.000000Z",
-   "console": 4,
+   "date": "2020-11-28T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/pv9eRe_Tl4I",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 14245,
+   "date": "2021-01-05T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210105-221510-654883373.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12110,
@@ -142,14 +163,59 @@
    "comment": "コメントなし"
   },
   {
-   "id": 13324,
+   "id": null,
+   "user": "shiocha78",
+   "score": 12925,
+   "date": "2021-10-05T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=UiMikgTnAo8",
+   "img": "",
+   "comment": "[Joy-Con Double$] 隊列移動欲しい",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "shiocha78",
    "score": 16825,
-   "date": "2021-10-28T01:38:18.000000Z",
-   "console": 4,
+   "date": "2021-10-28T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=Wz78uOXTSFg",
-   "comment": "17000行きたい",
-   "img": "20211028-193818-502713845.png"
+   "img": "20211028-193818-502713845.png",
+   "comment": "[Joy-Con Double$] 17000行きたい",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 18025,
+   "date": "2021-11-02T00:00:00.000000Z",
+   "console": null,
+   "video": "youtube.com/watch?v=o-r2xn0-e8Q",
+   "img": "20211102-201256-1823700926.jpeg",
+   "comment": "[Switch Pro$] 初投稿です。よろしくお願いします！",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 14485,
+   "date": "2021-11-14T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20211114-211114-1069511262.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 16435,
+   "date": "2021-11-22T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20211122-005154-1645459930.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 14029,
@@ -162,13 +228,37 @@
    "img": "20211128-131822-2127576186.JPG"
   },
   {
-   "id": 14182,
+   "id": null,
+   "user": "esu",
+   "score": 18145,
+   "date": "2022-01-08T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/KeAheNrnxMA",
+   "img": "20220108-222156-2034664513.jpeg",
+   "comment": "[Switch Pro$] 最後ミスったけど目標は達成！",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "ChasingJess",
    "score": 4915,
-   "date": "2022-01-14T03:47:45.000000Z",
-   "console": 4,
+   "date": "2022-01-14T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Sbudiver",
+   "score": 17335,
+   "date": "2022-01-30T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=ToXSDSM6XJc",
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 14207,
@@ -190,34 +280,92 @@
    "img": "20220201-135934-1600453629.jpg"
   },
   {
-   "id": 14226,
+   "id": null,
    "user": "esu",
    "score": 18565,
-   "date": "2022-02-04T05:07:57.000000Z",
-   "console": 4,
+   "date": "2022-02-04T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/cr4nhzphzJA",
-   "comment": "9分台＋大幅更新達成！！",
-   "img": "20220204-230757-1384143502.jpeg"
+   "img": "20220204-230757-1384143502.jpeg",
+   "comment": "[Switch Pro$] 9分台＋大幅更新達成！！",
+   "source": "sheet-2023"
   },
   {
-   "id": 14299,
+   "id": null,
    "user": "April_lapispik",
    "score": 13915,
-   "date": "2022-03-07T01:57:45.000000Z",
-   "console": 4,
+   "date": "2022-03-07T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "センスが問われるステージ",
-   "img": "20220307-195746-476867509.jpeg"
+   "img": "20220307-195746-476867509.jpeg",
+   "comment": "[Joy-Con Double#] センスが問われるステージ",
+   "source": "sheet-2023"
   },
   {
-   "id": 16254,
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 15655,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-135419-573637451.jpeg",
+   "comment": "[Joy-Con Double$] 残7:29 15秒という大幅更新をしました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 15985,
+   "date": "2022-03-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220319-120343-2063327652.jpeg",
+   "comment": "[Joy-Con Double$] 残7:40 あと1秒で16000点達成できます。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 16945,
+   "date": "2022-07-15T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220715-204725-523817013.jpeg",
+   "comment": "[Joy-Con Double$] 残8:12 他の方の動画を参考にしました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 17935,
+   "date": "2022-08-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1560803838093033472/pu/pl/t98dYXoIXGt3e7tg.m3u8?tag=12&container=fmp4",
+   "img": "20220820-132154-1811624265.jpeg",
+   "comment": "[Switch Pro$] 残8:45 18000点行きたいです。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "6harapikumin",
+   "score": 6025,
+   "date": "2023-07-05T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20230705-111335-831846342.jpg",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 18055,
-   "date": "2023-07-14T02:00:26.000000Z",
-   "console": 4,
+   "date": "2023-07-14T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "18000点は行きましたがまだまだです",
-   "img": "20230714-200026-324878570.jpeg"
+   "img": "20230714-200026-324878570.jpeg",
+   "comment": "[Switch Pro$] 18000点は行きましたがまだまだです",
+   "source": "sheet-2023"
   },
   {
    "id": 17894,

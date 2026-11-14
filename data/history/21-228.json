@@ -3,6 +3,78 @@
  "stage": 228,
  "records": [
   {
+   "id": 63,
+   "uid": null,
+   "user": "official",
+   "score": 32421,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "video": "",
+   "img": null,
+   "console": 1,
+   "comment": "公式記録です。",
+   "tie": false
+  },
+  {
+   "id": 96,
+   "uid": null,
+   "user": "shinya_",
+   "score": 32454,
+   "date": "2008-03-14T06:00:00.000000Z",
+   "video": "",
+   "img": null,
+   "console": 1,
+   "comment": "タマゴムシが出てこの記録だが他のも？運要素がかなり強い。",
+   "tie": false
+  },
+  {
+   "id": 451,
+   "uid": null,
+   "user": "DRAFIX",
+   "score": 32455,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "video": "",
+   "img": null,
+   "console": 1,
+   "comment": "タマゴムシあり。アメボウズも丁寧に処理しないとピクミンが潰されてしまいます。",
+   "tie": false
+  },
+  {
+   "id": null,
+   "uid": null,
+   "user": "keisen2853",
+   "score": 32648,
+   "date": "2015-11-01T00:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": null,
+   "comment": "[NGC] コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6579,
+   "uid": null,
+   "user": "toripoppo0307",
+   "score": 32723,
+   "date": "2018-06-30T08:02:23.000000Z",
+   "video": "https://www.youtube.com/watch?v=_qgSBFhgrgY",
+   "img": null,
+   "console": 1,
+   "comment": " 4セット(回収漏れ1)。夢であってほしかった。本当に謝るしかない。",
+   "tie": false
+  },
+  {
+   "id": null,
+   "uid": null,
+   "user": "Gorei_50",
+   "score": 32725,
+   "date": "2019-09-11T00:00:00.000000Z",
+   "video": "https://youtu.be/oRMUC74HY4g",
+   "img": "20190911-181624-207939685.PNG",
+   "console": null,
+   "comment": "[Wii] コメントなし",
+   "tie": false
+  },
+  {
    "id": 18107,
    "uid": 309020964,
    "user": "spark573",

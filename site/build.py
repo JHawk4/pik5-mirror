@@ -17,7 +17,7 @@ from pathlib import Path
 from urllib.parse import parse_qs, quote, urlparse
 
 from i18n import CAT_LABELS, COUNTRIES, GAMES, HEADERS, LINKS, STR
-from icons import CAMERA, EGG, console_icon, difficulty_icon, video_icon
+from icons import CAMERA, EGG, SPROUT, console_icon, difficulty_icon, video_icon
 import score_meta
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -403,7 +403,7 @@ def console_cell(code, t: T, sid=None):
 def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""):
     depth = rel.count("/")
     pre = "../" * depth
-    games = " | ".join(f'<a href="{pre}{SLUG[s]}.html"{" class=on" if series == s else ""}>{e(t.game(s))}</a>'
+    games = " | ".join(f'<a class="g{s}{" on" if series == s else ""}" href="{pre}{SLUG[s]}.html">{e(t.game(s))}</a>'
                        for s in GAMES)
     topnav = (f'[ <a href="{pre}index.html">{e(t.s("home"))}</a> | {games} | '
               f'<a href="{pre}players.html">{e(t.s("players"))}</a> ]')
@@ -412,8 +412,7 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
 
     side = [f'<div class="navbox"><a class="head" href="{pre}index.html">{e(t.s("games"))}</a>']
     for s in GAMES:
-        on = ' class="on"' if series == s else ""
-        side.append(f'<a{on} href="{pre}{SLUG[s]}.html">{e(t.game(s))}</a>')
+        side.append(f'<a class="g{s}{" on" if series == s else ""}" href="{pre}{SLUG[s]}.html">{e(t.game(s))}</a>')
     side.append(f'<a href="{pre}tas.html">{e(t.s("tas"))}</a>')
     side.append(f'<a href="{pre}players.html">{e(t.s("players"))}</a></div>')
     if series:
@@ -441,10 +440,10 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
 <title>{e(title)} - {e(t.s("site"))}</title>
 <link rel="stylesheet" href="{pre}../style.css">
 </head>
-<body>
+<body{f' data-game="{series}"' if series else ''}>
 <div id="outer">
 <div id="header">
-  <div class="logo"><a href="{pre}index.html">{e(t.s("site"))}</a></div>
+  <div class="logo"><a href="{pre}index.html">{SPROUT}{e(t.s("site"))}</a></div>
   <div class="bars">
     <div>{topnav}</div>
     <div>{langnav}</div>

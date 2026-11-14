@@ -31,13 +31,15 @@
    "img": "20160724-154738-1446840003.jpg"
   },
   {
-   "id": 3803,
+   "id": null,
    "user": "yuibitchi",
    "score": 7740,
-   "date": "2017-05-19T02:59:00.000000Z",
-   "console": 2,
+   "date": "2017-05-19T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 4174,
@@ -97,14 +99,15 @@
    "comment": "コメントなし"
   },
   {
-   "id": 11594,
+   "id": null,
    "user": "MrAracn",
    "score": 5760,
-   "date": "2020-12-05T04:22:02.000000Z",
-   "console": 4,
+   "date": "2020-12-05T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20201205-222158-1699090809.jpg"
+   "img": "20201205-222158-1699090809.jpg",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11664,
@@ -117,13 +120,37 @@
    "img": "20201212-163631-1614627717.jpg"
   },
   {
-   "id": 11732,
+   "id": null,
    "user": "robustar",
    "score": 7530,
-   "date": "2020-12-21T02:56:46.000000Z",
-   "console": 4,
+   "date": "2020-12-21T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=gMed19m9WdA&t=565s",
-   "comment": "とりあえずやってみただけ"
+   "img": "",
+   "comment": "[Switch Pro$] とりあえずやってみただけ",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "otsugaia",
+   "score": 11280,
+   "date": "2020-12-31T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/V6QgqZhDEws",
+   "img": "20201231-040035-2039893826.jpg",
+   "comment": "[Joy-Con Double#] このステージのルート考察は最高に楽しいです",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 9300,
+   "date": "2021-01-17T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210117-172527-1399984597.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12077,
@@ -164,14 +191,48 @@
    "comment": "コメントなし"
   },
   {
-   "id": 13250,
+   "id": null,
+   "user": "shiocha78",
+   "score": 10080,
+   "date": "2021-10-02T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/NxUWgBfdBQU",
+   "img": "",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "April_lapispik",
    "score": 9060,
-   "date": "2021-10-14T01:38:21.000000Z",
-   "console": 4,
+   "date": "2021-10-14T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "けっこう楽しいステージ",
-   "img": "20211014-193821-59610848.jpg"
+   "img": "20211014-193821-59610848.jpg",
+   "comment": "[Joy-Con Double#] けっこう楽しいステージ",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "shiocha78",
+   "score": 10890,
+   "date": "2021-10-21T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=gjkfyyXXhAY",
+   "img": "",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "shiocha78",
+   "score": 11040,
+   "date": "2021-10-28T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=p9S2d9ZcgHk",
+   "img": "",
+   "comment": "[Joy-Con Double$] 4:28残し",
+   "source": "sheet-2023"
   },
   {
    "id": 13344,
@@ -184,32 +245,92 @@
    "img": "20211101-160427-62764244.JPG"
   },
   {
-   "id": 13395,
+   "id": null,
    "user": "shiocha78",
    "score": 11400,
-   "date": "2021-11-05T00:10:45.000000Z",
-   "console": 4,
+   "date": "2021-11-05T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=aGoVnZjuyRY",
-   "comment": "4:40残し ガバらなかったらいくつだこれ"
+   "img": "",
+   "comment": "[Joy-Con Double$] 4:40残し ガバらなかったらいくつだこれ",
+   "source": "sheet-2023"
   },
   {
-   "id": 14174,
+   "id": null,
+   "user": "esu",
+   "score": 12450,
+   "date": "2021-11-19T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/Aci_gzkhSEI",
+   "img": "20211119-225950-12892145.jpeg",
+   "comment": "[Switch Pro$] キンカイが良く消えて困る",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "ChasingJess",
    "score": 5790,
-   "date": "2022-01-14T03:40:35.000000Z",
-   "console": 4,
+   "date": "2022-01-14T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 14535,
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10170,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-120927-91364243.jpeg",
+   "comment": "[Joy-Con Double$] 残3:59 10000点達成しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10410,
+   "date": "2022-04-04T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220404-163637-1249342107.jpeg",
+   "comment": "[Joy-Con Double$] 残4:07 4分残せました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "esu",
    "score": 12540,
-   "date": "2022-04-09T01:39:01.000000Z",
-   "console": 4,
+   "date": "2022-04-09T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/eAwqZMSzYnM",
-   "comment": "最終的には5:20ぐらいはいけるかな",
-   "img": "20220409-193901-729313205.jpeg"
+   "img": "20220409-193901-729313205.jpeg",
+   "comment": "[Switch Pro$] 最終的には5:20ぐらいはいけるかな",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10770,
+   "date": "2022-05-22T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220522-205904-1187387173.jpeg",
+   "comment": "[Joy-Con Double$] 残4:19 12秒更新しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 12120,
+   "date": "2022-08-14T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1558596854816055296/pu/vid/480x270/ixqAsckYkygj4usJ.mp4?tag=12",
+   "img": "20220814-083335-1684315230.jpeg",
+   "comment": "[Switch Pro$] 残5:04 岩と黄の穴掘り能力が同じだと知りました。",
+   "source": "sheet-2023"
   },
   {
    "id": 16212,
@@ -220,6 +341,17 @@
    "video": "",
    "comment": "コメントなし",
    "img": "20230705-110840-1257520863.jpg"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 12480,
+   "date": "2023-07-14T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20230714-195506-1651920136.jpeg",
+   "comment": "[Switch Pro$] 黄、岩の花と白の蕾のキンカイ系運搬速度は同じみたいですね",
+   "source": "sheet-2023"
   },
   {
    "id": 17907,

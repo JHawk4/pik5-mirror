@@ -279,7 +279,10 @@ def sync():
 
 def archive_entry(p: dict) -> dict:
     keep = ("id", "user", "score", "date", "console", "video", "img", "comment")
-    return {k: p.get(k) for k in keep}
+    out = {k: p.get(k) for k in keep}
+    if p.get("source"):  # where a run came from when it isn't a live pik5 sync
+        out["source"] = p["source"]
+    return out
 
 
 def update_archive(rule: int, sid: int, posts: list[dict]) -> bool:

@@ -21,23 +21,26 @@
    "comment": "コメントなし"
   },
   {
-   "id": 2279,
+   "id": null,
    "user": "noamoa",
    "score": 4235,
-   "date": "2016-07-16T03:32:00.000000Z",
-   "console": 2,
+   "date": "2016-07-16T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20160716-213235-957072734.jpg"
+   "img": "20160716-213235-957072734.jpg",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 3816,
+   "id": null,
    "user": "yuibitchi",
    "score": 4315,
-   "date": "2017-05-19T05:32:00.000000Z",
-   "console": 2,
+   "date": "2017-05-19T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 4372,
@@ -58,14 +61,15 @@
    "comment": "コメントなし"
   },
   {
-   "id": 5211,
+   "id": null,
    "user": "identete",
    "score": 6185,
-   "date": "2017-12-06T01:17:00.000000Z",
-   "console": 2,
+   "date": "2017-12-06T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20171206-191703-1327274857.jpg"
+   "img": "20171206-191703-1327274857.jpg",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 7417,
@@ -117,14 +121,15 @@
    "comment": "コメントなし"
   },
   {
-   "id": 11830,
+   "id": null,
    "user": "mikou_musicgame",
    "score": 6005,
-   "date": "2021-01-02T02:22:28.000000Z",
-   "console": 4,
+   "date": "2021-01-02T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20210102-202229-630487531.JPG"
+   "img": "20210102-202229-630487531.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11987,
@@ -136,14 +141,15 @@
    "comment": "最後、ちょっと面白いことが起きました"
   },
   {
-   "id": 12089,
+   "id": null,
    "user": "pikuna",
    "score": 3815,
-   "date": "2021-01-28T02:41:32.000000Z",
-   "console": 4,
+   "date": "2021-01-28T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "ハゲタマグモが大変",
-   "img": "20210128-204132-186457459.jpg"
+   "img": "20210128-204132-186457459.jpg",
+   "comment": "[Joy-Con Double#] ハゲタマグモが大変",
+   "source": "sheet-2023"
   },
   {
    "id": 12364,
@@ -155,14 +161,15 @@
    "comment": "初投稿です、よろしくお願いします！"
   },
   {
-   "id": 12409,
+   "id": null,
    "user": "teona",
    "score": 5835,
-   "date": "2021-03-22T01:24:39.000000Z",
-   "console": 4,
+   "date": "2021-03-22T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20210322-192439-1694646924.png"
+   "img": "20210322-192439-1694646924.png",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12805,
@@ -172,6 +179,17 @@
    "console": 4,
    "video": "",
    "comment": "コメントなし"
+  },
+  {
+   "id": null,
+   "user": "April_lapispik",
+   "score": 5785,
+   "date": "2021-07-06T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210706-233344-1582148740.jpg",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12907,
@@ -193,6 +211,72 @@
    "comment": "コメントなし"
   },
   {
+   "id": null,
+   "user": "esu",
+   "score": 7085,
+   "date": "2021-11-19T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/7awdjgoy584",
+   "img": "20211119-213904-333840341.jpeg",
+   "comment": "[Switch Pro$] ブリコの運ゲーです",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 7105,
+   "date": "2022-01-22T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/M3-IaP7Xh0U",
+   "img": "20220122-194305-634857569.jpeg",
+   "comment": "[Switch Pro$] カエルとブリコのせいで時間かかった",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 6035,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-210618-2062531797.jpeg",
+   "comment": "[Joy-Con Double$] 残8:30 6000点に乗りました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 6265,
+   "date": "2022-03-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220319-121253-735253210.jpeg",
+   "comment": "[Joy-Con Double$] 残8:53 今の方法ではこの辺りが限界だと思います。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 6835,
+   "date": "2022-08-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1560806611140374528/pu/vid/1280x720/Al7d818XuIBXQvP4.mp4?tag=12",
+   "img": "20220820-131455-601356905.jpeg",
+   "comment": "[Switch Pro$] 残9:50 10分残したいです。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 7125,
+   "date": "2022-11-26T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1596419043770392580/pu/vid/640x360/wslgB5QTjqZFP6X2.mp4?tag=12",
+   "img": "20221126-172402-1701780954.jpeg",
+   "comment": "[Switch Pro$] 残10:19 ルート変更なしです。",
+   "source": "sheet-2023"
+  },
+  {
    "id": 15609,
    "user": "esu",
    "score": 7135,
@@ -202,14 +286,15 @@
    "comment": "クソみたいな記録w"
   },
   {
-   "id": 16139,
+   "id": null,
    "user": "April_lapispik",
    "score": 6365,
-   "date": "2023-05-21T05:21:11.000000Z",
-   "console": 4,
+   "date": "2023-05-21T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/UjBdAkjhvHY",
-   "comment": "もう少し更新できるけどこれで",
-   "img": "20230521-232111-904370000.jpg"
+   "img": "20230521-232111-904370000.jpg",
+   "comment": "[Joy-Con Double#] もう少し更新できるけどこれで",
+   "source": "sheet-2023"
   },
   {
    "id": 16222,
@@ -222,14 +307,15 @@
    "img": "20230705-112517-1593503017.jpg"
   },
   {
-   "id": 16255,
+   "id": null,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 7135,
-   "date": "2023-07-14T02:03:04.000000Z",
-   "console": 4,
+   "date": "2023-07-14T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/tvkbyYONHgo",
-   "comment": "この記録が出る直前にブリコ以外10:23が出ました",
-   "img": "20230714-200304-1049280628.jpeg"
+   "img": "20230714-200304-1049280628.jpeg",
+   "comment": "[Switch Pro$] この記録が出る直前にブリコ以外10:23が出ました",
+   "source": "sheet-2023"
   }
  ]
 }

@@ -76,32 +76,37 @@
    "comment": "コメントなし"
   },
   {
-   "id": 4168,
+   "id": null,
    "user": "dermas",
    "score": 759,
-   "date": "2017-06-18T05:57:00.000000Z",
-   "console": 2,
+   "date": "2017-06-18T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 5711,
+   "id": null,
    "user": "Z_pikmin",
    "score": 821,
-   "date": "2018-01-31T00:10:00.000000Z",
-   "console": 2,
+   "date": "2018-01-31T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 8327,
+   "id": null,
    "user": "tomatopikumin",
    "score": 809,
-   "date": "2020-03-20T04:56:24.000000Z",
-   "console": 2,
+   "date": "2020-03-20T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20200320-225624-1868023803.JPG"
+   "img": "20200320-225624-1868023803.JPG",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 8485,
@@ -123,6 +128,17 @@
    "img": "20200812-142109-1448658404.jpeg"
   },
   {
+   "id": null,
+   "user": "6harapikumin",
+   "score": 784,
+   "date": "2020-10-12T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201012-230045-1457881446.jpg",
+   "comment": "[GamePad Only] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
    "id": 10937,
    "user": "toripoppo0307",
    "score": 862,
@@ -142,14 +158,15 @@
    "comment": "犠牲ゼロ　小さい電球3つだけでゴリ押してみました"
   },
   {
-   "id": 11001,
+   "id": null,
    "user": "zukki",
    "score": 874,
-   "date": "2020-11-04T05:48:20.000000Z",
-   "console": 4,
+   "date": "2020-11-04T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/u0OsACAJQIA",
-   "comment": "これも運ゲー",
-   "img": "20201104-234820-2000674207.jpg"
+   "img": "20201104-234820-2000674207.jpg",
+   "comment": "[Switch Pro$] これも運ゲー",
+   "source": "sheet-2023"
   },
   {
    "id": 11044,
@@ -210,6 +227,28 @@
    "img": "20201113-040315-520039600.png"
   },
   {
+   "id": null,
+   "user": "April_lapispik",
+   "score": 820,
+   "date": "2020-11-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201113-170518-2055179411.jpeg",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "PiePusher11",
+   "score": 863,
+   "date": "2020-11-17T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201117-083024-1959198972.jpg",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
    "id": 11341,
    "user": "AbsolutlyAsh",
    "score": 867,
@@ -220,14 +259,15 @@
    "img": "20201121-024959-1857297127.png"
   },
   {
-   "id": 11361,
+   "id": null,
    "user": "S_K",
    "score": 859,
-   "date": "2020-11-21T00:03:34.000000Z",
-   "console": 4,
+   "date": "2020-11-21T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "よろしくお願いします。",
-   "img": "20201121-180334-52394782.jpeg"
+   "img": "20201121-180334-52394782.jpeg",
+   "comment": "[Joy-Con Double$] よろしくお願いします。",
+   "source": "sheet-2023"
   },
   {
    "id": 11419,
@@ -259,24 +299,59 @@
    "img": "20210129-073107-1810965081.JPG"
   },
   {
-   "id": 12416,
-   "user": "Rirure",
-   "score": 874,
-   "date": "2021-03-23T00:20:35.000000Z",
-   "console": 4,
-   "video": "",
-   "comment": "Twitterに動画あります。",
-   "img": "20210323-182035-1547496266.png"
+   "id": null,
+   "user": "iid01",
+   "score": 876,
+   "date": "2021-01-29T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=ee5vxlmz8kw",
+   "img": "20210129-005756-688496710.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 12548,
+   "id": null,
+   "user": "Jay596",
+   "score": 876,
+   "date": "2021-02-02T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=iW-g10SLOPw",
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Rirure",
+   "score": 874,
+   "date": "2021-03-23T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210323-182035-1547496266.png",
+   "comment": "[Switch Pro$] Twitterに動画あります。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "iid01",
    "score": 877,
-   "date": "2021-04-30T00:01:00.000000Z",
-   "console": 4,
+   "date": "2021-04-30T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=aZnkE7IdYIk",
-   "comment": "コメントなし",
-   "img": "20210430-180100-1397899226.png"
+   "img": "20210430-180100-1397899226.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "PiePusher11",
+   "score": 872,
+   "date": "2021-06-06T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.twitch.tv/videos/1047300730",
+   "img": "",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12723,
@@ -317,14 +392,26 @@
    "img": "20210608-031724-644594300.jpeg"
   },
   {
-   "id": 12968,
+   "id": null,
+   "user": "Jay596",
+   "score": 877,
+   "date": "2021-06-08T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=QJnM8O5iZ0U",
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "April_lapispik",
    "score": 847,
-   "date": "2021-08-08T04:45:38.000000Z",
-   "console": 4,
+   "date": "2021-08-08T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20210808-224538-1869067388.jpg"
+   "img": "20210808-224538-1869067388.jpg",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 13123,
@@ -346,6 +433,17 @@
    "comment": "コメントなし"
   },
   {
+   "id": null,
+   "user": "esu",
+   "score": 878,
+   "date": "2021-11-21T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/IFqSAMOj70I",
+   "img": "20211121-222531-1966922860.jpeg",
+   "comment": "[Switch Pro$] 1秒がデカすぎる",
+   "source": "sheet-2023"
+  },
+  {
    "id": 14251,
    "user": "pikuna",
    "score": 846,
@@ -354,6 +452,17 @@
    "video": "",
    "comment": "ライトついてないのなんか草",
    "img": "20220213-164610-1298992982.jpg"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 877,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-200039-1351984092.jpeg",
+   "comment": "[Joy-Con Double$] 満足しました。",
+   "source": "sheet-2023"
   },
   {
    "id": 14740,
@@ -376,14 +485,15 @@
    "img": "20221004-140445-808026509.jpeg"
   },
   {
-   "id": 15489,
+   "id": null,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 879,
-   "date": "2022-10-30T00:04:35.000000Z",
-   "console": 4,
-   "video": "https://twitter.com/bl6altmzq5jx4am/status/1586643537814499328?s=61&t=V_TYjmY4wDi1cTRIi7nT8w",
-   "comment": "22秒すら出したことがなかったのに奇跡的に21秒出せました！ピクミン3DX発売2周年の日に出せて嬉しいです。",
-   "img": "20221030-180435-1572023706.jpeg"
+   "date": "2022-10-30T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1586643457061552128/pu/vid/1280x720/n5qhcz0iYffLAqo8.mp4?tag=12",
+   "img": "20221030-180435-1572023706.jpeg",
+   "comment": "[Switch Pro$] 22秒すら出したことがなかったのに奇跡的に21秒出せました！ピクミン3DX発売2周年の日に出せて嬉しいです。",
+   "source": "sheet-2023"
   },
   {
    "id": 15615,

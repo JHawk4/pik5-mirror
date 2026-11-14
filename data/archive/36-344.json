@@ -3,14 +3,15 @@
  "stage": 344,
  "posts": [
   {
-   "id": 10967,
+   "id": null,
    "user": "toripoppo0307",
    "score": 17510,
-   "date": "2020-11-02T05:28:25.000000Z",
-   "console": 4,
-   "video": "https://twitter.com/toripoppo0307/status/1323270114364452865",
-   "comment": "おそい",
-   "img": "20201102-232825-308719479.jpg"
+   "date": "2020-11-02T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1323270065261740037/pu/pl/qZA5MAm_urgtwS6N.m3u8?tag=10",
+   "img": "20201102-232825-308719479.jpg",
+   "comment": "[Joy-Con Double#] おそい",
+   "source": "sheet-2023"
   },
   {
    "id": 11110,
@@ -21,6 +22,17 @@
    "video": "https://twitter.com/Mario39402958/status/1326004630342430721?s=09",
    "comment": "...",
    "img": "20201110-124631-1799132524.jpg"
+  },
+  {
+   "id": null,
+   "user": "ice_cube171",
+   "score": 20000,
+   "date": "2020-11-11T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/KDilWV0L9pM",
+   "img": "",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 11141,
@@ -51,6 +63,28 @@
    "comment": "コメントなし"
   },
   {
+   "id": null,
+   "user": "PiePusher11",
+   "score": 19490,
+   "date": "2020-11-19T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.twitch.tv/videos/807962926",
+   "img": "",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 19490,
+   "date": "2020-11-20T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201120-001613-922331866.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
    "id": 11640,
    "user": "Yellowishpik",
    "score": 21230,
@@ -61,23 +95,26 @@
    "img": "20201210-083852-1413613046.jpg"
   },
   {
-   "id": 11644,
+   "id": null,
    "user": "robustar",
    "score": 19010,
-   "date": "2020-12-10T03:26:59.000000Z",
-   "console": 4,
+   "date": "2020-12-10T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=EWZr1pbZ_Os",
-   "comment": "一生懸命倒す。"
+   "img": "",
+   "comment": "[Switch Pro$] 一生懸命倒す。",
+   "source": "sheet-2023"
   },
   {
-   "id": 11660,
+   "id": null,
    "user": "imedin0813",
    "score": 15470,
-   "date": "2020-12-11T01:55:56.000000Z",
-   "console": 4,
+   "date": "2020-12-11T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "カス記録を投稿することでハードルを下げる",
-   "img": "20201211-195557-2008204652.jpeg"
+   "img": "20201211-195557-2008204652.jpeg",
+   "comment": "[Joy-Con Double#] カス記録を投稿することでハードルを下げる",
+   "source": "sheet-2023"
   },
   {
    "id": 11668,
@@ -128,6 +165,28 @@
    "comment": "コメントなし"
   },
   {
+   "id": null,
+   "user": "Jay596",
+   "score": 20510,
+   "date": "2021-03-26T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210326-225201-1580730986.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Moony",
+   "score": 20300,
+   "date": "2021-04-05T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/G88YX3x3b6M?list=PL-lWaT8NT8FSdBejUEJVZ47FaNlE60R7V",
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
    "id": 12487,
    "user": "PlataGG",
    "score": 21530,
@@ -147,23 +206,26 @@
    "img": "20210522-015838-67827173.jpeg"
   },
   {
-   "id": 12648,
+   "id": null,
    "user": "Moony",
    "score": 20390,
-   "date": "2021-05-25T00:39:58.000000Z",
-   "console": 4,
+   "date": "2021-05-25T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=DVM_O2hLa3U&ab_channel=Moony",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 12724,
+   "id": null,
    "user": "SHINYA",
    "score": 20000,
-   "date": "2021-06-07T04:51:51.000000Z",
-   "console": 4,
+   "date": "2021-06-07T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "初投稿です",
-   "img": "20210607-225151-480418674.jpg"
+   "img": "20210607-225151-480418674.jpg",
+   "comment": "[Switch Pro$] 初投稿です",
+   "source": "sheet-2023"
   },
   {
    "id": 12760,
@@ -186,14 +248,37 @@
    "img": "20210613-101727-1078258511.jpg"
   },
   {
-   "id": 12833,
+   "id": null,
+   "user": "mikou_musicgame",
+   "score": 20600,
+   "date": "2021-06-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210613-110205-1101888416.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "mikou_musicgame",
    "score": 21050,
-   "date": "2021-06-21T01:28:49.000000Z",
-   "console": 4,
+   "date": "2021-06-21T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20210621-192849-1580297384.JPG"
+   "img": "20210621-192849-1580297384.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Jay596",
+   "score": 20720,
+   "date": "2021-10-17T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20211017-220747-2081293581.png",
+   "comment": "[Switch Pro$] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 13351,
@@ -213,6 +298,94 @@
    "console": 4,
    "video": "https://youtu.be/qB7Qhcdx6-s",
    "comment": "コメントなし"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 21770,
+   "date": "2021-11-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/VCfmOhE4e0",
+   "img": "20211120-174012-290582981.jpeg",
+   "comment": "[Switch Pro$] 11分台出したいなぁ",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 21800,
+   "date": "2021-12-20T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/BBD8nN35zoM",
+   "img": "20211220-202853-1857340344.jpeg",
+   "comment": "[Switch Pro$] 11分台達成！",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 20330,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-205531-989241690.jpeg",
+   "comment": "[Joy-Con Double$] エリア移動によって時間が止まることを利用した技を使い、7秒更新しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 20630,
+   "date": "2022-03-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220319-123352-646806489.jpeg",
+   "comment": "[Joy-Con Double$] 「エリア移動の技」を使いました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 21890,
+   "date": "2022-04-16T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/mdPLnbp8a7c",
+   "img": "20220416-230710-22944643.jpeg",
+   "comment": "[Switch Pro$] 理論値は11:05ぐらいかな",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 21560,
+   "date": "2022-08-21T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1561288408269729792/pu/vid/480x270/FukexEBEc-3J67IQ.mp4?tag=12",
+   "img": "20220821-190057-339354658.jpeg",
+   "comment": "[Switch Pro$] これにて、ミッションとサイドストーリー全ステージSwitch版想定外達成です。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 22010,
+   "date": "2022-10-10T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1579233252224925697/pu/vid/1280x720/yopnzLss7tUQwy7m.mp4?tag=12",
+   "img": "20221010-071431-1310618236.jpeg",
+   "comment": "[Switch Pro$] 残11:07 思ったより時間がかかりました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "esu",
+   "score": 22340,
+   "date": "2022-10-10T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/tqi5PfWWHFY",
+   "img": "20221010-184223-180846775.jpeg",
+   "comment": "[Switch Pro$] ここまで移動もこんな使い方があったとは…",
+   "source": "sheet-2023"
   },
   {
    "id": 15453,
@@ -243,13 +416,15 @@
    "comment": "やり方合ってるかわからんけど一旦"
   },
   {
-   "id": 15868,
+   "id": null,
    "user": "April_lapispik",
    "score": 19880,
-   "date": "2023-02-22T04:05:27.000000Z",
-   "console": 4,
+   "date": "2023-02-22T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/LtOaIVqhcrM",
-   "comment": "エリア移動したとき、一瞬だけカウントが停止するようです。"
+   "img": "",
+   "comment": "[Joy-Con Double#] エリア移動したとき、一瞬だけカウントが停止するようです。",
+   "source": "sheet-2023"
   },
   {
    "id": 16115,

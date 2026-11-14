@@ -1,23 +1,36 @@
-/* Layout modeled on classic record-history sites: grey page, blue rounded
-   sidebar boxes, white content panel, plain bordered tables, Verdana 12px. */
+/* Layout modeled on classic record-history sites (rounded sidebar boxes,
+   white content panel, plain bordered tables, Verdana 12px), coloured like a
+   Pikmin field: grass-green page, leaf-green sidebar, and each game's accent
+   taken from its cover art (red, yellow, blue, orange). */
 :root {
-  --page: #eeeeee;
+  --page: #e4eed2;          /* pale grass */
+  --page-2: #d3e4b8;        /* grass, for the background fade */
   --panel: #ffffff;
-  --side: #02aeee;
-  --side-on: #0b8fc4;
-  --link: #0077ff;
-  --line: #d3d3d3;
-  --muted: #666666;
-  --proof: #f6f9fc;
+  --side: #4b9a3c;          /* leaf green */
+  --side-2: #3c8531;
+  --side-on: #2c6a24;
+  --link: #1d66b8;
+  --line: #d5dccb;
+  --muted: #5f6b58;
+  --proof: #f4f8ee;
   --gold: #c08a00;
+  --accent: #4b9a3c;        /* per-game accent, set on body[data-game] */
+  --p1: #d8372b;            /* red Pikmin */
+  --p2: #e8a800;            /* yellow Pikmin */
+  --p3: #2d74c9;            /* blue Pikmin */
+  --p4: #e8792a;            /* Pikmin 4's orange-and-green cover */
   color-scheme: light;
 }
+body[data-game="1"] { --accent: var(--p1); }
+body[data-game="2"] { --accent: var(--p2); }
+body[data-game="3"] { --accent: var(--p3); }
+body[data-game="4"] { --accent: var(--p4); }
 
 * { box-sizing: border-box; }
 html { background: var(--page); }
 body {
   margin: 0;
-  background: var(--page);
+  background: linear-gradient(180deg, var(--page) 0, var(--page) 340px, var(--page-2) 100%) fixed;
   color: #000;
   font: 12px/1.35 Verdana, Arial, Helvetica, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
 }
@@ -30,9 +43,10 @@ a:hover { text-decoration: underline; }
 #header { display: flex; align-items: flex-end; gap: 10px; padding: 8px 10px 6px 0; }
 #header .logo { width: 230px; flex: none; padding-left: 12px; }
 #header .logo a {
-  display: block; color: var(--side); font-size: 22px; font-weight: 700; line-height: 1.05;
-  letter-spacing: -.5px; text-shadow: 1px 1px 0 #fff;
+  display: flex; align-items: center; gap: 6px; color: var(--side-on); font-size: 22px; font-weight: 700;
+  line-height: 1.05; letter-spacing: -.5px; text-shadow: 1px 1px 0 #fff;
 }
+#header .logo svg { flex: none; }
 #header .logo a:hover { text-decoration: none; color: var(--side-on); }
 #header .bars { flex: 1; text-align: right; font-weight: 700; }
 #header .bars > div { margin: 2px 0; }
@@ -41,7 +55,8 @@ a:hover { text-decoration: underline; }
 #cols { display: flex; align-items: flex-start; }
 #nav { width: 230px; flex: none; padding-right: 10px; }
 .navbox {
-  background: var(--side); border-radius: 0 25px 25px 0; padding: 10px 10px 12px 12px; margin-bottom: 10px;
+  background: linear-gradient(135deg, var(--side), var(--side-2)); border-radius: 0 25px 25px 0;
+  padding: 10px 10px 12px 12px; margin-bottom: 10px; box-shadow: inset 4px 0 0 var(--accent);
 }
 .navbox a { display: block; color: #fff; padding: 0 0 0 0; }
 .navbox a.head { font-weight: 700; text-decoration: underline; margin-bottom: 2px; }
@@ -51,10 +66,11 @@ a:hover { text-decoration: underline; }
 
 #main {
   flex: 1; min-width: 0; background: var(--panel); border-radius: 25px 0 0 25px;
+  border-top: 4px solid var(--accent);
   padding: 4px 8px 16px 12px; min-height: 70vh;
 }
 h1 { font-size: 18px; margin: 12px 0 6px; }
-h2 { font-size: 18px; margin: 20px 0 8px; }
+h2 { font-size: 18px; margin: 20px 0 8px; padding-bottom: 2px; border-bottom: 2px solid var(--accent); display: inline-block; }
 h3 { font-size: 14px; margin: 18px 0 6px; }
 h1 .eggnote { font-size: 12px; font-weight: 400; color: var(--muted); }
 .facts, .note, .small { color: var(--muted); }
@@ -67,7 +83,7 @@ ul.games li { margin: 2px 0; font-size: 13px; }
 /* tables */
 .tw { max-width: 100%; overflow-x: auto; }
 table.wr { border-collapse: collapse; margin: 2px 0 6px; }
-table.wr th { text-align: left; padding: 1px 6px 1px 1px; vertical-align: bottom; line-height: 1.15; }
+table.wr th { text-align: left; padding: 1px 6px 2px 1px; vertical-align: bottom; line-height: 1.15; border-bottom: 2px solid var(--accent); }
 table.wr th span[title] { cursor: help; text-decoration: underline dotted #aaa; text-underline-offset: 2px; }
 table.wr td { border: 1px solid var(--line); padding: 2px 8px; vertical-align: middle; }
 table.wr tr.proof td { background: var(--proof); font-size: 11px; }
@@ -138,3 +154,14 @@ td:has(> .num) { text-align: right; }
 .suggest { max-width: 560px; display: grid; gap: 10px; margin-top: 8px; }
 .suggest input, .suggest textarea { width: 100%; font: inherit; padding: 4px 6px; border: 1px solid var(--line); }
 .suggest button { justify-self: start; font: inherit; padding: 4px 16px; }
+
+/* game links in the top bar carry their game's colour */
+#header .bars a.g1 { color: var(--p1); } #header .bars a.g2 { color: #b98300; }
+#header .bars a.g3 { color: var(--p3); } #header .bars a.g4 { color: #c85f17; }
+#header .bars a.on { text-decoration: underline; text-decoration-thickness: 2px; }
+.navbox a.g1::before, .navbox a.g2::before, .navbox a.g3::before, .navbox a.g4::before {
+  content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px;
+  border: 1px solid rgba(255,255,255,.8); vertical-align: 0;
+}
+.navbox a.g1::before { background: var(--p1); } .navbox a.g2::before { background: var(--p2); }
+.navbox a.g3::before { background: var(--p3); } .navbox a.g4::before { background: var(--p4); }

@@ -31,13 +31,15 @@
    "img": "20160328-171859-1075285538.jpg"
   },
   {
-   "id": 3805,
+   "id": null,
    "user": "yuibitchi",
    "score": 7950,
-   "date": "2017-05-19T03:00:00.000000Z",
-   "console": 2,
+   "date": "2017-05-19T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 4176,
@@ -58,34 +60,37 @@
    "comment": "金塊はこび、もちっとうまくできんかい"
   },
   {
-   "id": 9825,
+   "id": null,
    "user": "ikimono334",
    "score": 11010,
-   "date": "2020-08-25T03:47:22.000000Z",
-   "console": 2,
+   "date": "2020-08-25T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.nicovideo.jp/watch/sm37415935",
-   "comment": "想定外",
-   "img": "20200825-214722-1578629873.png"
+   "img": "20200825-214722-1578629873.png",
+   "comment": "[Wii] 想定外",
+   "source": "sheet-2023"
   },
   {
-   "id": 11080,
+   "id": null,
    "user": "imedin0813",
    "score": 3540,
-   "date": "2020-11-08T00:55:31.000000Z",
-   "console": 4,
+   "date": "2020-11-08T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "一旦",
-   "img": "20201108-185531-1671373387.jpeg"
+   "img": "20201108-185531-1671373387.jpeg",
+   "comment": "[Joy-Con Double#] 一旦",
+   "source": "sheet-2023"
   },
   {
-   "id": 11286,
+   "id": null,
    "user": "nuinuisousou",
    "score": 9690,
-   "date": "2020-11-18T03:52:18.000000Z",
-   "console": 4,
+   "date": "2020-11-18T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "１位が遠い",
-   "img": "20201118-215218-1834980503.JPEG"
+   "img": "20201118-215218-1834980503.JPEG",
+   "comment": "[Joy-Con Double#] １位が遠い",
+   "source": "sheet-2023"
   },
   {
    "id": 11703,
@@ -97,14 +102,15 @@
    "comment": "もう少しいけそう"
   },
   {
-   "id": 11774,
+   "id": null,
    "user": "messhi475",
    "score": 10800,
-   "date": "2020-12-28T02:18:38.000000Z",
-   "console": 4,
+   "date": "2020-12-28T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/iaxVbtpHBL0",
-   "comment": "これで限界です・・・",
-   "img": "20201228-201829-1787752632.jpg"
+   "img": "20201228-201829-1787752632.jpg",
+   "comment": "[Joy-Con Double#] これで限界です・・・",
+   "source": "sheet-2023"
   },
   {
    "id": 11801,
@@ -117,23 +123,26 @@
    "img": "20201231-040600-1372732253.jpg"
   },
   {
-   "id": 11996,
+   "id": null,
    "user": "mikou_musicgame",
    "score": 10170,
-   "date": "2021-01-18T05:57:02.000000Z",
-   "console": 4,
+   "date": "2021-01-18T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20210118-235702-1246318276.JPG"
+   "img": "20210118-235702-1246318276.JPG",
+   "comment": "[Switch Pro#] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 12118,
+   "id": null,
    "user": "ryuun",
    "score": 11010,
-   "date": "2021-01-31T01:23:44.000000Z",
-   "console": 4,
+   "date": "2021-01-31T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/_Vzb1iKQdMw",
-   "comment": "ウジンコ♂が強い"
+   "img": "",
+   "comment": "[Switch Pro$] ウジンコ♂が強い",
+   "source": "sheet-2023"
   },
   {
    "id": 12534,
@@ -165,42 +174,125 @@
    "comment": "コメントなし"
   },
   {
-   "id": 13842,
+   "id": null,
+   "user": "shiocha78",
+   "score": 10410,
+   "date": "2021-10-03T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=wYDXlP7u6ow",
+   "img": "",
+   "comment": "[Joy-Con Double$] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "shiocha78",
    "score": 11160,
-   "date": "2021-11-08T05:13:56.000000Z",
-   "console": 4,
+   "date": "2021-11-08T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=Z9GkGG1mvEc",
-   "comment": "4:22残し"
+   "img": "",
+   "comment": "[Joy-Con Double$] 4:22残し",
+   "source": "sheet-2023"
   },
   {
-   "id": 14176,
+   "id": null,
+   "user": "esu",
+   "score": 12750,
+   "date": "2021-11-19T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/NQvGRpjARKs",
+   "img": "20211119-212630-2030379806.jpeg",
+   "comment": "[Switch Pro$] キンカイに引っかかってミスしまくった",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "ChasingJess",
    "score": 6180,
-   "date": "2022-01-14T03:41:34.000000Z",
-   "console": 4,
+   "date": "2022-01-14T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 14184,
+   "id": null,
    "user": "April_lapispik",
    "score": 9270,
-   "date": "2022-01-15T00:53:11.000000Z",
-   "console": 4,
+   "date": "2022-01-15T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20220115-185311-1936011062.jpeg"
+   "img": "20220115-185311-1936011062.jpeg",
+   "comment": "[Joy-Con Double#] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 14545,
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10200,
+   "date": "2022-03-13T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220313-121449-1756202298.jpeg",
+   "comment": "[Joy-Con Double$] 残3:50 まだ行けそうです。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10830,
+   "date": "2022-03-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220319-115306-254260473.jpeg",
+   "comment": "[Joy-Con Double$] 21秒更新しました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "esu",
    "score": 12900,
-   "date": "2022-04-11T03:08:20.000000Z",
-   "console": 4,
+   "date": "2022-04-11T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/otDYCKD1jTs",
-   "comment": "納得",
-   "img": "20220411-210820-1916813712.jpeg"
+   "img": "20220411-210820-1916813712.jpeg",
+   "comment": "[Switch Pro$] 納得",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 11220,
+   "date": "2022-05-27T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220527-063744-886627297.jpeg",
+   "comment": "[Joy-Con Double$] 残4:24 キンカイは一気に運ぶ方がいいのでしょうか。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 12060,
+   "date": "2022-07-09T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220709-182336-826059641.jpeg",
+   "comment": "[Joy-Con Double$] 1位の方の動画を参考にしました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 12390,
+   "date": "2022-08-12T00:00:00.000000Z",
+   "console": null,
+   "video": "https://video.twimg.com/ext_tw_video/1558002392305913857/pu/vid/1280x720/wjR14VjVr6feR67V.mp4?tag=12",
+   "img": "20220812-171214-1794995188.jpeg",
+   "comment": "[Switch Pro$] 残5:03 アルフが乗るハスの葉をもう1つ分早くしたいです。",
+   "source": "sheet-2023"
   },
   {
    "id": 16214,
@@ -213,14 +305,15 @@
    "img": "20230705-110942-224136403.jpg"
   },
   {
-   "id": 16252,
+   "id": null,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 12780,
-   "date": "2023-07-14T01:58:20.000000Z",
-   "console": 4,
+   "date": "2023-07-14T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "ハスの周期に遅れないようにしたと思います",
-   "img": "20230714-195820-1074394454.jpeg"
+   "img": "20230714-195820-1074394454.jpeg",
+   "comment": "[Switch Pro$] ハスの周期に遅れないようにしたと思います",
+   "source": "sheet-2023"
   },
   {
    "id": 19497,

@@ -48,40 +48,48 @@
    "comment": "タマゴムシあり。言いたい事が多すぎて困りますが、とにかく難関です。"
   },
   {
-   "id": 618,
+   "id": null,
    "user": "FeTellYou",
    "score": 33213,
-   "date": "2015-11-01T03:58:00.000000Z",
-   "console": 1,
+   "date": "2015-11-01T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 736,
+   "id": null,
    "user": "Selenium_pikmin",
    "score": 33198,
-   "date": "2015-11-01T03:58:00.000000Z",
-   "console": 1,
+   "date": "2015-11-01T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 924,
+   "id": null,
    "user": "xxHIMExx",
    "score": 33028,
-   "date": "2015-11-06T04:47:00.000000Z",
-   "console": 1,
+   "date": "2015-11-06T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
   },
   {
-   "id": 1113,
+   "id": null,
    "user": "maramon",
    "score": 33110,
-   "date": "2015-11-09T05:04:00.000000Z",
-   "console": 1,
+   "date": "2015-11-09T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 1601,
@@ -94,13 +102,15 @@
    "img": "20160305-173715-1842953630.jpg"
   },
   {
-   "id": 1800,
+   "id": null,
    "user": "HoshiKUZU_pik",
    "score": 33211,
-   "date": "2016-03-15T02:37:00.000000Z",
-   "console": 1,
+   "date": "2016-03-15T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 2395,
@@ -113,13 +123,15 @@
    "img": "20161016-163130-2069787344.jpeg"
   },
   {
-   "id": 2443,
+   "id": null,
    "user": "muratsubo",
    "score": 33179,
-   "date": "2016-11-14T05:25:00.000000Z",
-   "console": 1,
+   "date": "2016-11-14T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし"
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 2570,
@@ -131,13 +143,15 @@
    "comment": "疲れた"
   },
   {
-   "id": 2907,
+   "id": null,
    "user": "miran",
    "score": 33196,
-   "date": "2017-02-08T00:18:00.000000Z",
-   "console": 1,
+   "date": "2017-02-08T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "200台に乗せたい人生だった"
+   "img": "",
+   "comment": "[NGC] 200台に乗せたい人生だった",
+   "source": "sheet-2023"
   },
   {
    "id": 3352,
@@ -160,13 +174,15 @@
    "img": "20170619-030936-852115388.JPG"
   },
   {
-   "id": 4236,
+   "id": null,
    "user": "pikmin893",
    "score": 33241,
-   "date": "2017-06-22T02:35:00.000000Z",
-   "console": 1,
+   "date": "2017-06-22T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "わりとクソみたいな配置だった気がするけど"
+   "img": "",
+   "comment": "[NGC] わりとクソみたいな配置だった気がするけど",
+   "source": "sheet-2023"
   },
   {
    "id": 4679,
@@ -188,6 +204,17 @@
    "comment": "コメントなし"
   },
   {
+   "id": null,
+   "user": "albut3",
+   "score": 33257,
+   "date": "2018-01-09T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20180109-025030-2055042189.JPG",
+   "comment": "[NGC] ガバを配置でカバー",
+   "source": "sheet-2023"
+  },
+  {
    "id": 5744,
    "user": "yuibitchi",
    "score": 33098,
@@ -207,24 +234,26 @@
    "img": "20180219-100350-928339940.jpg"
   },
   {
-   "id": 6299,
+   "id": null,
    "user": "dayomin",
    "score": 33215,
-   "date": "2018-05-13T02:56:17.000000Z",
-   "console": 1,
+   "date": "2018-05-13T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "新チャレ挑戦中のタマゴムシ10匹",
-   "img": "20180513-205617-2021137609.JPG"
+   "img": "20180513-205617-2021137609.JPG",
+   "comment": "[NGC] 新チャレ挑戦中のタマゴムシ10匹",
+   "source": "sheet-2023"
   },
   {
-   "id": 6492,
+   "id": null,
    "user": "TEL",
    "score": 33270,
-   "date": "2018-06-18T03:59:31.000000Z",
-   "console": 1,
+   "date": "2018-06-18T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "ダレカタスケテクレ・・・",
-   "img": "20180618-215931-2065118927.JPG"
+   "img": "20180618-215931-2065118927.JPG",
+   "comment": "[NGC] ダレカタスケテクレ・・・",
+   "source": "sheet-2023"
   },
   {
    "id": 6530,
@@ -236,14 +265,15 @@
    "comment": "虫　が　出　て　こ　れ"
   },
   {
-   "id": 6647,
+   "id": null,
    "user": "ikimono334",
    "score": 33247,
-   "date": "2018-07-23T00:10:35.000000Z",
-   "console": 1,
+   "date": "2018-07-23T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "少しだけ更新",
-   "img": "20180723-181035-704571186.jpg"
+   "img": "20180723-181035-704571186.jpg",
+   "comment": "[NGC] 少しだけ更新",
+   "source": "sheet-2023"
   },
   {
    "id": 6700,
@@ -256,24 +286,37 @@
    "img": "20180812-134704-78727252.jpg"
   },
   {
-   "id": 6870,
+   "id": null,
    "user": "sectionmarilui",
    "score": 33257,
-   "date": "2018-09-13T00:06:12.000000Z",
-   "console": 1,
+   "date": "2018-09-13T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "ダイナミック気の迷い♡",
-   "img": "20180913-180612-1619723827.jpg"
+   "img": "20180913-180612-1619723827.jpg",
+   "comment": "[NGC] ダイナミック気の迷い♡",
+   "source": "sheet-2023"
   },
   {
-   "id": 6956,
+   "id": null,
    "user": "Z_pikmin",
    "score": 33248,
-   "date": "2018-10-11T01:02:52.000000Z",
-   "console": 2,
+   "date": "2018-10-11T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "間欠泉をたたくピクミンを信じていられれば250もあった",
-   "img": "20181011-190252-841550754.jpg"
+   "img": "20181011-190252-841550754.jpg",
+   "comment": "[Wii] 間欠泉をたたくピクミンを信じていられれば250もあった",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "toripoppo0307",
+   "score": 33180,
+   "date": "2019-04-25T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "",
+   "comment": "[NGC] 出したのは2019-2-8",
+   "source": "sheet-2023"
   },
   {
    "id": 7648,
@@ -295,24 +338,48 @@
    "comment": "コメントなし"
   },
   {
-   "id": 8249,
-   "user": "fuji_luck",
-   "score": 33252,
-   "date": "2020-02-08T03:03:03.000000Z",
-   "console": 1,
+   "id": null,
+   "user": "spark573",
+   "score": 33231,
+   "date": "2019-10-19T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "コメントなし",
-   "img": "20200208-210303-1957293861.JPG"
+   "img": "20191019-222217-182923204.jpg",
+   "comment": "[NGC] サクレ探しで10カウントくらいロスしちゃった",
+   "source": "sheet-2023"
   },
   {
-   "id": 8422,
+   "id": null,
+   "user": "Gorei_50",
+   "score": 33312,
+   "date": "2019-12-30T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/kFSKYhMqW0M",
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "fuji_luck",
+   "score": 33252,
+   "date": "2020-02-08T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20200208-210303-1957293861.JPG",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "ToolAssistedPik",
    "score": 33233,
-   "date": "2020-05-04T05:02:43.000000Z",
-   "console": 1,
+   "date": "2020-05-04T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "投稿し忘れてたやつ。2セット粘ったけど出ないですね…",
-   "img": "20200504-230243-724136188.bmp"
+   "img": "20200504-230243-724136188.bmp",
+   "comment": "[NGC] 投稿し忘れてたやつ。2セット粘ったけど出ないですね…",
+   "source": "sheet-2023"
   },
   {
    "id": 8560,
@@ -323,6 +390,17 @@
    "video": "https://youtu.be/w02OTPyyC0E",
    "comment": "タマゴムシ出たけどうーむー",
    "img": "20200611-164607-1473905621.jpg"
+  },
+  {
+   "id": null,
+   "user": "alpha_0630",
+   "score": 33213,
+   "date": "2020-07-02T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/qNBCpVDunYQ",
+   "img": "20200702-003635-435721913.jpg",
+   "comment": "[NGC] 開幕から特大ガバ",
+   "source": "sheet-2023"
   },
   {
    "id": 8778,
@@ -345,24 +423,37 @@
    "img": "20200720-011409-309835785.jpeg"
   },
   {
-   "id": 9712,
+   "id": null,
    "user": "shiocha78",
    "score": 33224,
-   "date": "2020-08-09T04:17:17.000000Z",
-   "console": 1,
+   "date": "2020-08-09T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "そこそこ",
-   "img": "20200809-221718-1332788657.JPG"
+   "img": "20200809-221718-1332788657.JPG",
+   "comment": "[NGC] そこそこ",
+   "source": "sheet-2023"
   },
   {
-   "id": 9866,
+   "id": null,
+   "user": "mercysnow",
+   "score": 33256,
+   "date": "2020-08-29T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20200829-172042-196716072.jpeg",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "mikou_musicgame",
    "score": 33245,
-   "date": "2020-09-04T05:14:40.000000Z",
-   "console": 2,
+   "date": "2020-09-04T00:00:00.000000Z",
+   "console": null,
    "video": "",
-   "comment": "バケツ2の地形",
-   "img": "20200904-231440-678134778.JPG"
+   "img": "20200904-231440-678134778.JPG",
+   "comment": "[Wii] バケツ2の地形",
+   "source": "sheet-2023"
   },
   {
    "id": 10785,
@@ -374,24 +465,59 @@
    "comment": "考えてプレイできていない"
   },
   {
-   "id": 11573,
-   "user": "messhi475",
-   "score": 33191,
-   "date": "2020-12-04T01:36:12.000000Z",
-   "console": 1,
-   "video": "",
-   "comment": "何年前に出した記録でしょうか・・・",
-   "img": "20201204-193614-38994312.JPG"
+   "id": null,
+   "user": "makalogue",
+   "score": 33185,
+   "date": "2020-10-19T00:00:00.000000Z",
+   "console": null,
+   "video": "https://www.youtube.com/watch?v=YJfY5xK-EZs",
+   "img": "20201019-124841-1072424545.png",
+   "comment": "[NGC] ムシ1セット、タイム65",
+   "source": "sheet-2023"
   },
   {
-   "id": 11767,
+   "id": null,
+   "user": "messhi475",
+   "score": 33191,
+   "date": "2020-12-04T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20201204-193614-38994312.JPG",
+   "comment": "[NGC] 何年前に出した記録でしょうか・・・",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "nikoshu_pik",
    "score": 33248,
-   "date": "2020-12-27T01:08:14.000000Z",
-   "console": 2,
+   "date": "2020-12-27T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.youtube.com/watch?v=RDNfm_GqTv8",
-   "comment": "コメントなし",
-   "img": "20201227-190816-2013048198.jpg"
+   "img": "20201227-190816-2013048198.jpg",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "yuyuyunkel",
+   "score": 33224,
+   "date": "2021-01-02T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20210102-183403-1062151548.JPG",
+   "comment": "[NGC] 240ぐらいはいきたいなぁ",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "mercysnow",
+   "score": 33257,
+   "date": "2021-03-24T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/583uf8vCH7A",
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 12520,
@@ -424,6 +550,39 @@
    "img": "20210711-024326-457260398.jpeg"
   },
   {
+   "id": null,
+   "user": "spark573",
+   "score": 33237,
+   "date": "2021-08-30T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/GLf8MMG6-fA",
+   "img": "20210830-000845-1757473382.png",
+   "comment": "[NGC] ムシ取り大会副産物",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "mercysnow",
+   "score": 33262,
+   "date": "2021-10-03T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/hoE1enu80Mw",
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "April_lapispik",
+   "score": 33191,
+   "date": "2021-10-15T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20211015-122755-1461001510.jpeg",
+   "comment": "[NGC] 悲しみの3匹逃し　1セット",
+   "source": "sheet-2023"
+  },
+  {
    "id": 13339,
    "user": "nakatatsu",
    "score": 33221,
@@ -432,6 +591,17 @@
    "video": "",
    "comment": "ようやくタマゴ+それなりの地形が出た",
    "img": "20211031-010306-846989752.JPG"
+  },
+  {
+   "id": null,
+   "user": "kobachi_no_udon",
+   "score": 33123,
+   "date": "2021-11-26T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
   },
   {
    "id": 14060,
@@ -444,14 +614,81 @@
    "img": "20211209-000908-1801742347.JPG"
   },
   {
-   "id": 14125,
+   "id": null,
+   "user": "spark573",
+   "score": 33256,
+   "date": "2021-12-15T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/-gizxgtVgDA",
+   "img": "20211215-002056-420618111.png",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "atmy_17",
+   "score": 33181,
+   "date": "2021-12-19T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20211219-220014-757683987.jpeg",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "April_lapispik",
    "score": 33220,
-   "date": "2021-12-25T05:26:17.000000Z",
-   "console": 1,
+   "date": "2021-12-25T00:00:00.000000Z",
+   "console": null,
    "video": "https://youtu.be/9brDUxp-YTE",
-   "comment": "今度は逃さず1セット　動画は解説つきです",
-   "img": "20211225-232448-937023170.jpg"
+   "img": "20211225-232448-937023170.jpg",
+   "comment": "[NGC] 今度は逃さず1セット　動画は解説つきです",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 33194,
+   "date": "2022-03-22T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220322-084122-2123429568.jpeg",
+   "comment": "[Wii] 多分1セットです。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "toripoppo0307",
+   "score": 33198,
+   "date": "2022-04-21T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "",
+   "comment": "[NGC] なぜか録画できてなかった…",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 33219,
+   "date": "2022-04-24T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220424-133402-1793516916.jpg",
+   "comment": "[Wii] 2バケツ1セットです。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 33224,
+   "date": "2022-06-12T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220612-171054-1092749429.jpg",
+   "comment": "[Wii] 拠点付近で回り込む運搬ルートでした。",
+   "source": "sheet-2023"
   },
   {
    "id": 14881,
@@ -461,6 +698,17 @@
    "console": 1,
    "video": "",
    "comment": "コメントなし"
+  },
+  {
+   "id": null,
+   "user": "atmy_17",
+   "score": 33198,
+   "date": "2022-08-15T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20220815-023951-1306718502.jpeg",
+   "comment": "[Wii] ゴミ配置でしたが過去の私が適当だったので更新できた。",
+   "source": "sheet-2023"
   },
   {
    "id": 15091,
@@ -473,14 +721,26 @@
    "img": "20220920-043629-1974624453.JPG"
   },
   {
-   "id": 15432,
+   "id": null,
+   "user": "mercysnow",
+   "score": 33267,
+   "date": "2022-10-03T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/CJ9MY6RpCBI",
+   "img": "",
+   "comment": "[Wii] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
    "user": "spark573",
    "score": 33270,
-   "date": "2022-10-16T04:57:01.000000Z",
-   "console": 2,
+   "date": "2022-10-16T00:00:00.000000Z",
+   "console": null,
    "video": "https://www.twitch.tv/videos/1625881477",
-   "comment": "ラン対の副産物",
-   "img": "20221016-225701-916876784.png"
+   "img": "20221016-225701-916876784.png",
+   "comment": "[Wii] ラン対の副産物",
+   "source": "sheet-2023"
   },
   {
    "id": 15436,
@@ -500,6 +760,72 @@
    "console": 2,
    "video": "https://youtu.be/5QR-KZz9HTQ",
    "comment": "コメントなし"
+  },
+  {
+   "id": null,
+   "user": "Argent2home",
+   "score": 33158,
+   "date": "2022-11-26T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Argent2home",
+   "score": 33200,
+   "date": "2022-12-23T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "kobachi_no_udon",
+   "score": 33152,
+   "date": "2023-02-26T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20230226-173544-36616518.JPG",
+   "comment": "[NGC] まだまだ",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 33239,
+   "date": "2023-03-24T00:00:00.000000Z",
+   "console": null,
+   "video": "",
+   "img": "20230324-181919-149694407.jpeg",
+   "comment": "[Wii] タマゴムシ5匹後で回収しようと思っていたら忘れました。",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "kobachi_no_udon",
+   "score": 33233,
+   "date": "2023-04-07T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/phxqRBsGUAg",
+   "img": "20230407-235147-905963053.png",
+   "comment": "[NGC] コメントなし",
+   "source": "sheet-2023"
+  },
+  {
+   "id": null,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 33254,
+   "date": "2023-05-11T00:00:00.000000Z",
+   "console": null,
+   "video": "https://youtu.be/mWFD4k_2LLE",
+   "img": "20230511-204751-1812779645.jpeg",
+   "comment": "[Wii] 2セット引きたいけど多分無理です。",
+   "source": "sheet-2023"
   },
   {
    "id": 17295,

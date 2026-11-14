@@ -3,6 +3,78 @@
  "stage": 229,
  "records": [
   {
+   "id": 64,
+   "uid": null,
+   "user": "official",
+   "score": 33078,
+   "date": "2007-04-28T06:00:00.000000Z",
+   "video": "",
+   "img": null,
+   "console": 1,
+   "comment": "公式記録です。",
+   "tie": false
+  },
+  {
+   "id": 212,
+   "uid": null,
+   "user": "shinya_",
+   "score": 33179,
+   "date": "2012-11-01T06:00:00.000000Z",
+   "video": "",
+   "img": null,
+   "console": 1,
+   "comment": "タマゴムシが出ました。出ない相当の点数でも高いのでしょうか。",
+   "tie": false
+  },
+  {
+   "id": 452,
+   "uid": null,
+   "user": "DRAFIX",
+   "score": 33180,
+   "date": "2015-02-17T06:00:00.000000Z",
+   "video": "",
+   "img": null,
+   "console": 1,
+   "comment": "タマゴムシあり。言いたい事が多すぎて困りますが、とにかく難関です。",
+   "tie": false
+  },
+  {
+   "id": null,
+   "uid": null,
+   "user": "FeTellYou",
+   "score": 33213,
+   "date": "2015-11-01T00:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": null,
+   "comment": "[NGC] コメントなし",
+   "tie": false
+  },
+  {
+   "id": 3352,
+   "uid": null,
+   "user": "flyinghawk",
+   "score": 33294,
+   "date": "2017-03-30T20:22:00.000000Z",
+   "video": "",
+   "img": "20170331-142215-1327870682.jpg",
+   "console": 1,
+   "comment": "謝るしかない",
+   "tie": false
+  },
+  {
+   "id": null,
+   "uid": null,
+   "user": "Gorei_50",
+   "score": 33312,
+   "date": "2019-12-30T00:00:00.000000Z",
+   "video": "https://youtu.be/kFSKYhMqW0M",
+   "img": "",
+   "console": null,
+   "comment": "[Wii] コメントなし",
+   "tie": false
+  },
+  {
    "id": 18050,
    "uid": 309039972,
    "user": "Gorei_50",
