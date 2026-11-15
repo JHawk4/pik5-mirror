@@ -82,7 +82,7 @@ LINKS = [
     ("Dandori DB", "Dandori DB", "https://dodiou.github.io/DandoriDB/"),
     ("Pikipedia (wiki)", "Pikipedia（英語wiki）", "https://www.pikminwiki.com/"),
     ("Pikmin Technical Knowledge Base", "Pikmin TKB（技術wiki）", "https://pikmintkb.com/"),
-    ("CaveGen", "CaveGen", "https://github.com/JHaack4/CaveGen"),
+    ("CaveGen", "CaveGen", "https://github.com/JHawk4/CaveGen"),
     ("Caveripper", "Caveripper", "https://github.com/mayabyte/caveripper"),
     ("Pikmin 2 decompilation", "ピクミン2 逆コンパイル", "https://github.com/projectPiki/pikmin2"),
 ]
