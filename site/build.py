@@ -17,7 +17,7 @@ from pathlib import Path
 from urllib.parse import parse_qs, quote, urlparse
 
 from i18n import CAT_LABELS, COUNTRIES, GAMES, HEADERS, LINKS, STR
-from icons import CAMERA, EGG, SPROUT, console_icon, difficulty_icon, video_icon
+from icons import CAMERA, CONSOLES, DIFFICULTY, EGG, SPROUT, console_icon, difficulty_icon, video_icon
 import score_meta
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -446,6 +446,7 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
                 f'<a href="{pre}snapshot/{SLUG[series or 1]}.html">{e(t.s("snapshots"))}</a>'
                 f'<a href="{pre}activity.html">{e(t.s("activity"))}</a>'
                 f'<a href="{pre}tas.html">{e(t.s("tas_title"))}</a>'
+                f'<a href="{pre}download.html">{e(t.s("download"))}</a>'
                 f'<a href="{pre}players.html">{e(t.s("players"))}</a>'
                 f'<a href="{pre}suggest.html?from={quote(rel)}">{e(t.s("suggest_title"))}</a></div>')
     if series:
@@ -1145,6 +1146,85 @@ def snapshot_page(t: T, series):
     write(t.lang, rel, page(t, rel, f"{t.s('snapshots')}: {t.game(series)}", body, series=series, body_extra=extra))
 
 
+# ---------------------------------------------------------------- data download
+
+CSV_FILES = ("submissions", "records", "leaderboards")
+
+
+def _csv_common(c, r, sid, p):
+    st = stages.get(sid) or {}
+    pts, used, left = score_views(p["score"], r, sid) if p.get("score") is not None else (None, None, None)
+    cons = CONSOLES.get(p.get("console"))
+    diff = DIFFICULTY.get(p.get("difficulty")) if (st.get("series") in DIFFICULTY_SERIES) else None
+    uid = p.get("user")
+    cc, _ = country(uid) if uid else (None, None)
+    return {
+        "game": GAMES[c["series"]]["en"], "category": CAT_LABELS[c["id"]]["en"], "rule": r, "stage_id": sid,
+        "stage": st.get("name") or "", "stage_ja": st.get("name_ja") or "",
+        "egg_stage": "yes" if c.get("egg_rule") == r else "",
+        "player_id": uid or "", "player": users.get(uid) or uid or "", "player_en": english_name(uid) or "",
+        "country": (cc or "").upper(),
+        "score": p.get("score") if p.get("score") is not None else "",
+        "time_used": used or "", "time_left": left or "",
+        "date": (p.get("date") or "")[:10], "video": norm_video(p.get("video")),
+        "screenshot": f"{PIK5}/api/file/{quote(p['img'])}" if p.get("img") else "",
+        "console": cons[3]["en"] if cons else "", "difficulty": diff[1]["en"] if diff else "",
+        "comment": comment_text(p),
+    }
+
+
+def write_csvs():
+    """dist/data/*.csv: every known submission, the record history, and current leaderboards.
+    UTF-8 with a BOM so Excel shows Japanese names correctly."""
+    import csv
+    out = DIST / "data"
+    out.mkdir(exist_ok=True)
+    tables = {k: [] for k in CSV_FILES}
+    for c, r, sid, k in all_boards():
+        ranks = {(p["user"], p["score"]): p for p in board(k)["posts"]}
+        for a in archive(k)["posts"]:
+            if a.get("score") is None:
+                continue
+            cur = ranks.get((a["user"], a["score"]))
+            tables["submissions"].append({**_csv_common(c, r, sid, a),
+                                          "current_rank": (cur or {}).get("rank") or "",
+                                          "source": "old sheet scrape" if a.get("source") else "pik5.net"})
+        groups = wr_groups(k)
+        for i, (rec, ties) in enumerate(groups):
+            end = groups[i + 1][0].get("date") if i + 1 < len(groups) else None
+            for x in [rec, *ties]:
+                tables["records"].append({**_csv_common(c, r, sid, x), "tie": "yes" if x is not rec else "",
+                                          "beaten_on": (end or "")[:10],
+                                          "days_lasted": days_between(rec.get("date"), end or NOW)})
+        for p in board(k)["posts"]:
+            if p.get("score") is None:
+                continue
+            tables["leaderboards"].append({"rank": p.get("rank") or "", **_csv_common(c, r, sid, p),
+                                           "points": p.get("rps") if p.get("rps") is not None else ""})
+    sizes = {}
+    for name, rows in tables.items():
+        path = out / f"{name}.csv"
+        with path.open("w", encoding="utf-8-sig", newline="") as f:
+            if rows:
+                w = csv.DictWriter(f, fieldnames=list(rows[0]))
+                w.writeheader()
+                w.writerows(rows)
+        sizes[name] = (len(rows), path.stat().st_size)
+    return sizes
+
+
+def download_page(t: T, sizes):
+    rows = []
+    for name in CSV_FILES:
+        n, size = sizes.get(name, (0, 0))
+        rows.append([f'<a href="../data/{name}.csv" download>{name}.csv</a>', e(t.s(f"dl_{name}")),
+                     f'<span class="num">{n:,}</span>', f'<span class="num">{size / 1024:,.0f} KB</span>'])
+    body = (f"<h1>{e(t.s('download'))}</h1><p>{e(t.s('download_intro'))}</p>"
+            + table([t.s("file"), t.s("contents"), t.s("rows"), t.s("size")], rows)
+            + f'<p class="note">{e(t.s("download_note"))}</p>')
+    write(t.lang, "download.html", page(t, "download.html", t.s("download"), body))
+
+
 CONFIG = json.loads((SRC / "config.json").read_text(encoding="utf-8"))
 
 
@@ -1181,6 +1261,7 @@ def main():
     shutil.copy(SRC / "site.js", DIST / "site.js")
     (DIST / "index.html").write_text(ROOT_INDEX, encoding="utf-8")
     per = collect_player_entries()
+    csv_sizes = write_csvs()
     for lang in LANGS:
         t = T(lang)
         for s in GAMES:
@@ -1196,6 +1277,7 @@ def main():
         index_page(t)
         tas_page(t)
         suggest_page(t)
+        download_page(t, csv_sizes)
         for s_ in (None, *GAMES):
             recent_page(t, s_)
             longest_page(t, s_)
