@@ -10,7 +10,7 @@ GAMES = {
 # keyed by display-category id (pik5 rule id, or "p2" for the merged Pikmin 2 challenge mode)
 CAT_LABELS = {
     "10": {"en": "Challenge Mode", "ja": "チャレンジモード"},
-    "11": {"en": "All-Treasure Time Attack", "ja": "全回収タイムアタック"},
+    "11": {"en": "Max Score Time Attack", "ja": "全回収タイムアタック"},
     "p2": {"en": "Challenge Mode", "ja": "チャレンジモード"},
     "23": {"en": "No Mitites", "ja": "タマゴムシ縛り"},
     "24": {"en": "No Spray", "ja": "スプレー縛り"},

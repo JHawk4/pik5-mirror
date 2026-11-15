@@ -35,7 +35,7 @@ DATA = ROOT / "data"
 # series -> list of (rule, short english label, kind) ; kind: main | special
 CATEGORIES = [
     (1, 10, "Challenge Mode", "main"),
-    (1, 11, "All-Treasure Time Attack", "special"),
+    (1, 11, "Max Score Time Attack", "special"),
     (2, 21, "Challenge Mode (Eggs)", "main"),
     (2, 22, "Challenge Mode (No Eggs)", "main"),
     (2, 23, "No Mitites", "special"),

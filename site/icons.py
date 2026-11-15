@@ -94,24 +94,29 @@ CAMERA = ('<svg class="ic" viewBox="0 0 18 14" width="18" height="14" aria-hidde
           '<circle cx="9" cy="8" r="3.2" fill="#fff"/><circle cx="9" cy="8" r="1.8" fill="#5a6b7d"/></svg>')
 
 
-# pik5 difficulty codes (labels from pik5: おだやか / ふつう / きょうぼう)
+# pik5 difficulty codes = Pikmin 4's settings, shown in-game as 1-3 flames
+# (Japanese labels from pik5: おだやか / ふつう / きょうぼう).
 DIFFICULTY = {
-    1: ("E", "#3aa25a", {"en": "Easy (おだやか)", "ja": "おだやか"}),
-    2: ("N", "#8a8f98", {"en": "Normal (ふつう)", "ja": "ふつう"}),
-    3: ("H", "#d8423a", {"en": "Hard (きょうぼう)", "ja": "きょうぼう"}),
+    1: (1, {"en": "Relaxed", "ja": "おだやか"}),
+    2: (2, {"en": "Normal", "ja": "ふつう"}),
+    3: (3, {"en": "Fierce", "ja": "きょうぼう"}),
 }
+
+_FLAME = ('<path transform="translate({x} 0)" d="M5 0.6 C5.6 3 8.6 4.6 8.6 8.6 A3.6 3.6 0 0 1 1.4 8.6 '
+          'C1.4 6.4 2.6 5.2 3.3 4.3 C3.5 5.6 4.1 6.3 4.8 6.6 C4.4 4.6 4.6 2.4 5 0.6 Z" fill="#f07a1a" stroke="#c4440f" stroke-width="0.7"/>'
+          '<path transform="translate({x} 0)" d="M5 7 C5.9 8 6.6 8.9 6.6 10 A1.6 1.6 0 0 1 3.4 10 C3.4 9 4.2 8 5 7 Z" fill="#ffd34a"/>')
 
 
 def difficulty_icon(code, lang):
     d = DIFFICULTY.get(code)
     if not d:
         return ""
-    letter, color, names = d
+    n, names = d
+    w = 10 * n
+    flames = "".join(_FLAME.format(x=10 * i) for i in range(n))
     return (f'<span class="ico" title="{escape(names[lang])}">'
-            f'<svg class="ic" viewBox="0 0 14 14" width="14" height="14" aria-hidden="true">'
-            f'<rect x="0" y="0" width="14" height="14" rx="3" fill="{color}"/>'
-            f'<text x="7" y="10.5" font-size="9.5" font-weight="700" text-anchor="middle" fill="#fff" '
-            f'font-family="Verdana,sans-serif">{letter}</text></svg></span>')
+            f'<svg class="ic" viewBox="0 0 {w} 13" width="{w}" height="13" aria-hidden="true">'
+            f'{flames}</svg></span>')
 
 
 # Site logo: a white five-petal flower on a stem with one leaf (generic flower art,

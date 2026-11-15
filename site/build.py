@@ -275,6 +275,8 @@ def score_views(score, rule, sid):
     if disp == "time":
         return None, (mmss(limit - score) if limit else None), mmss(score)
     r = score_meta.times(score, rule, sid, st)
+    if r and rule in score_meta.TIME_ATTACK_RULES:
+        return None, mmss(r[0]), mmss(r[1])  # the score is just an encoded time
     if r:
         return f"{score:,}", mmss(r[0]), mmss(r[1])
     return f"{score:,}", None, None
@@ -282,6 +284,8 @@ def score_views(score, rule, sid):
 
 def main_measure(rule, sid):
     """Which column a board is ranked by: 's' score, 'u' time used, 'l' time left."""
+    if rule in score_meta.TIME_ATTACK_RULES:
+        return "u"
     disp = (stages.get(sid) or {}).get("display")
     # time-ranked boards show time used as the headline figure
     return {"speedrun": "u", "time": "u"}.get(disp, "s")
