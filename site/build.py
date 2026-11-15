@@ -309,6 +309,16 @@ def score_cell(p, rule, sid, t: T):
     return [num(pts, "s"), num(used, "u"), num(left, "l")]
 
 
+# pik5 fills empty comments with "コメントなし" ("no comment"), sometimes after a
+# controller/console tag like "[Wii] "; show those as blank.
+NO_COMMENT_RE = re.compile(r"^\s*(\[[^\]]*\]\s*)?(コメントなし)?\s*$")
+
+
+def comment_text(p):
+    c = (p.get("comment") or "").strip()
+    return "" if NO_COMMENT_RE.match(c) else c
+
+
 def H(t: T, key):
     """Compact table header with a tooltip (falls back to the plain label)."""
     if key not in HEADERS:
@@ -562,8 +572,6 @@ def board_tabs(t: T, key, active, pre):
 def stage_heading(t: T, c, rule, sid):
     st = stages.get(sid) or {}
     facts = [f'<a href="../{SLUG[c["series"]]}.html#c{c["id"]}">{e(t.game(c["series"]))} · {e(t.cat(c))}</a>']
-    if t.lang == "en" and st.get("name_ja") and st.get("name_ja") != st.get("name"):
-        facts.append(e(st["name_ja"]))
     if st.get("time"):
         facts.append(e(t.s("time_limit", t=mmss(st["time"]))))
     if st.get("pikmin"):
@@ -746,7 +754,7 @@ def board_page(t: T, c, rule, sid):
             ("drop", H(t, "console")), ("drop", H(t, "difficulty")), t.s("comment")]
     rows = [[str(p.get("rank") or ""), score_cell(p, rule, sid, t), video_cell(p, t), player(p["user"], t, pre),
              flag(p["user"], t), f'<span class="num">{p["rps"]:,}</span>' if p.get("rps") is not None else "", t.date(p.get("date")),
-             console_cell(p.get("console"), t, sid), difficulty_cell(p, t, sid), e((p.get("comment") or "")[:80])]
+             console_cell(p.get("console"), t, sid), difficulty_cell(p, t, sid), e(comment_text(p)[:80])]
             for p in b["posts"]]
 
     # snapshot data: every archived submission, with pre-rendered cells
@@ -756,7 +764,7 @@ def board_page(t: T, c, rule, sid):
         "rows": [{"u": a["user"], "s": a["score"], "d": t.date(a.get("date")),
                   "c": [*score_cell(a, rule, sid, t), video_cell(a, t), player(a["user"], t, pre),
                         flag(a["user"], t), "", t.date(a.get("date")), console_cell(a.get("console"), t, sid), difficulty_cell(a, t, sid),
-                        e((a.get("comment") or "")[:80])]}
+                        e(comment_text(a)[:80])]}
                  for a in arc if a.get("score") is not None],
     }
     earliest = min((r["d"] for r in snap["rows"] if r["d"]), default="")
