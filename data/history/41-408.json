@@ -3,6 +3,150 @@
  "stage": 408,
  "records": [
   {
+   "id": 16279,
+   "uid": 301268168,
+   "user": "koppacha",
+   "score": 199,
+   "date": "2023-07-29T02:15:14.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16329,
+   "uid": 301043435,
+   "user": "noamoa",
+   "score": 218,
+   "date": "2023-07-30T01:42:18.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "とりあえず",
+   "tie": false
+  },
+  {
+   "id": 16455,
+   "uid": 301055200,
+   "user": "mkt918",
+   "score": 378,
+   "date": "2023-08-01T23:27:39.000000Z",
+   "video": "",
+   "img": "20230802-172739-9923585365",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16571,
+   "uid": 301745549,
+   "user": "yakiniku",
+   "score": 407,
+   "date": "2023-08-06T07:25:54.000000Z",
+   "video": "https://youtu.be/PA7nwueVdOg",
+   "img": "",
+   "console": 4,
+   "comment": "金塊が多い",
+   "tie": false
+  },
+  {
+   "id": 16603,
+   "uid": 301217152,
+   "user": "keisen2853",
+   "score": 431,
+   "date": "2023-08-09T05:23:19.000000Z",
+   "video": "https://www.youtube.com/watch?v=xOd4RF72FhQ",
+   "img": "",
+   "console": 4,
+   "comment": "橋不使用",
+   "tie": false
+  },
+  {
+   "id": 16853,
+   "uid": 301461480,
+   "user": "Lotus",
+   "score": 433,
+   "date": "2023-08-29T06:40:30.000000Z",
+   "video": "https://www.youtube.com/watch?v=oSQuPGtcJ8g",
+   "img": "",
+   "console": 4,
+   "comment": "橋架けるのと架けないのどっちが最終的に速いのか謎です",
+   "tie": false
+  },
+  {
+   "id": 17027,
+   "uid": 301876744,
+   "user": "shino15nome",
+   "score": 433,
+   "date": "2023-09-19T21:10:18.000000Z",
+   "video": "https://youtu.be/rWGs0b9jy14?si=0-xmM8GVLap5RAui",
+   "img": "20230920-151018-2819079823.jpg",
+   "console": 4,
+   "comment": "ギミック無視に惹かれたので橋不使用です p.s. 分業用冷凍\"庫ですよ！\"",
+   "tie": true
+  },
+  {
+   "id": 17465,
+   "uid": 305213000,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 442,
+   "date": "2023-12-25T03:06:31.000000Z",
+   "video": "https://youtu.be/7Kq-8MFqU-8?si=gSAnD8UTp16GMuTr",
+   "img": "20231225-210631-4809407314.jpg",
+   "console": 4,
+   "comment": "渋滞やめてください",
+   "tie": false
+  },
+  {
+   "id": 17823,
+   "uid": 308907102,
+   "user": "keisen2853",
+   "score": 456,
+   "date": "2024-05-16T02:00:36.000000Z",
+   "video": "https://www.youtube.com/watch?v=0gnf7E9YcfY",
+   "img": "",
+   "console": 4,
+   "comment": "固定観念はよくない",
+   "tie": false
+  },
+  {
+   "id": 17859,
+   "uid": 308695936,
+   "user": "mercysnow",
+   "score": 458,
+   "date": "2024-05-26T03:21:51.000000Z",
+   "video": "https://youtu.be/918jEgkLw84",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17882,
+   "uid": 308555257,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 460,
+   "date": "2024-06-02T04:28:43.000000Z",
+   "video": "https://youtu.be/lqElFFb8CaQ?si=OGCnDM5bN29UePAE",
+   "img": "20240602-222843-4340824947.jpg",
+   "console": 4,
+   "comment": "50キンカイの往復回数を減らしても他が遅くなって無理でした",
+   "tie": false
+  },
+  {
+   "id": 18942,
+   "uid": 312678549,
+   "user": "mercysnow",
+   "score": 464,
+   "date": "2025-10-27T08:25:40.000000Z",
+   "video": "https://youtu.be/mkFwF_A-VZE",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 19795,
    "uid": 315373706,
    "user": "albut3",
@@ -25,5 +169,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

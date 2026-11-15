@@ -396,7 +396,7 @@ def total_payload(d: dict, total_id: int) -> dict:
 
 # ---------------------------------------------------------------- backfill
 
-def backfill(rules: list[int]):
+def backfill(rules: list[int], force: bool = False):
     """Reconstruct WR progressions from pik5's year-end snapshots.
 
     A year snapshot lists every player's best as of that year, so the union of
@@ -417,6 +417,8 @@ def backfill(rules: list[int]):
         for sid in cat["stages"]:
             hpath = DATA / "history" / f"{rule}-{sid}.json"
             hist = read_json(hpath, {"rule": rule, "stage": sid, "records": []})
+            if hist.get("backfilled") and not force:
+                continue  # already done; lets an interrupted run resume
             board = read_json(DATA / "boards" / f"{rule}-{sid}.json", {})
             low = board.get("lower_is_better", hist.get("lower_is_better", False))
             cands = []
@@ -477,7 +479,8 @@ def src_runners():
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "sync"
     if cmd == "backfill":
-        backfill([int(a) for a in sys.argv[2:]])
+        args = sys.argv[2:]
+        backfill([int(a) for a in args if a != "--force"], force="--force" in args)
     elif cmd == "players":
         players_only()
     elif cmd == "src":

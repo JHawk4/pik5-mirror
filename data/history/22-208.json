@@ -75,52 +75,52 @@
    "tie": false
   },
   {
-   "id": 1338,
-   "uid": null,
-   "user": "FeTellYou",
-   "score": 18855,
-   "date": "2015-11-27T08:46:00.000000Z",
-   "video": "",
-   "img": "20151128-024621-2018606752.png",
-   "console": 1,
-   "comment": "チャッピー寄せ無しならたぶんこの辺がライン",
-   "tie": false
-  },
-  {
-   "id": 4062,
-   "uid": null,
-   "user": "koppacha",
-   "score": 18857,
-   "date": "2017-06-06T02:22:00.000000Z",
-   "video": "",
-   "img": "20170606-202236-1324371778.jpg",
-   "console": 1,
-   "comment": "やっと",
-   "tie": false
-  },
-  {
-   "id": 4272,
-   "uid": null,
-   "user": "PKtoyama",
-   "score": 18861,
-   "date": "2017-06-24T03:44:00.000000Z",
-   "video": "",
-   "img": null,
-   "console": 1,
-   "comment": "コメントなし",
-   "tie": false
-  },
-  {
-   "id": 4486,
-   "uid": null,
+   "id": 539,
+   "uid": 209993157,
    "user": "pikmin893",
-   "score": 18864,
-   "date": "2017-07-30T06:22:00.000000Z",
+   "score": 18853,
+   "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 936,
+   "uid": 211218660,
+   "user": "iid01",
+   "score": 18866,
+   "date": "2015-11-06T05:00:00.000000Z",
+   "video": "",
+   "img": "",
    "console": 1,
    "comment": "コメントなし",
    "tie": false
+  },
+  {
+   "id": 1820,
+   "uid": 218966478,
+   "user": "iid01",
+   "score": 18872,
+   "date": "2016-03-18T17:21:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=GSNZd4WwV1Y",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 5209,
+   "uid": 250011250,
+   "user": "HoshiKUZU_pik",
+   "score": 18872,
+   "date": "2017-12-05T05:00:00.000000Z",
+   "video": "",
+   "img": "20171205-230038-320577973.bmp",
+   "console": 1,
+   "comment": "前人未到の記録へ",
+   "tie": true
   },
   {
    "id": 5676,
@@ -135,40 +135,40 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 8405,
+   "uid": 266403712,
    "user": "Gorei_50",
    "score": 18879,
-   "date": "2020-04-30T00:00:00.000000Z",
+   "date": "2020-04-29T09:39:13.000000Z",
    "video": "https://youtu.be/EkNzmwK8HTE",
    "img": "20200430-033913-1482044819.PNG",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14784,
+   "uid": 277863384,
    "user": "Gorei_50",
    "score": 18880,
-   "date": "2022-07-01T00:00:00.000000Z",
+   "date": "2022-06-30T18:08:08.000000Z",
    "video": "https://youtu.be/0n430P0bpJo",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": 17759,
-   "uid": null,
-   "user": "albut3",
-   "score": 18880,
-   "date": "2024-05-04T16:13:32.000000Z",
-   "video": "https://www.youtube.com/watch?v=Fzblmxi9qms",
-   "img": null,
+   "id": 17644,
+   "uid": 307448527,
+   "user": "Gorei_50",
+   "score": 18882,
+   "date": "2024-03-21T03:09:11.000000Z",
+   "video": "https://youtu.be/0ZTlBbkOkAQ",
+   "img": "",
    "console": 2,
-   "comment": "チャッピー遠くても行けちゃう",
-   "tie": true
+   "comment": "血の流れより紅きもの",
+   "tie": false
   },
   {
    "id": 18404,
@@ -180,7 +180,7 @@
    "img": null,
    "console": 2,
    "comment": "+7！？",
-   "tie": false
+   "tie": true
   },
   {
    "id": 19062,
@@ -194,5 +194,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -3,6 +3,102 @@
  "stage": 205,
  "records": [
   {
+   "id": 6257,
+   "uid": 258779998,
+   "user": "koppacha",
+   "score": 11468,
+   "date": "2018-05-11T22:48:27.000000Z",
+   "video": "",
+   "img": "20180512-164827-1944667331.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6331,
+   "uid": 258043961,
+   "user": "noamoa",
+   "score": 11491,
+   "date": "2018-05-18T03:41:44.000000Z",
+   "video": "",
+   "img": "20180518-214144-1618401530.jpg",
+   "console": 2,
+   "comment": "55+66",
+   "tie": false
+  },
+  {
+   "id": 6416,
+   "uid": 258028572,
+   "user": "keisen2853",
+   "score": 11491,
+   "date": "2018-06-01T03:17:26.000000Z",
+   "video": "",
+   "img": "20180601-211726-1783647421.PNG",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 6454,
+   "uid": 258648509,
+   "user": "albut3",
+   "score": 11495,
+   "date": "2018-06-09T00:30:29.000000Z",
+   "video": "",
+   "img": "20180609-183029-86809756.JPG",
+   "console": 1,
+   "comment": "1F良配置っぽい",
+   "tie": false
+  },
+  {
+   "id": 7119,
+   "uid": 262645166,
+   "user": "iid01",
+   "score": 11498,
+   "date": "2019-02-05T01:21:52.000000Z",
+   "video": "",
+   "img": "20190205-192152-1592753323.jpg",
+   "console": 1,
+   "comment": "ぁ",
+   "tie": false
+  },
+  {
+   "id": 12388,
+   "uid": 274083163,
+   "user": "Gorei_50",
+   "score": 11500,
+   "date": "2021-03-17T23:58:08.000000Z",
+   "video": "",
+   "img": "20210318-175808-305276666.PNG",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 14266,
+   "uid": 277112688,
+   "user": "spark573",
+   "score": 11500,
+   "date": "2022-02-21T05:17:56.000000Z",
+   "video": "https://youtu.be/d0pq-xQP7j0",
+   "img": "20220221-231756-1704217328.png",
+   "console": 2,
+   "comment": "60+70",
+   "tie": true
+  },
+  {
+   "id": 14363,
+   "uid": 277822661,
+   "user": "albut3",
+   "score": 11503,
+   "date": "2022-03-13T03:15:00.000000Z",
+   "video": "https://www.twitch.tv/videos/1423184505",
+   "img": "",
+   "console": 2,
+   "comment": "1点落としてて草",
+   "tie": false
+  },
+  {
    "id": 16157,
    "uid": 278010136,
    "user": "Bl6AltMzq5Jx4aM",
@@ -25,5 +121,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

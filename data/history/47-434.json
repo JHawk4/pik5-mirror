@@ -3,6 +3,66 @@
  "stage": 434,
  "records": [
   {
+   "id": 18756,
+   "uid": 311573080,
+   "user": "koppacha",
+   "score": 189,
+   "date": "2025-09-06T02:57:55.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18798,
+   "uid": 311685170,
+   "user": "nitrosmish",
+   "score": 188,
+   "date": "2025-09-06T04:10:17.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18809,
+   "uid": 311576452,
+   "user": "kobachi_no_udon",
+   "score": 92,
+   "date": "2025-09-06T04:36:02.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18833,
+   "uid": 311657328,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 88,
+   "date": "2025-09-06T04:48:41.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18872,
+   "uid": 311538439,
+   "user": "toripoppo0307",
+   "score": 87,
+   "date": "2025-09-09T03:11:57.000000Z",
+   "video": "https://youtu.be/ZCfZUf9L5OI",
+   "img": "",
+   "console": 4,
+   "comment": "ただただ不快なだけのクソステ",
+   "tie": false
+  },
+  {
    "id": 19621,
    "uid": 315945217,
    "user": "kobachi_no_udon",
@@ -14,5 +74,6 @@
    "tie": false
   }
  ],
- "lower_is_better": true
+ "lower_is_better": true,
+ "backfilled": true
 }

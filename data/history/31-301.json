@@ -15,15 +15,15 @@
    "tie": false
   },
   {
-   "id": 305,
-   "uid": null,
-   "user": "chappy4321",
-   "score": 4750,
-   "date": "2013-08-08T06:00:00.000000Z",
+   "id": 304,
+   "uid": 104392356,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 5440,
+   "date": "2013-08-03T06:00:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 2,
-   "comment": "リーダーが1人なのできついです…",
+   "comment": "公式スーパープレイを少し参考にしました。結構雑に見えたのですが、なかなかどうして超えられませんねw",
    "tie": false
   },
   {
@@ -111,15 +111,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13287,
+   "uid": 276150281,
    "user": "alpha_0630",
    "score": 10240,
-   "date": "2021-10-22T00:00:00.000000Z",
+   "date": "2021-10-21T07:05:19.000000Z",
    "video": "https://youtu.be/NR06Jhk0-UY",
    "img": "20211022-010519-1974020283.jpg",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -194,5 +194,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

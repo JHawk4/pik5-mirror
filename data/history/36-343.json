@@ -27,15 +27,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11334,
+   "uid": 274393987,
    "user": "PiePusher11",
    "score": 548,
-   "date": "2020-11-20T00:00:00.000000Z",
+   "date": "2020-11-19T17:53:23.000000Z",
    "video": "https://www.youtube.com/watch?v=8-DWJpWeI0M",
    "img": "",
-   "console": null,
-   "comment": "[Joy-Con Double$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": true
   },
   {
@@ -75,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13957,
+   "uid": 277104366,
    "user": "esu",
    "score": 610,
-   "date": "2021-11-20T00:00:00.000000Z",
+   "date": "2021-11-19T23:41:58.000000Z",
    "video": "https://youtu.be/w_BOkL0v1rM",
    "img": "20211120-174158-1493898530.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -146,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

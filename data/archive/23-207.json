@@ -13,6 +13,16 @@
    "img": "20180512-170936-2018948535.jpg"
   },
   {
+   "id": 6304,
+   "user": "ikimono334",
+   "score": 14857,
+   "date": "2018-05-13T03:29:16.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20180513-212916-1983544808.jpg",
+   "comment": "コメントなし"
+  },
+  {
    "id": 6318,
    "user": "toripoppo0307",
    "score": 14845,
@@ -33,12 +43,32 @@
    "img": "20180528-170438-614180268.jpg"
   },
   {
+   "id": 6456,
+   "user": "albut3",
+   "score": 14867,
+   "date": "2018-06-09T00:31:54.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20180609-183154-2139813264.JPG",
+   "comment": "take1"
+  },
+  {
    "id": 6461,
    "user": "dayomin",
    "score": 14849,
    "date": "2018-06-09T03:10:23.000000Z",
    "console": 1,
    "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6468,
+   "user": "Gorei_50",
+   "score": 14874,
+   "date": "2018-06-09T20:30:05.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20180610-143005-936312624.jpg",
    "comment": "コメントなし"
   },
   {
@@ -91,6 +121,16 @@
    "img": "20190201-155823-1077776591.jpg"
   },
   {
+   "id": 7382,
+   "user": "albut3",
+   "score": 14876,
+   "date": "2019-03-28T02:02:47.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20190328-200247-2009521627.JPG",
+   "comment": "1F86"
+  },
+  {
    "id": 9707,
    "user": "keisen2853",
    "score": 14876,
@@ -109,6 +149,26 @@
    "comment": "結構好きなステージ"
   },
   {
+   "id": 10849,
+   "user": "mikou_musicgame",
+   "score": 14865,
+   "date": "2020-10-19T23:02:39.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20201020-170239-1997098946.JPG",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11288,
+   "user": "mercysnow",
+   "score": 14876,
+   "date": "2020-11-18T05:27:49.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/R4hko48ECRY",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 12433,
    "user": "nikoshu_pik",
    "score": 14873,
@@ -119,6 +179,16 @@
    "img": "20210326-233357-660589694.jpg"
   },
   {
+   "id": 12475,
+   "user": "Gorei_50",
+   "score": 14881,
+   "date": "2021-04-11T00:42:46.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/gRguEJHXaCM",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 12926,
    "user": "yuyuyunkel",
    "score": 14885,
@@ -127,6 +197,16 @@
    "video": "https://youtu.be/kH6WZRp8m10",
    "comment": "コメントなし",
    "img": "20210719-025912-404115050.png"
+  },
+  {
+   "id": 12952,
+   "user": "mikou_musicgame",
+   "score": 14868,
+   "date": "2021-07-28T21:02:12.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20210729-150212-2066239103.JPG",
+   "comment": "コメントなし"
   },
   {
    "id": 13132,
@@ -148,6 +228,26 @@
    "img": "20220225-003258-331613145.png"
   },
   {
+   "id": 15090,
+   "user": "albut3",
+   "score": 14879,
+   "date": "2022-09-19T10:31:26.000000Z",
+   "console": 2,
+   "video": "https://www.twitch.tv/videos/1595628485",
+   "img": "",
+   "comment": "1点ロス"
+  },
+  {
+   "id": 15463,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 14872,
+   "date": "2022-10-21T14:41:52.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20221022-084152-131485348.jpeg",
+   "comment": "だいぶ前の記録です。1F93を2F49で台無しにしました。"
+  },
+  {
    "id": 15754,
    "user": "mikou_musicgame",
    "score": 14871,
@@ -167,6 +267,36 @@
    "comment": "すごー"
   },
   {
+   "id": 16151,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 14880,
+   "date": "2023-05-29T00:58:37.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20230529-185837-1232281402.jpeg",
+   "comment": "2セット出ないですね…"
+  },
+  {
+   "id": 16174,
+   "user": "kobachi_no_udon",
+   "score": 14879,
+   "date": "2023-06-10T09:19:27.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20230611-031927-290962450.png",
+   "comment": "86+63"
+  },
+  {
+   "id": 18163,
+   "user": "Argent2home",
+   "score": 14882,
+   "date": "2024-09-08T03:50:10.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/PdQx_mxXjlo",
+   "img": "20240908-215010-6067662097.jpg",
+   "comment": "ユキチャ当たらなさすぎて草草の草"
+  },
+  {
    "id": 18330,
    "user": "kobachi_no_udon",
    "score": 14888,
@@ -184,6 +314,16 @@
    "console": 2,
    "video": "https://youtu.be/2BY2g0Y5Qm4?si=fLuP7sQJlNsZVSgX",
    "comment": "2セットをください　その2"
+  },
+  {
+   "id": 18626,
+   "user": "Gorei_50",
+   "score": 14885,
+   "date": "2025-08-09T04:18:03.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/xrGPcsSTRk8",
+   "img": "",
+   "comment": "コメントなし"
   },
   {
    "id": 19416,

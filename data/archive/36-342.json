@@ -12,6 +12,16 @@
    "comment": "コメントなし"
   },
   {
+   "id": 11132,
+   "user": "hokogamae",
+   "score": 19450,
+   "date": "2020-11-11T08:56:42.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/Imija7YqfyY",
+   "img": "",
+   "comment": "９分残し達成！"
+  },
+  {
    "id": 11285,
    "user": "nuinuisousou",
    "score": 20950,
@@ -21,15 +31,24 @@
    "comment": "ノーパソ直撮りのため無音、低画質、低フレームレートの３拍子"
   },
   {
-   "id": null,
+   "id": 11306,
    "user": "PiePusher11",
    "score": 19030,
-   "date": "2020-11-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-11-18T17:55:06.000000Z",
+   "console": 4,
    "video": "https://www.twitch.tv/videos/807960175",
    "img": "",
-   "comment": "[Joy-Con Double$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11379,
+   "user": "messhi475",
+   "score": 19900,
+   "date": "2020-11-21T19:44:59.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20201122-134432-1468198765.jpg",
+   "comment": "2万超えたかったですけど、これでいいかな。"
   },
   {
    "id": 11428,
@@ -41,15 +60,34 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 11534,
+   "user": "TheRealBobby0",
+   "score": 21700,
+   "date": "2020-12-02T06:45:05.000000Z",
+   "console": 4,
+   "video": "https://mobile.twitter.com/TheRealBobby0/status/1334127000370307073",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11588,
    "user": "mikou_musicgame",
    "score": 20530,
-   "date": "2020-12-05T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-04T21:44:41.000000Z",
+   "console": 4,
    "video": "",
    "img": "20201205-154441-1341331610.JPG",
-   "comment": "[Switch Pro#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11649,
+   "user": "shiragawatanuki",
+   "score": 21010,
+   "date": "2020-12-10T20:23:55.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20201211-142355-118317808.jpg",
+   "comment": "リーダー2人だと楽"
   },
   {
    "id": 11658,
@@ -139,15 +177,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 12436,
    "user": "mikou_musicgame",
    "score": 21310,
-   "date": "2021-03-27T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-03-26T17:37:56.000000Z",
+   "console": 4,
    "video": "",
    "img": "20210327-113756-2132050748.JPG",
-   "comment": "[Switch Pro#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": null,
@@ -210,15 +247,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 13994,
    "user": "esu",
    "score": 23470,
-   "date": "2021-11-25T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-24T23:43:49.000000Z",
+   "console": 4,
    "video": "https://youtu.be/3xiTG6_dYY4",
    "img": "20211125-174349-524975905.jpeg",
-   "comment": "[Switch Pro$] 時間かかった",
-   "source": "sheet-2023"
+   "comment": "時間かかった"
   },
   {
    "id": 14197,

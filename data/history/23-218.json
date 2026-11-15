@@ -3,6 +3,150 @@
  "stage": 218,
  "records": [
   {
+   "id": 6262,
+   "uid": 258583230,
+   "user": "koppacha",
+   "score": 53822,
+   "date": "2018-05-11T23:39:19.000000Z",
+   "video": "",
+   "img": "20180512-173919-1979794388.jpg",
+   "console": 1,
+   "comment": "ダメダメ",
+   "tie": false
+  },
+  {
+   "id": 6277,
+   "uid": 258870070,
+   "user": "noamoa",
+   "score": 53896,
+   "date": "2018-05-12T07:36:07.000000Z",
+   "video": "",
+   "img": "20180513-013607-155609426.jpg",
+   "console": 2,
+   "comment": "実質通常プレイ",
+   "tie": false
+  },
+  {
+   "id": 6742,
+   "uid": 260577181,
+   "user": "albut3",
+   "score": 53906,
+   "date": "2018-08-31T09:58:04.000000Z",
+   "video": "",
+   "img": "20180901-035804-1931391609.JPG",
+   "console": 1,
+   "comment": "副産物",
+   "tie": false
+  },
+  {
+   "id": 6753,
+   "uid": 260816450,
+   "user": "Gorei_50",
+   "score": 53912,
+   "date": "2018-08-31T22:45:16.000000Z",
+   "video": "",
+   "img": "20180901-164516-489406327.PNG",
+   "console": 1,
+   "comment": "スプレー1残し",
+   "tie": false
+  },
+  {
+   "id": 6972,
+   "uid": 262489383,
+   "user": "sectionmarilui",
+   "score": 53915,
+   "date": "2018-10-22T09:52:42.000000Z",
+   "video": "",
+   "img": "20181023-035242-227417840.mp4",
+   "console": 1,
+   "comment": "こんなん笑うわw",
+   "tie": false
+  },
+  {
+   "id": 6974,
+   "uid": 262667075,
+   "user": "Z_pikmin",
+   "score": 53915,
+   "date": "2018-10-23T03:18:50.000000Z",
+   "video": "",
+   "img": "20181023-211850-1571358762.jpg",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 7068,
+   "uid": 262319086,
+   "user": "iid01",
+   "score": 53923,
+   "date": "2019-01-02T21:51:52.000000Z",
+   "video": "",
+   "img": "20190103-155152-1376915707.jpg",
+   "console": 1,
+   "comment": "130+123",
+   "tie": false
+  },
+  {
+   "id": 8127,
+   "uid": 265794619,
+   "user": "Gorei_50",
+   "score": 53925,
+   "date": "2019-12-22T06:55:44.000000Z",
+   "video": "",
+   "img": "20191223-005544-162330518.PNG",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 11683,
+   "uid": 274046234,
+   "user": "mercysnow",
+   "score": 53930,
+   "date": "2020-12-12T23:43:24.000000Z",
+   "video": "https://youtu.be/s3vNca-99ko",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 12018,
+   "uid": 274890746,
+   "user": "Gorei_50",
+   "score": 53932,
+   "date": "2021-01-21T01:44:57.000000Z",
+   "video": "https://youtu.be/7gvNJao1jKo",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 15066,
+   "uid": 278840891,
+   "user": "albut3",
+   "score": 53937,
+   "date": "2022-09-16T11:02:55.000000Z",
+   "video": "https://www.twitch.tv/videos/1592760555",
+   "img": "",
+   "console": 2,
+   "comment": "132+135",
+   "tie": false
+  },
+  {
+   "id": 16269,
+   "uid": 278989296,
+   "user": "albut3",
+   "score": 53939,
+   "date": "2023-07-17T22:42:54.000000Z",
+   "video": "https://www.youtube.com/watch?v=2AQh9d_DLaY",
+   "img": "",
+   "console": 2,
+   "comment": "138+131",
+   "tie": false
+  },
+  {
    "id": 17224,
    "uid": 303953418,
    "user": "Gorei_50",
@@ -25,5 +169,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

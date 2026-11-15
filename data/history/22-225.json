@@ -39,15 +39,15 @@
    "tie": false
   },
   {
-   "id": 448,
-   "uid": null,
-   "user": "DRAFIX",
-   "score": 27930,
-   "date": "2015-02-17T06:00:00.000000Z",
+   "id": 316,
+   "uid": 104192931,
+   "user": "albut3",
+   "score": 27972,
+   "date": "2013-08-26T06:00:00.000000Z",
    "video": "",
-   "img": null,
-   "console": 1,
-   "comment": "砲撃を喰らいながらも特攻するオリマー隊長。これぞベテラン宇宙飛行士の風格。",
+   "img": "",
+   "console": 2,
+   "comment": "1Fは48秒残し。ダマグモキャノンは弾打たれる前にケリをつけます。",
    "tie": false
   },
   {
@@ -63,27 +63,51 @@
    "tie": false
   },
   {
-   "id": 2094,
-   "uid": null,
-   "user": "HoshiKUZU_pik",
-   "score": 27999,
-   "date": "2016-05-02T19:41:00.000000Z",
+   "id": 1045,
+   "uid": 212791868,
+   "user": "pikmin893",
+   "score": 28006,
+   "date": "2015-11-07T07:03:00.000000Z",
    "video": "",
-   "img": "20160503-134103-1456939360.jpeg",
+   "img": "20151108-010305-252287430.png",
    "console": 1,
-   "comment": "コメントなし",
-   "tie": true
+   "comment": "自分のルートだとほぼ理論値。ちなみに１F62残しです。",
+   "tie": false
   },
   {
-   "id": 3993,
-   "uid": null,
-   "user": "pikmin893",
-   "score": 28011,
-   "date": "2017-05-31T07:36:00.000000Z",
+   "id": 1940,
+   "uid": 222508466,
+   "user": "iid01",
+   "score": 28010,
+   "date": "2016-04-05T01:40:00.000000Z",
    "video": "",
-   "img": "20170601-013635-2086137032.png",
+   "img": "",
    "console": 1,
-   "comment": "おしい、地形的にはいつもの",
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 3573,
+   "uid": 239857689,
+   "user": "iid01",
+   "score": 28012,
+   "date": "2017-04-25T01:41:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=JfQk9euqfVk",
+   "img": "20170425-194159-1216468563.png",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 4930,
+   "uid": 246539663,
+   "user": "albut3",
+   "score": 28013,
+   "date": "2017-10-12T00:26:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=qcnaGzPI-JY",
+   "img": "",
+   "console": 1,
+   "comment": "実りの秋",
    "tie": false
   },
   {
@@ -99,27 +123,39 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
-   "user": "albut3",
-   "score": 28016,
-   "date": "2020-03-05T00:00:00.000000Z",
-   "video": "",
-   "img": "20200305-235513-1810650397.jpg",
-   "console": null,
-   "comment": "[NGC] 期間限定チャレンジで出たものが長らく封印されていた",
-   "tie": true
+   "id": 8042,
+   "uid": 265758871,
+   "user": "Gorei_50",
+   "score": 28018,
+   "date": "2019-09-22T19:51:29.000000Z",
+   "video": "https://youtu.be/SSfxWQvNvrw",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 10884,
+   "uid": 273753653,
+   "user": "Gorei_50",
+   "score": 28020,
+   "date": "2020-10-25T06:55:56.000000Z",
+   "video": "https://youtu.be/1dGJF-RuQXA",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 12213,
+   "uid": 274497837,
    "user": "Gorei_50",
    "score": 28024,
-   "date": "2021-02-16T00:00:00.000000Z",
+   "date": "2021-02-15T06:30:27.000000Z",
    "video": "https://youtu.be/NSw-YiCvQvc",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -135,16 +171,16 @@
    "tie": false
   },
   {
-   "id": 19389,
-   "uid": null,
-   "user": "kobachi_no_udon",
-   "score": 28026,
-   "date": "2026-04-24T10:43:56.000000Z",
-   "video": "https://youtu.be/ebV3E1BbhTo",
-   "img": null,
+   "id": 17260,
+   "uid": 304737917,
+   "user": "Gorei_50",
+   "score": 28028,
+   "date": "2023-11-17T13:34:55.000000Z",
+   "video": "https://youtu.be/VanhCtvD1Kc",
+   "img": "",
    "console": 2,
-   "comment": "なんか最後怪しくないですか？？？",
-   "tie": true
+   "comment": "コメントなし",
+   "tie": false
   },
   {
    "id": 19716,
@@ -158,5 +194,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

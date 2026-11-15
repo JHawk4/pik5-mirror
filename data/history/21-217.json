@@ -63,15 +63,15 @@
    "tie": false
   },
   {
-   "id": 518,
-   "uid": null,
-   "user": "keisen2853",
-   "score": 16592,
-   "date": "2015-11-01T03:58:00.000000Z",
+   "id": 317,
+   "uid": 104309976,
+   "user": "albut3",
+   "score": 16598,
+   "date": "2013-08-26T06:00:00.000000Z",
    "video": "",
-   "img": null,
-   "console": 1,
-   "comment": "コメントなし",
+   "img": "",
+   "console": 2,
+   "comment": "ピクミンを葉にされると辛いです。",
    "tie": false
   },
   {
@@ -99,6 +99,18 @@
    "tie": false
   },
   {
+   "id": 1414,
+   "uid": 215850711,
+   "user": "iid01",
+   "score": 16652,
+   "date": "2016-01-26T01:25:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 4687,
    "uid": null,
    "user": "Z_pikmin",
@@ -108,7 +120,7 @@
    "img": "20170904-195652-1791721695.JPG",
    "console": 2,
    "comment": "コメントなし",
-   "tie": false
+   "tie": true
   },
   {
    "id": 5852,
@@ -135,27 +147,27 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13901,
+   "uid": 277291601,
    "user": "Gorei_50",
    "score": 16685,
-   "date": "2021-11-17T00:00:00.000000Z",
+   "date": "2021-11-16T10:43:42.000000Z",
    "video": "https://youtu.be/mEcB3KYncv0",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": 18338,
-   "uid": null,
-   "user": "kobachi_no_udon",
-   "score": 16687,
-   "date": "2024-12-27T06:18:03.000000Z",
-   "video": "https://youtu.be/2iuSOwz30QU",
-   "img": "20241228-001803-5685132689.jpg",
+   "id": 16475,
+   "uid": 301930226,
+   "user": "Gorei_50",
+   "score": 16694,
+   "date": "2023-08-03T02:29:50.000000Z",
+   "video": "https://youtu.be/FqXj03EQttA",
+   "img": "",
    "console": 2,
-   "comment": "大事なのは無犠牲であること",
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -170,5 +182,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

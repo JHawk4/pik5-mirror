@@ -39,6 +39,18 @@
    "tie": false
   },
   {
+   "id": 2286,
+   "uid": 227239386,
+   "user": "noamoa",
+   "score": 10420,
+   "date": "2016-07-23T04:53:00.000000Z",
+   "video": "",
+   "img": "20160723-225306-1993195765.jpg",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 3460,
    "uid": null,
    "user": "identete",
@@ -63,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13936,
+   "uid": 277884346,
    "user": "esu",
    "score": 13000,
-   "date": "2021-11-20T00:00:00.000000Z",
+   "date": "2021-11-19T16:16:50.000000Z",
    "video": "https://youtu.be/jg4edAqTI1E",
    "img": "20211120-101650-1923041968.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 運ゲー",
+   "console": 4,
+   "comment": "運ゲー",
    "tie": false
   },
   {
@@ -110,5 +122,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

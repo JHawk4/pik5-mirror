@@ -3,6 +3,66 @@
  "stage": 425,
  "records": [
   {
+   "id": 16297,
+   "uid": 301903135,
+   "user": "koppacha",
+   "score": 16,
+   "date": "2023-07-29T02:19:19.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16303,
+   "uid": 301235638,
+   "user": "toripoppo0307",
+   "score": 29,
+   "date": "2023-07-29T03:24:37.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16351,
+   "uid": 301657287,
+   "user": "shiocha78",
+   "score": 31,
+   "date": "2023-07-30T05:54:55.000000Z",
+   "video": "https://youtu.be/rkOAXSVuhAs",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17225,
+   "uid": 303624793,
+   "user": "hanihani_gogo",
+   "score": 33,
+   "date": "2023-11-09T00:02:08.000000Z",
+   "video": "https://www.youtube.com/watch?v=wie7r30HcHc",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17236,
+   "uid": 304141536,
+   "user": "shino15nome",
+   "score": 38,
+   "date": "2023-11-11T03:15:08.000000Z",
+   "video": "https://youtu.be/fGril2PE_3g?si=ORJzgS44uyfpqLn3",
+   "img": "20231111-211508-7890924388.jpg",
+   "console": 4,
+   "comment": "オッチンとノミンコの機嫌が良かったと思う",
+   "tie": false
+  },
+  {
    "id": 17308,
    "uid": 304252554,
    "user": "Bl6AltMzq5Jx4aM",
@@ -25,5 +85,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

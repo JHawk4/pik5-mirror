@@ -3,6 +3,102 @@
  "stage": 229,
  "records": [
   {
+   "id": 6268,
+   "uid": 258136836,
+   "user": "koppacha",
+   "score": 33126,
+   "date": "2018-05-12T00:40:38.000000Z",
+   "video": "",
+   "img": "20180512-184038-1324698312.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6432,
+   "uid": 258212566,
+   "user": "ikimono334",
+   "score": 33174,
+   "date": "2018-06-03T07:18:18.000000Z",
+   "video": "",
+   "img": "20180604-011818-818017713.jpg",
+   "console": 1,
+   "comment": "満足",
+   "tie": false
+  },
+  {
+   "id": 14070,
+   "uid": 277047844,
+   "user": "spark573",
+   "score": 33178,
+   "date": "2021-12-13T08:22:09.000000Z",
+   "video": "https://youtu.be/d4GvWIoLwV0",
+   "img": "20211214-022209-34216189.png",
+   "console": 2,
+   "comment": "ただただ配置が良い",
+   "tie": false
+  },
+  {
+   "id": 14120,
+   "uid": 277074458,
+   "user": "mercysnow",
+   "score": 33178,
+   "date": "2021-12-20T06:41:00.000000Z",
+   "video": "https://youtu.be/cVgB9hpdTlY",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 15084,
+   "uid": 278553944,
+   "user": "albut3",
+   "score": 33179,
+   "date": "2022-09-19T07:50:36.000000Z",
+   "video": "https://www.twitch.tv/videos/1595482372",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 15431,
+   "uid": 278313831,
+   "user": "spark573",
+   "score": 33179,
+   "date": "2022-10-16T04:55:11.000000Z",
+   "video": "https://www.twitch.tv/videos/1625879808",
+   "img": "",
+   "console": 2,
+   "comment": "ラン対の副産物",
+   "tie": true
+  },
+  {
+   "id": 15495,
+   "uid": 278686365,
+   "user": "mercysnow",
+   "score": 33184,
+   "date": "2022-11-02T19:18:04.000000Z",
+   "video": "https://youtu.be/7XwPeMoGZ00",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17577,
+   "uid": 306777977,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 33186,
+   "date": "2024-02-07T03:22:11.000000Z",
+   "video": "https://youtu.be/TIPGLV5RVE0?si=ISjBOP9CtK-at6Uq",
+   "img": "20240207-212211-3200445373.jpg",
+   "console": 2,
+   "comment": "プレイング改善可能です",
+   "tie": false
+  },
+  {
    "id": 18618,
    "uid": 311767905,
    "user": "Gorei_50",
@@ -14,5 +110,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -3,6 +3,198 @@
  "stage": 230,
  "records": [
   {
+   "id": 6272,
+   "uid": 258170382,
+   "user": "koppacha",
+   "score": 31920,
+   "date": "2018-05-12T03:12:54.000000Z",
+   "video": "",
+   "img": "20180512-211254-1252795436.jpg",
+   "console": 1,
+   "comment": "犠牲2",
+   "tie": false
+  },
+  {
+   "id": 6290,
+   "uid": 258315476,
+   "user": "noamoa",
+   "score": 32031,
+   "date": "2018-05-12T22:48:09.000000Z",
+   "video": "",
+   "img": "20180513-164809-760088078.jpg",
+   "console": 2,
+   "comment": "犠牲1",
+   "tie": false
+  },
+  {
+   "id": 6592,
+   "uid": 258642024,
+   "user": "ikimono334",
+   "score": 32031,
+   "date": "2018-07-02T04:12:14.000000Z",
+   "video": "",
+   "img": "20180702-221215-763631187.jpg",
+   "console": 1,
+   "comment": "5Fで大ロス",
+   "tie": true
+  },
+  {
+   "id": 6721,
+   "uid": 259634963,
+   "user": "albut3",
+   "score": 32036,
+   "date": "2018-08-19T00:39:12.000000Z",
+   "video": "https://www.youtube.com/watch?v=RL0BzkgmqTg",
+   "img": "20180819-183912-1423775625.png",
+   "console": 1,
+   "comment": "タマゴをわりにいったので8点ロス",
+   "tie": false
+  },
+  {
+   "id": 6726,
+   "uid": 259951009,
+   "user": "Gorei_50",
+   "score": 32041,
+   "date": "2018-08-22T23:41:16.000000Z",
+   "video": "",
+   "img": "20180823-174116-950176546.PNG",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 7055,
+   "uid": 262287911,
+   "user": "iid01",
+   "score": 32049,
+   "date": "2018-12-23T22:10:56.000000Z",
+   "video": "https://www.youtube.com/watch?v=XA7-4IccF0o",
+   "img": "20181224-161056-1804737096.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 7110,
+   "uid": 262004729,
+   "user": "albut3",
+   "score": 32052,
+   "date": "2019-02-01T07:01:01.000000Z",
+   "video": "",
+   "img": "20190202-010101-1528391189.JPG",
+   "console": 1,
+   "comment": "運搬拒否ヤキチャッピーきらい",
+   "tie": false
+  },
+  {
+   "id": 10597,
+   "uid": 271656097,
+   "user": "albut3",
+   "score": 32059,
+   "date": "2020-09-26T12:05:46.000000Z",
+   "video": "https://www.youtube.com/watch?v=yXUM2FMWJXk",
+   "img": "20200927-060546-896603828.JPG",
+   "console": 1,
+   "comment": "3Fが惜しい",
+   "tie": false
+  },
+  {
+   "id": 10638,
+   "uid": 271327908,
+   "user": "Gorei_50",
+   "score": 32059,
+   "date": "2020-10-01T00:52:55.000000Z",
+   "video": "",
+   "img": "20201001-185255-1594650013.PNG",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 12963,
+   "uid": 274779975,
+   "user": "fuji_luck",
+   "score": 32062,
+   "date": "2021-08-06T19:43:38.000000Z",
+   "video": "https://youtu.be/nNWVtHyiH40",
+   "img": "20210807-134338-669065905.bmp",
+   "console": 1,
+   "comment": "71→136→207→293→352",
+   "tie": false
+  },
+  {
+   "id": 14791,
+   "uid": 277603389,
+   "user": "albut3",
+   "score": 32063,
+   "date": "2022-07-05T23:14:49.000000Z",
+   "video": "https://www.twitch.tv/videos/1523826374",
+   "img": "",
+   "console": 2,
+   "comment": "63→134→201(タマゴ割)→286→353",
+   "tie": false
+  },
+  {
+   "id": 15496,
+   "uid": 278608847,
+   "user": "mercysnow",
+   "score": 32065,
+   "date": "2022-11-02T19:18:34.000000Z",
+   "video": "https://youtu.be/cFdBk5wjqqs",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16037,
+   "uid": 278027416,
+   "user": "albut3",
+   "score": 32070,
+   "date": "2023-04-04T20:28:11.000000Z",
+   "video": "https://www.youtube.com/watch?v=ECf0TW450wo",
+   "img": "",
+   "console": 2,
+   "comment": "2F3Fに余地あり",
+   "tie": false
+  },
+  {
+   "id": 17652,
+   "uid": 307014622,
+   "user": "albut3",
+   "score": 32073,
+   "date": "2024-03-22T10:00:49.000000Z",
+   "video": "https://www.youtube.com/watch?v=5qdNPk3nOzU",
+   "img": "",
+   "console": 2,
+   "comment": "2セットどこ？",
+   "tie": false
+  },
+  {
+   "id": 18418,
+   "uid": 310215438,
+   "user": "kobachi_no_udon",
+   "score": 32077,
+   "date": "2025-02-20T02:00:17.000000Z",
+   "video": "https://youtu.be/xNk62gwVlTY?si=kqDU1yms_qf9gpBU",
+   "img": "",
+   "console": 2,
+   "comment": "まだいけそうですね",
+   "tie": false
+  },
+  {
+   "id": 18470,
+   "uid": 310337977,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32078,
+   "date": "2025-04-08T02:09:22.000000Z",
+   "video": "https://youtu.be/owRlL2hXdaA?si=7NPEtyG1Ci0SSBJJ",
+   "img": "",
+   "console": 2,
+   "comment": "まいにちデメ1にて出ました",
+   "tie": false
+  },
+  {
    "id": 19378,
    "uid": 314741032,
    "user": "kobachi_no_udon",
@@ -14,5 +206,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

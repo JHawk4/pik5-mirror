@@ -15,6 +15,18 @@
    "tie": false
   },
   {
+   "id": 325,
+   "uid": 105614342,
+   "user": "koppacha",
+   "score": 791,
+   "date": "2013-10-01T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 3,
+   "comment": "ボスバトルに犠牲はつきもの",
+   "tie": false
+  },
+  {
    "id": 412,
    "uid": null,
    "user": "yamany",
@@ -24,7 +36,7 @@
    "img": null,
    "console": 2,
    "comment": "限界",
-   "tie": false
+   "tie": true
   },
   {
    "id": 1630,
@@ -99,15 +111,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11612,
+   "uid": 274130725,
    "user": "Jay596",
    "score": 867,
-   "date": "2020-12-07T00:00:00.000000Z",
+   "date": "2020-12-06T09:57:35.000000Z",
    "video": "https://www.youtube.com/watch?v=RbcorLpve-E",
    "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": true
   },
   {
@@ -156,5 +168,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

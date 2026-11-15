@@ -3,6 +3,42 @@
  "stage": 429,
  "records": [
   {
+   "id": 18741,
+   "uid": 311265127,
+   "user": "koppacha",
+   "score": 144,
+   "date": "2025-09-06T02:30:47.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18831,
+   "uid": 311714753,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 94,
+   "date": "2025-09-06T04:46:04.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18877,
+   "uid": 311963389,
+   "user": "kobachi_no_udon",
+   "score": 90,
+   "date": "2025-09-10T01:33:13.000000Z",
+   "video": "https://youtu.be/CjM0-a9YtWs",
+   "img": "",
+   "console": 4,
+   "comment": "敵が散らばりすぎ",
+   "tie": false
+  },
+  {
    "id": 19612,
    "uid": 315272833,
    "user": "kobachi_no_udon",
@@ -14,5 +50,6 @@
    "tie": false
   }
  ],
- "lower_is_better": true
+ "lower_is_better": true,
+ "backfilled": true
 }

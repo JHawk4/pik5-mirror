@@ -3,6 +3,90 @@
  "stage": 422,
  "records": [
   {
+   "id": 16293,
+   "uid": 301916376,
+   "user": "koppacha",
+   "score": 65,
+   "date": "2023-07-29T02:17:53.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16332,
+   "uid": 301643190,
+   "user": "toripoppo0307",
+   "score": 307,
+   "date": "2023-07-30T01:55:53.000000Z",
+   "video": "https://www.youtube.com/watch?v=vkuq2Qe0Ms8",
+   "img": "",
+   "console": 4,
+   "comment": "仮",
+   "tie": false
+  },
+  {
+   "id": 16348,
+   "uid": 301742834,
+   "user": "shiocha78",
+   "score": 314,
+   "date": "2023-07-30T05:53:03.000000Z",
+   "video": "https://youtu.be/UbxtUoDjaQo",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16966,
+   "uid": 301830216,
+   "user": "oobakekagami",
+   "score": 321,
+   "date": "2023-09-06T08:04:17.000000Z",
+   "video": "https://youtu.be/0NNwImJbn_Q",
+   "img": "",
+   "console": 4,
+   "comment": "すぐ抜かされると思いますが、世界記録です。",
+   "tie": false
+  },
+  {
+   "id": 16975,
+   "uid": 301909458,
+   "user": "Lotus",
+   "score": 325,
+   "date": "2023-09-07T22:34:28.000000Z",
+   "video": "https://www.youtube.com/watch?v=B3pYaK9ATMM",
+   "img": "",
+   "console": 4,
+   "comment": "解散直後にYボタン長押しからゲキカラ使うと、ゲキカラ分のモーションをキャンセル出来るっていう気付き",
+   "tie": false
+  },
+  {
+   "id": 17046,
+   "uid": 302128974,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 330,
+   "date": "2023-09-23T03:48:06.000000Z",
+   "video": "https://youtu.be/8O_3wT3bn_s?si=Mzcpiq7YdJR1SP5g",
+   "img": "20230923-214806-2667525485.jpg",
+   "console": 4,
+   "comment": "左下の表示がバグりました",
+   "tie": false
+  },
+  {
+   "id": 17060,
+   "uid": 302089517,
+   "user": "BOX",
+   "score": 332,
+   "date": "2023-09-25T17:55:08.000000Z",
+   "video": "https://youtu.be/ITA0muAxQDg?si=_qQ11tqtY3Wo1ZUg",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 18258,
    "uid": 309355237,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +98,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

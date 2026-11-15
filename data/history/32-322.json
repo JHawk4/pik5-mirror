@@ -3,15 +3,15 @@
  "stage": 322,
  "records": [
   {
-   "id": 358,
-   "uid": null,
-   "user": "nanshitsujuukinzounaizou",
-   "score": 765,
+   "id": 334,
+   "uid": 105472670,
+   "user": "koppacha",
+   "score": 1000,
    "date": "2013-11-07T06:00:00.000000Z",
    "video": "",
-   "img": null,
-   "console": 2,
-   "comment": "ヘビガラスが４匹もいるせいかバクダン２個食わせたら倒せる。",
+   "img": "",
+   "console": 3,
+   "comment": "DLC第二弾の中ではもっとも簡単……だと思う",
    "tie": false
   },
   {
@@ -99,15 +99,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13939,
+   "uid": 277355327,
    "user": "esu",
    "score": 4080,
-   "date": "2021-11-20T00:00:00.000000Z",
+   "date": "2021-11-19T16:22:03.000000Z",
    "video": "https://youtu.be/tchqTGeF8aM",
    "img": "20211120-102203-467628308.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] サライムシがやばすぎる",
+   "console": 4,
+   "comment": "サライムシがやばすぎる",
    "tie": false
   },
   {
@@ -157,5 +157,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

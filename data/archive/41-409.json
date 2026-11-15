@@ -3,6 +3,16 @@
  "stage": 409,
  "posts": [
   {
+   "id": 16280,
+   "user": "koppacha",
+   "score": 310,
+   "date": "2023-07-29T02:15:24.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 16432,
    "user": "pikpikradish",
    "score": 312,
@@ -121,6 +131,26 @@
    "comment": "ソウビ・ここまで移動・アイテム無使用での記録です。"
   },
   {
+   "id": 17445,
+   "user": "albut3",
+   "score": 493,
+   "date": "2023-12-21T10:43:17.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=MhXxiIVWmdU",
+   "img": "",
+   "comment": "対話を完了しましょう"
+  },
+  {
+   "id": 17446,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 496,
+   "date": "2023-12-21T22:40:57.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/WrA_Kok628o?si=j9-Zovx4xR3nHQM0",
+   "img": "20231222-164057-6716332441.jpg",
+   "comment": "この記録は1位ですが証拠動画がほぼありません。"
+  },
+  {
    "id": 17494,
    "user": "shino15nome",
    "score": 493,
@@ -129,6 +159,16 @@
    "video": "",
    "comment": "あけましておめでとうございます",
    "img": "20240101-060024-8225994622.jpg"
+  },
+  {
+   "id": 17745,
+   "user": "mercysnow",
+   "score": 495,
+   "date": "2024-04-28T08:14:43.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/61UPtPn_F44?si=2yps3q76k3sK7c37",
+   "img": "",
+   "comment": "コメントなし"
   },
   {
    "id": 17914,
@@ -175,6 +215,16 @@
    "console": 4,
    "video": "",
    "comment": "とりあえず投稿"
+  },
+  {
+   "id": 18730,
+   "user": "mercysnow",
+   "score": 499,
+   "date": "2025-09-04T08:10:32.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/03QP5bogo9w",
+   "img": "",
+   "comment": "コメントなし"
   },
   {
    "id": 18883,

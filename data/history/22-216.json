@@ -39,6 +39,18 @@
    "tie": false
   },
   {
+   "id": 262,
+   "uid": 102097373,
+   "user": "albut3",
+   "score": 5977,
+   "date": "2013-07-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "遠くのお宝は持ってきてもらうのがいいかも？",
+   "tie": false
+  },
+  {
    "id": 605,
    "uid": null,
    "user": "FeTellYou",
@@ -49,6 +61,18 @@
    "console": 1,
    "comment": "コメントなし",
    "tie": false
+  },
+  {
+   "id": 1805,
+   "uid": 218997627,
+   "user": "iid01",
+   "score": 5988,
+   "date": "2016-03-16T00:18:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
   },
   {
    "id": 1824,
@@ -63,6 +87,18 @@
    "tie": true
   },
   {
+   "id": 2433,
+   "uid": 231376708,
+   "user": "pikmin893",
+   "score": 5989,
+   "date": "2016-11-12T18:46:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "あびゃー",
+   "tie": false
+  },
+  {
    "id": 2436,
    "uid": null,
    "user": "noamoa",
@@ -72,7 +108,7 @@
    "img": "20161113-211853-357672105.jpg",
    "console": 2,
    "comment": "残り103で全回収したのに勿体ないことした",
-   "tie": false
+   "tie": true
   },
   {
    "id": 2504,
@@ -87,27 +123,39 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
-   "user": "Gorei_50",
-   "score": 6000,
-   "date": "2021-01-28T00:00:00.000000Z",
-   "video": "https://youtu.be/tOt6C65srFU",
-   "img": "",
-   "console": null,
-   "comment": "[Wii] 挑戦状",
+   "id": 8820,
+   "uid": 270691043,
+   "user": "ToolAssistedPik",
+   "score": 5998,
+   "date": "2020-07-15T05:22:33.000000Z",
+   "video": "https://youtu.be/474REYL_j9Q",
+   "img": "20200715-232233-264737452.jpg",
+   "console": 1,
+   "comment": "やったパン！食神になったパン！6000は行けるのかな…？",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 12087,
+   "uid": 274696716,
+   "user": "Gorei_50",
+   "score": 6000,
+   "date": "2021-01-27T21:15:15.000000Z",
+   "video": "https://youtu.be/tOt6C65srFU",
+   "img": "",
+   "console": 2,
+   "comment": "挑戦状",
+   "tie": false
+  },
+  {
+   "id": 12253,
+   "uid": 274104028,
    "user": "ToolAssistedPik",
    "score": 6000,
-   "date": "2021-02-23T00:00:00.000000Z",
+   "date": "2021-02-22T22:15:24.000000Z",
    "video": "https://youtu.be/zVUp9ZPYNh8",
    "img": "20210223-161528-1077872331.jpeg",
-   "console": null,
-   "comment": "[NGC] 6003点を出すまでは続けるパン",
+   "console": 1,
+   "comment": "6003点を出すまでは続けるパン",
    "tie": true
   },
   {
@@ -158,5 +206,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

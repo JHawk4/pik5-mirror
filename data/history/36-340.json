@@ -15,27 +15,27 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11175,
+   "uid": 274552783,
    "user": "PiePusher11",
    "score": 16450,
-   "date": "2020-11-14T00:00:00.000000Z",
+   "date": "2020-11-13T13:00:14.000000Z",
    "video": "https://www.twitch.tv/videos/801928573",
    "img": "",
-   "console": null,
-   "comment": "[Joy-Con Double$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11629,
+   "uid": 274647024,
    "user": "Jay596",
    "score": 17260,
-   "date": "2020-12-09T00:00:00.000000Z",
+   "date": "2020-12-08T10:53:54.000000Z",
    "video": "https://www.youtube.com/watch?v=UvBWGuhy9rY",
    "img": "",
-   "console": null,
-   "comment": "[Joy-Con Double$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -63,15 +63,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13955,
+   "uid": 277517287,
    "user": "esu",
    "score": 20410,
-   "date": "2021-11-20T00:00:00.000000Z",
+   "date": "2021-11-19T21:21:29.000000Z",
    "video": "https://youtu.be/1MHhUTcBRHQ",
    "img": "20211120-152129-440150152.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -122,5 +122,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

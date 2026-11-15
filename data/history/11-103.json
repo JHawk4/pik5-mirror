@@ -3,6 +3,42 @@
  "stage": 103,
  "records": [
   {
+   "id": 17292,
+   "uid": 304955098,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 516,
+   "date": "2023-11-21T05:47:42.000000Z",
+   "video": "https://youtu.be/B0TP8iScz14?si=1GaubWh9X5hf_HN9",
+   "img": "",
+   "console": 4,
+   "comment": "とりあえず投稿します",
+   "tie": false
+  },
+  {
+   "id": 17441,
+   "uid": 305976471,
+   "user": "noamoa",
+   "score": 545,
+   "date": "2023-12-20T20:08:00.000000Z",
+   "video": "https://youtu.be/iQynGO4HWgo",
+   "img": "",
+   "console": 2,
+   "comment": "世界初のハリーアップ前クリア！",
+   "tie": false
+  },
+  {
+   "id": 17594,
+   "uid": 307259332,
+   "user": "Mokaygee",
+   "score": 590,
+   "date": "2024-02-14T16:50:29.000000Z",
+   "video": "https://www.youtube.com/watch?v=tS7FnduVnAI",
+   "img": "",
+   "console": 4,
+   "comment": "Blue-Blue drop is fastest",
+   "tie": false
+  },
+  {
    "id": 19560,
    "uid": 315286852,
    "user": "iid01",
@@ -14,5 +50,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

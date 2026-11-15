@@ -3,6 +3,138 @@
  "stage": 419,
  "records": [
   {
+   "id": 16290,
+   "uid": 301692590,
+   "user": "koppacha",
+   "score": 27,
+   "date": "2023-07-29T02:17:26.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16345,
+   "uid": 301740887,
+   "user": "shiocha78",
+   "score": 179,
+   "date": "2023-07-30T05:51:33.000000Z",
+   "video": "https://youtu.be/iyVAkR2TGDU",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16788,
+   "uid": 301562620,
+   "user": "Argent2home",
+   "score": 180,
+   "date": "2023-08-19T16:59:32.000000Z",
+   "video": "https://youtu.be/s03W3yhzuZ8?si=xcVO2Z1VYZ7qvWRc",
+   "img": "20230820-105932-4542775763.jpg",
+   "console": 4,
+   "comment": "クマ→チビグマの安定ルート",
+   "tie": false
+  },
+  {
+   "id": 16917,
+   "uid": 301130457,
+   "user": "shino15nome",
+   "score": 193,
+   "date": "2023-09-01T09:42:12.000000Z",
+   "video": "",
+   "img": "20230902-034212-8853753091.jpg",
+   "console": 4,
+   "comment": "キンキンにピクミン1匹もやられてなかったので完全運勝ちです",
+   "tie": false
+  },
+  {
+   "id": 16938,
+   "uid": 301512911,
+   "user": "mutonosuke66",
+   "score": 193,
+   "date": "2023-09-03T04:00:45.000000Z",
+   "video": "https://youtu.be/OKEUcCMPDiA?si=b7ZZmCZEuDyccG4S",
+   "img": "20230903-220045-4000661939.jpg",
+   "console": 4,
+   "comment": "switchの30秒クリップで失礼します。もっとインコース責めたり、ラスト氷呼んで加勢したりすれば更新いけると思います。数こなして頑張ります",
+   "tie": true
+  },
+  {
+   "id": 16950,
+   "uid": 301354030,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 197,
+   "date": "2023-09-05T02:22:51.000000Z",
+   "video": "https://youtu.be/vAHscGsL7GQ?si=NuIEE76-aTsVMcUt",
+   "img": "20230905-202251-9049678322.jpg",
+   "console": 4,
+   "comment": "3:20は無理だと思います",
+   "tie": false
+  },
+  {
+   "id": 17106,
+   "uid": 303221878,
+   "user": "BOX",
+   "score": 198,
+   "date": "2023-10-12T07:35:38.000000Z",
+   "video": "https://youtu.be/yPaEbAVQzYM",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17201,
+   "uid": 303156125,
+   "user": "Moony",
+   "score": 199,
+   "date": "2023-11-03T07:32:57.000000Z",
+   "video": "https://youtu.be/gJc7Wr8dO84",
+   "img": "",
+   "console": 4,
+   "comment": "3:20 is literally TAS level",
+   "tie": false
+  },
+  {
+   "id": 17204,
+   "uid": 303516442,
+   "user": "pikutas",
+   "score": 200,
+   "date": "2023-11-04T04:14:51.000000Z",
+   "video": "https://youtu.be/SCxk3gACknU?si=c5fwa2k2HLNM9o2Y",
+   "img": "",
+   "console": 4,
+   "comment": "新ルート",
+   "tie": false
+  },
+  {
+   "id": 17999,
+   "uid": 308354864,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 200,
+   "date": "2024-07-12T02:22:07.000000Z",
+   "video": "https://youtu.be/SCtM9xIDrGo?si=DD_cHCEZnlH9Suuu",
+   "img": "20240712-202207-2904490888.jpg",
+   "console": 4,
+   "comment": "これは3:21出ますね…",
+   "tie": true
+  },
+  {
+   "id": 18962,
+   "uid": 312266233,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 211,
+   "date": "2025-11-12T03:48:09.000000Z",
+   "video": "https://youtu.be/5qAmGIQXhT8?si=G_jFsqGdazTEHBlx",
+   "img": "",
+   "console": 4,
+   "comment": "おだやかオッチン",
+   "tie": false
+  },
+  {
    "id": 19861,
    "uid": 315332354,
    "user": "96_Leaf",
@@ -14,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

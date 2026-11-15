@@ -23,6 +23,16 @@
    "img": "20180513-164809-760088078.jpg"
   },
   {
+   "id": 6392,
+   "user": "Z_pikmin",
+   "score": 31992,
+   "date": "2018-05-24T03:40:44.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20180524-214044-576232483.jpg",
+   "comment": "とりあえず"
+  },
+  {
    "id": 6592,
    "user": "ikimono334",
    "score": 32031,
@@ -31,6 +41,26 @@
    "video": "",
    "comment": "5Fで大ロス",
    "img": "20180702-221215-763631187.jpg"
+  },
+  {
+   "id": 6721,
+   "user": "albut3",
+   "score": 32036,
+   "date": "2018-08-19T00:39:12.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=RL0BzkgmqTg",
+   "img": "20180819-183912-1423775625.png",
+   "comment": "タマゴをわりにいったので8点ロス"
+  },
+  {
+   "id": 6726,
+   "user": "Gorei_50",
+   "score": 32041,
+   "date": "2018-08-22T23:41:16.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20180823-174116-950176546.PNG",
+   "comment": "コメントなし"
   },
   {
    "id": 7055,
@@ -43,6 +73,16 @@
    "img": "20181224-161056-1804737096.jpg"
   },
   {
+   "id": 7110,
+   "user": "albut3",
+   "score": 32052,
+   "date": "2019-02-01T07:01:01.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20190202-010101-1528391189.JPG",
+   "comment": "運搬拒否ヤキチャッピーきらい"
+  },
+  {
    "id": 7577,
    "user": "sectionmarilui",
    "score": 32032,
@@ -53,6 +93,16 @@
    "img": "20190608-191123-596770025.jpg"
   },
   {
+   "id": 8437,
+   "user": "spark573",
+   "score": 32047,
+   "date": "2020-05-10T04:04:15.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/i1g69pGKL2A",
+   "img": "20200510-220415-1211571100.png",
+   "comment": "ほぼミスなしで通せた"
+  },
+  {
    "id": 9767,
    "user": "dayomin",
    "score": 31963,
@@ -60,6 +110,16 @@
    "console": 1,
    "video": "",
    "comment": "コメントなし"
+  },
+  {
+   "id": 10597,
+   "user": "albut3",
+   "score": 32059,
+   "date": "2020-09-26T12:05:46.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=yXUM2FMWJXk",
+   "img": "20200927-060546-896603828.JPG",
+   "comment": "3Fが惜しい"
   },
   {
    "id": 10617,
@@ -79,6 +139,26 @@
    "video": "",
    "comment": "コメントなし",
    "img": "20201001-185255-1594650013.PNG"
+  },
+  {
+   "id": 11335,
+   "user": "mercysnow",
+   "score": 32045,
+   "date": "2020-11-19T22:25:37.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/FKXyce_67do",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11765,
+   "user": "nikoshu_pik",
+   "score": 32031,
+   "date": "2020-12-27T01:05:50.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=0nM7t0HI8qQ",
+   "img": "20201227-190550-1256394609.jpg",
+   "comment": "コメントなし"
   },
   {
    "id": 12395,
@@ -119,6 +199,26 @@
    "img": "20210807-134338-669065905.bmp"
   },
   {
+   "id": 14630,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32022,
+   "date": "2022-04-29T21:05:03.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20220430-150503-2051198745.jpg",
+   "comment": "コメント無し"
+  },
+  {
+   "id": 14791,
+   "user": "albut3",
+   "score": 32063,
+   "date": "2022-07-05T23:14:49.000000Z",
+   "console": 2,
+   "video": "https://www.twitch.tv/videos/1523826374",
+   "img": "",
+   "comment": "63→134→201(タマゴ割)→286→353"
+  },
+  {
    "id": 15496,
    "user": "mercysnow",
    "score": 32065,
@@ -138,6 +238,26 @@
    "img": "20221228-003612-1060166642.png"
   },
   {
+   "id": 16037,
+   "user": "albut3",
+   "score": 32070,
+   "date": "2023-04-04T20:28:11.000000Z",
+   "console": 2,
+   "video": "https://www.youtube.com/watch?v=ECf0TW450wo",
+   "img": "",
+   "comment": "2F3Fに余地あり"
+  },
+  {
+   "id": 16158,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32058,
+   "date": "2023-06-03T16:58:39.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20230604-105839-1911100826.jpeg",
+   "comment": "コメントなし"
+  },
+  {
    "id": 17652,
    "user": "albut3",
    "score": 32073,
@@ -145,6 +265,26 @@
    "console": 2,
    "video": "https://www.youtube.com/watch?v=5qdNPk3nOzU",
    "comment": "2セットどこ？"
+  },
+  {
+   "id": 18327,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 32070,
+   "date": "2024-12-21T03:19:18.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/gv3tdPgBMts?si=eA5xDbGCeSOyN7qq",
+   "img": "",
+   "comment": "1FほぼTAS配置引きました"
+  },
+  {
+   "id": 18418,
+   "user": "kobachi_no_udon",
+   "score": 32077,
+   "date": "2025-02-20T02:00:17.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/xNk62gwVlTY?si=kqDU1yms_qf9gpBU",
+   "img": "",
+   "comment": "まだいけそうですね"
   },
   {
    "id": 18470,

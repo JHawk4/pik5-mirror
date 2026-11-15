@@ -3,6 +3,126 @@
  "stage": 410,
  "records": [
   {
+   "id": 16281,
+   "uid": 301006242,
+   "user": "koppacha",
+   "score": 245,
+   "date": "2023-07-29T02:15:34.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16330,
+   "uid": 301781102,
+   "user": "noamoa",
+   "score": 283,
+   "date": "2023-07-30T01:42:51.000000Z",
+   "video": "",
+   "img": "20230730-194251-9934147041",
+   "console": 4,
+   "comment": "とりあえず",
+   "tie": false
+  },
+  {
+   "id": 16503,
+   "uid": 301531124,
+   "user": "Otomo",
+   "score": 393,
+   "date": "2023-08-04T06:06:58.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "初手スイッチ。オッチンスイッチ担当",
+   "tie": false
+  },
+  {
+   "id": 16572,
+   "uid": 301102119,
+   "user": "yakiniku",
+   "score": 454,
+   "date": "2023-08-06T07:28:06.000000Z",
+   "video": "https://youtu.be/P9TChDL321g",
+   "img": "",
+   "console": 4,
+   "comment": "スイッチ押すタイミング難しい",
+   "tie": false
+  },
+  {
+   "id": 16595,
+   "uid": 301968997,
+   "user": "keisen2853",
+   "score": 477,
+   "date": "2023-08-08T07:21:46.000000Z",
+   "video": "https://www.youtube.com/watch?v=F3ZJ07JssK4",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17004,
+   "uid": 301336848,
+   "user": "Lotus",
+   "score": 492,
+   "date": "2023-09-12T22:32:02.000000Z",
+   "video": "https://www.youtube.com/watch?v=EGyvIJg-q_g",
+   "img": "",
+   "console": 4,
+   "comment": "ポンガシグサに入れるピクミンが自動で葉ピクミンから選ばれる仕様に助けられました、この仕様が無かったらポンガシ無しルートでした",
+   "tie": false
+  },
+  {
+   "id": 17475,
+   "uid": 305935884,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 494,
+   "date": "2023-12-29T00:25:33.000000Z",
+   "video": "https://youtu.be/JMv0ayoSWfA?si=8sOSwd4pnAxp1ylD",
+   "img": "20231229-182533-6963528053.jpg",
+   "console": 4,
+   "comment": "ポンガシグサ不使用です",
+   "tie": false
+  },
+  {
+   "id": 17700,
+   "uid": 308494965,
+   "user": "mercysnow",
+   "score": 517,
+   "date": "2024-03-31T18:30:00.000000Z",
+   "video": "https://youtu.be/5xB2SZZRdm8",
+   "img": "",
+   "console": 4,
+   "comment": "抜かれたら諦めます",
+   "tie": false
+  },
+  {
+   "id": 17712,
+   "uid": 308708467,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 519,
+   "date": "2024-04-13T03:46:09.000000Z",
+   "video": "https://youtu.be/26tZbIqBx_k?si=BgFD1Ru7DPiou776",
+   "img": "20240413-214609-8391495830.jpg",
+   "console": 4,
+   "comment": "520は可能だと思います",
+   "tie": false
+  },
+  {
+   "id": 18941,
+   "uid": 312593880,
+   "user": "mercysnow",
+   "score": 520,
+   "date": "2025-10-27T00:18:45.000000Z",
+   "video": "https://youtu.be/AJYSXKN4J6A",
+   "img": "",
+   "console": 4,
+   "comment": "適当",
+   "tie": false
+  },
+  {
    "id": 19737,
    "uid": 315960549,
    "user": "mercysnow",
@@ -14,5 +134,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

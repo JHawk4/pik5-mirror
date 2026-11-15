@@ -15,6 +15,18 @@
    "tie": false
   },
   {
+   "id": 260,
+   "uid": 102420117,
+   "user": "albut3",
+   "score": 18313,
+   "date": "2013-07-03T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "ショイグモはコツをつかめば簡単に倒せます。物持たれると厄介。",
+   "tie": false
+  },
+  {
    "id": 437,
    "uid": null,
    "user": "DRAFIX",
@@ -39,6 +51,30 @@
    "tie": false
   },
   {
+   "id": 942,
+   "uid": 211334464,
+   "user": "iid01",
+   "score": 18334,
+   "date": "2015-11-06T05:04:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 1151,
+   "uid": 214230728,
+   "user": "noamoa",
+   "score": 18339,
+   "date": "2015-11-13T01:52:00.000000Z",
+   "video": "https://youtu.be/QG4yddwnWuc",
+   "img": "20151113-195246-316132634.jpg",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 2015,
    "uid": null,
    "user": "noamoa",
@@ -49,6 +85,18 @@
    "console": 2,
    "comment": "まだ更新の余地有り。GCだと厳しい",
    "tie": false
+  },
+  {
+   "id": 5840,
+   "uid": 254975799,
+   "user": "albut3",
+   "score": 18342,
+   "date": "2018-02-18T14:59:00.000000Z",
+   "video": "",
+   "img": "20180219-085954-806890815.JPG",
+   "console": 1,
+   "comment": "出したのが今日じゃなければ偉大だった",
+   "tie": true
   },
   {
    "id": 5849,
@@ -75,15 +123,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11822,
+   "uid": 274603288,
    "user": "mercysnow",
    "score": 18345,
-   "date": "2021-01-01T00:00:00.000000Z",
+   "date": "2020-12-31T06:13:32.000000Z",
    "video": "https://youtu.be/mnriMuzw7CE",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": true
   },
   {
@@ -99,15 +147,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 12962,
+   "uid": 274887373,
    "user": "mercysnow",
    "score": 18349,
-   "date": "2021-08-07T00:00:00.000000Z",
+   "date": "2021-08-06T07:23:37.000000Z",
    "video": "https://youtu.be/9hQTmsidA1U",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -121,6 +169,18 @@
    "console": 2,
    "comment": "コメントなし",
    "tie": false
+  },
+  {
+   "id": 17611,
+   "uid": 307311242,
+   "user": "albut3",
+   "score": 18352,
+   "date": "2024-02-23T02:03:58.000000Z",
+   "video": "https://www.youtube.com/watch?v=ZvPKa2GKaSs",
+   "img": "",
+   "console": 2,
+   "comment": "いちごの悪いところ",
+   "tie": true
   },
   {
    "id": 18001,
@@ -146,5 +206,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

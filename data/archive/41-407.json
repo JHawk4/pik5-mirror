@@ -3,6 +3,16 @@
  "stage": 407,
  "posts": [
   {
+   "id": 16278,
+   "user": "koppacha",
+   "score": 338,
+   "date": "2023-07-29T02:15:02.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 16328,
    "user": "noamoa",
    "score": 341,
@@ -10,6 +20,16 @@
    "console": 4,
    "video": "",
    "comment": "とりあえず"
+  },
+  {
+   "id": 16387,
+   "user": "6harapikumin",
+   "score": 392,
+   "date": "2023-07-31T09:32:27.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
   },
   {
    "id": 16430,
@@ -27,6 +47,16 @@
    "date": "2023-08-01T17:39:30.000000Z",
    "console": 4,
    "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 16550,
+   "user": "keisen2853",
+   "score": 557,
+   "date": "2023-08-06T03:07:47.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=91N0Mmnn1Tg",
+   "img": "",
    "comment": "コメントなし"
   },
   {
@@ -103,6 +133,16 @@
    "comment": "コメントなし"
   },
   {
+   "id": 17070,
+   "user": "albut3",
+   "score": 574,
+   "date": "2023-09-28T23:56:50.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=ClYVY_RB_ME",
+   "img": "",
+   "comment": "欠陥仕様が多発するステージ"
+  },
+  {
    "id": 17078,
    "user": "shino15nome",
    "score": 558,
@@ -121,6 +161,16 @@
    "comment": "コメントなし"
   },
   {
+   "id": 17472,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 576,
+   "date": "2023-12-26T00:42:45.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/_WpBE6z5cEg?si=HkpS8E7dt-mygIb3",
+   "img": "20231226-184245-5011769490.jpg",
+   "comment": "ストライキがあまり起こらないルートです"
+  },
+  {
    "id": 17752,
    "user": "keisen2853",
    "score": 583,
@@ -128,6 +178,16 @@
    "console": 4,
    "video": "https://www.youtube.com/watch?v=jNF9yM20PO0",
    "comment": "最適化の余地はあると思います"
+  },
+  {
+   "id": 17821,
+   "user": "mercysnow",
+   "score": 583,
+   "date": "2024-05-15T01:05:07.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/kOta1e9BP8w",
+   "img": "",
+   "comment": "コメントなし"
   },
   {
    "id": 17855,
@@ -158,6 +218,16 @@
    "video": "",
    "comment": "コメントなし",
    "img": "20240923-234347-8634598648.jpg"
+  },
+  {
+   "id": 18246,
+   "user": "wnsrn8650",
+   "score": 567,
+   "date": "2024-10-17T05:14:22.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20241017-231422-3392725756.jpg",
+   "comment": "コメントなし"
   },
   {
    "id": 18445,
@@ -197,6 +267,16 @@
    "video": "",
    "comment": "Bボタン負傷の中大好きなコース更新出来て幸せです😌",
    "img": "20250923-201956-3915019358.jpg"
+  },
+  {
+   "id": 18956,
+   "user": "mercysnow",
+   "score": 588,
+   "date": "2025-11-07T18:32:04.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/7AQV6g4YkHI",
+   "img": "",
+   "comment": "奪い尽くされ焼き尽くされ"
   },
   {
    "id": 19512,

@@ -3,6 +3,42 @@
  "stage": 430,
  "records": [
   {
+   "id": 18744,
+   "uid": 311562283,
+   "user": "koppacha",
+   "score": 202,
+   "date": "2025-09-06T02:36:11.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18775,
+   "uid": 311324010,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 103,
+   "date": "2025-09-06T03:36:29.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18881,
+   "uid": 311149885,
+   "user": "kobachi_no_udon",
+   "score": 98,
+   "date": "2025-09-10T03:13:16.000000Z",
+   "video": "https://youtu.be/NKvfeS8AvCI",
+   "img": "",
+   "console": 4,
+   "comment": "最適解ではなさそう",
+   "tie": false
+  },
+  {
    "id": 19602,
    "uid": 315681966,
    "user": "kobachi_no_udon",
@@ -14,5 +50,6 @@
    "tie": false
   }
  ],
- "lower_is_better": true
+ "lower_is_better": true,
+ "backfilled": true
 }

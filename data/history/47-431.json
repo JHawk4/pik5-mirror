@@ -3,6 +3,42 @@
  "stage": 431,
  "records": [
   {
+   "id": 18747,
+   "uid": 311816232,
+   "user": "koppacha",
+   "score": 193,
+   "date": "2025-09-06T02:40:46.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18780,
+   "uid": 311442097,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 94,
+   "date": "2025-09-06T03:44:03.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18882,
+   "uid": 311218864,
+   "user": "kobachi_no_udon",
+   "score": 78,
+   "date": "2025-09-10T03:15:25.000000Z",
+   "video": "https://youtu.be/PQY4eXSpcck",
+   "img": "",
+   "console": 4,
+   "comment": "金平糖を出す敵を最後にしたくない",
+   "tie": false
+  },
+  {
    "id": 19603,
    "uid": 315646760,
    "user": "kobachi_no_udon",
@@ -14,5 +50,6 @@
    "tie": false
   }
  ],
- "lower_is_better": true
+ "lower_is_better": true,
+ "backfilled": true
 }

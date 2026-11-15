@@ -3,15 +3,15 @@
  "stage": 341,
  "records": [
   {
-   "id": 11113,
-   "uid": null,
-   "user": "YT7GyX7X6SN2S8v",
-   "score": 696,
-   "date": "2020-11-10T05:20:31.000000Z",
-   "video": "",
-   "img": "20201110-232031-1694971599.jpg",
+   "id": 10933,
+   "uid": 274177684,
+   "user": "JHawk4",
+   "score": 721,
+   "date": "2020-10-31T06:53:33.000000Z",
+   "video": "https://www.twitch.tv/videos/787703456",
+   "img": "",
    "console": 4,
-   "comment": "隠し爆弾でも存在するのかな",
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -36,6 +36,18 @@
    "img": null,
    "console": 4,
    "comment": "ペロチャッピーガチャを超えて",
+   "tie": false
+  },
+  {
+   "id": 11372,
+   "uid": 274938449,
+   "user": "mikou_musicgame",
+   "score": 731,
+   "date": "2020-11-21T15:16:43.000000Z",
+   "video": "",
+   "img": "20201122-091643-1133961854.JPG",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -111,16 +123,28 @@
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 15503,
+   "uid": 278730702,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 782,
-   "date": "2022-11-08T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1589903034590826497/pu/vid/1280x720/mt9WpzImRcNxCZ5_.mp4?tag=12",
+   "date": "2022-11-07T23:51:22.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1589903068514377729?s=61&t=HzRkZcUYJm6O1MtQ4lOm_w",
    "img": "20221108-175122-1441309552.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 理論値かもしれません。",
+   "console": 4,
+   "comment": "理論値かもしれません。",
    "tie": true
+  },
+  {
+   "id": 18943,
+   "uid": 312051577,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 783,
+   "date": "2025-10-28T01:32:25.000000Z",
+   "video": "https://youtu.be/BiAe-CdHdbU?si=BujigRsE4WxS-mRo",
+   "img": "",
+   "console": 4,
+   "comment": "いいえ(3年越し)",
+   "tie": false
   },
   {
    "id": 19090,
@@ -146,5 +170,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

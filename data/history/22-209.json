@@ -27,15 +27,15 @@
    "tie": false
   },
   {
-   "id": 431,
-   "uid": null,
-   "user": "DRAFIX",
-   "score": 50862,
-   "date": "2015-01-04T06:00:00.000000Z",
+   "id": 394,
+   "uid": 100550635,
+   "user": "koppacha",
+   "score": 50871,
+   "date": "2014-05-04T06:00:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
-   "comment": "3ヶ所のお宝発掘が本当にストレスです……",
+   "comment": "ピクミン3発売直前に出た奇跡のスコア。",
    "tie": false
   },
   {
@@ -51,15 +51,51 @@
    "tie": false
   },
   {
-   "id": 3870,
-   "uid": null,
-   "user": "pikmin893",
+   "id": 1817,
+   "uid": 218232655,
+   "user": "iid01",
    "score": 50881,
-   "date": "2017-05-22T07:47:00.000000Z",
+   "date": "2016-03-17T04:24:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
-   "comment": "公式越えRTA中に出したなんとももったいない記録",
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 2058,
+   "uid": 225776479,
+   "user": "noamoa",
+   "score": 50881,
+   "date": "2016-04-28T00:45:00.000000Z",
+   "video": "",
+   "img": "20160428-184502-207216572.jpg",
+   "console": 2,
+   "comment": "埋まりお宝3個を探すゲーム",
+   "tie": true
+  },
+  {
+   "id": 2460,
+   "uid": 231756296,
+   "user": "HoshiKUZU_pik",
+   "score": 50882,
+   "date": "2016-11-21T00:04:00.000000Z",
+   "video": "",
+   "img": "20161121-180458-1865069297.JPG",
+   "console": 1,
+   "comment": "まだいけるな",
+   "tie": false
+  },
+  {
+   "id": 3487,
+   "uid": 238292956,
+   "user": "miran",
+   "score": 50886,
+   "date": "2017-04-07T21:09:00.000000Z",
+   "video": "http://www.nicovideo.jp/watch/sm30989048",
+   "img": "20170408-150959-1265250996.bmp",
+   "console": 1,
+   "comment": "画龍点睛",
    "tie": false
   },
   {
@@ -72,6 +108,18 @@
    "img": "20171031-223806-1393154926.jpg",
    "console": 2,
    "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 5112,
+   "uid": 248135621,
+   "user": "albut3",
+   "score": 50889,
+   "date": "2017-11-15T00:34:00.000000Z",
+   "video": "",
+   "img": "20171115-183437-592431647.JPG",
+   "console": 1,
+   "comment": "運だけ",
    "tie": false
   },
   {
@@ -87,27 +135,27 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11011,
+   "uid": 274174967,
    "user": "fuji_luck",
    "score": 50896,
-   "date": "2020-11-05T00:00:00.000000Z",
+   "date": "2020-11-04T13:40:33.000000Z",
    "video": "https://youtu.be/c2FX_yshiKk",
    "img": "20201105-074036-2032786683.bmp",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11609,
+   "uid": 274928789,
    "user": "albut3",
    "score": 50896,
-   "date": "2020-12-07T00:00:00.000000Z",
+   "date": "2020-12-06T06:45:36.000000Z",
    "video": "https://www.youtube.com/watch?v=ohu6jUo8V6g",
    "img": "20201207-004540-1232458713.JPG",
-   "console": null,
-   "comment": "[NGC] 2年半前はこんな記録出るわけないと思っていた",
+   "console": 1,
+   "comment": "2年半前はこんな記録出るわけないと思っていた",
    "tie": true
   },
   {
@@ -135,16 +183,28 @@
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 15145,
+   "uid": 278010067,
    "user": "albut3",
    "score": 50897,
-   "date": "2022-10-02T00:00:00.000000Z",
+   "date": "2022-10-01T14:12:06.000000Z",
    "video": "https://www.youtube.com/watch?v=MNqWNFVgJKA",
    "img": "20221002-081206-561275533.JPG",
-   "console": null,
-   "comment": "[Wii] ラスト追い込みで晩節を汚した",
+   "console": 2,
+   "comment": "ラスト追い込みで晩節を汚した",
    "tie": true
+  },
+  {
+   "id": 17099,
+   "uid": 303055993,
+   "user": "kobachi_no_udon",
+   "score": 50899,
+   "date": "2023-10-09T23:52:01.000000Z",
+   "video": "https://youtu.be/5Vkuz9QwZQ8",
+   "img": "20231010-175201-1862807583.jpg",
+   "console": 2,
+   "comment": "後半に悔いが残る…",
+   "tie": false
   },
   {
    "id": 17340,
@@ -182,5 +242,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

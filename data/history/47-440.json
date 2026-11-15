@@ -3,6 +3,42 @@
  "stage": 440,
  "records": [
   {
+   "id": 18778,
+   "uid": 311172313,
+   "user": "koppacha",
+   "score": 197,
+   "date": "2025-09-06T03:40:25.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18791,
+   "uid": 311961621,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 129,
+   "date": "2025-09-06T04:07:49.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18863,
+   "uid": 311002244,
+   "user": "toripoppo0307",
+   "score": 127,
+   "date": "2025-09-08T04:12:03.000000Z",
+   "video": "https://youtu.be/SlBknZx64O4",
+   "img": "",
+   "console": 4,
+   "comment": "いいルートが思いつかない",
+   "tie": false
+  },
+  {
    "id": 19213,
    "uid": 312852062,
    "user": "toripoppo0307",
@@ -14,5 +50,6 @@
    "tie": false
   }
  ],
- "lower_is_better": true
+ "lower_is_better": true,
+ "backfilled": true
 }

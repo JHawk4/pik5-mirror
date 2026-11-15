@@ -27,15 +27,15 @@
    "tie": false
   },
   {
-   "id": 451,
-   "uid": null,
-   "user": "DRAFIX",
-   "score": 32455,
-   "date": "2015-02-17T06:00:00.000000Z",
-   "video": "",
-   "img": null,
+   "id": 136,
+   "uid": 100763324,
+   "user": "koppacha",
+   "score": 32522,
+   "date": "2008-09-23T06:00:00.000000Z",
+   "video": "http://www.nicovideo.jp/watch/sm1514985",
+   "img": "",
    "console": 1,
-   "comment": "タマゴムシあり。アメボウズも丁寧に処理しないとピクミンが潰されてしまいます。",
+   "comment": "タマゴムシ20匹回収の為に8時間粘った。",
    "tie": false
   },
   {
@@ -86,5 +86,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

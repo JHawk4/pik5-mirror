@@ -3,6 +3,78 @@
  "stage": 217,
  "records": [
   {
+   "id": 6261,
+   "uid": 258090678,
+   "user": "koppacha",
+   "score": 16353,
+   "date": "2018-05-11T23:20:46.000000Z",
+   "video": "",
+   "img": "20180512-172046-207726503.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6276,
+   "uid": 258832671,
+   "user": "noamoa",
+   "score": 16392,
+   "date": "2018-05-12T07:18:36.000000Z",
+   "video": "",
+   "img": "20180513-011836-794657486.jpg",
+   "console": 2,
+   "comment": "ほぼ理想配置",
+   "tie": false
+  },
+  {
+   "id": 7049,
+   "uid": 262787732,
+   "user": "albut3",
+   "score": 16399,
+   "date": "2018-12-22T09:59:17.000000Z",
+   "video": "",
+   "img": "20181223-035917-1133614351.JPG",
+   "console": 1,
+   "comment": "最後のエレキムシ回収に4カウントもかけてしまった",
+   "tie": false
+  },
+  {
+   "id": 7057,
+   "uid": 262813487,
+   "user": "sectionmarilui",
+   "score": 16399,
+   "date": "2018-12-24T02:40:34.000000Z",
+   "video": "",
+   "img": "20181224-204034-1749579829.jpg",
+   "console": 1,
+   "comment": "どうして…",
+   "tie": true
+  },
+  {
+   "id": 7121,
+   "uid": 262295234,
+   "user": "sectionmarilui",
+   "score": 16402,
+   "date": "2019-02-06T01:05:48.000000Z",
+   "video": "",
+   "img": "20190206-190548-1783240026.mp4",
+   "console": 1,
+   "comment": "タマコキンと最後が甘かった印象",
+   "tie": false
+  },
+  {
+   "id": 15087,
+   "uid": 278984778,
+   "user": "mercysnow",
+   "score": 16408,
+   "date": "2022-09-19T10:21:37.000000Z",
+   "video": "https://youtu.be/hLuWEcmazSo",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 17632,
    "uid": 307451480,
    "user": "kobachi_no_udon",
@@ -25,5 +97,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

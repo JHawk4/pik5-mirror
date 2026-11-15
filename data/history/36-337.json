@@ -15,15 +15,27 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11304,
+   "uid": 274610710,
    "user": "PiePusher11",
    "score": 4690,
-   "date": "2020-11-19T00:00:00.000000Z",
+   "date": "2020-11-18T17:53:41.000000Z",
    "video": "https://www.twitch.tv/videos/807952770",
    "img": "",
-   "console": null,
-   "comment": "[Joy-Con Double$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 11322,
+   "uid": 274672419,
+   "user": "messhi475",
+   "score": 4770,
+   "date": "2020-11-19T00:58:28.000000Z",
+   "video": "https://youtu.be/xHDaH2NiDuk",
+   "img": "20201119-185759-1935199535.jpg",
+   "console": 4,
+   "comment": "最初の1分間は、ピクミン増殖・・・時間の無駄？",
    "tie": false
   },
   {
@@ -134,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

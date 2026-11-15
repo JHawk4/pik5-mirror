@@ -39,6 +39,18 @@
    "tie": false
   },
   {
+   "id": 387,
+   "uid": 105873928,
+   "user": "koppacha",
+   "score": 9680,
+   "date": "2014-05-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 3,
+   "comment": "4ヶ月半ほど費やしてやっとこすっとこWR取りました",
+   "tie": false
+  },
+  {
    "id": 1626,
    "uid": null,
    "user": "koppacha",
@@ -182,5 +194,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

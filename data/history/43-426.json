@@ -3,6 +3,54 @@
  "stage": 426,
  "records": [
   {
+   "id": 16298,
+   "uid": 301136283,
+   "user": "koppacha",
+   "score": 7,
+   "date": "2023-07-29T02:19:34.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16352,
+   "uid": 301556749,
+   "user": "shiocha78",
+   "score": 117,
+   "date": "2023-07-30T05:55:18.000000Z",
+   "video": "https://youtu.be/9jFtPHCN2g8",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16979,
+   "uid": 301881266,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 135,
+   "date": "2023-09-08T18:03:01.000000Z",
+   "video": "https://youtu.be/SjnMGSlqbS0?si=NkuSQcIvIX4BukXe",
+   "img": "20230909-120301-7786729697.jpg",
+   "console": 4,
+   "comment": "チャートゲーです",
+   "tie": false
+  },
+  {
+   "id": 17247,
+   "uid": 304149893,
+   "user": "Moony",
+   "score": 135,
+   "date": "2023-11-15T04:31:27.000000Z",
+   "video": "https://youtu.be/Vlkls6rtx1s",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし ",
+   "tie": true
+  },
+  {
    "id": 19860,
    "uid": 315798426,
    "user": "96_Leaf",
@@ -14,5 +62,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

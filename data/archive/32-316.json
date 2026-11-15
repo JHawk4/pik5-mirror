@@ -30,6 +30,36 @@
    "comment": "ネットに上がってるのパクリましたｗ"
   },
   {
+   "id": 342,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 4130,
+   "date": "2013-11-07T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "",
+   "comment": "このスコアを出した当時のランキングではこの位置には人がいないように見えたんですがね・・・"
+  },
+  {
+   "id": 387,
+   "user": "koppacha",
+   "score": 9680,
+   "date": "2014-05-04T06:00:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
+   "comment": "4ヶ月半ほど費やしてやっとこすっとこWR取りました"
+  },
+  {
+   "id": 995,
+   "user": "muratsubo",
+   "score": 4790,
+   "date": "2015-11-07T04:37:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 1626,
    "user": "koppacha",
    "score": 10220,
@@ -94,6 +124,16 @@
    "video": "",
    "comment": "コメントなし",
    "img": "20190408-192506-100463044.bmp"
+  },
+  {
+   "id": 10723,
+   "user": "toripoppo0307",
+   "score": 7600,
+   "date": "2020-10-11T18:19:21.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20201012-121921-1660421778.jpg",
+   "comment": "とりあえず最初の目標は達成"
   },
   {
    "id": 11128,
@@ -301,15 +341,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 13989,
    "user": "esu",
    "score": 11180,
-   "date": "2021-11-23T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-23T05:07:34.000000Z",
+   "console": 4,
    "video": "https://youtu.be/2vTJ9jYYzl8",
    "img": "20211123-230734-23768414.jpeg",
-   "comment": "[Switch Pro$] また更新",
-   "source": "sheet-2023"
+   "comment": "また更新"
   },
   {
    "id": null,

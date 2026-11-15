@@ -51,27 +51,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
-   "user": "JHawk4",
-   "score": 15150,
-   "date": "2021-01-25T00:00:00.000000Z",
-   "video": "https://www.youtube.com/watch?v=552yV0TYUfE",
+   "id": 11743,
+   "uid": 274616737,
+   "user": "RexMcPwn",
+   "score": 15330,
+   "date": "2020-12-23T09:10:35.000000Z",
+   "video": "https://youtu.be/GSOXSL3ll88",
    "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
-   "tie": false
-  },
-  {
-   "id": 12201,
-   "uid": null,
-   "user": "mikou_musicgame",
-   "score": 15180,
-   "date": "2021-02-13T00:10:03.000000Z",
-   "video": "",
-   "img": "20210213-181003-1059675114.JPG",
    "console": 4,
-   "comment": "コメントなし",
+   "comment": "free the strats",
    "tie": false
   },
   {
@@ -123,15 +111,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13327,
+   "uid": 276837778,
    "user": "Jay596",
    "score": 15510,
-   "date": "2021-10-29T00:00:00.000000Z",
+   "date": "2021-10-28T15:46:04.000000Z",
    "video": "https://www.youtube.com/watch?v=RnAIN5pb8eI",
    "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -193,5 +181,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

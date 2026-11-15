@@ -3,15 +3,15 @@
  "stage": 345,
  "records": [
   {
-   "id": 296,
-   "uid": null,
-   "user": "official",
-   "score": 368,
+   "id": 281,
+   "uid": 103592353,
+   "user": "koppacha",
+   "score": 378,
    "date": "2013-07-24T06:00:00.000000Z",
    "video": "",
-   "img": null,
-   "console": 2,
-   "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。",
+   "img": "",
+   "console": 3,
+   "comment": "殻破壊後の行動が予測不能すぎる",
    "tie": false
   },
   {
@@ -63,6 +63,18 @@
    "tie": false
   },
   {
+   "id": 10911,
+   "uid": 274446018,
+   "user": "toripoppo0307",
+   "score": 402,
+   "date": "2020-10-30T06:07:33.000000Z",
+   "video": "https://youtu.be/X3WbTu1vApE",
+   "img": "20201031-000733-242458440.jpg",
+   "console": 4,
+   "comment": "ノージャイロの意地と執念",
+   "tie": true
+  },
+  {
    "id": 10920,
    "uid": null,
    "user": "ryuun",
@@ -84,18 +96,6 @@
    "img": "20201031-135011-519095300.png",
    "console": 4,
    "comment": "try & try & try",
-   "tie": true
-  },
-  {
-   "id": null,
-   "uid": null,
-   "user": "toripoppo0307",
-   "score": 402,
-   "date": "2020-10-31T00:00:00.000000Z",
-   "video": "https://youtu.be/X3WbTu1vApE",
-   "img": "20201031-000733-242458440.jpg",
-   "console": null,
-   "comment": "[Joy-Con Double#] ノージャイロの意地と執念",
    "tie": true
   },
   {
@@ -123,27 +123,27 @@
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11241,
+   "uid": 274150071,
    "user": "PiePusher11",
    "score": 402,
-   "date": "2020-11-17T00:00:00.000000Z",
+   "date": "2020-11-16T13:22:35.000000Z",
    "video": "https://www.youtube.com/watch?v=SKCzOhZHn8U",
    "img": "20201117-072235-317708261.jpg",
-   "console": null,
-   "comment": "[Joy-Con Double$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11272,
+   "uid": 274533346,
    "user": "Jay596",
    "score": 402,
-   "date": "2020-11-18T00:00:00.000000Z",
+   "date": "2020-11-17T20:47:53.000000Z",
    "video": "https://www.youtube.com/watch?v=Ra-y1LEEJYA",
    "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": true
   },
   {
@@ -255,15 +255,15 @@
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13274,
+   "uid": 276532245,
    "user": "XianTwa",
    "score": 407,
-   "date": "2021-10-19T00:00:00.000000Z",
+   "date": "2021-10-18T16:32:16.000000Z",
    "video": "https://youtu.be/eoBoKwyvNoY",
    "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -349,5 +349,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -3,6 +3,54 @@
  "stage": 421,
  "records": [
   {
+   "id": 16292,
+   "uid": 301906162,
+   "user": "koppacha",
+   "score": 25,
+   "date": "2023-07-29T02:17:44.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16309,
+   "uid": 301826302,
+   "user": "toripoppo0307",
+   "score": 163,
+   "date": "2023-07-29T03:26:26.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "仮",
+   "tie": false
+  },
+  {
+   "id": 16347,
+   "uid": 301848996,
+   "user": "shiocha78",
+   "score": 202,
+   "date": "2023-07-30T05:52:31.000000Z",
+   "video": "https://youtu.be/batjyb7Mwx8",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16842,
+   "uid": 301709384,
+   "user": "pikutas",
+   "score": 206,
+   "date": "2023-08-27T13:42:51.000000Z",
+   "video": "https://youtu.be/SAPlKJsr_7g",
+   "img": "",
+   "console": 4,
+   "comment": "あと1秒が限界",
+   "tie": false
+  },
+  {
    "id": 17089,
    "uid": 302353253,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +62,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -3,6 +3,54 @@
  "stage": 432,
  "records": [
   {
+   "id": 18750,
+   "uid": 311338834,
+   "user": "koppacha",
+   "score": 221,
+   "date": "2025-09-06T02:47:25.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18762,
+   "uid": 311623978,
+   "user": "kobachi_no_udon",
+   "score": 173,
+   "date": "2025-09-06T03:09:39.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18773,
+   "uid": 311284039,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 104,
+   "date": "2025-09-06T03:33:29.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18850,
+   "uid": 311737316,
+   "user": "toripoppo0307",
+   "score": 102,
+   "date": "2025-09-06T19:18:29.000000Z",
+   "video": "https://www.youtube.com/watch?v=kscMYMO70TQ",
+   "img": "",
+   "console": 4,
+   "comment": "ミスが多い",
+   "tie": false
+  },
+  {
    "id": 19211,
    "uid": 312080644,
    "user": "toripoppo0307",
@@ -14,5 +62,6 @@
    "tie": false
   }
  ],
- "lower_is_better": true
+ "lower_is_better": true,
+ "backfilled": true
 }

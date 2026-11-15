@@ -3,6 +3,42 @@
  "stage": 101,
  "records": [
   {
+   "id": 17280,
+   "uid": 304291438,
+   "user": "noamoa",
+   "score": 444,
+   "date": "2023-11-20T06:22:10.000000Z",
+   "video": "https://youtu.be/L_7Rsaoh4e4",
+   "img": "",
+   "console": 2,
+   "comment": "ピクミンを98匹くらい引っこ抜いてるので無駄が多そう",
+   "tie": false
+  },
+  {
+   "id": 17343,
+   "uid": 304645821,
+   "user": "cesium137",
+   "score": 521,
+   "date": "2023-12-01T04:41:35.000000Z",
+   "video": "https://youtu.be/sOplG9iif1A",
+   "img": "",
+   "console": 4,
+   "comment": "パンモドキが何色落としてもある程度走れることに気づいてから試行回数が倍増した",
+   "tie": false
+  },
+  {
+   "id": 17605,
+   "uid": 307247958,
+   "user": "tcbtrio",
+   "score": 539,
+   "date": "2024-02-18T19:03:58.000000Z",
+   "video": "https://www.youtube.com/channel/UCzH4CaKknBxhtJkbjNxfC8w",
+   "img": "",
+   "console": 4,
+   "comment": "A few mistakes but actually pretty smooth all in all!",
+   "tie": false
+  },
+  {
    "id": 17621,
    "uid": 307421891,
    "user": "Mokaygee",
@@ -14,5 +50,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

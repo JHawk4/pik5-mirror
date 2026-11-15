@@ -3,15 +3,15 @@
  "stage": 347,
  "records": [
   {
-   "id": 298,
-   "uid": null,
-   "user": "official",
-   "score": 646,
+   "id": 283,
+   "uid": 103395783,
+   "user": "koppacha",
+   "score": 661,
    "date": "2013-07-24T06:00:00.000000Z",
    "video": "",
-   "img": null,
-   "console": 2,
-   "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。",
+   "img": "",
+   "console": 3,
+   "comment": "蟻地獄のときでも口に向かって突撃できます",
    "tie": false
   },
   {
@@ -87,15 +87,15 @@
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 12746,
+   "uid": 274104089,
    "user": "PiePusher11",
    "score": 725,
-   "date": "2021-06-09T00:00:00.000000Z",
+   "date": "2021-06-08T15:59:39.000000Z",
    "video": "https://www.youtube.com/watch?v=-i2EkYhZ144",
    "img": "",
-   "console": null,
-   "comment": "[Joy-Con Double$] 53 is possible",
+   "console": 4,
+   "comment": "53 is possible",
    "tie": false
   },
   {
@@ -123,15 +123,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 15521,
+   "uid": 278467058,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 728,
-   "date": "2022-11-13T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1591540814341341185/pu/pl/zIsaFkzycGgXqvOH.m3u8?tag=12&container=fmp4",
+   "date": "2022-11-12T12:21:07.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1591541034261311488?s=61&t=G5etZDQMOoquGxlYf3pQBA",
    "img": "20221113-062107-812748347.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 運ゲーに勝ちました！",
+   "console": 4,
+   "comment": "運ゲーに勝ちました！",
    "tie": false
   },
   {
@@ -158,5 +158,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

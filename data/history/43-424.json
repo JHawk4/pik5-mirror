@@ -3,6 +3,78 @@
  "stage": 424,
  "records": [
   {
+   "id": 16295,
+   "uid": 301278847,
+   "user": "koppacha",
+   "score": 18,
+   "date": "2023-07-29T02:18:14.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16350,
+   "uid": 301813716,
+   "user": "shiocha78",
+   "score": 161,
+   "date": "2023-07-30T05:54:08.000000Z",
+   "video": "https://youtu.be/m4b2FPOJsDw",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16459,
+   "uid": 301235487,
+   "user": "toripoppo0307",
+   "score": 169,
+   "date": "2023-08-02T04:22:04.000000Z",
+   "video": "https://youtu.be/NkzWWoIq6zA",
+   "img": "",
+   "console": 4,
+   "comment": "不満",
+   "tie": false
+  },
+  {
+   "id": 16706,
+   "uid": 301424224,
+   "user": "mikou_musicgame",
+   "score": 171,
+   "date": "2023-08-13T00:21:32.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "とりあえず",
+   "tie": false
+  },
+  {
+   "id": 16707,
+   "uid": 301361755,
+   "user": "oobakekagami",
+   "score": 185,
+   "date": "2023-08-13T04:27:42.000000Z",
+   "video": "https://youtu.be/CnpxQCR0kDE",
+   "img": "",
+   "console": 4,
+   "comment": "世界1位です!",
+   "tie": false
+  },
+  {
+   "id": 16943,
+   "uid": 301508837,
+   "user": "shino15nome",
+   "score": 191,
+   "date": "2023-09-04T14:06:13.000000Z",
+   "video": "https://youtu.be/lznGU_8o9AE?si=rCG3PkbetFMBR-7z",
+   "img": "",
+   "console": 4,
+   "comment": "もはややってることはゲート無視と変わらない",
+   "tie": false
+  },
+  {
    "id": 17389,
    "uid": 304869418,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +86,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

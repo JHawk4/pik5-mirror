@@ -3,15 +3,27 @@
  "stage": 304,
  "records": [
   {
-   "id": 289,
-   "uid": null,
-   "user": "official",
-   "score": 4380,
+   "id": 276,
+   "uid": 103498275,
+   "user": "koppacha",
+   "score": 6420,
    "date": "2013-07-24T06:00:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
+   "console": 3,
+   "comment": "羽ピクミン大活躍のステージ。",
+   "tie": false
+  },
+  {
+   "id": 340,
+   "uid": 105197005,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 7380,
+   "date": "2013-11-07T06:00:00.000000Z",
+   "video": "",
+   "img": "",
    "console": 2,
-   "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。",
+   "comment": "紫ピクミンの使い道OTL",
    "tie": false
   },
   {
@@ -87,15 +99,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14079,
+   "uid": 277607612,
    "user": "esu",
    "score": 15150,
-   "date": "2021-12-18T00:00:00.000000Z",
+   "date": "2021-12-17T19:56:43.000000Z",
    "video": "https://youtu.be/Tk8ExyxH_Co",
    "img": "20211218-135643-505576686.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 結構改良してみました",
+   "console": 4,
+   "comment": "結構改良してみました",
    "tie": false
   },
   {
@@ -133,5 +145,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -3,6 +3,42 @@
  "stage": 105,
  "records": [
   {
+   "id": 17293,
+   "uid": 304602207,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 308,
+   "date": "2023-11-21T05:48:46.000000Z",
+   "video": "https://youtu.be/gYun13ThDb4?si=6oeAjNnXD_fAmmVf",
+   "img": "",
+   "console": 4,
+   "comment": "とりあえず投稿します",
+   "tie": false
+  },
+  {
+   "id": 17331,
+   "uid": 304967006,
+   "user": "noamoa",
+   "score": 556,
+   "date": "2023-11-25T20:45:52.000000Z",
+   "video": "https://youtu.be/e1DbWYit-38",
+   "img": "",
+   "console": 2,
+   "comment": "イモガエルをピクミンを投げて倒しているので遅い",
+   "tie": false
+  },
+  {
+   "id": 17344,
+   "uid": 304633056,
+   "user": "alpha_0630",
+   "score": 583,
+   "date": "2023-12-01T20:36:59.000000Z",
+   "video": "https://youtu.be/fL0yLWn3R44",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 17573,
    "uid": 306674439,
    "user": "Mokaygee",
@@ -14,5 +50,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -3,6 +3,102 @@
  "stage": 417,
  "records": [
   {
+   "id": 16392,
+   "uid": 301599592,
+   "user": "6harapikumin",
+   "score": 105,
+   "date": "2023-07-31T09:39:01.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16690,
+   "uid": 301398864,
+   "user": "aqr2",
+   "score": 264,
+   "date": "2023-08-12T11:12:25.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16700,
+   "uid": 301308944,
+   "user": "atmy_17",
+   "score": 423,
+   "date": "2023-08-12T18:09:48.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "爆弾で敵ピクミンを粉砕した",
+   "tie": false
+  },
+  {
+   "id": 16826,
+   "uid": 301839196,
+   "user": "Klaus00",
+   "score": 458,
+   "date": "2023-08-25T05:04:54.000000Z",
+   "video": "https://youtu.be/4bJzVPvU2KQ",
+   "img": "",
+   "console": 4,
+   "comment": "ヒナガラスがプレミア品になるのやめてくれー",
+   "tie": false
+  },
+  {
+   "id": 16879,
+   "uid": 301658571,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 503,
+   "date": "2023-08-30T02:35:30.000000Z",
+   "video": "https://youtu.be/EUE2NXNKtok?si=6VRuszUblO8_aIaO",
+   "img": "20230830-203530-6584528937.jpg",
+   "console": 4,
+   "comment": "500点差つきました",
+   "tie": false
+  },
+  {
+   "id": 18237,
+   "uid": 309211339,
+   "user": "koppacha",
+   "score": 504,
+   "date": "2024-10-13T07:38:00.000000Z",
+   "video": "https://youtu.be/pY50KOWGeOg",
+   "img": "20241014-013800-9193216321.jpg",
+   "console": 4,
+   "comment": "これはこてしらべの戦い",
+   "tie": false
+  },
+  {
+   "id": 18238,
+   "uid": 309218137,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 528,
+   "date": "2024-10-13T17:28:46.000000Z",
+   "video": "https://youtu.be/PhA_mvGuEbE?si=30dkJ1UpEuLrvc5d",
+   "img": "20241014-112846-4817378566.jpg",
+   "console": 4,
+   "comment": "GGの方法誰か見つけてください",
+   "tie": false
+  },
+  {
+   "id": 18451,
+   "uid": 310686215,
+   "user": "koppacha",
+   "score": 533,
+   "date": "2025-03-17T05:39:39.000000Z",
+   "video": "https://youtu.be/PtR6HOS9TnI",
+   "img": "20250317-233938-8092408639.png",
+   "console": 4,
+   "comment": "ダンバト大会の成果だ！（ほんとか？）",
+   "tie": false
+  },
+  {
    "id": 18462,
    "uid": 310237250,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +110,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

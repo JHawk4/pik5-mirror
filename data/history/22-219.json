@@ -39,6 +39,18 @@
    "tie": false
   },
   {
+   "id": 264,
+   "uid": 102276608,
+   "user": "albut3",
+   "score": 11655,
+   "date": "2013-07-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "結構やりこみました。フーセンドックリの気絶が判断しにくくて困ります。",
+   "tie": false
+  },
+  {
    "id": 442,
    "uid": null,
    "user": "DRAFIX",
@@ -51,27 +63,75 @@
    "tie": false
   },
   {
-   "id": 726,
-   "uid": null,
-   "user": "Selenium_pikmin",
-   "score": 11687,
+   "id": 520,
+   "uid": 209005117,
+   "user": "keisen2853",
+   "score": 11690,
    "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
    "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": 4336,
-   "uid": null,
-   "user": "miran",
-   "score": 11689,
-   "date": "2017-07-02T17:43:00.000000Z",
+   "id": 1271,
+   "uid": 214501950,
+   "user": "pikmin893",
+   "score": 11691,
+   "date": "2015-11-14T18:46:00.000000Z",
    "video": "",
-   "img": "20170703-114303-1751536449.bmp",
+   "img": "20151115-124606-1994160622.png",
    "console": 1,
-   "comment": "1F108とか残したのに",
+   "comment": "11700まで行けそうではある",
+   "tie": false
+  },
+  {
+   "id": 1456,
+   "uid": 215864506,
+   "user": "HoshiKUZU_pik",
+   "score": 11692,
+   "date": "2016-02-03T01:11:00.000000Z",
+   "video": "",
+   "img": "20160203-191120-1610893970.png",
+   "console": 1,
+   "comment": "まだあと3点くらい伸ばせるはず",
+   "tie": false
+  },
+  {
+   "id": 2304,
+   "uid": 227274754,
+   "user": "pikmin893",
+   "score": 11696,
+   "date": "2016-07-29T20:08:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=pswc-BYpr1o&feature=youtu.be",
+   "img": "20160730-140851-359007207.png",
+   "console": 1,
+   "comment": "まだまだ伸びしろはある",
+   "tie": false
+  },
+  {
+   "id": 2381,
+   "uid": 230272272,
+   "user": "iid01",
+   "score": 11696,
+   "date": "2016-10-03T05:02:00.000000Z",
+   "video": "",
+   "img": "20161003-230228-1251599462.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 3268,
+   "uid": 237783681,
+   "user": "iid01",
+   "score": 11700,
+   "date": "2017-03-22T05:57:00.000000Z",
+   "video": "",
+   "img": "20170322-235700-725853681.png",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -85,6 +145,18 @@
    "console": 1,
    "comment": "これで1位？という違和感しかない",
    "tie": false
+  },
+  {
+   "id": 5215,
+   "uid": 250329851,
+   "user": "Gorei_50",
+   "score": 11702,
+   "date": "2017-12-06T23:59:00.000000Z",
+   "video": "",
+   "img": "20171207-175950-406518948.PNG",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
   },
   {
    "id": null,
@@ -135,6 +207,30 @@
    "tie": true
   },
   {
+   "id": 17037,
+   "uid": 301978332,
+   "user": "kobachi_no_udon",
+   "score": 11714,
+   "date": "2023-09-21T03:34:03.000000Z",
+   "video": "https://youtu.be/tYBUdEnTXHU",
+   "img": "20230921-213403-8324609544.jpg",
+   "console": 2,
+   "comment": "コメントしかない",
+   "tie": true
+  },
+  {
+   "id": 17173,
+   "uid": 303927430,
+   "user": "albut3",
+   "score": 11714,
+   "date": "2023-10-26T06:37:21.000000Z",
+   "video": "https://www.youtube.com/watch?v=8GA5vX_-rAw",
+   "img": "",
+   "console": 2,
+   "comment": "運搬ルートを理解してないとこのように一生後悔します",
+   "tie": true
+  },
+  {
    "id": 17386,
    "uid": null,
    "user": "Bl6AltMzq5Jx4aM",
@@ -182,5 +278,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -3,6 +3,30 @@
  "stage": 314,
  "records": [
   {
+   "id": 366,
+   "uid": 107356774,
+   "user": "koppacha",
+   "score": 5070,
+   "date": "2013-12-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 3,
+   "comment": "配信初日に世界記録を取ったけど2時間と持ちませんでした",
+   "tie": false
+  },
+  {
+   "id": 382,
+   "uid": 107782208,
+   "user": "robustar",
+   "score": 6690,
+   "date": "2013-12-26T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 1646,
    "uid": null,
    "user": "koppacha",
@@ -87,15 +111,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14066,
+   "uid": 277847839,
    "user": "esu",
    "score": 15600,
-   "date": "2021-12-11T00:00:00.000000Z",
+   "date": "2021-12-10T18:19:22.000000Z",
    "video": "https://youtu.be/2XME4Q8dv04",
    "img": "20211211-121922-499590771.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 地味に時間かかった",
+   "console": 4,
+   "comment": "地味に時間かかった",
    "tie": false
   },
   {
@@ -122,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

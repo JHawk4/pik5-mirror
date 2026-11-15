@@ -3,6 +3,30 @@
  "stage": 437,
  "records": [
   {
+   "id": 18765,
+   "uid": 311549172,
+   "user": "koppacha",
+   "score": 220,
+   "date": "2025-09-06T03:18:01.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18785,
+   "uid": 311327895,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 137,
+   "date": "2025-09-06T03:54:19.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 19215,
    "uid": 312101235,
    "user": "toripoppo0307",
@@ -14,5 +38,6 @@
    "tie": false
   }
  ],
- "lower_is_better": true
+ "lower_is_better": true,
+ "backfilled": true
 }

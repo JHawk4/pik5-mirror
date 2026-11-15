@@ -3,6 +3,16 @@
  "stage": 413,
  "posts": [
   {
+   "id": 16388,
+   "user": "6harapikumin",
+   "score": 173,
+   "date": "2023-07-31T09:37:16.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 16547,
    "user": "Z_pikmin",
    "score": 234,
@@ -10,6 +20,16 @@
    "console": 4,
    "video": "",
    "comment": "カボスの処理が大事そう？"
+  },
+  {
+   "id": 16702,
+   "user": "koppacha",
+   "score": 238,
+   "date": "2023-08-12T20:19:48.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20230813-141948-9470186094.png",
+   "comment": "音ズレのせいで動画UPできません泣"
   },
   {
    "id": 16710,
@@ -47,6 +67,16 @@
    "console": 4,
    "video": "https://youtu.be/8pYryBaKUnA",
    "comment": "もうちょっといけそう"
+  },
+  {
+   "id": 16758,
+   "user": "hyogakibokaro",
+   "score": 238,
+   "date": "2023-08-16T20:43:58.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "",
+   "comment": "最後の最後に3取られた、、、"
   },
   {
    "id": 16794,
@@ -125,6 +155,16 @@
    "console": 4,
    "video": "",
    "comment": "コメントなし"
+  },
+  {
+   "id": 17159,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 271,
+   "date": "2023-10-21T00:38:23.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/p13zFXAXxr0?si=xvSJYSSekt2ZkB5W",
+   "img": "20231021-183823-5316376175.jpg",
+   "comment": "理論値ではないと思います"
   },
   {
    "id": 17342,
@@ -215,6 +255,16 @@
    "video": "",
    "comment": "久々で達成",
    "img": "20241208-180816-7266058023.jpg"
+  },
+  {
+   "id": 18312,
+   "user": "koppacha",
+   "score": 258,
+   "date": "2024-12-14T19:04:10.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/AKUkGOST2V8",
+   "img": "20241215-130409-4264937888.png",
+   "comment": "比較的ストレスフリー"
   },
   {
    "id": 18365,

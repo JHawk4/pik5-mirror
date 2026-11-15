@@ -51,6 +51,30 @@
    "tie": false
   },
   {
+   "id": 1802,
+   "uid": 218095691,
+   "user": "pikmin893",
+   "score": 33233,
+   "date": "2016-03-15T03:44:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=Xc4OiLdYd3M&feature=youtu.be",
+   "img": "",
+   "console": 1,
+   "comment": "ピクミン2チャレンジモードらしいタマゴムシと配置運の暴力",
+   "tie": false
+  },
+  {
+   "id": 3272,
+   "uid": 237268968,
+   "user": "iid01",
+   "score": 33246,
+   "date": "2017-03-23T00:48:00.000000Z",
+   "video": "",
+   "img": "20170323-184808-2003214668.png",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 3352,
    "uid": null,
    "user": "flyinghawk",
@@ -63,15 +87,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 8139,
+   "uid": 265752027,
    "user": "Gorei_50",
    "score": 33312,
-   "date": "2019-12-30T00:00:00.000000Z",
+   "date": "2019-12-29T21:47:46.000000Z",
    "video": "https://youtu.be/kFSKYhMqW0M",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -86,5 +110,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

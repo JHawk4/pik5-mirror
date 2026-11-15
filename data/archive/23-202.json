@@ -33,6 +33,26 @@
    "img": "20180520-173444-1363357616.jpg"
   },
   {
+   "id": 6450,
+   "user": "ikimono334",
+   "score": 37645,
+   "date": "2018-06-08T22:40:37.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20180609-164037-1259837647.jpg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 6472,
+   "user": "Gorei_50",
+   "score": 37670,
+   "date": "2018-06-12T03:55:49.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20180612-215549-666916089.PNG",
+   "comment": "コメントなし"
+  },
+  {
    "id": 6491,
    "user": "dayomin",
    "score": 37619,
@@ -63,6 +83,16 @@
    "img": "20180930-191312-871169934.jpg"
   },
   {
+   "id": 7056,
+   "user": "albut3",
+   "score": 37660,
+   "date": "2018-12-24T01:07:50.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20181224-190750-923595575.JPG",
+   "comment": "1F端スタート"
+  },
+  {
    "id": 7292,
    "user": "ikimono334",
    "score": 37659,
@@ -83,6 +113,56 @@
    "img": "20190730-183320-1685621092.jpg"
   },
   {
+   "id": 8059,
+   "user": "Gorei_50",
+   "score": 37672,
+   "date": "2019-09-28T23:46:08.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20190929-174608-1432259895.PNG",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8302,
+   "user": "spark573",
+   "score": 37651,
+   "date": "2020-03-08T02:34:09.000000Z",
+   "console": 1,
+   "video": "https://youtu.be/yB-_6xx44wM",
+   "img": "20200308-203409-1125555535.png",
+   "comment": "660以上出せる気がしないけど・・・"
+  },
+  {
+   "id": 8321,
+   "user": "Gorei_50",
+   "score": 37674,
+   "date": "2020-03-17T03:26:44.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20200317-212645-2134875090.PNG",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 9684,
+   "user": "albut3",
+   "score": 37668,
+   "date": "2020-07-31T09:59:53.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=yscwqXHUfUQ",
+   "img": "",
+   "comment": "2セットを欲して3億年が経った"
+  },
+  {
+   "id": 9883,
+   "user": "mercysnow",
+   "score": 37657,
+   "date": "2020-09-06T22:46:12.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20200907-164612-427341792.jpeg",
+   "comment": "コメントなし"
+  },
+  {
    "id": 11383,
    "user": "yuyuyunkel",
    "score": 37662,
@@ -91,6 +171,16 @@
    "video": "",
    "comment": "2セットくれよ",
    "img": "20201122-181258-1716969321.jpg"
+  },
+  {
+   "id": 12374,
+   "user": "Gorei_50",
+   "score": 37678,
+   "date": "2021-03-15T02:46:47.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/TFBfmptdnkM",
+   "img": "",
+   "comment": "コメントなし"
   },
   {
    "id": 12452,
@@ -112,6 +202,26 @@
    "img": "20210609-230537-1408894311.jpg"
   },
   {
+   "id": 14260,
+   "user": "spark573",
+   "score": 37661,
+   "date": "2022-02-17T06:15:43.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/3bc5MGvGPsQ",
+   "img": "20220218-001543-672988637.png",
+   "comment": "117+94"
+  },
+  {
+   "id": 14573,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 37624,
+   "date": "2022-04-15T23:05:43.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20220416-170543-882639553.jpeg",
+   "comment": "1F2セット2F2セットでいいので、タマゴムシが欲しいです。"
+  },
+  {
    "id": 16095,
    "user": "spark573",
    "score": 37674,
@@ -130,6 +240,36 @@
    "video": "https://youtu.be/XVbMW9VBRlc",
    "comment": "フーセン中央でしたがうまく噛み合いました",
    "img": "20230602-204025-583995630.jpeg"
+  },
+  {
+   "id": 17009,
+   "user": "kobachi_no_udon",
+   "score": 37672,
+   "date": "2023-09-15T04:00:34.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/HoNqVynYdYk",
+   "img": "20230915-220034-4892054453.jpg",
+   "comment": "こういうときにムシが欲しいね 122+100"
+  },
+  {
+   "id": 17519,
+   "user": "kobachi_no_udon",
+   "score": 37677,
+   "date": "2024-01-10T02:28:53.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/WAchMIJuu7E",
+   "img": "20240110-202853-5390461212.jpg",
+   "comment": "1Fは完璧に近いんじゃないかな"
+  },
+  {
+   "id": 17637,
+   "user": "Gorei_50",
+   "score": 37681,
+   "date": "2024-03-19T19:18:55.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/0wzAw6gLdBk",
+   "img": "",
+   "comment": "コメントなし"
   },
   {
    "id": 17919,

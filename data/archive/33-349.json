@@ -12,6 +12,26 @@
    "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。"
   },
   {
+   "id": 325,
+   "user": "koppacha",
+   "score": 791,
+   "date": "2013-10-01T06:00:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
+   "comment": "ボスバトルに犠牲はつきもの"
+  },
+  {
+   "id": 351,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 696,
+   "date": "2013-11-07T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "",
+   "comment": "犠牲を９匹から８匹に減らしつつ4：00から短縮できました。"
+  },
+  {
    "id": 412,
    "user": "yamany",
    "score": 791,
@@ -27,6 +47,16 @@
    "date": "2015-11-07T04:58:00.000000Z",
    "console": 3,
    "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1373,
+   "user": "noamoa",
+   "score": 730,
+   "date": "2015-12-19T03:03:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20151219-210350-1827241399.jpg",
    "comment": "コメントなし"
   },
   {
@@ -75,6 +105,16 @@
    "console": 2,
    "video": "",
    "comment": "コメントなし"
+  },
+  {
+   "id": 4817,
+   "user": "Z_pikmin",
+   "score": 712,
+   "date": "2017-09-20T04:39:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "",
+   "comment": "弱すぎ"
   },
   {
    "id": 5705,
@@ -213,15 +253,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 11612,
    "user": "Jay596",
    "score": 867,
-   "date": "2020-12-07T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-06T09:57:35.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=RbcorLpve-E",
    "img": "",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 11639,

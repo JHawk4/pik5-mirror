@@ -27,6 +27,18 @@
    "tie": false
   },
   {
+   "id": 135,
+   "uid": 100303416,
+   "user": "koppacha",
+   "score": 10330,
+   "date": "2008-09-23T06:00:00.000000Z",
+   "video": "http://www.nicovideo.jp/watch/sm4725085",
+   "img": "",
+   "console": 1,
+   "comment": "厄介度：サクレショイグモ＞＞＞ケチャッピー＞キショイグモ＞＞＞その他大勢",
+   "tie": false
+  },
+  {
    "id": 211,
    "uid": null,
    "user": "shinya_",
@@ -36,6 +48,18 @@
    "img": null,
    "console": 1,
    "comment": "とにかくキショイグモがきついです。安定するもので赤１匹の方法です。",
+   "tie": false
+  },
+  {
+   "id": 270,
+   "uid": 102692225,
+   "user": "albut3",
+   "score": 10338,
+   "date": "2013-07-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "キショイグモに宝を持たれると非常に厄介です。",
    "tie": false
   },
   {
@@ -63,15 +87,15 @@
    "tie": false
   },
   {
-   "id": 3099,
-   "uid": null,
-   "user": "muratsubo",
-   "score": 10368,
-   "date": "2017-02-26T07:11:00.000000Z",
+   "id": 1745,
+   "uid": 218074887,
+   "user": "iid01",
+   "score": 10384,
+   "date": "2016-03-11T19:48:00.000000Z",
    "video": "",
-   "img": "20170227-011104-1154609915.jpg",
+   "img": "",
    "console": 1,
-   "comment": "binjo",
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -123,6 +147,18 @@
    "tie": true
   },
   {
+   "id": 17424,
+   "uid": 305452476,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10397,
+   "date": "2023-12-16T20:06:14.000000Z",
+   "video": "https://youtu.be/iYlcWgDinQ0?si=IzB2E7YCVf8ABXjk",
+   "img": "20231217-140614-3881831756.jpg",
+   "console": 2,
+   "comment": "10400は厳しいと思います",
+   "tie": false
+  },
+  {
    "id": 18236,
    "uid": null,
    "user": "Argent2home",
@@ -132,6 +168,18 @@
    "img": "20241013-212006-5304176470.jpg",
    "console": 4,
    "comment": "それでも私は５匹旅",
+   "tie": false
+  },
+  {
+   "id": 18308,
+   "uid": 310340540,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 10399,
+   "date": "2024-12-12T01:06:07.000000Z",
+   "video": "https://youtu.be/8JlUkhEcwQU?si=yhQkz575DPftbjo3",
+   "img": "",
+   "console": 2,
+   "comment": "奥50の可能性を信じます",
    "tie": false
   },
   {
@@ -157,5 +205,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -51,6 +51,18 @@
    "tie": false
   },
   {
+   "id": 258,
+   "uid": 102793523,
+   "user": "albut3",
+   "score": 4871,
+   "date": "2013-07-03T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "3Fの動きが意外に重要です",
+   "tie": false
+  },
+  {
    "id": 384,
    "uid": null,
    "user": "akisame",
@@ -63,51 +75,39 @@
    "tie": false
   },
   {
-   "id": 719,
-   "uid": null,
-   "user": "Selenium_pikmin",
-   "score": 4890,
+   "id": 488,
+   "uid": 107985263,
+   "user": "HAPDAP",
+   "score": 4880,
+   "date": "2015-07-18T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "(+15)落ちてきた場所のすぐ隣に鍵がありました。しかも２連続。",
+   "tie": false
+  },
+  {
+   "id": 543,
+   "uid": 209366214,
+   "user": "pikmin893",
+   "score": 4905,
    "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
    "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": 1949,
-   "uid": null,
-   "user": "mezasi_pikmin",
-   "score": 4899,
-   "date": "2016-04-05T19:58:00.000000Z",
-   "video": "",
-   "img": "20160406-135818-1714067590.jpeg",
+   "id": 939,
+   "uid": 211499916,
+   "user": "iid01",
+   "score": 4942,
+   "date": "2015-11-06T05:03:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=0WIs1WKQX9E",
+   "img": "",
    "console": 1,
-   "comment": "なんかものすごく場違いな気がする",
-   "tie": false
-  },
-  {
-   "id": 2049,
-   "uid": null,
-   "user": "koppacha",
-   "score": 4904,
-   "date": "2016-04-27T05:16:00.000000Z",
-   "video": "",
-   "img": "20160427-231634-677912719.jpg",
-   "console": 1,
-   "comment": "タマゴムシ5匹",
-   "tie": false
-  },
-  {
-   "id": 2414,
-   "uid": null,
-   "user": "flyinghawk",
-   "score": 4932,
-   "date": "2016-11-09T09:11:00.000000Z",
-   "video": "",
-   "img": "20161110-031155-957058612.jpeg",
-   "console": 1,
-   "comment": "タマゴムシ5匹、タイムも上々",
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -135,15 +135,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 8016,
+   "uid": 265313767,
    "user": "Gorei_50",
    "score": 4980,
-   "date": "2019-09-11T00:00:00.000000Z",
+   "date": "2019-09-10T23:57:04.000000Z",
    "video": "https://youtu.be/-D-NTjy35rQ",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -159,6 +159,30 @@
    "tie": false
   },
   {
+   "id": 17493,
+   "uid": 305823496,
+   "user": "Gorei_50",
+   "score": 4987,
+   "date": "2023-12-31T11:28:16.000000Z",
+   "video": "https://youtu.be/ejUKmlIooqY",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18440,
+   "uid": 310804693,
+   "user": "Gorei_50",
+   "score": 4991,
+   "date": "2025-03-03T06:27:54.000000Z",
+   "video": "https://youtu.be/oOysldNjkCQ",
+   "img": "",
+   "console": 2,
+   "comment": "3階下手下手侍",
+   "tie": false
+  },
+  {
    "id": 20355,
    "uid": 315226158,
    "user": "Gorei_50",
@@ -170,5 +194,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

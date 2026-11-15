@@ -3,6 +3,18 @@
  "stage": 307,
  "records": [
   {
+   "id": 326,
+   "uid": 105373917,
+   "user": "koppacha",
+   "score": 2610,
+   "date": "2013-10-01T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 3,
+   "comment": "白銀の泉ってこんなに広かったっけ？",
+   "tie": false
+  },
+  {
    "id": 353,
    "uid": null,
    "user": "nanshitsujuukinzounaizou",
@@ -12,6 +24,18 @@
    "img": null,
    "console": 2,
    "comment": "ここはプラチナ取るのに時間かかりました・・・ホシオトシ周辺の果実はバクダンで掘り起こしました。",
+   "tie": false
+  },
+  {
+   "id": 986,
+   "uid": 212508374,
+   "user": "muratsubo",
+   "score": 3840,
+   "date": "2015-11-07T04:33:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 3,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -63,15 +87,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11807,
+   "uid": 274024130,
    "user": "otsugaia",
    "score": 11280,
-   "date": "2020-12-31T00:00:00.000000Z",
+   "date": "2020-12-30T08:47:15.000000Z",
    "video": "https://youtu.be/V6QgqZhDEws",
-   "img": "20201231-040035-2039893826.jpg",
-   "console": null,
-   "comment": "[Joy-Con Double#] このステージのルート考察は最高に楽しいです",
+   "img": "",
+   "console": 4,
+   "comment": "このステージのルート考察は最高に楽しいです",
    "tie": false
   },
   {
@@ -122,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

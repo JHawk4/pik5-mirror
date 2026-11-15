@@ -99,15 +99,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13938,
+   "uid": 277792108,
    "user": "esu",
    "score": 14245,
-   "date": "2021-11-20T00:00:00.000000Z",
+   "date": "2021-11-19T16:20:23.000000Z",
    "video": "https://youtu.be/6fJNBfWOYRw",
    "img": "20211120-102023-964439180.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 上手く行けば8秒は更新できます",
+   "console": 4,
+   "comment": "上手く行けば8秒は更新できます",
    "tie": false
   },
   {
@@ -146,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

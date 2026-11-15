@@ -39,51 +39,51 @@
    "tie": false
   },
   {
-   "id": 725,
-   "uid": null,
-   "user": "Selenium_pikmin",
-   "score": 53865,
+   "id": 549,
+   "uid": 209225746,
+   "user": "pikmin893",
+   "score": 53900,
    "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
    "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": 1047,
-   "uid": null,
-   "user": "FeTellYou",
-   "score": 53892,
-   "date": "2015-11-07T09:16:00.000000Z",
-   "video": "http://youtu.be/L0Pl3F6-IvM",
-   "img": null,
-   "console": 1,
-   "comment": "コメントなし",
-   "tie": false
-  },
-  {
-   "id": 2284,
-   "uid": null,
-   "user": "HoshiKUZU_pik",
-   "score": 53906,
-   "date": "2016-07-21T22:14:00.000000Z",
+   "id": 2161,
+   "uid": 226855776,
+   "user": "iid01",
+   "score": 53908,
+   "date": "2016-05-30T03:38:00.000000Z",
    "video": "",
-   "img": "20160722-161406-111461730.png",
+   "img": "20160530-213800-1097547649.jpg",
    "console": 1,
-   "comment": "地下1階が131秒残し。900のせたから満足",
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": 3844,
-   "uid": null,
+   "id": 2185,
+   "uid": 226820483,
    "user": "pikmin893",
-   "score": 53915,
-   "date": "2017-05-19T17:08:00.000000Z",
+   "score": 53913,
+   "date": "2016-06-04T06:44:00.000000Z",
    "video": "",
-   "img": "20170520-110840-528059265.png",
+   "img": "20160605-004429-542534637.png",
    "console": 1,
-   "comment": "タマゴムシありの全記録が気に食わなかったので",
+   "comment": "タマゴムシ7匹やっといてこの程度ってヤバない？何がとは言わないけど",
+   "tie": false
+  },
+  {
+   "id": 3527,
+   "uid": 238103626,
+   "user": "iid01",
+   "score": 53920,
+   "date": "2017-04-15T16:51:00.000000Z",
+   "video": "",
+   "img": "20170416-105118-1961714322.png",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -146,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

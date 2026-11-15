@@ -27,6 +27,18 @@
    "tie": false
   },
   {
+   "id": 11534,
+   "uid": 274565244,
+   "user": "TheRealBobby0",
+   "score": 21700,
+   "date": "2020-12-02T06:45:05.000000Z",
+   "video": "https://mobile.twitter.com/TheRealBobby0/status/1334127000370307073",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 11778,
    "uid": null,
    "user": "RexMcPwn",
@@ -111,15 +123,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13994,
+   "uid": 277450860,
    "user": "esu",
    "score": 23470,
-   "date": "2021-11-25T00:00:00.000000Z",
+   "date": "2021-11-24T23:43:49.000000Z",
    "video": "https://youtu.be/3xiTG6_dYY4",
    "img": "20211125-174349-524975905.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 時間かかった",
+   "console": 4,
+   "comment": "時間かかった",
    "tie": false
   },
   {
@@ -146,5 +158,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -3,6 +3,102 @@
  "stage": 409,
  "records": [
   {
+   "id": 16280,
+   "uid": 301407703,
+   "user": "koppacha",
+   "score": 310,
+   "date": "2023-07-29T02:15:24.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16432,
+   "uid": 301177743,
+   "user": "pikpikradish",
+   "score": 312,
+   "date": "2023-08-01T06:30:23.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16575,
+   "uid": 301950987,
+   "user": "keisen2853",
+   "score": 459,
+   "date": "2023-08-07T03:33:36.000000Z",
+   "video": "https://www.youtube.com/watch?v=N5cZs6y2Zyk",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16821,
+   "uid": 301171539,
+   "user": "atmy_17",
+   "score": 465,
+   "date": "2023-08-24T17:42:10.000000Z",
+   "video": "https://youtu.be/PQGZALpJIl4?si=8euO6_eZgEKbzrH2",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17445,
+   "uid": 305310722,
+   "user": "albut3",
+   "score": 493,
+   "date": "2023-12-21T10:43:17.000000Z",
+   "video": "https://www.youtube.com/watch?v=MhXxiIVWmdU",
+   "img": "",
+   "console": 4,
+   "comment": "対話を完了しましょう",
+   "tie": false
+  },
+  {
+   "id": 17446,
+   "uid": 305571397,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 496,
+   "date": "2023-12-21T22:40:57.000000Z",
+   "video": "https://youtu.be/WrA_Kok628o?si=j9-Zovx4xR3nHQM0",
+   "img": "20231222-164057-6716332441.jpg",
+   "console": 4,
+   "comment": "この記録は1位ですが証拠動画がほぼありません。",
+   "tie": false
+  },
+  {
+   "id": 18286,
+   "uid": 309163782,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 499,
+   "date": "2024-11-27T02:48:40.000000Z",
+   "video": "https://youtu.be/n099jn8jseE?si=ubqheGUtgQ9estLE",
+   "img": "",
+   "console": 4,
+   "comment": "完全数＜＜証拠動画",
+   "tie": false
+  },
+  {
+   "id": 18730,
+   "uid": 311497545,
+   "user": "mercysnow",
+   "score": 499,
+   "date": "2025-09-04T08:10:32.000000Z",
+   "video": "https://youtu.be/03QP5bogo9w",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
    "id": 19385,
    "uid": 314548013,
    "user": "albut3",
@@ -25,5 +121,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

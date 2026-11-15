@@ -3,6 +3,162 @@
  "stage": 207,
  "records": [
   {
+   "id": 6259,
+   "uid": 258360524,
+   "user": "koppacha",
+   "score": 14847,
+   "date": "2018-05-11T23:09:36.000000Z",
+   "video": "",
+   "img": "20180512-170936-2018948535.jpg",
+   "console": 1,
+   "comment": "何故か自己ベ3位",
+   "tie": false
+  },
+  {
+   "id": 6304,
+   "uid": 258250474,
+   "user": "ikimono334",
+   "score": 14857,
+   "date": "2018-05-13T03:29:16.000000Z",
+   "video": "",
+   "img": "20180513-212916-1983544808.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6408,
+   "uid": 258725085,
+   "user": "Z_pikmin",
+   "score": 14869,
+   "date": "2018-05-27T23:04:38.000000Z",
+   "video": "",
+   "img": "20180528-170438-614180268.jpg",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6468,
+   "uid": 258703392,
+   "user": "Gorei_50",
+   "score": 14874,
+   "date": "2018-06-09T20:30:05.000000Z",
+   "video": "",
+   "img": "20180610-143005-936312624.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6705,
+   "uid": 259897090,
+   "user": "iid01",
+   "score": 14875,
+   "date": "2018-08-13T03:21:29.000000Z",
+   "video": "",
+   "img": "20180813-212129-1578277427.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 7107,
+   "uid": 262627528,
+   "user": "sectionmarilui",
+   "score": 14875,
+   "date": "2019-01-31T21:58:23.000000Z",
+   "video": "https://www.nicovideo.jp/watch/sm34562063",
+   "img": "20190201-155823-1077776591.jpg",
+   "console": 1,
+   "comment": "(´・ω・｀)おほーっ",
+   "tie": true
+  },
+  {
+   "id": 7382,
+   "uid": 263067997,
+   "user": "albut3",
+   "score": 14876,
+   "date": "2019-03-28T02:02:47.000000Z",
+   "video": "",
+   "img": "20190328-200247-2009521627.JPG",
+   "console": 1,
+   "comment": "1F86",
+   "tie": false
+  },
+  {
+   "id": 9707,
+   "uid": 271428914,
+   "user": "keisen2853",
+   "score": 14876,
+   "date": "2020-08-08T16:46:21.000000Z",
+   "video": "https://www.youtube.com/watch?v=LYDw1j-Ozc8",
+   "img": "",
+   "console": 1,
+   "comment": "※タマゴ割ってます",
+   "tie": true
+  },
+  {
+   "id": 11288,
+   "uid": 274238200,
+   "user": "mercysnow",
+   "score": 14876,
+   "date": "2020-11-18T05:27:49.000000Z",
+   "video": "https://youtu.be/R4hko48ECRY",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 12475,
+   "uid": 274383950,
+   "user": "Gorei_50",
+   "score": 14881,
+   "date": "2021-04-11T00:42:46.000000Z",
+   "video": "https://youtu.be/gRguEJHXaCM",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 12926,
+   "uid": 274252274,
+   "user": "yuyuyunkel",
+   "score": 14885,
+   "date": "2021-07-18T08:59:12.000000Z",
+   "video": "https://youtu.be/kH6WZRp8m10",
+   "img": "20210719-025912-404115050.png",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 15981,
+   "uid": 278460858,
+   "user": "albut3",
+   "score": 14888,
+   "date": "2023-03-23T14:36:13.000000Z",
+   "video": "https://www.youtube.com/watch?v=8yMphkBVBoA",
+   "img": "",
+   "console": 2,
+   "comment": "すごー",
+   "tie": false
+  },
+  {
+   "id": 18330,
+   "uid": 310238571,
+   "user": "kobachi_no_udon",
+   "score": 14888,
+   "date": "2024-12-22T02:21:08.000000Z",
+   "video": "https://youtu.be/Tmf-YsGV2Bs",
+   "img": "20241222-202108-5554661726.jpg",
+   "console": 2,
+   "comment": "最後が下手",
+   "tie": true
+  },
+  {
    "id": 18352,
    "uid": 310693630,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +170,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

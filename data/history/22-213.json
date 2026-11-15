@@ -27,6 +27,18 @@
    "tie": true
   },
   {
+   "id": 132,
+   "uid": 100200635,
+   "user": "koppacha",
+   "score": 48326,
+   "date": "2008-09-23T06:00:00.000000Z",
+   "video": "http://www.nicovideo.jp/watch/sm1493870",
+   "img": "",
+   "console": 1,
+   "comment": "6Fまでは機械的な動きで十分行ける。",
+   "tie": false
+  },
+  {
    "id": 199,
    "uid": null,
    "user": "shinya_",
@@ -36,6 +48,18 @@
    "img": null,
    "console": 1,
    "comment": "散ってもあまり困らないものです。タマコキンはゲキニガが基本です。",
+   "tie": false
+  },
+  {
+   "id": 259,
+   "uid": 102619615,
+   "user": "albut3",
+   "score": 48348,
+   "date": "2013-07-03T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "3Fと7Fではスプレー使っていません。",
    "tie": false
   },
   {
@@ -63,6 +87,18 @@
    "tie": true
   },
   {
+   "id": 1411,
+   "uid": 215172588,
+   "user": "iid01",
+   "score": 48383,
+   "date": "2016-01-26T01:24:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 1475,
    "uid": null,
    "user": "HoshiKUZU_pik",
@@ -72,6 +108,30 @@
    "img": "20160218-202105-442216246.png",
    "console": 1,
    "comment": "俺はTASと張り合う",
+   "tie": false
+  },
+  {
+   "id": 2386,
+   "uid": 230978388,
+   "user": "pikmin893",
+   "score": 48386,
+   "date": "2016-10-07T16:49:00.000000Z",
+   "video": "",
+   "img": "20161008-104934-447783106.png",
+   "console": 1,
+   "comment": "まだ先が見えるので闇",
+   "tie": false
+  },
+  {
+   "id": 3676,
+   "uid": 240100455,
+   "user": "iid01",
+   "score": 48396,
+   "date": "2017-05-02T02:56:00.000000Z",
+   "video": "",
+   "img": "20170502-205651-1876054999.png",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -87,39 +147,75 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 6162,
+   "uid": 257613130,
+   "user": "iid01",
+   "score": 48400,
+   "date": "2018-04-13T20:18:03.000000Z",
+   "video": "https://www.youtube.com/watch?v=Xe9392N_JS4",
+   "img": "20180414-141803-146314820.png",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 8017,
+   "uid": 265009203,
+   "user": "Gorei_50",
+   "score": 48401,
+   "date": "2019-09-10T23:58:01.000000Z",
+   "video": "https://youtu.be/Xox40_q_O3I",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 8174,
+   "uid": 265694655,
    "user": "iid01",
    "score": 48403,
-   "date": "2020-01-14T00:00:00.000000Z",
+   "date": "2020-01-13T07:25:55.000000Z",
    "video": "https://www.youtube.com/watch?v=pc3-Pd4SwfA",
    "img": "20200114-012555-838435386.png",
-   "console": null,
-   "comment": "[NGC] 5階が全手前",
+   "console": 1,
+   "comment": "5階が全手前",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 8190,
+   "uid": 265308783,
    "user": "Gorei_50",
    "score": 48404,
-   "date": "2020-01-19T00:00:00.000000Z",
+   "date": "2020-01-18T23:27:20.000000Z",
    "video": "https://youtu.be/Uj_iU7d7MCY",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13020,
+   "uid": 274459020,
    "user": "Gorei_50",
    "score": 48408,
-   "date": "2021-08-28T00:00:00.000000Z",
+   "date": "2021-08-27T20:44:31.000000Z",
    "video": "https://youtu.be/y3G7SHHxhH4",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17480,
+   "uid": 305683764,
+   "user": "Gorei_50",
+   "score": 48410,
+   "date": "2023-12-30T07:59:56.000000Z",
+   "video": "https://youtu.be/eQBTo0jOW14",
+   "img": "",
+   "console": 2,
+   "comment": "人神人神神人神",
    "tie": false
   },
   {
@@ -134,5 +230,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

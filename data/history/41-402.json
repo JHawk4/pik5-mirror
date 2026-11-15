@@ -3,6 +3,150 @@
  "stage": 402,
  "records": [
   {
+   "id": 16324,
+   "uid": 301070809,
+   "user": "noamoa",
+   "score": 194,
+   "date": "2023-07-30T01:38:08.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "とりあえず",
+   "tie": false
+  },
+  {
+   "id": 16368,
+   "uid": 301551808,
+   "user": "kobachi_no_udon",
+   "score": 416,
+   "date": "2023-07-30T21:35:08.000000Z",
+   "video": "https://youtu.be/QgyKwrj7vds",
+   "img": "",
+   "console": 4,
+   "comment": "ハンボとの戦いに決着がついた",
+   "tie": false
+  },
+  {
+   "id": 16698,
+   "uid": 301129676,
+   "user": "keisen2853",
+   "score": 432,
+   "date": "2023-08-12T17:24:57.000000Z",
+   "video": "https://www.youtube.com/watch?v=wdo4NIXWNtA",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16746,
+   "uid": 301244563,
+   "user": "Jer",
+   "score": 434,
+   "date": "2023-08-15T13:45:56.000000Z",
+   "video": "https://www.youtube.com/watch?v=ohTgY_g-2mc",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17068,
+   "uid": 302761603,
+   "user": "shino15nome",
+   "score": 436,
+   "date": "2023-09-27T21:27:14.000000Z",
+   "video": "https://youtu.be/_TLAA-WCEWc?si=mXoyZn0Y9iBt2TyV",
+   "img": "20230928-152714-1250832974.jpg",
+   "console": 4,
+   "comment": "このルートだと最後が1番の運要素だと思います",
+   "tie": false
+  },
+  {
+   "id": 17266,
+   "uid": 304392673,
+   "user": "Moony",
+   "score": 439,
+   "date": "2023-11-18T08:35:08.000000Z",
+   "video": "https://youtu.be/m5I-XIogrEQ",
+   "img": "",
+   "console": 4,
+   "comment": "I think 340 is possible though luck is needed",
+   "tie": false
+  },
+  {
+   "id": 17341,
+   "uid": 304710799,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 443,
+   "date": "2023-11-30T01:34:23.000000Z",
+   "video": "https://youtu.be/f7Q-RUt08Dw?si=T1fst8ME3upbn66h",
+   "img": "20231130-193423-1686911298.jpg",
+   "console": 4,
+   "comment": "あまり運が必要ないルートにしました",
+   "tie": false
+  },
+  {
+   "id": 17846,
+   "uid": 308819710,
+   "user": "keisen2853",
+   "score": 452,
+   "date": "2024-05-23T00:57:29.000000Z",
+   "video": "https://www.youtube.com/watch?v=TgPWCFl9o1A",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18310,
+   "uid": 310973656,
+   "user": "mercysnow",
+   "score": 455,
+   "date": "2024-12-14T00:26:49.000000Z",
+   "video": "https://youtu.be/uiWiKlCJ1ug?si=Zd5wBqqLZbdro1CM",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18319,
+   "uid": 310988097,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 455,
+   "date": "2024-12-18T02:53:32.000000Z",
+   "video": "https://youtu.be/8oaY1Pr0bp4?si=CUw2b1ukXm2j17I8",
+   "img": "",
+   "console": 4,
+   "comment": "犬用ヌケ穴を通るここまで移動をした時にたまに切替不可になるのやめてほしいです",
+   "tie": true
+  },
+  {
+   "id": 18609,
+   "uid": 311367697,
+   "user": "mercysnow",
+   "score": 459,
+   "date": "2025-07-31T07:54:55.000000Z",
+   "video": "https://youtu.be/KFyV_NxfkJI",
+   "img": "",
+   "console": 4,
+   "comment": "灼熱",
+   "tie": false
+  },
+  {
+   "id": 18983,
+   "uid": 312007447,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 463,
+   "date": "2025-11-23T19:15:36.000000Z",
+   "video": "https://youtu.be/Zc5KCB3c4jE?si=hPjVHiXpFmEEOmfm",
+   "img": "",
+   "console": 4,
+   "comment": "オッチンの仕事量を減らしました",
+   "tie": false
+  },
+  {
    "id": 19718,
    "uid": 315725364,
    "user": "mercysnow",
@@ -14,5 +158,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

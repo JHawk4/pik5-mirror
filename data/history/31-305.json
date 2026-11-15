@@ -3,15 +3,51 @@
  "stage": 305,
  "records": [
   {
-   "id": 290,
-   "uid": null,
-   "user": "official",
-   "score": 4500,
+   "id": 277,
+   "uid": 103330498,
+   "user": "koppacha",
+   "score": 5040,
    "date": "2013-07-24T06:00:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
+   "console": 3,
+   "comment": "プラチナが遠い",
+   "tie": false
+  },
+  {
+   "id": 341,
+   "uid": 105908510,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 6420,
+   "date": "2013-11-07T06:00:00.000000Z",
+   "video": "",
+   "img": "",
    "console": 2,
-   "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。",
+   "comment": "２人マップの下方向に投げ、一人で上方向の２つの壁を破壊しました。",
+   "tie": false
+  },
+  {
+   "id": 378,
+   "uid": 107926862,
+   "user": "robustar",
+   "score": 6540,
+   "date": "2013-12-26T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 1378,
+   "uid": 215719540,
+   "user": "noamoa",
+   "score": 6630,
+   "date": "2015-12-19T21:03:00.000000Z",
+   "video": "",
+   "img": "20151220-150305-925861143.jpg",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -122,5 +158,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

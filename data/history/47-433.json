@@ -3,6 +3,30 @@
  "stage": 433,
  "records": [
   {
+   "id": 18766,
+   "uid": 311311012,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 113,
+   "date": "2025-09-06T03:21:08.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18871,
+   "uid": 311744146,
+   "user": "toripoppo0307",
+   "score": 109,
+   "date": "2025-09-09T01:51:21.000000Z",
+   "video": "https://youtu.be/b02GojQtf58",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 19604,
    "uid": 315159111,
    "user": "kobachi_no_udon",
@@ -14,5 +38,6 @@
    "tie": false
   }
  ],
- "lower_is_better": true
+ "lower_is_better": true,
+ "backfilled": true
 }

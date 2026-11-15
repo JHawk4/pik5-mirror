@@ -51,6 +51,18 @@
    "tie": false
   },
   {
+   "id": 315,
+   "uid": 104989594,
+   "user": "albut3",
+   "score": 35364,
+   "date": "2013-08-26T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 2,
+   "comment": "1Fのウジンコ、トビンコの数に運要素あり。かなり記録を出しにくいステージ。",
+   "tie": false
+  },
+  {
    "id": 728,
    "uid": null,
    "user": "Selenium_pikmin",
@@ -63,39 +75,39 @@
    "tie": false
   },
   {
-   "id": 4389,
-   "uid": null,
-   "user": "PKtoyama",
-   "score": 35411,
-   "date": "2017-07-13T16:54:00.000000Z",
-   "video": "",
-   "img": "20170714-105456-834778933.JPG",
-   "console": 1,
-   "comment": "はじめての色つき！",
-   "tie": false
-  },
-  {
-   "id": 4745,
-   "uid": null,
-   "user": "keisen2853",
-   "score": 35412,
-   "date": "2017-09-08T16:47:00.000000Z",
-   "video": "",
-   "img": "20170909-104730-1792782941.PNG",
-   "console": 1,
-   "comment": "↑はどうやったら出るんだよ…",
-   "tie": false
-  },
-  {
-   "id": 4832,
-   "uid": null,
+   "id": 1703,
+   "uid": 218925466,
    "user": "pikmin893",
-   "score": 35414,
-   "date": "2017-09-21T02:35:00.000000Z",
+   "score": 35406,
+   "date": "2016-03-07T21:29:00.000000Z",
    "video": "",
-   "img": "20170921-203513-486819215.png",
+   "img": "",
    "console": 1,
-   "comment": "B1を頑張らないとこれ以上は難しそう",
+   "comment": "1F67です",
+   "tie": false
+  },
+  {
+   "id": 2092,
+   "uid": 225367187,
+   "user": "HoshiKUZU_pik",
+   "score": 35411,
+   "date": "2016-05-01T04:19:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=a7Zz60vla9I",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 3560,
+   "uid": 239933395,
+   "user": "iid01",
+   "score": 35420,
+   "date": "2017-04-22T23:47:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=1p3NZB4o8QA",
+   "img": "20170423-174723-1339970008.png",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -135,15 +147,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 9724,
+   "uid": 271217888,
    "user": "Gorei_50",
    "score": 35430,
-   "date": "2020-08-11T00:00:00.000000Z",
+   "date": "2020-08-10T08:12:43.000000Z",
    "video": "https://youtu.be/cB0FIksRfL4",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -159,16 +171,28 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 16043,
+   "uid": 278980813,
    "user": "Gorei_50",
    "score": 35436,
-   "date": "2023-04-07T00:00:00.000000Z",
+   "date": "2023-04-06T21:16:12.000000Z",
    "video": "https://youtu.be/4mJSEw5qzqM",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
+  },
+  {
+   "id": 17510,
+   "uid": 305267994,
+   "user": "kobachi_no_udon",
+   "score": 35436,
+   "date": "2024-01-07T23:53:27.000000Z",
+   "video": "https://youtu.be/yERedaMnzTo",
+   "img": "20240108-175327-3716497488.jpg",
+   "console": 2,
+   "comment": "701000RTA中に出ました！（通話の音声を切るのを忘れてました。ごめんなさい。）",
+   "tie": true
   },
   {
    "id": 17522,
@@ -193,5 +217,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

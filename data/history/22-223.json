@@ -39,6 +39,30 @@
    "tie": false
   },
   {
+   "id": 267,
+   "uid": 102779888,
+   "user": "albut3",
+   "score": 9932,
+   "date": "2013-07-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "サンショクシジミを撃ち落とすゲームです。",
+   "tie": false
+  },
+  {
+   "id": 402,
+   "uid": 100273087,
+   "user": "koppacha",
+   "score": 9933,
+   "date": "2014-05-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "サンショクシジミを2匹逃したときのスコア。見た目以上にエグいステージですよね",
+   "tie": false
+  },
+  {
    "id": 730,
    "uid": null,
    "user": "Selenium_pikmin",
@@ -51,15 +75,27 @@
    "tie": false
   },
   {
-   "id": 2261,
-   "uid": null,
-   "user": "pikmin893",
-   "score": 9992,
-   "date": "2016-06-27T18:37:00.000000Z",
+   "id": 1267,
+   "uid": 214704254,
+   "user": "noamoa",
+   "score": 9993,
+   "date": "2015-11-14T15:06:00.000000Z",
    "video": "",
-   "img": "20160628-123701-1030980572.png",
+   "img": "20151115-090635-1851987520.jpg",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 2461,
+   "uid": 231629668,
+   "user": "iid01",
+   "score": 10018,
+   "date": "2016-11-26T04:32:00.000000Z",
+   "video": "",
+   "img": "20161126-223234-948868887.png",
    "console": 1,
-   "comment": "1逃し(回収ミスかも)42カウント",
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -87,27 +123,27 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 12212,
+   "uid": 274604464,
    "user": "mercysnow",
    "score": 10032,
-   "date": "2021-02-15T00:00:00.000000Z",
+   "date": "2021-02-14T22:57:40.000000Z",
    "video": "https://youtu.be/rEhmzx4y0h4",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14376,
+   "uid": 277478564,
    "user": "albut3",
    "score": 10033,
-   "date": "2022-03-19T00:00:00.000000Z",
+   "date": "2022-03-18T09:56:14.000000Z",
    "video": "https://www.youtube.com/watch?v=MsyrzzC9eGs",
    "img": "20220319-035615-1138671774.jpg",
-   "console": null,
-   "comment": "[Wii] デレデレシジミ",
+   "console": 2,
+   "comment": "デレデレシジミ",
    "tie": false
   },
   {
@@ -145,5 +181,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

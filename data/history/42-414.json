@@ -3,6 +3,126 @@
  "stage": 414,
  "records": [
   {
+   "id": 16460,
+   "uid": 301954413,
+   "user": "6harapikumin",
+   "score": 241,
+   "date": "2023-08-02T04:24:56.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16551,
+   "uid": 301596114,
+   "user": "Z_pikmin",
+   "score": 316,
+   "date": "2023-08-06T03:09:35.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "むずかしい",
+   "tie": false
+  },
+  {
+   "id": 16737,
+   "uid": 301643800,
+   "user": "aqr2",
+   "score": 396,
+   "date": "2023-08-15T04:09:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16768,
+   "uid": 301674592,
+   "user": "hyogakibokaro",
+   "score": 402,
+   "date": "2023-08-17T20:37:43.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "ピクミン25匹で運んだコチャッピーは間に合いません",
+   "tie": false
+  },
+  {
+   "id": 16776,
+   "uid": 301859188,
+   "user": "Happa-san",
+   "score": 417,
+   "date": "2023-08-19T06:01:22.000000Z",
+   "video": "",
+   "img": "20230820-000122-1354901038.jpg",
+   "console": 4,
+   "comment": "運が凄い(語彙力)",
+   "tie": false
+  },
+  {
+   "id": 16800,
+   "uid": 301716856,
+   "user": "hororohumi",
+   "score": 486,
+   "date": "2023-08-21T05:02:01.000000Z",
+   "video": "",
+   "img": "20230821-230201-7401012224.jpg",
+   "console": 4,
+   "comment": "原生生物プレミア引かないと強いかも",
+   "tie": false
+  },
+  {
+   "id": 16835,
+   "uid": 301600130,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 528,
+   "date": "2023-08-27T00:58:23.000000Z",
+   "video": "https://youtu.be/rdhz20gfR7Y?si=oWFJXcTHL4OIcuS9",
+   "img": "20230827-185823-6258566384.jpg",
+   "console": 4,
+   "comment": "上手く噛み合いました",
+   "tie": false
+  },
+  {
+   "id": 18240,
+   "uid": 309312405,
+   "user": "albut3",
+   "score": 616,
+   "date": "2024-10-14T02:49:33.000000Z",
+   "video": "https://www.youtube.com/watch?v=37owXsRN7qM",
+   "img": "",
+   "console": 4,
+   "comment": "かきかーっきかき　かきかきかきか♪",
+   "tie": false
+  },
+  {
+   "id": 18247,
+   "uid": 309845512,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 639,
+   "date": "2024-10-19T19:04:45.000000Z",
+   "video": "https://youtu.be/xrWQvc3mTQE?si=DBxpFf5vK43mfO3K",
+   "img": "20241020-130445-7574958562.jpg",
+   "console": 4,
+   "comment": "許せなくてごめんなさい",
+   "tie": false
+  },
+  {
+   "id": 18322,
+   "uid": 310551743,
+   "user": "kobachi_no_udon",
+   "score": 654,
+   "date": "2024-12-19T09:34:15.000000Z",
+   "video": "https://youtu.be/HCjSwg4vnpA",
+   "img": "20241220-033415-6327326998.png",
+   "console": 4,
+   "comment": "許せなくてごめんなさいを許せなくてごめんなさい",
+   "tie": false
+  },
+  {
    "id": 18491,
    "uid": 311844872,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +134,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

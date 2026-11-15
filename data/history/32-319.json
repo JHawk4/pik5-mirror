@@ -27,14 +27,14 @@
    "tie": false
   },
   {
-   "id": 1656,
-   "uid": null,
-   "user": "koppacha",
-   "score": 8895,
-   "date": "2016-03-05T21:06:00.000000Z",
+   "id": 1377,
+   "uid": 215719609,
+   "user": "noamoa",
+   "score": 8955,
+   "date": "2015-12-19T20:39:00.000000Z",
    "video": "",
-   "img": null,
-   "console": 3,
+   "img": "20151220-143928-1049911000.jpg",
+   "console": 2,
    "comment": "コメントなし",
    "tie": false
   },
@@ -75,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11789,
+   "uid": 274670269,
    "user": "Jay596",
    "score": 12825,
-   "date": "2020-12-30T00:00:00.000000Z",
+   "date": "2020-12-29T22:33:22.000000Z",
    "video": "https://www.youtube.com/watch?v=m7UQwn1GQH0",
    "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -157,5 +157,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

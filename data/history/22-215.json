@@ -27,15 +27,15 @@
    "tie": false
   },
   {
-   "id": 201,
-   "uid": null,
-   "user": "shinya_",
-   "score": 6201,
-   "date": "2012-09-21T06:00:00.000000Z",
+   "id": 91,
+   "uid": 100007495,
+   "user": "koppacha",
+   "score": 6218,
+   "date": "2007-09-17T06:00:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
-   "comment": "かなり効率が問われるステージのようです。つまり苦手。",
+   "comment": "ゾウノアシ戦中にお宝２個回収、かつ間欠泉がポッド近く。ゾウノアシは残タイム160を切る前に倒すべし。",
    "tie": false
   },
   {
@@ -51,15 +51,39 @@
    "tie": false
   },
   {
-   "id": 4496,
-   "uid": null,
-   "user": "PKtoyama",
-   "score": 6242,
-   "date": "2017-07-31T18:56:00.000000Z",
+   "id": 1476,
+   "uid": 215715877,
+   "user": "HoshiKUZU_pik",
+   "score": 6241,
+   "date": "2016-02-19T02:01:00.000000Z",
    "video": "",
-   "img": "20170801-125623-1133025228.JPG",
+   "img": "20160219-200126-530607854.png",
    "console": 1,
-   "comment": "これ以上どうすればいいんだ",
+   "comment": "毒グモ戦がつらかった",
+   "tie": false
+  },
+  {
+   "id": 2001,
+   "uid": 224606776,
+   "user": "iid01",
+   "score": 6244,
+   "date": "2016-04-16T02:16:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 3087,
+   "uid": 235612838,
+   "user": "iid01",
+   "score": 6246,
+   "date": "2017-02-25T15:32:00.000000Z",
+   "video": "",
+   "img": "20170226-093230-256940516.png",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -72,6 +96,30 @@
    "img": "20170818-163509-1025318090.png",
    "console": 1,
    "comment": "[NGC] 　",
+   "tie": false
+  },
+  {
+   "id": 4573,
+   "uid": 244808433,
+   "user": "albut3",
+   "score": 6252,
+   "date": "2017-08-20T19:20:00.000000Z",
+   "video": "",
+   "img": "20170821-132047-1900969857.JPG",
+   "console": 1,
+   "comment": "理想ムーブではないがリカバリが完璧",
+   "tie": false
+  },
+  {
+   "id": 4577,
+   "uid": 244553308,
+   "user": "sectionmarilui",
+   "score": 6253,
+   "date": "2017-08-21T00:01:00.000000Z",
+   "video": "http://www.nicovideo.jp/watch/sm31786878",
+   "img": "20170821-180135-2098805231.jpg",
+   "console": 1,
+   "comment": "頂点",
    "tie": false
   },
   {
@@ -111,15 +159,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14892,
+   "uid": 277194247,
    "user": "Gorei_50",
    "score": 6259,
-   "date": "2022-08-12T00:00:00.000000Z",
+   "date": "2022-08-11T07:30:35.000000Z",
    "video": "https://youtu.be/WIi3fzOochQ",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": true
   },
   {
@@ -159,28 +207,16 @@
    "tie": false
   },
   {
-   "id": 17189,
-   "uid": null,
-   "user": "albut3",
-   "score": 6261,
-   "date": "2023-10-28T08:05:12.000000Z",
-   "video": "https://www.youtube.com/watch?v=jqt4X5G4_io",
-   "img": null,
+   "id": 17184,
+   "uid": 303038522,
+   "user": "Gorei_50",
+   "score": 6263,
+   "date": "2023-10-27T11:10:16.000000Z",
+   "video": "https://youtu.be/GFo3CBFioTg",
+   "img": "",
    "console": 2,
-   "comment": "うれしい",
-   "tie": true
-  },
-  {
-   "id": 17746,
-   "uid": null,
-   "user": "Bl6AltMzq5Jx4aM",
-   "score": 6261,
-   "date": "2024-04-30T01:09:29.000000Z",
-   "video": "https://youtu.be/ufWKx41Xy6s?si=Uw6cgYE2I0Z3RFJp",
-   "img": "20240430-190929-6483739573.jpg",
-   "console": 2,
-   "comment": "運良く短時間で出せました",
-   "tie": true
+   "comment": "コメントなし",
+   "tie": false
   },
   {
    "id": 18484,
@@ -194,5 +230,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

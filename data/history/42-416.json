@@ -3,6 +3,114 @@
  "stage": 416,
  "records": [
   {
+   "id": 16391,
+   "uid": 301610005,
+   "user": "6harapikumin",
+   "score": 169,
+   "date": "2023-07-31T09:38:38.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16655,
+   "uid": 301546870,
+   "user": "Happa-san",
+   "score": 290,
+   "date": "2023-08-11T05:59:49.000000Z",
+   "video": "",
+   "img": "20230811-235949-5474792713.jpg",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16686,
+   "uid": 301614137,
+   "user": "aqr2",
+   "score": 412,
+   "date": "2023-08-12T10:22:25.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16782,
+   "uid": 301185917,
+   "user": "Argent2home",
+   "score": 462,
+   "date": "2023-08-19T09:54:36.000000Z",
+   "video": "",
+   "img": "20230820-035436-9571614632.png",
+   "console": 4,
+   "comment": "敵のピクミンが集まってるところに爆弾ぶちこんで身動きさせないのがよさそう。",
+   "tie": false
+  },
+  {
+   "id": 16789,
+   "uid": 301924489,
+   "user": "Klaus00",
+   "score": 528,
+   "date": "2023-08-19T17:54:42.000000Z",
+   "video": "https://youtu.be/9hz5ZgvHHNU",
+   "img": "",
+   "console": 4,
+   "comment": "無限の可能性",
+   "tie": false
+  },
+  {
+   "id": 17166,
+   "uid": 303004635,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 652,
+   "date": "2023-10-22T03:45:40.000000Z",
+   "video": "https://youtu.be/3ijdGKbFZCg?si=LEMVtKRrlqrfAzjp",
+   "img": "20231022-214540-2531993606.jpg",
+   "console": 4,
+   "comment": "プレミア品以外は呼び止めた方がいい気がします",
+   "tie": false
+  },
+  {
+   "id": 18180,
+   "uid": 309197264,
+   "user": "shino15nome",
+   "score": 828,
+   "date": "2024-09-16T13:03:00.000000Z",
+   "video": "https://youtu.be/3E6zoZ3H4ss?si=xFTLIvRigaDxGjdk",
+   "img": "",
+   "console": 4,
+   "comment": "0.5秒が遠いな",
+   "tie": false
+  },
+  {
+   "id": 18232,
+   "uid": 309042324,
+   "user": "albut3",
+   "score": 901,
+   "date": "2024-10-09T08:38:17.000000Z",
+   "video": "https://www.youtube.com/watch?v=rlPMdspiWJ4",
+   "img": "",
+   "console": 4,
+   "comment": "GG始めたての頃は900なんてありえないと思ってました",
+   "tie": false
+  },
+  {
+   "id": 18235,
+   "uid": 309505776,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 911,
+   "date": "2024-10-12T15:16:37.000000Z",
+   "video": "https://youtu.be/ZFyp9lkLlBo?si=JnB6eXhQ7D-eOdbW",
+   "img": "20241013-091637-6402364774.jpg",
+   "console": 4,
+   "comment": "二兎を追ってしまいました",
+   "tie": false
+  },
+  {
    "id": 18988,
    "uid": 312063713,
    "user": "albut3",
@@ -14,5 +122,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

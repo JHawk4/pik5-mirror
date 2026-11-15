@@ -15,6 +15,18 @@
    "tie": false
   },
   {
+   "id": 252,
+   "uid": 102428524,
+   "user": "albut3",
+   "score": 9347,
+   "date": "2013-07-03T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "全て黄ピクミンにします。タマゴムシなし",
+   "tie": false
+  },
+  {
    "id": 436,
    "uid": null,
    "user": "DRAFIX",
@@ -39,6 +51,42 @@
    "tie": false
   },
   {
+   "id": 537,
+   "uid": 209978552,
+   "user": "pikmin893",
+   "score": 9392,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 940,
+   "uid": 211178713,
+   "user": "iid01",
+   "score": 9400,
+   "date": "2015-11-06T05:03:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 1780,
+   "uid": 218947927,
+   "user": "noamoa",
+   "score": 9402,
+   "date": "2016-03-14T20:12:00.000000Z",
+   "video": "",
+   "img": "20160315-141203-792556200.jpg",
+   "console": 2,
+   "comment": "タマゴムシ5匹",
+   "tie": false
+  },
+  {
    "id": 1785,
    "uid": null,
    "user": "HoshiKUZU_pik",
@@ -51,15 +99,27 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
-   "user": "albut3",
-   "score": 9427,
-   "date": "2017-07-13T00:00:00.000000Z",
+   "id": 3519,
+   "uid": 238230761,
+   "user": "iid01",
+   "score": 9428,
+   "date": "2017-04-14T21:40:00.000000Z",
    "video": "",
-   "img": "20170713-071812-433218836.JPG",
-   "console": null,
-   "comment": "[NGC] 1Fの動きが悪い",
+   "img": "20170415-154026-220957345.png",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 5111,
+   "uid": 248991003,
+   "user": "Gorei_50",
+   "score": 9442,
+   "date": "2017-11-14T19:54:00.000000Z",
+   "video": "",
+   "img": "20171115-135447-806296562.jpg",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -87,15 +147,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 8010,
+   "uid": 265118723,
    "user": "Gorei_50",
    "score": 9486,
-   "date": "2019-09-11T00:00:00.000000Z",
+   "date": "2019-09-10T23:48:34.000000Z",
    "video": "",
    "img": "20190911-174834-1584967889.PNG",
-   "console": null,
-   "comment": "",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -135,6 +195,18 @@
    "tie": false
   },
   {
+   "id": 16333,
+   "uid": 301262809,
+   "user": "Gorei_50",
+   "score": 9525,
+   "date": "2023-07-30T02:14:17.000000Z",
+   "video": "https://youtu.be/8C6o2SEDnm4",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 18339,
    "uid": 310457922,
    "user": "Gorei_50",
@@ -146,5 +218,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

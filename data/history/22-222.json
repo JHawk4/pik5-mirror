@@ -15,15 +15,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 169,
+   "uid": 102684735,
    "user": "nanshitsujuukinzounaizou",
    "score": 14382,
-   "date": "2010-01-18T00:00:00.000000Z",
+   "date": "2010-01-17T06:00:00.000000Z",
    "video": "",
    "img": "",
-   "console": null,
-   "comment": "[NGC] ニコニコの木っ端ちゃっぴーさんの動画を、ホ、ホンノチョット、参考ニシテ、プレイシマシタ！",
+   "console": 1,
+   "comment": "ニコニコの木っ端ちゃっぴーさんの動画を、ホ、ホンノチョット、参考ニシテ、プレイシマシタ！",
    "tie": false
   },
   {
@@ -39,6 +39,18 @@
    "tie": false
   },
   {
+   "id": 266,
+   "uid": 102182011,
+   "user": "albut3",
+   "score": 14418,
+   "date": "2013-07-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "大好きなステージ。なるべくポット付近で倒せると良いです。",
+   "tie": false
+  },
+  {
    "id": 418,
    "uid": null,
    "user": "kanichan",
@@ -51,28 +63,40 @@
    "tie": false
   },
   {
-   "id": 729,
-   "uid": null,
-   "user": "Selenium_pikmin",
-   "score": 14424,
+   "id": 553,
+   "uid": 209031213,
+   "user": "pikmin893",
+   "score": 14425,
    "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
    "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": 2194,
-   "uid": null,
-   "user": "noamoa",
-   "score": 14424,
-   "date": "2016-06-09T02:21:00.000000Z",
+   "id": 934,
+   "uid": 211080751,
+   "user": "iid01",
+   "score": 14426,
+   "date": "2015-11-06T04:59:00.000000Z",
    "video": "",
-   "img": "20160609-202130-1187232801.jpg",
-   "console": 2,
-   "comment": "近くに重さ20以上のお宝が無ければリセット",
-   "tie": true
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 1588,
+   "uid": 216736408,
+   "user": "iid01",
+   "score": 14431,
+   "date": "2016-03-04T00:48:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
   },
   {
    "id": 3564,
@@ -87,27 +111,39 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11504,
+   "uid": 274825617,
+   "user": "Gorei_50",
+   "score": 14433,
+   "date": "2020-11-30T09:56:04.000000Z",
+   "video": "https://youtu.be/JjJmm3v8O38",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 12120,
+   "uid": 274579201,
    "user": "Gorei_50",
    "score": 14434,
-   "date": "2021-02-01T00:00:00.000000Z",
+   "date": "2021-01-31T06:20:08.000000Z",
    "video": "https://youtu.be/EhACX3C5Mas",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14413,
+   "uid": 277479140,
    "user": "albut3",
    "score": 14434,
-   "date": "2022-03-22T00:00:00.000000Z",
+   "date": "2022-03-21T06:41:40.000000Z",
    "video": "https://www.youtube.com/watch?v=8x9TrnAVkhk",
    "img": "20220322-004141-1707249560.JPG",
-   "console": null,
-   "comment": "[Wii] 手前20",
+   "console": 2,
+   "comment": "手前20",
    "tie": true
   },
   {
@@ -135,6 +171,18 @@
    "tie": false
   },
   {
+   "id": 16683,
+   "uid": 301768833,
+   "user": "Gorei_50",
+   "score": 14435,
+   "date": "2023-08-12T09:17:14.000000Z",
+   "video": "https://youtu.be/pKaPMEzZIWs",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
    "id": 17508,
    "uid": 305064029,
    "user": "albut3",
@@ -157,5 +205,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

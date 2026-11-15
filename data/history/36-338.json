@@ -15,27 +15,27 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11333,
+   "uid": 274820072,
    "user": "PiePusher11",
    "score": 504,
-   "date": "2020-11-20T00:00:00.000000Z",
+   "date": "2020-11-19T17:51:30.000000Z",
    "video": "https://www.youtube.com/watch?v=KJeuBSyp2M4",
    "img": "",
-   "console": null,
-   "comment": "[Joy-Con Double$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11354,
+   "uid": 274197366,
    "user": "Yellowishpik",
    "score": 510,
-   "date": "2020-11-21T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1330004391361871880/pu/vid/480x270/-_RAh2BCLfDLAWUJ.mp4?tag=10",
+   "date": "2020-11-20T19:49:16.000000Z",
+   "video": "https://twitter.com/Mario39402958/status/1330004428213022720",
    "img": "20201121-134916-1493650213.jpg",
-   "console": null,
-   "comment": "[Switch Pro$] gotta go fast",
+   "console": 4,
+   "comment": "gotta go fast",
    "tie": false
   },
   {
@@ -122,5 +122,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

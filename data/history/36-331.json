@@ -27,27 +27,15 @@
    "tie": false
   },
   {
-   "id": 11038,
-   "uid": null,
-   "user": "TheRealBobby0",
-   "score": 11690,
-   "date": "2020-11-06T06:43:12.000000Z",
-   "video": "",
-   "img": "20201107-004312-1349854734.jpeg",
-   "console": 4,
-   "comment": "コメントなし",
-   "tie": false
-  },
-  {
-   "id": null,
-   "uid": null,
+   "id": 11035,
+   "uid": 274177394,
    "user": "shiocha78",
    "score": 12050,
-   "date": "2020-11-07T00:00:00.000000Z",
+   "date": "2020-11-06T06:20:50.000000Z",
    "video": "https://www.youtube.com/watch?v=DSoP8pXe9vw&feature=youtu.be",
    "img": "20201107-002050-442078963.JPG",
-   "console": null,
-   "comment": "[Joy-Con Double$] 頑張った甲斐があった",
+   "console": 4,
+   "comment": "頑張った甲斐があった",
    "tie": false
   },
   {
@@ -99,15 +87,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13347,
+   "uid": 276011808,
    "user": "Jay596",
    "score": 12680,
-   "date": "2021-11-02T00:00:00.000000Z",
+   "date": "2021-11-01T16:31:26.000000Z",
    "video": "https://www.youtube.com/watch?v=mx6y0QEOE3Q",
    "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -146,5 +134,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

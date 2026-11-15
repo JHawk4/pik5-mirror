@@ -3,6 +3,16 @@
  "stage": 411,
  "posts": [
   {
+   "id": 16282,
+   "user": "koppacha",
+   "score": 294,
+   "date": "2023-07-29T02:15:44.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 16400,
    "user": "XianTwa",
    "score": 318,
@@ -112,6 +122,16 @@
    "comment": "コメントなし"
   },
   {
+   "id": 17015,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 475,
+   "date": "2023-09-16T03:49:12.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/yZ49kjOMCqU?si=LoEwtGB8cA7mAt_h",
+   "img": "20230916-214912-5818536559.jpg",
+   "comment": "オリチャーで半分残しまで頑張りました"
+  },
+  {
    "id": 17094,
    "user": "robustar",
    "score": 409,
@@ -138,6 +158,16 @@
    "video": "https://youtu.be/hD7B9FEMpOs?si=Mm7LhNJHDmJaRzrZ",
    "comment": "非常にキリが良いですね",
    "img": "20240126-201353-7583436069.jpg"
+  },
+  {
+   "id": 17561,
+   "user": "mercysnow",
+   "score": 499,
+   "date": "2024-01-26T18:32:03.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/y90vWV2hqNU",
+   "img": "",
+   "comment": "コメントなし"
   },
   {
    "id": 18169,
@@ -186,6 +216,16 @@
    "console": 4,
    "video": "",
    "comment": "とりあえず投稿"
+  },
+  {
+   "id": 18945,
+   "user": "mercysnow",
+   "score": 503,
+   "date": "2025-10-28T22:27:33.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/aete4ELs8l4?si=rt3YqXF6zMG_1JBZ",
+   "img": "",
+   "comment": "🐸💥🐶"
   },
   {
    "id": 19516,

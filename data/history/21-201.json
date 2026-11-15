@@ -15,6 +15,18 @@
    "tie": false
   },
   {
+   "id": 128,
+   "uid": 100975729,
+   "user": "koppacha",
+   "score": 35107,
+   "date": "2008-09-23T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "7点更新。",
+   "tie": false
+  },
+  {
    "id": 187,
    "uid": null,
    "user": "shinya_",
@@ -48,6 +60,18 @@
    "img": "20151117-161135-1275411615.jpg",
    "console": 1,
    "comment": "これはWRではない",
+   "tie": false
+  },
+  {
+   "id": 1404,
+   "uid": 215407826,
+   "user": "iid01",
+   "score": 35214,
+   "date": "2016-01-26T01:20:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=TOOsoBc7UZM",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -98,5 +122,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

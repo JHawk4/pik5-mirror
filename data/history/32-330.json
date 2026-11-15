@@ -3,6 +3,18 @@
  "stage": 330,
  "records": [
   {
+   "id": 372,
+   "uid": 107746675,
+   "user": "koppacha",
+   "score": 345,
+   "date": "2013-12-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 3,
+   "comment": "叩き台です。",
+   "tie": false
+  },
+  {
    "id": 1009,
    "uid": null,
    "user": "muratsubo",
@@ -122,5 +134,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

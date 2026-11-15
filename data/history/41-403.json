@@ -3,6 +3,186 @@
  "stage": 403,
  "records": [
   {
+   "id": 16325,
+   "uid": 301170809,
+   "user": "noamoa",
+   "score": 319,
+   "date": "2023-07-30T01:38:46.000000Z",
+   "video": "",
+   "img": "20230730-193846-4659191230",
+   "console": 4,
+   "comment": "とりあえず",
+   "tie": false
+  },
+  {
+   "id": 16343,
+   "uid": 301246707,
+   "user": "aqr2",
+   "score": 411,
+   "date": "2023-07-30T04:27:58.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16464,
+   "uid": 301376607,
+   "user": "biwako",
+   "score": 423,
+   "date": "2023-08-02T22:11:37.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "とりあえず１０位以内に載ればいいなと思って",
+   "tie": false
+  },
+  {
+   "id": 16542,
+   "uid": 301168084,
+   "user": "mkt918",
+   "score": 467,
+   "date": "2023-08-06T00:40:21.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16555,
+   "uid": 301479741,
+   "user": "hocotate",
+   "score": 484,
+   "date": "2023-08-06T04:07:50.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16576,
+   "uid": 301104438,
+   "user": "keisen2853",
+   "score": 509,
+   "date": "2023-08-07T03:34:35.000000Z",
+   "video": "https://www.youtube.com/watch?v=ezmhzZODQ1A",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16661,
+   "uid": 301844804,
+   "user": "yakiniku",
+   "score": 510,
+   "date": "2023-08-11T09:49:09.000000Z",
+   "video": "https://youtu.be/9r03DcQ-aK0",
+   "img": "",
+   "console": 4,
+   "comment": "もう少し伸ばせそうな気がしなくもない",
+   "tie": false
+  },
+  {
+   "id": 16778,
+   "uid": 301597472,
+   "user": "katsun",
+   "score": 512,
+   "date": "2023-08-19T06:50:28.000000Z",
+   "video": "",
+   "img": "20230820-005028-5777238597.jpg",
+   "console": 4,
+   "comment": "4:32残し。録画環境ありません…",
+   "tie": false
+  },
+  {
+   "id": 16798,
+   "uid": 301508310,
+   "user": "kobachi_no_udon",
+   "score": 524,
+   "date": "2023-08-21T02:42:51.000000Z",
+   "video": "https://youtu.be/pyE6o9c48u0",
+   "img": "20230821-204251-3863965824.png",
+   "console": 4,
+   "comment": "よしよし",
+   "tie": false
+  },
+  {
+   "id": 17076,
+   "uid": 302947017,
+   "user": "shino15nome",
+   "score": 525,
+   "date": "2023-09-29T22:14:43.000000Z",
+   "video": "https://youtu.be/GN1ODo2zrAA?si=XliAWoHEzPwm86_w",
+   "img": "20230930-161443-2622766333.jpg",
+   "console": 4,
+   "comment": "最後の処理適当にやったので正解かはわかりません",
+   "tie": false
+  },
+  {
+   "id": 17085,
+   "uid": 302591478,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 530,
+   "date": "2023-10-04T02:21:07.000000Z",
+   "video": "https://youtu.be/X1dD_k7-IfI?si=SfDYW7lc4a9_YYIB",
+   "img": "20231004-202107-2076900939.jpg",
+   "console": 4,
+   "comment": "そこそこ好きなステージです",
+   "tie": false
+  },
+  {
+   "id": 17650,
+   "uid": 307974356,
+   "user": "kobachi_no_udon",
+   "score": 531,
+   "date": "2024-03-22T05:43:04.000000Z",
+   "video": "https://youtu.be/7QeLebsarnM",
+   "img": "20240322-234304-2911414060.png",
+   "console": 4,
+   "comment": "タイムロスするポイントが多すぎて大変",
+   "tie": false
+  },
+  {
+   "id": 18292,
+   "uid": 309563645,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 545,
+   "date": "2024-11-30T18:34:32.000000Z",
+   "video": "https://youtu.be/jGmZuNOcL7E?si=4_iVjOYweXnZN3ZE",
+   "img": "",
+   "console": 4,
+   "comment": "運ゲーが思ったより大変でした",
+   "tie": false
+  },
+  {
+   "id": 18298,
+   "uid": 310981780,
+   "user": "mercysnow",
+   "score": 547,
+   "date": "2024-12-06T00:52:40.000000Z",
+   "video": "https://youtu.be/3RRTV6SJJsE",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18635,
+   "uid": 311912912,
+   "user": "mercysnow",
+   "score": 551,
+   "date": "2025-08-15T18:46:49.000000Z",
+   "video": "https://youtu.be/D9_cu_y2NLQ?si=wUx7D8SNoXENuAP4",
+   "img": "",
+   "console": 4,
+   "comment": "疲れた",
+   "tie": false
+  },
+  {
    "id": 19629,
    "uid": 315422392,
    "user": "mercysnow",
@@ -14,5 +194,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

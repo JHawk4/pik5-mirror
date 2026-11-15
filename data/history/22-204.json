@@ -39,6 +39,18 @@
    "tie": false
   },
   {
+   "id": 250,
+   "uid": 102833658,
+   "user": "albut3",
+   "score": 13930,
+   "date": "2013-07-03T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "シャコモドキが厄介です。",
+   "tie": false
+  },
+  {
    "id": 427,
    "uid": null,
    "user": "DRAFIX",
@@ -60,6 +72,18 @@
    "img": null,
    "console": 1,
    "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 1467,
+   "uid": 215373946,
+   "user": "HoshiKUZU_pik",
+   "score": 13963,
+   "date": "2016-02-08T19:50:00.000000Z",
+   "video": "",
+   "img": "20160209-135041-639028347.png",
+   "console": 1,
+   "comment": "1点差ばっかりで申し訳ないです",
    "tie": false
   },
   {
@@ -135,27 +159,27 @@
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13177,
+   "uid": 276119669,
    "user": "mercysnow",
    "score": 13972,
-   "date": "2021-09-28T00:00:00.000000Z",
+   "date": "2021-09-27T07:26:05.000000Z",
    "video": "https://youtu.be/RsgENwAoMsk",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14037,
+   "uid": 277048300,
    "user": "albut3",
    "score": 13972,
-   "date": "2021-11-30T00:00:00.000000Z",
+   "date": "2021-11-29T11:00:44.000000Z",
    "video": "https://www.youtube.com/watch?v=bXy0qhEAEW8",
    "img": "",
-   "console": null,
-   "comment": "[Wii] なぜ？",
+   "console": 2,
+   "comment": "なぜ？",
    "tie": true
   },
   {
@@ -183,6 +207,42 @@
    "tie": false
   },
   {
+   "id": 17127,
+   "uid": 303289671,
+   "user": "kobachi_no_udon",
+   "score": 13974,
+   "date": "2023-10-19T06:01:54.000000Z",
+   "video": "https://youtu.be/B3TTCrtHJ_w",
+   "img": "20231020-000154-4803191520.jpg",
+   "console": 2,
+   "comment": "見えない壁にはばまれる",
+   "tie": true
+  },
+  {
+   "id": 17321,
+   "uid": 304869197,
+   "user": "albut3",
+   "score": 13974,
+   "date": "2023-11-23T11:27:16.000000Z",
+   "video": "https://www.youtube.com/watch?v=TYPsa_7xQcQ",
+   "img": "",
+   "console": 2,
+   "comment": "地形をものともしない配置",
+   "tie": true
+  },
+  {
+   "id": 17376,
+   "uid": 304625039,
+   "user": "Gorei_50",
+   "score": 13977,
+   "date": "2023-12-05T03:24:23.000000Z",
+   "video": "https://youtu.be/GMP96xt0FeQ",
+   "img": "",
+   "console": 2,
+   "comment": "解脱",
+   "tie": false
+  },
+  {
    "id": 17585,
    "uid": null,
    "user": "kobachi_no_udon",
@@ -192,6 +252,18 @@
    "img": "20240210-195732-4104219049.jpg",
    "console": 2,
    "comment": "びっくり",
+   "tie": false
+  },
+  {
+   "id": 17587,
+   "uid": 306827607,
+   "user": "Gorei_50",
+   "score": 13980,
+   "date": "2024-02-10T21:58:54.000000Z",
+   "video": "https://youtu.be/nHJKjKs44Bw",
+   "img": "",
+   "console": 2,
+   "comment": "開闢",
    "tie": false
   },
   {
@@ -206,5 +278,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

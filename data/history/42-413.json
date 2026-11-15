@@ -3,6 +3,138 @@
  "stage": 413,
  "records": [
   {
+   "id": 16388,
+   "uid": 301542925,
+   "user": "6harapikumin",
+   "score": 173,
+   "date": "2023-07-31T09:37:16.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16547,
+   "uid": 301500886,
+   "user": "Z_pikmin",
+   "score": 234,
+   "date": "2023-08-06T02:03:58.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "カボスの処理が大事そう？",
+   "tie": false
+  },
+  {
+   "id": 16702,
+   "uid": 301346874,
+   "user": "koppacha",
+   "score": 238,
+   "date": "2023-08-12T20:19:48.000000Z",
+   "video": "",
+   "img": "20230813-141948-9470186094.png",
+   "console": 4,
+   "comment": "音ズレのせいで動画UPできません泣",
+   "tie": false
+  },
+  {
+   "id": 16710,
+   "uid": 301460713,
+   "user": "Klaus00",
+   "score": 251,
+   "date": "2023-08-13T07:29:12.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "オリマー0点です。",
+   "tie": false
+  },
+  {
+   "id": 16752,
+   "uid": 301656203,
+   "user": "alpha_0630",
+   "score": 254,
+   "date": "2023-08-16T03:52:19.000000Z",
+   "video": "https://youtu.be/8pYryBaKUnA",
+   "img": "",
+   "console": 4,
+   "comment": "もうちょっといけそう",
+   "tie": false
+  },
+  {
+   "id": 16839,
+   "uid": 301760197,
+   "user": "hororohumi",
+   "score": 255,
+   "date": "2023-08-27T08:21:54.000000Z",
+   "video": "",
+   "img": "20230828-022154-3913816321.jpg",
+   "console": 4,
+   "comment": "限界です",
+   "tie": false
+  },
+  {
+   "id": 17039,
+   "uid": 301757767,
+   "user": "albut3",
+   "score": 268,
+   "date": "2023-09-21T05:11:17.000000Z",
+   "video": "https://www.youtube.com/watch?v=aK_KVwdetR8",
+   "img": "",
+   "console": 4,
+   "comment": "1ペレの雪辱を果たした",
+   "tie": false
+  },
+  {
+   "id": 17159,
+   "uid": 303426197,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 271,
+   "date": "2023-10-21T00:38:23.000000Z",
+   "video": "https://youtu.be/p13zFXAXxr0?si=xvSJYSSekt2ZkB5W",
+   "img": "20231021-183823-5316376175.jpg",
+   "console": 4,
+   "comment": "理論値ではないと思います",
+   "tie": false
+  },
+  {
+   "id": 17342,
+   "uid": 304617415,
+   "user": "shino15nome",
+   "score": 271,
+   "date": "2023-11-30T23:33:51.000000Z",
+   "video": "https://youtu.be/ecDxD9ghugw?si=phFTbk04Q3kpvXCg",
+   "img": "20231201-173351-9546989147.jpg",
+   "console": 4,
+   "comment": "犬が強すぎました",
+   "tie": true
+  },
+  {
+   "id": 18100,
+   "uid": 309567165,
+   "user": "kobachi_no_udon",
+   "score": 271,
+   "date": "2024-08-21T08:16:47.000000Z",
+   "video": "https://youtu.be/aKo8xjmV46Q",
+   "img": "20240822-021647-6316896553.png",
+   "console": 4,
+   "comment": "いちごが間に合ってよかった",
+   "tie": true
+  },
+  {
+   "id": 18244,
+   "uid": 309609573,
+   "user": "96_Leaf",
+   "score": 286,
+   "date": "2024-10-16T21:28:54.000000Z",
+   "video": "https://youtu.be/CN7_7E5J7XA",
+   "img": "20241017-152854-2487146635.jpg",
+   "console": 4,
+   "comment": "よっぽど運が良ければ1:20イチゴを増やせるかも",
+   "tie": false
+  },
+  {
    "id": 18257,
    "uid": 309870980,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

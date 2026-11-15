@@ -3,6 +3,138 @@
  "stage": 407,
  "records": [
   {
+   "id": 16278,
+   "uid": 301481143,
+   "user": "koppacha",
+   "score": 338,
+   "date": "2023-07-29T02:15:02.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16328,
+   "uid": 301133301,
+   "user": "noamoa",
+   "score": 341,
+   "date": "2023-07-30T01:41:41.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "とりあえず",
+   "tie": false
+  },
+  {
+   "id": 16387,
+   "uid": 301925007,
+   "user": "6harapikumin",
+   "score": 392,
+   "date": "2023-07-31T09:32:27.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16550,
+   "uid": 301352275,
+   "user": "keisen2853",
+   "score": 557,
+   "date": "2023-08-06T03:07:47.000000Z",
+   "video": "https://www.youtube.com/watch?v=91N0Mmnn1Tg",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16852,
+   "uid": 301013814,
+   "user": "Lotus",
+   "score": 561,
+   "date": "2023-08-29T06:37:24.000000Z",
+   "video": "https://www.youtube.com/watch?v=ZCjjABfj4gQ",
+   "img": "",
+   "console": 4,
+   "comment": "初投稿です！このステージはねピクミンが活躍するルートあるのでしょうか……？",
+   "tie": false
+  },
+  {
+   "id": 17070,
+   "uid": 302192084,
+   "user": "albut3",
+   "score": 574,
+   "date": "2023-09-28T23:56:50.000000Z",
+   "video": "https://www.youtube.com/watch?v=ClYVY_RB_ME",
+   "img": "",
+   "console": 4,
+   "comment": "欠陥仕様が多発するステージ",
+   "tie": false
+  },
+  {
+   "id": 17472,
+   "uid": 305070632,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 576,
+   "date": "2023-12-26T00:42:45.000000Z",
+   "video": "https://youtu.be/_WpBE6z5cEg?si=HkpS8E7dt-mygIb3",
+   "img": "20231226-184245-5011769490.jpg",
+   "console": 4,
+   "comment": "ストライキがあまり起こらないルートです",
+   "tie": false
+  },
+  {
+   "id": 17752,
+   "uid": 308461006,
+   "user": "keisen2853",
+   "score": 583,
+   "date": "2024-05-02T08:26:22.000000Z",
+   "video": "https://www.youtube.com/watch?v=jNF9yM20PO0",
+   "img": "",
+   "console": 4,
+   "comment": "最適化の余地はあると思います",
+   "tie": false
+  },
+  {
+   "id": 17821,
+   "uid": 308453391,
+   "user": "mercysnow",
+   "score": 583,
+   "date": "2024-05-15T01:05:07.000000Z",
+   "video": "https://youtu.be/kOta1e9BP8w",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 17855,
+   "uid": 308908145,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 585,
+   "date": "2024-05-25T18:37:22.000000Z",
+   "video": "https://youtu.be/sOs3WQpFo3Y?si=_lxqA1TR0K-jFjf2",
+   "img": "20240526-123722-8410635237.jpg",
+   "console": 4,
+   "comment": "オッチンジャンプの所でミスりました",
+   "tie": false
+  },
+  {
+   "id": 18956,
+   "uid": 312170351,
+   "user": "mercysnow",
+   "score": 588,
+   "date": "2025-11-07T18:32:04.000000Z",
+   "video": "https://youtu.be/7AQV6g4YkHI",
+   "img": "",
+   "console": 4,
+   "comment": "奪い尽くされ焼き尽くされ",
+   "tie": false
+  },
+  {
    "id": 19717,
    "uid": 315043282,
    "user": "mercysnow",
@@ -14,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

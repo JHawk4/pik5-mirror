@@ -75,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13969,
+   "uid": 277951941,
    "user": "esu",
    "score": 14650,
-   "date": "2021-11-21T00:00:00.000000Z",
+   "date": "2021-11-20T19:15:35.000000Z",
    "video": "https://youtu.be/0zyuVD2nV-Q",
    "img": "20211121-131535-2104617310.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] やり直しまくった",
+   "console": 4,
+   "comment": "やり直しまくった",
    "tie": false
   },
   {
@@ -98,5 +98,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

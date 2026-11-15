@@ -3,6 +3,138 @@
  "stage": 220,
  "records": [
   {
+   "id": 6263,
+   "uid": 258804204,
+   "user": "koppacha",
+   "score": 15408,
+   "date": "2018-05-11T23:45:35.000000Z",
+   "video": "",
+   "img": "20180512-174535-1864414193.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6278,
+   "uid": 258291548,
+   "user": "flyinghawk",
+   "score": 15417,
+   "date": "2018-05-12T07:38:07.000000Z",
+   "video": "",
+   "img": "20180513-013807-1881325715.jpg",
+   "console": 1,
+   "comment": "やっつけ仕事",
+   "tie": false
+  },
+  {
+   "id": 6313,
+   "uid": 258000038,
+   "user": "ikimono334",
+   "score": 15445,
+   "date": "2018-05-13T07:04:34.000000Z",
+   "video": "",
+   "img": "20180514-010434-2093863898.jpg",
+   "console": 1,
+   "comment": "1Fは137",
+   "tie": false
+  },
+  {
+   "id": 6357,
+   "uid": 258697502,
+   "user": "Gorei_50",
+   "score": 15448,
+   "date": "2018-05-20T04:37:22.000000Z",
+   "video": "",
+   "img": "20180520-223723-292459998.PNG",
+   "console": 1,
+   "comment": "(仮)",
+   "tie": false
+  },
+  {
+   "id": 6407,
+   "uid": 258880126,
+   "user": "Z_pikmin",
+   "score": 15451,
+   "date": "2018-05-27T04:39:18.000000Z",
+   "video": "",
+   "img": "20180527-223918-995221440.jpg",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 7101,
+   "uid": 262213792,
+   "user": "sectionmarilui",
+   "score": 15452,
+   "date": "2019-01-30T09:44:54.000000Z",
+   "video": "https://www.nicovideo.jp/watch/sm34555044",
+   "img": "20190131-034454-892445202.jpg",
+   "console": 1,
+   "comment": "1カウント逃した残念",
+   "tie": false
+  },
+  {
+   "id": 7631,
+   "uid": 265532006,
+   "user": "Gorei_50",
+   "score": 15457,
+   "date": "2019-07-28T19:58:37.000000Z",
+   "video": "",
+   "img": "20190729-135837-1989620375.PNG",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 14161,
+   "uid": 277095045,
+   "user": "albut3",
+   "score": 15459,
+   "date": "2022-01-13T00:40:36.000000Z",
+   "video": "https://www.twitch.tv/videos/1258285540",
+   "img": "",
+   "console": 2,
+   "comment": "1Fの配置がおかしい",
+   "tie": false
+  },
+  {
+   "id": 14785,
+   "uid": 277143952,
+   "user": "spark573",
+   "score": 15464,
+   "date": "2022-07-02T09:31:15.000000Z",
+   "video": "https://www.twitch.tv/videos/1520529825",
+   "img": "20220703-033115-1067524402.png",
+   "console": 2,
+   "comment": "1F152",
+   "tie": false
+  },
+  {
+   "id": 17307,
+   "uid": 304190754,
+   "user": "Gorei_50",
+   "score": 15464,
+   "date": "2023-11-22T13:29:10.000000Z",
+   "video": "https://youtu.be/UFY0oCKbhQY",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 18079,
+   "uid": 309721504,
+   "user": "Gorei_50",
+   "score": 15465,
+   "date": "2024-08-16T10:05:11.000000Z",
+   "video": "https://youtu.be/WvVX6QTIMWk",
+   "img": "",
+   "console": 2,
+   "comment": "全部2階が悪い",
+   "tie": false
+  },
+  {
    "id": 18492,
    "uid": 311398326,
    "user": "Gorei_50",
@@ -14,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

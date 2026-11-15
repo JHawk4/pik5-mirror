@@ -51,15 +51,27 @@
    "tie": false
   },
   {
-   "id": 600,
-   "uid": null,
-   "user": "FeTellYou",
-   "score": 8520,
+   "id": 542,
+   "uid": 209617754,
+   "user": "pikmin893",
+   "score": 8528,
    "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
    "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 1471,
+   "uid": 215233431,
+   "user": "HoshiKUZU_pik",
+   "score": 8532,
+   "date": "2016-02-14T21:50:00.000000Z",
+   "video": "",
+   "img": "20160215-155016-1983766274.png",
+   "console": 1,
+   "comment": "海鮮丼さん、すまん",
    "tie": false
   },
   {
@@ -134,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -27,27 +27,27 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11223,
+   "uid": 274509390,
    "user": "PiePusher11",
    "score": 10840,
-   "date": "2020-11-16T00:00:00.000000Z",
+   "date": "2020-11-15T13:52:56.000000Z",
    "video": "",
    "img": "20201116-075256-1937468545.jpg",
-   "console": null,
-   "comment": "[Joy-Con Double$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11352,
+   "uid": 274793680,
    "user": "Yellowishpik",
    "score": 11620,
-   "date": "2020-11-21T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1328074503327342592/pu/pl/TZkJvj-IJOZD7Iu7.m3u8?tag=10",
+   "date": "2020-11-20T19:37:07.000000Z",
+   "video": "https://twitter.com/Mario39402958/status/1328074552090390528?s=09",
    "img": "20201121-133707-1834474347.jpg",
-   "console": null,
-   "comment": "[Switch Pro$] I need another strat",
+   "console": 4,
+   "comment": "I need another strat",
    "tie": false
   },
   {
@@ -110,5 +110,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

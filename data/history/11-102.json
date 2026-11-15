@@ -3,6 +3,42 @@
  "stage": 102,
  "records": [
   {
+   "id": 17291,
+   "uid": 304211682,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 606,
+   "date": "2023-11-21T05:46:54.000000Z",
+   "video": "https://youtu.be/BwIC7RbVP8A?si=I-ebGI19AgyCdQ4A",
+   "img": "",
+   "console": 4,
+   "comment": "とりあえず投稿します",
+   "tie": false
+  },
+  {
+   "id": 17354,
+   "uid": 304676645,
+   "user": "cesium137",
+   "score": 901,
+   "date": "2023-12-02T06:20:03.000000Z",
+   "video": "https://youtu.be/yRlhtM_YCb8",
+   "img": "",
+   "console": 4,
+   "comment": "もう少し早く走れるはずだが...",
+   "tie": false
+  },
+  {
+   "id": 17590,
+   "uid": 307696194,
+   "user": "Mokaygee",
+   "score": 930,
+   "date": "2024-02-13T14:30:06.000000Z",
+   "video": "https://youtu.be/5oQnUhzMBBw",
+   "img": "",
+   "console": 4,
+   "comment": "I got nervous at the end",
+   "tie": false
+  },
+  {
    "id": 19557,
    "uid": 315880376,
    "user": "iid01",
@@ -14,5 +50,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -27,6 +27,18 @@
    "tie": false
   },
   {
+   "id": 251,
+   "uid": 102484771,
+   "user": "albut3",
+   "score": 11503,
+   "date": "2013-07-03T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "タマゴムシ。公式記録の高さは異常",
+   "tie": false
+  },
+  {
    "id": 428,
    "uid": null,
    "user": "DRAFIX",
@@ -39,39 +51,27 @@
    "tie": false
   },
   {
-   "id": 536,
-   "uid": null,
-   "user": "pikmin893",
-   "score": 11564,
+   "id": 506,
+   "uid": 209057718,
+   "user": "keisen2853",
+   "score": 11568,
    "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
    "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": 1348,
-   "uid": null,
-   "user": "ZEOKU",
-   "score": 11572,
-   "date": "2015-11-30T03:20:00.000000Z",
+   "id": 933,
+   "uid": 211837544,
+   "user": "iid01",
+   "score": 11581,
+   "date": "2015-11-06T04:59:00.000000Z",
    "video": "",
-   "img": "20151130-212002-1715600830.jpg",
+   "img": "",
    "console": 1,
-   "comment": "タマゴムシ13匹　４セットつも",
-   "tie": false
-  },
-  {
-   "id": 2061,
-   "uid": null,
-   "user": "noamoa",
-   "score": 11580,
-   "date": "2016-04-28T04:22:00.000000Z",
-   "video": "",
-   "img": "20160428-222228-1191518250.jpg",
-   "console": 2,
-   "comment": "タマゴムシ2セット、12匹",
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -99,27 +99,27 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13895,
+   "uid": 277756664,
    "user": "Gorei_50",
    "score": 11682,
-   "date": "2021-11-16T00:00:00.000000Z",
+   "date": "2021-11-15T13:45:34.000000Z",
    "video": "https://youtu.be/kWuf2G_hljw",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14741,
+   "uid": 277280167,
    "user": "Gorei_50",
    "score": 11691,
-   "date": "2022-06-05T00:00:00.000000Z",
+   "date": "2022-06-04T19:27:48.000000Z",
    "video": "https://youtu.be/aGkG6ltiZp0",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -146,5 +146,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

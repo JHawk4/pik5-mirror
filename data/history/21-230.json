@@ -27,13 +27,25 @@
    "tie": false
   },
   {
-   "id": 737,
-   "uid": null,
-   "user": "Selenium_pikmin",
-   "score": 32055,
+   "id": 273,
+   "uid": 102315670,
+   "user": "albut3",
+   "score": 32010,
+   "date": "2013-07-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "タマゴムシ有り。もう少し伸びそうな記録です。",
+   "tie": false
+  },
+  {
+   "id": 561,
+   "uid": 209891546,
+   "user": "pikmin893",
+   "score": 32096,
    "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
    "comment": "コメントなし",
    "tie": false
@@ -51,15 +63,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 1879,
+   "uid": 221178607,
    "user": "iid01",
    "score": 32209,
-   "date": "2016-03-26T00:00:00.000000Z",
+   "date": "2016-03-25T17:42:00.000000Z",
    "video": "https://www.youtube.com/watch?v=y6dYky-IuHs",
    "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -84,6 +96,18 @@
    "img": "20221230-212504-719706741.png",
    "console": 2,
    "comment": "ただ一つだけの悔いを残して",
+   "tie": false
+  },
+  {
+   "id": 17200,
+   "uid": 303741597,
+   "user": "Gorei_50",
+   "score": 32242,
+   "date": "2023-11-03T07:02:47.000000Z",
+   "video": "https://youtu.be/wOJ0YJEWDy0",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -121,5 +145,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

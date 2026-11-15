@@ -27,15 +27,15 @@
    "tie": false
   },
   {
-   "id": 170,
-   "uid": null,
-   "user": "nanshitsujuukinzounaizou",
-   "score": 14251,
-   "date": "2010-01-17T06:00:00.000000Z",
+   "id": 167,
+   "uid": 102195283,
+   "user": "keisen2853",
+   "score": 14268,
+   "date": "2009-09-04T06:00:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
-   "comment": "なぜかサライムシがいないことに気づきやり直し・・・",
+   "comment": "正直あと10秒は速く出来ると思います。",
    "tie": false
   },
   {
@@ -51,16 +51,40 @@
    "tie": false
   },
   {
-   "id": 731,
-   "uid": null,
-   "user": "Selenium_pikmin",
-   "score": 14308,
+   "id": 268,
+   "uid": 102332438,
+   "user": "albut3",
+   "score": 14286,
+   "date": "2013-07-04T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "まだ行けると思います。ゲキカラの使いどころが難しいです。",
+   "tie": false
+  },
+  {
+   "id": 613,
+   "uid": 209038825,
+   "user": "FeTellYou",
+   "score": 14318,
    "date": "2015-11-01T03:58:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
    "console": 1,
    "comment": "コメントなし",
    "tie": false
+  },
+  {
+   "id": 1901,
+   "uid": 221846145,
+   "user": "iid01",
+   "score": 14318,
+   "date": "2016-03-31T05:48:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
   },
   {
    "id": 1916,
@@ -75,39 +99,51 @@
    "tie": false
   },
   {
-   "id": 5859,
-   "uid": null,
-   "user": "flyinghawk",
-   "score": 14325,
-   "date": "2018-02-18T19:28:00.000000Z",
-   "video": "",
-   "img": "20180219-132810-1470956340.jpeg",
-   "console": 1,
-   "comment": "嫌いだからもうやりたくない",
-   "tie": true
-  },
-  {
-   "id": 6474,
-   "uid": null,
-   "user": "sectionmarilui",
-   "score": 14325,
-   "date": "2018-06-12T21:36:57.000000Z",
-   "video": "",
-   "img": "20180613-153657-217640198.jpg",
-   "console": 1,
-   "comment": "落としたサクレにCステでつきづらいのムカつきますよね",
-   "tie": true
-  },
-  {
-   "id": 6656,
-   "uid": null,
-   "user": "noamoa",
+   "id": 4923,
+   "uid": 246706278,
+   "user": "albut3",
    "score": 14326,
-   "date": "2018-07-27T04:00:15.000000Z",
+   "date": "2017-10-10T12:05:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=skJphOyPcd4",
+   "img": "",
+   "console": 1,
+   "comment": "まだがんばるかも",
+   "tie": false
+  },
+  {
+   "id": 5080,
+   "uid": 248624418,
+   "user": "Gorei_50",
+   "score": 14326,
+   "date": "2017-11-07T19:42:00.000000Z",
    "video": "",
-   "img": "20180727-220015-1534601445.jpg",
-   "console": 2,
-   "comment": "ごれいの洞窟",
+   "img": "20171108-134227-240738000.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 5910,
+   "uid": 255111583,
+   "user": "albut3",
+   "score": 14329,
+   "date": "2018-02-28T21:26:00.000000Z",
+   "video": "https://www.youtube.com/watch?v=5xmE5tHimyE",
+   "img": "",
+   "console": 1,
+   "comment": "才能の壁を感じる",
+   "tie": false
+  },
+  {
+   "id": 5935,
+   "uid": 256778246,
+   "user": "Gorei_50",
+   "score": 14331,
+   "date": "2018-03-04T16:06:00.000000Z",
+   "video": "https://youtu.be/ed8AWat0-Jk",
+   "img": "20180305-100652-784311475.PNG",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -120,18 +156,18 @@
    "img": "20181020-140221-572108709.png",
    "console": 1,
    "comment": "コメントなし",
-   "tie": false
+   "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 8080,
+   "uid": 265526768,
    "user": "Gorei_50",
    "score": 14342,
-   "date": "2019-10-31T00:00:00.000000Z",
+   "date": "2019-10-30T09:55:23.000000Z",
    "video": "https://youtu.be/CLiy0Ua3raE",
    "img": "",
-   "console": null,
-   "comment": "[NGC] ようやく更新できた（みんなやって？）",
+   "console": 1,
+   "comment": "ようやく更新できた（みんなやって？）",
    "tie": false
   },
   {
@@ -157,5 +193,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

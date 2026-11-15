@@ -27,15 +27,27 @@
    "tie": false
   },
   {
-   "id": 343,
-   "uid": null,
-   "user": "nanshitsujuukinzounaizou",
-   "score": 4290,
-   "date": "2013-11-07T06:00:00.000000Z",
+   "id": 323,
+   "uid": 105223583,
+   "user": "koppacha",
+   "score": 5280,
+   "date": "2013-10-01T06:00:00.000000Z",
    "video": "",
-   "img": null,
-   "console": 2,
-   "comment": "ヘビガラスは羽ピクミンの集団にゲキカラかけて突撃でおｋ",
+   "img": "",
+   "console": 3,
+   "comment": "ここの無犠牲目指してひたすら頑張ってた時期がありました",
+   "tie": false
+  },
+  {
+   "id": 1655,
+   "uid": 218746495,
+   "user": "koppacha",
+   "score": 7470,
+   "date": "2016-03-05T21:05:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 3,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -169,5 +181,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

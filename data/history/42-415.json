@@ -3,6 +3,114 @@
  "stage": 415,
  "records": [
   {
+   "id": 16390,
+   "uid": 301646178,
+   "user": "6harapikumin",
+   "score": 147,
+   "date": "2023-07-31T09:38:03.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16552,
+   "uid": 301514035,
+   "user": "Z_pikmin",
+   "score": 201,
+   "date": "2023-08-06T03:32:03.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "むずかしい",
+   "tie": false
+  },
+  {
+   "id": 16666,
+   "uid": 301659545,
+   "user": "Happa-san",
+   "score": 264,
+   "date": "2023-08-11T22:00:30.000000Z",
+   "video": "",
+   "img": "20230812-160030-6722643918.jpg",
+   "console": 4,
+   "comment": "マップ迷子症候群発症しがち",
+   "tie": false
+  },
+  {
+   "id": 16684,
+   "uid": 301301290,
+   "user": "aqr2",
+   "score": 282,
+   "date": "2023-08-12T09:55:13.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16708,
+   "uid": 301614649,
+   "user": "koppacha",
+   "score": 363,
+   "date": "2023-08-13T05:10:42.000000Z",
+   "video": "",
+   "img": "20230813-231042-8423852464.png",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16761,
+   "uid": 301637408,
+   "user": "Klaus00",
+   "score": 416,
+   "date": "2023-08-17T03:08:33.000000Z",
+   "video": "https://youtu.be/HgtLfZgrL8o",
+   "img": "",
+   "console": 4,
+   "comment": "🍎のプレミア品かなりおいしい。操作はgdgd",
+   "tie": false
+  },
+  {
+   "id": 16849,
+   "uid": 301071263,
+   "user": "albut3",
+   "score": 486,
+   "date": "2023-08-28T23:57:45.000000Z",
+   "video": "https://www.youtube.com/watch?v=CEXADhiJybw",
+   "img": "",
+   "console": 4,
+   "comment": "ゲキカラGAMINGです",
+   "tie": false
+  },
+  {
+   "id": 17168,
+   "uid": 303858003,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 507,
+   "date": "2023-10-23T02:45:21.000000Z",
+   "video": "https://youtu.be/ya6kWAYmKLM?si=_aj9o_SOYZlS9mc-",
+   "img": "20231023-204521-2575412254.jpg",
+   "console": 4,
+   "comment": "ダンドリバトル合計3000点達成です",
+   "tie": false
+  },
+  {
+   "id": 18215,
+   "uid": 309506055,
+   "user": "wnsrn8650",
+   "score": 531,
+   "date": "2024-09-29T22:38:20.000000Z",
+   "video": "",
+   "img": "20240930-163820-9988476329.jpg",
+   "console": 4,
+   "comment": "始めてのプレミアはカニから、あとは運良くゲキカラ2回で達成しました",
+   "tie": false
+  },
+  {
    "id": 18217,
    "uid": 309158038,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +122,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

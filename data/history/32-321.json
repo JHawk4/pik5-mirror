@@ -15,6 +15,30 @@
    "tie": false
   },
   {
+   "id": 333,
+   "uid": 105490852,
+   "user": "koppacha",
+   "score": 1345,
+   "date": "2013-11-07T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 3,
+   "comment": "始まりの森といえばブリコですよねやっぱり",
+   "tie": true
+  },
+  {
+   "id": 1000,
+   "uid": 212878189,
+   "user": "muratsubo",
+   "score": 1935,
+   "date": "2015-11-07T04:39:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 3,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 1637,
    "uid": null,
    "user": "koppacha",
@@ -99,15 +123,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 15571,
+   "uid": 278373070,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 7125,
-   "date": "2022-11-26T00:00:00.000000Z",
-   "video": "https://video.twimg.com/ext_tw_video/1596419043770392580/pu/vid/640x360/wslgB5QTjqZFP6X2.mp4?tag=12",
+   "date": "2022-11-25T23:24:02.000000Z",
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1596419144043593728?s=61&t=xm3SlzxdCc3EAa_3UkWOCg",
    "img": "20221126-172402-1701780954.jpeg",
-   "console": null,
-   "comment": "[Switch Pro$] 残10:19 ルート変更なしです。",
+   "console": 4,
+   "comment": "残10:19 ルート変更なしです。",
    "tie": false
   },
   {
@@ -133,5 +157,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

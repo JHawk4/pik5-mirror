@@ -15,6 +15,18 @@
    "tie": false
   },
   {
+   "id": 131,
+   "uid": 100478182,
+   "user": "koppacha",
+   "score": 26727,
+   "date": "2008-09-23T06:00:00.000000Z",
+   "video": "http://www.nicovideo.jp/watch/sm1493870",
+   "img": "",
+   "console": 1,
+   "comment": "ガードサテライトを持っていた頃のダマグモはどこに…。",
+   "tie": false
+  },
+  {
    "id": 195,
    "uid": null,
    "user": "shinya_",
@@ -75,39 +87,27 @@
    "tie": true
   },
   {
-   "id": 3974,
-   "uid": null,
-   "user": "PKtoyama",
+   "id": 943,
+   "uid": 211454685,
+   "user": "iid01",
    "score": 26757,
-   "date": "2017-05-29T07:12:00.000000Z",
+   "date": "2015-11-06T05:04:00.000000Z",
    "video": "",
-   "img": "20170530-011205-1839548121.jpg",
+   "img": "",
    "console": 1,
    "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": 4068,
-   "uid": null,
-   "user": "pikmin893",
-   "score": 26758,
-   "date": "2017-06-06T18:02:00.000000Z",
+   "id": 1984,
+   "uid": 224355419,
+   "user": "HoshiKUZU_pik",
+   "score": 26760,
+   "date": "2016-04-10T22:28:00.000000Z",
    "video": "",
-   "img": "20170607-120254-2019292929.png",
+   "img": "20160411-162803-623209499.jpeg",
    "console": 1,
-   "comment": "コメントなし",
-   "tie": false
-  },
-  {
-   "id": 4131,
-   "uid": null,
-   "user": "keisen2853",
-   "score": 26759,
-   "date": "2017-06-13T19:51:00.000000Z",
-   "video": "",
-   "img": "20170614-135110-862593238.jpg",
-   "console": 1,
-   "comment": "えぇ…",
+   "comment": "TASとの差、残り5点",
    "tie": false
   },
   {
@@ -147,39 +147,39 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 12386,
+   "uid": 274990840,
    "user": "Gorei_50",
    "score": 26769,
-   "date": "2021-03-18T00:00:00.000000Z",
+   "date": "2021-03-17T23:25:44.000000Z",
    "video": "https://youtu.be/ILBmE1AEdg0",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14113,
+   "uid": 277877892,
    "user": "mercysnow",
    "score": 26769,
-   "date": "2021-12-21T00:00:00.000000Z",
+   "date": "2021-12-20T06:34:11.000000Z",
    "video": "https://youtu.be/dpfUP-UpyXE",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 14697,
+   "uid": 277906904,
    "user": "albut3",
    "score": 26769,
-   "date": "2022-05-13T00:00:00.000000Z",
+   "date": "2022-05-12T18:06:27.000000Z",
    "video": "https://www.youtube.com/watch?v=3gio3DHzYPE",
    "img": "20220513-120628-1347108849.jpg",
-   "console": null,
-   "comment": "[Wii] ほぼ完璧なピクミン配分",
+   "console": 2,
+   "comment": "ほぼ完璧なピクミン配分",
    "tie": true
   },
   {
@@ -207,6 +207,18 @@
    "tie": true
   },
   {
+   "id": 17402,
+   "uid": 304732715,
+   "user": "Gorei_50",
+   "score": 26771,
+   "date": "2023-12-09T18:50:38.000000Z",
+   "video": "https://youtu.be/67pjh0q5AJQ",
+   "img": "",
+   "console": 2,
+   "comment": "黄昏よりも昏きもの",
+   "tie": false
+  },
+  {
    "id": 17703,
    "uid": 308732354,
    "user": "Gorei_50",
@@ -229,5 +241,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

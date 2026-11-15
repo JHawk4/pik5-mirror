@@ -12,12 +12,52 @@
    "comment": "紫ピクミン重要かも？岩ピクミンと羽ピクミンをいち早く開拓すべきかな？"
   },
   {
+   "id": 363,
+   "user": "koppacha",
+   "score": 6380,
+   "date": "2013-12-04T06:00:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
+   "comment": "初見ではこんなの無理だろと思っていたら意外とすんなりプラチナ"
+  },
+  {
+   "id": 990,
+   "user": "muratsubo",
+   "score": 11240,
+   "date": "2015-11-07T04:35:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1027,
+   "user": "noamoa",
+   "score": 7190,
+   "date": "2015-11-07T05:04:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "20151107-230424-1785006776.jpg",
+   "comment": "コメントなし"
+  },
+  {
    "id": 1643,
    "user": "koppacha",
    "score": 13100,
    "date": "2016-03-05T20:52:00.000000Z",
    "console": 3,
    "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1885,
+   "user": "noamoa",
+   "score": 13490,
+   "date": "2016-03-26T02:48:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20160326-204811-1214740914.jpg",
    "comment": "コメントなし"
   },
   {
@@ -88,6 +128,16 @@
    "img": "20201113-090800-1083366739.jpeg"
   },
   {
+   "id": 11179,
+   "user": "messhi475",
+   "score": 16070,
+   "date": "2020-11-13T17:05:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20201114-110500-1929733526.JPG",
+   "comment": "想定外まで、あともう少し・・・"
+  },
+  {
    "id": 11343,
    "user": "nuinuisousou",
    "score": 15230,
@@ -147,15 +197,24 @@
    "img": "20201223-234504-1004388479.jpeg"
   },
   {
-   "id": null,
+   "id": 11746,
+   "user": "futsuunoningen",
+   "score": 12290,
+   "date": "2020-12-23T17:50:43.000000Z",
+   "console": 4,
+   "video": "https://www.youtube.com/watch?v=ItT8HpYd4LE",
+   "img": "20201224-115043-99837440.png",
+   "comment": "クリスマスイブだから調子に乗りました"
+  },
+  {
+   "id": 11747,
    "user": "mikou_musicgame",
    "score": 14840,
-   "date": "2020-12-24T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-24T05:42:48.000000Z",
+   "console": 4,
    "video": "",
    "img": "20201224-234248-302965686.JPG",
-   "comment": "[Switch Pro#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 12029,
@@ -306,15 +365,14 @@
    "comment": "6:19残し"
   },
   {
-   "id": null,
+   "id": 13917,
    "user": "esu",
    "score": 19130,
-   "date": "2021-11-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-19T03:24:02.000000Z",
+   "console": 4,
    "video": "https://youtu.be/_faxn1Ta_WE",
    "img": "20211119-212402-31560621.jpeg",
-   "comment": "[Switch Pro$] 運ゲーがきつい",
-   "source": "sheet-2023"
+   "comment": "運ゲーがきつい"
   },
   {
    "id": 14124,
@@ -399,15 +457,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 15032,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 19040,
-   "date": "2022-09-06T00:00:00.000000Z",
-   "console": null,
-   "video": "https://video.twimg.com/ext_tw_video/1566904697210159104/pu/pl/aJdIuybZeIzaWZnw.m3u8?tag=12&container=fmp4",
+   "date": "2022-09-05T12:44:21.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1566904751111159808?s=21&t=uaY4-BKT6lKO11NL7WzENQ",
    "img": "20220906-064421-573341035.jpeg",
-   "comment": "[Switch Pro$] 残7:18 19000点達成しました。",
-   "source": "sheet-2023"
+   "comment": "残7:18 19000点達成しました。"
   },
   {
    "id": 16216,
@@ -420,15 +477,14 @@
    "img": "20230705-111045-611410069.jpg"
   },
   {
-   "id": null,
+   "id": 16253,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 19100,
-   "date": "2023-07-14T00:00:00.000000Z",
-   "console": null,
+   "date": "2023-07-14T01:59:28.000000Z",
+   "console": 4,
    "video": "",
    "img": "20230714-195928-688894764.jpeg",
-   "comment": "[Switch Pro$] リザルト画面の写真がありませんでした……",
-   "source": "sheet-2023"
+   "comment": "リザルト画面の写真がありませんでした……"
   },
   {
    "id": 18643,

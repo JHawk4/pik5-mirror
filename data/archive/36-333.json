@@ -50,6 +50,16 @@
    "comment": "コメントなし"
   },
   {
+   "id": 11131,
+   "user": "mikou_musicgame",
+   "score": 14100,
+   "date": "2020-11-11T06:54:37.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20201112-005437-1933990487.JPG",
+   "comment": "コメントなし"
+  },
+  {
    "id": 11284,
    "user": "YT7GyX7X6SN2S8v",
    "score": 8550,
@@ -67,6 +77,16 @@
    "video": "",
    "comment": "一旦",
    "img": "20201204-032141-1742274540.jpeg"
+  },
+  {
+   "id": 11633,
+   "user": "Jay596",
+   "score": 14400,
+   "date": "2020-12-08T20:57:06.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/E4DIwiiPkfU?t=520",
+   "img": "",
+   "comment": "コメントなし"
   },
   {
    "id": 11641,
@@ -87,15 +107,24 @@
    "comment": "better"
   },
   {
-   "id": null,
+   "id": 11726,
    "user": "PiePusher11",
    "score": 14850,
-   "date": "2020-12-20T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-19T11:23:32.000000Z",
+   "console": 4,
    "video": "",
    "img": "20201220-052332-594109833.PNG",
-   "comment": "[Joy-Con Double$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11743,
+   "user": "RexMcPwn",
+   "score": 15330,
+   "date": "2020-12-23T09:10:35.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/GSOXSL3ll88",
+   "img": "",
+   "comment": "free the strats"
   },
   {
    "id": 11749,
@@ -237,15 +266,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 13327,
    "user": "Jay596",
    "score": 15510,
-   "date": "2021-10-29T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-10-28T15:46:04.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=RnAIN5pb8eI",
    "img": "",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": null,
@@ -259,15 +287,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 14058,
    "user": "esu",
    "score": 15660,
-   "date": "2021-12-08T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-12-08T01:11:39.000000Z",
+   "console": 4,
    "video": "https://youtu.be/RR7DMJknwsQ",
    "img": "20211208-191139-31321124.jpeg",
-   "comment": "[Switch Pro$] マスカットが噛み合うかどうかで決まってくる",
-   "source": "sheet-2023"
+   "comment": "マスカットが噛み合うかどうかで決まってくる"
   },
   {
    "id": null,
@@ -353,15 +380,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 14849,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 15510,
-   "date": "2022-08-06T00:00:00.000000Z",
-   "console": null,
-   "video": "https://video.twimg.com/ext_tw_video/1555810315518226432/pu/vid/480x270/dVFZoYDWFzz8ewSu.mp4?tag=12",
+   "date": "2022-08-05T22:02:56.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1555810356442050561?s=21&t=2ZLMryfcZ92G67e6GcGDww",
    "img": "20220806-160256-1095919092.png",
-   "comment": "[Switch Pro$] 残8:08 ウオノコに食べられました。",
-   "source": "sheet-2023"
+   "comment": "残8:08 ウオノコに食べられました。"
   },
   {
    "id": 15437,

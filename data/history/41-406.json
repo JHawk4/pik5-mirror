@@ -3,6 +3,150 @@
  "stage": 406,
  "records": [
   {
+   "id": 16277,
+   "uid": 301712149,
+   "user": "koppacha",
+   "score": 358,
+   "date": "2023-07-29T02:14:51.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16375,
+   "uid": 301394132,
+   "user": "spark573",
+   "score": 552,
+   "date": "2023-07-31T04:53:24.000000Z",
+   "video": "https://twitter.com/spark573/status/1686009078646996992",
+   "img": "",
+   "console": 4,
+   "comment": "ステージは面白いと思う　操作は……",
+   "tie": false
+  },
+  {
+   "id": 16457,
+   "uid": 301026075,
+   "user": "keisen2853",
+   "score": 589,
+   "date": "2023-08-02T03:23:02.000000Z",
+   "video": "https://www.youtube.com/watch?v=ZgajDAfkIiM",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16824,
+   "uid": 301558607,
+   "user": "yakiniku",
+   "score": 602,
+   "date": "2023-08-25T04:10:38.000000Z",
+   "video": "https://youtu.be/3swZr_v2tLg?si=_k6u-7jZSy3QZYH7",
+   "img": "",
+   "console": 4,
+   "comment": "600点突破",
+   "tie": false
+  },
+  {
+   "id": 17008,
+   "uid": 301328234,
+   "user": "fluky",
+   "score": 617,
+   "date": "2023-09-14T02:57:10.000000Z",
+   "video": "https://youtube.com/watch?v=o6Nu9Ijt2Gk",
+   "img": "",
+   "console": 4,
+   "comment": "オッチン爆走ルート",
+   "tie": false
+  },
+  {
+   "id": 17056,
+   "uid": 302140335,
+   "user": "albut3",
+   "score": 621,
+   "date": "2023-09-25T01:56:08.000000Z",
+   "video": "https://www.youtube.com/watch?v=sLUqZSlC4uk",
+   "img": "",
+   "console": 4,
+   "comment": "渋滞しないことを祈るゲーム",
+   "tie": false
+  },
+  {
+   "id": 17256,
+   "uid": 304175617,
+   "user": "Moony",
+   "score": 621,
+   "date": "2023-11-16T21:54:35.000000Z",
+   "video": "https://youtu.be/_IbDcwes5oE",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 17438,
+   "uid": 305952425,
+   "user": "shino15nome",
+   "score": 621,
+   "date": "2023-12-20T02:32:14.000000Z",
+   "video": "https://youtu.be/L7MAFwOZm-4?si=zV9e_mf4jp8FhriH",
+   "img": "20231220-203214-1416768947.jpg",
+   "console": 4,
+   "comment": "初爆走です",
+   "tie": true
+  },
+  {
+   "id": 17459,
+   "uid": 305589763,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 622,
+   "date": "2023-12-23T17:51:49.000000Z",
+   "video": "https://youtu.be/TCar8O2KIS8?si=CUKIkHpr5739Z4EF",
+   "img": "20231224-115149-5978041550.jpg",
+   "console": 4,
+   "comment": "上手く噛み合いました",
+   "tie": false
+  },
+  {
+   "id": 17816,
+   "uid": 308863909,
+   "user": "mercysnow",
+   "score": 627,
+   "date": "2024-05-13T17:40:03.000000Z",
+   "video": "https://youtu.be/p0QAtMCcMe0?si=lDQwvm4OONvFcWzJ",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18260,
+   "uid": 309377323,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 629,
+   "date": "2024-11-08T02:33:42.000000Z",
+   "video": "https://youtu.be/vc-rpCYqm6o?si=kRoxd3WocJZUynWT",
+   "img": "",
+   "console": 4,
+   "comment": "All Dandori Challengesの練習してたら出ました",
+   "tie": false
+  },
+  {
+   "id": 18692,
+   "uid": 311156960,
+   "user": "mercysnow",
+   "score": 631,
+   "date": "2025-08-27T19:16:02.000000Z",
+   "video": "https://youtu.be/yzXjQDrawg4",
+   "img": "",
+   "console": 4,
+   "comment": "まあまあ",
+   "tie": false
+  },
+  {
    "id": 19301,
    "uid": 312787275,
    "user": "Bl6AltMzq5Jx4aM",
@@ -36,5 +180,6 @@
    "tie": true
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

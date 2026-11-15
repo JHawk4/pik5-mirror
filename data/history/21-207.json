@@ -27,6 +27,18 @@
    "tie": false
   },
   {
+   "id": 130,
+   "uid": 100820600,
+   "user": "koppacha",
+   "score": 14828,
+   "date": "2008-09-23T06:00:00.000000Z",
+   "video": "http://www.nicovideo.jp/watch/sm4725085",
+   "img": "",
+   "console": 1,
+   "comment": "タマゴムシが出ればもっと伸ばせる。",
+   "tie": false
+  },
+  {
    "id": 192,
    "uid": null,
    "user": "shinya_",
@@ -87,15 +99,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 8011,
+   "uid": 265501644,
    "user": "Gorei_50",
    "score": 14961,
-   "date": "2019-09-11T00:00:00.000000Z",
+   "date": "2019-09-10T23:49:21.000000Z",
    "video": "https://youtu.be/S3-_GBAJQJQ",
    "img": "",
-   "console": null,
-   "comment": "[NGC] コメントなし",
+   "console": 1,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -123,6 +135,18 @@
    "tie": false
   },
   {
+   "id": 18398,
+   "uid": 310443484,
+   "user": "Gorei_50",
+   "score": 15033,
+   "date": "2025-02-07T20:39:33.000000Z",
+   "video": "https://youtu.be/pOnJDoCOnuk",
+   "img": "",
+   "console": 2,
+   "comment": "とりあえず",
+   "tie": false
+  },
+  {
    "id": 19423,
    "uid": 314258841,
    "user": "Gorei_50",
@@ -134,5 +158,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

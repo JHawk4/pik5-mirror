@@ -3,6 +3,54 @@
  "stage": 435,
  "records": [
   {
+   "id": 18759,
+   "uid": 311213136,
+   "user": "koppacha",
+   "score": 293,
+   "date": "2025-09-06T03:04:58.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18817,
+   "uid": 311348065,
+   "user": "April_lapispik",
+   "score": 277,
+   "date": "2025-09-06T04:38:16.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18858,
+   "uid": 311794456,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 162,
+   "date": "2025-09-07T03:43:13.000000Z",
+   "video": "https://youtu.be/pnFsarCJfcg?si=H7Y_hnOqe7eS6sE6",
+   "img": "",
+   "console": 4,
+   "comment": "コメントナシ",
+   "tie": false
+  },
+  {
+   "id": 18878,
+   "uid": 311365572,
+   "user": "kobachi_no_udon",
+   "score": 138,
+   "date": "2025-09-10T01:35:37.000000Z",
+   "video": "https://youtu.be/EKAhFeLSvTM",
+   "img": "",
+   "console": 4,
+   "comment": "オッチンの無限トッシンを信じたルート",
+   "tie": false
+  },
+  {
    "id": 19606,
    "uid": 315073019,
    "user": "kobachi_no_udon",
@@ -14,5 +62,6 @@
    "tie": false
   }
  ],
- "lower_is_better": true
+ "lower_is_better": true,
+ "backfilled": true
 }

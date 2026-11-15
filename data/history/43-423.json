@@ -3,6 +3,102 @@
  "stage": 423,
  "records": [
   {
+   "id": 16294,
+   "uid": 301176342,
+   "user": "koppacha",
+   "score": 48,
+   "date": "2023-07-29T02:18:05.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16349,
+   "uid": 301663591,
+   "user": "shiocha78",
+   "score": 249,
+   "date": "2023-07-30T05:53:28.000000Z",
+   "video": "https://youtu.be/iFofZY6wDyM",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16612,
+   "uid": 301065970,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 251,
+   "date": "2023-08-10T03:27:35.000000Z",
+   "video": "https://youtu.be/cOBlJgVjQOw",
+   "img": "",
+   "console": 4,
+   "comment": "まだ行けそうです",
+   "tie": false
+  },
+  {
+   "id": 16923,
+   "uid": 301902482,
+   "user": "Lotus",
+   "score": 290,
+   "date": "2023-09-01T15:25:48.000000Z",
+   "video": "https://www.youtube.com/watch?v=Q33y9kZGN-A",
+   "img": "",
+   "console": 4,
+   "comment": "白オニオン部屋入口から回収ポッドまでワープしました！落下時の復帰地点を回収ポッド付近で固定させ、マルノミ落下でワープしてます",
+   "tie": false
+  },
+  {
+   "id": 16935,
+   "uid": 301748671,
+   "user": "shino15nome",
+   "score": 291,
+   "date": "2023-09-02T22:37:55.000000Z",
+   "video": "",
+   "img": "20230903-163755-1404434696.jpg",
+   "console": 4,
+   "comment": "ワープの挙動試してたらなんか更新しました",
+   "tie": false
+  },
+  {
+   "id": 17024,
+   "uid": 301598062,
+   "user": "BOX",
+   "score": 297,
+   "date": "2023-09-18T23:33:52.000000Z",
+   "video": "https://youtu.be/SmdJsE5-HKw?si=S-yXFH530fVr1ZQW",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18212,
+   "uid": 309637403,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 297,
+   "date": "2024-09-28T23:19:15.000000Z",
+   "video": "https://youtu.be/8lbEfKpoFaI?si=O2-cFAxlrWAkBDKt",
+   "img": "20240929-171915-7911538879.jpg",
+   "console": 4,
+   "comment": "5分台は可能ですがきついです",
+   "tie": true
+  },
+  {
+   "id": 18628,
+   "uid": 311719748,
+   "user": "toripoppo0307",
+   "score": 306,
+   "date": "2025-08-10T02:39:02.000000Z",
+   "video": "https://youtu.be/ALjs7gq8nFg",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
    "id": 18725,
    "uid": 311102285,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +110,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

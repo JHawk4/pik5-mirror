@@ -3,15 +3,27 @@
  "stage": 306,
  "records": [
   {
-   "id": 352,
-   "uid": null,
-   "user": "nanshitsujuukinzounaizou",
-   "score": 2110,
-   "date": "2013-11-07T06:00:00.000000Z",
+   "id": 324,
+   "uid": 105559028,
+   "user": "koppacha",
+   "score": 3190,
+   "date": "2013-10-01T06:00:00.000000Z",
    "video": "",
-   "img": null,
+   "img": "",
+   "console": 3,
+   "comment": "100個のキンカイにビビる",
+   "tie": false
+  },
+  {
+   "id": 379,
+   "uid": 107685086,
+   "user": "robustar",
+   "score": 5560,
+   "date": "2013-12-26T06:00:00.000000Z",
+   "video": "",
+   "img": "",
    "console": 2,
-   "comment": "忙しいので追加コースはプラチナを取った段階で止まってます　流石に難易度高いですね・・・",
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -110,5 +122,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -75,15 +75,15 @@
    "tie": true
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 13335,
+   "uid": 276582298,
    "user": "Jay596",
    "score": 17990,
-   "date": "2021-10-30T00:00:00.000000Z",
+   "date": "2021-10-29T18:02:45.000000Z",
    "video": "https://www.youtube.com/watch?v=fvaAZzKL-TA",
    "img": "",
-   "console": null,
-   "comment": "[Switch Pro$] コメントなし",
+   "console": 4,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -122,5 +122,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

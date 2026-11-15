@@ -21,6 +21,16 @@
    "comment": "カブリムシが強いです。"
   },
   {
+   "id": 322,
+   "user": "koppacha",
+   "score": 9250,
+   "date": "2013-10-01T06:00:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
+   "comment": "1万点行けそうで行けない"
+  },
+  {
    "id": 331,
    "user": "gatchi",
    "score": 11350,
@@ -30,12 +40,52 @@
    "comment": "ここ楽しい！"
   },
   {
+   "id": 339,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 9130,
+   "date": "2013-11-07T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "",
+   "comment": "このコースはやってて楽しいです。"
+  },
+  {
+   "id": 377,
+   "user": "robustar",
+   "score": 11800,
+   "date": "2013-12-26T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 981,
    "user": "muratsubo",
    "score": 10660,
    "date": "2015-11-07T04:32:00.000000Z",
    "console": 3,
    "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1013,
+   "user": "noamoa",
+   "score": 9400,
+   "date": "2015-11-07T04:55:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "20151107-225513-1913261974.jpg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1622,
+   "user": "koppacha",
+   "score": 11770,
+   "date": "2016-03-05T20:42:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
    "comment": "コメントなし"
   },
   {
@@ -202,15 +252,14 @@
    "img": "20201117-220822-1835662499.jpg"
   },
   {
-   "id": null,
+   "id": 11270,
    "user": "Jay596",
    "score": 14950,
-   "date": "2020-11-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-11-17T20:31:15.000000Z",
+   "console": 2,
    "video": "https://youtu.be/VJV08HZsDIY?t=500",
    "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 11292,
@@ -260,15 +309,24 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 11697,
    "user": "mikou_musicgame",
    "score": 13120,
-   "date": "2020-12-16T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-16T00:18:35.000000Z",
+   "console": 4,
    "video": "",
    "img": "20201216-181835-512148580.JPG",
-   "comment": "[Switch Pro#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
+  },
+  {
+   "id": 11717,
+   "user": "messhi475",
+   "score": 13810,
+   "date": "2020-12-18T17:40:50.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/eFDpzph2EW4",
+   "img": "20201219-114029-1896746895.jpg",
+   "comment": "6年前の方法をアレンジしたものの、全く更新できません・・・"
   },
   {
    "id": 11786,
@@ -420,26 +478,24 @@
    "img": "20211030-203738-745512555.JPG"
   },
   {
-   "id": null,
+   "id": 13370,
    "user": "shiocha78",
    "score": 14950,
-   "date": "2021-11-04T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-03T08:12:11.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=9gkj4KQbyek",
    "img": "",
-   "comment": "[Joy-Con Double$] 6:27残し 15000行きたい",
-   "source": "sheet-2023"
+   "comment": "6:27残し 15000行きたい"
   },
   {
-   "id": null,
+   "id": 13933,
    "user": "esu",
    "score": 15940,
-   "date": "2021-11-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-19T05:05:58.000000Z",
+   "console": 4,
    "video": "https://youtu.be/QNL3h3mKa3o",
    "img": "20211119-230558-1942777440.jpeg",
-   "comment": "[Switch Pro$] 16000点は無理です",
-   "source": "sheet-2023"
+   "comment": "16000点は無理です"
   },
   {
    "id": 14132,
@@ -564,15 +620,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 15095,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 15970,
-   "date": "2022-09-20T00:00:00.000000Z",
-   "console": null,
-   "video": "https://video.twimg.com/ext_tw_video/1572113696301936641/pu/pl/SZ53-N_W9APpEHwX.m3u8?tag=12&container=fmp4",
+   "date": "2022-09-19T21:44:05.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1572113737703919618?s=21&t=0u4rlZ7O73c4LjNlZ6D_QQ",
    "img": "20220920-154405-1592047207.jpeg",
-   "comment": "[Switch Pro$] 残7:01 7分台達成です。",
-   "source": "sheet-2023"
+   "comment": "残7:01 7分台達成です。"
   },
   {
    "id": 15791,

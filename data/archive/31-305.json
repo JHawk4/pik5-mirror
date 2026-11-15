@@ -3,6 +3,16 @@
  "stage": 305,
  "posts": [
   {
+   "id": 277,
+   "user": "koppacha",
+   "score": 5040,
+   "date": "2013-07-24T06:00:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
+   "comment": "プラチナが遠い"
+  },
+  {
    "id": 290,
    "user": "official",
    "score": 4500,
@@ -10,6 +20,46 @@
    "console": 2,
    "video": "",
    "comment": "公式ガイドブックの「プラチナ攻略参考スコア」です。"
+  },
+  {
+   "id": 341,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 6420,
+   "date": "2013-11-07T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "",
+   "comment": "２人マップの下方向に投げ、一人で上方向の２つの壁を破壊しました。"
+  },
+  {
+   "id": 378,
+   "user": "robustar",
+   "score": 6540,
+   "date": "2013-12-26T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 983,
+   "user": "muratsubo",
+   "score": 5730,
+   "date": "2015-11-07T04:32:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1378,
+   "user": "noamoa",
+   "score": 6630,
+   "date": "2015-12-19T21:03:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20151220-150305-925861143.jpg",
+   "comment": "コメントなし"
   },
   {
    "id": 1624,
@@ -114,6 +164,16 @@
    "comment": "コメントなし"
   },
   {
+   "id": 11180,
+   "user": "messhi475",
+   "score": 11040,
+   "date": "2020-11-13T17:08:21.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/mmK7KKmw_c8",
+   "img": "20201114-110821-1115975310.JPG",
+   "comment": "6年以上前に出した記録です。"
+  },
+  {
    "id": 11261,
    "user": "hokogamae",
    "score": 9360,
@@ -199,15 +259,14 @@
    "img": "20201231-035744-1523334724.jpg"
   },
   {
-   "id": null,
+   "id": 11883,
    "user": "mikou_musicgame",
    "score": 10320,
-   "date": "2021-01-09T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-01-08T22:47:10.000000Z",
+   "console": 4,
    "video": "",
    "img": "20210109-164710-1815851340.JPG",
-   "comment": "[Switch Pro#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 12016,
@@ -219,15 +278,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 12049,
    "user": "pikuna",
    "score": 6960,
-   "date": "2021-01-24T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-01-23T18:39:20.000000Z",
+   "console": 4,
    "video": "",
    "img": "20210124-123920-1297089314.jpg",
-   "comment": "[Joy-Con Double#] 金塊が厄介",
-   "source": "sheet-2023"
+   "comment": "金塊が厄介"
   },
   {
    "id": 12068,
@@ -339,15 +397,14 @@
    "comment": "4:52残し 5分行けたなーって"
   },
   {
-   "id": null,
+   "id": 13920,
    "user": "esu",
    "score": 12930,
-   "date": "2021-11-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-19T03:33:34.000000Z",
+   "console": 4,
    "video": "https://youtu.be/7u9YXgOZDxY",
    "img": "20211119-213334-143267272.jpeg",
-   "comment": "[Switch Pro$] これ以上はきつい",
-   "source": "sheet-2023"
+   "comment": "これ以上はきつい"
   },
   {
    "id": 14168,

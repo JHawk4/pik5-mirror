@@ -15,6 +15,18 @@
    "tie": false
   },
   {
+   "id": 322,
+   "uid": 105720363,
+   "user": "koppacha",
+   "score": 9250,
+   "date": "2013-10-01T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 3,
+   "comment": "1万点行けそうで行けない",
+   "tie": false
+  },
+  {
    "id": 331,
    "uid": null,
    "user": "gatchi",
@@ -24,6 +36,18 @@
    "img": null,
    "console": 2,
    "comment": "ここ楽しい！",
+   "tie": false
+  },
+  {
+   "id": 377,
+   "uid": 107552267,
+   "user": "robustar",
+   "score": 11800,
+   "date": "2013-12-26T06:00:00.000000Z",
+   "video": "",
+   "img": "",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -51,15 +75,15 @@
    "tie": false
   },
   {
-   "id": null,
-   "uid": null,
+   "id": 11270,
+   "uid": 274195685,
    "user": "Jay596",
    "score": 14950,
-   "date": "2020-11-18T00:00:00.000000Z",
+   "date": "2020-11-17T20:31:15.000000Z",
    "video": "https://youtu.be/VJV08HZsDIY?t=500",
    "img": "",
-   "console": null,
-   "comment": "[Wii] コメントなし",
+   "console": 2,
+   "comment": "コメントなし",
    "tie": false
   },
   {
@@ -110,5 +134,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

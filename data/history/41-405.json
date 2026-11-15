@@ -3,6 +3,126 @@
  "stage": 405,
  "records": [
   {
+   "id": 16327,
+   "uid": 301211552,
+   "user": "noamoa",
+   "score": 190,
+   "date": "2023-07-30T01:40:19.000000Z",
+   "video": "",
+   "img": "20230730-194019-8337887830",
+   "console": 4,
+   "comment": "とりあえず",
+   "tie": false
+  },
+  {
+   "id": 16381,
+   "uid": 301883536,
+   "user": "Otomo",
+   "score": 365,
+   "date": "2023-07-31T09:22:24.000000Z",
+   "video": "https://www.youtube.com/watch?v=ItOpR7gpkBk",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16468,
+   "uid": 301994760,
+   "user": "keisen2853",
+   "score": 386,
+   "date": "2023-08-03T00:11:32.000000Z",
+   "video": "https://www.youtube.com/watch?v=X8IFGzRvQsg",
+   "img": "",
+   "console": 4,
+   "comment": "このコースは難解",
+   "tie": false
+  },
+  {
+   "id": 16820,
+   "uid": 301482713,
+   "user": "albut3",
+   "score": 402,
+   "date": "2023-08-24T13:14:11.000000Z",
+   "video": "https://www.youtube.com/watch?v=vvRmdMWkjIQ",
+   "img": "",
+   "console": 4,
+   "comment": "またいつか",
+   "tie": false
+  },
+  {
+   "id": 17206,
+   "uid": 303979829,
+   "user": "kobachi_no_udon",
+   "score": 405,
+   "date": "2023-11-07T00:54:24.000000Z",
+   "video": "https://youtu.be/jc2T8ReCN1o",
+   "img": "20231107-185423-5509955833.png",
+   "console": 4,
+   "comment": "まだつめられるけど、操作難度が高すぎてきびしい…",
+   "tie": false
+  },
+  {
+   "id": 17332,
+   "uid": 304803601,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 410,
+   "date": "2023-11-26T00:04:31.000000Z",
+   "video": "https://youtu.be/LAo-Z1Lykfk?si=jt9zAUFxIzPEkf9q",
+   "img": "20231126-180431-3983169407.jpg",
+   "console": 4,
+   "comment": "4分残しです！！(ガバあり)",
+   "tie": false
+  },
+  {
+   "id": 17769,
+   "uid": 308966660,
+   "user": "mercysnow",
+   "score": 410,
+   "date": "2024-05-06T20:55:16.000000Z",
+   "video": "https://youtu.be/F7AdCSOnEH0",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
+  },
+  {
+   "id": 17809,
+   "uid": 308743307,
+   "user": "kobachi_no_udon",
+   "score": 410,
+   "date": "2024-05-11T06:36:52.000000Z",
+   "video": "https://youtu.be/XwSnHXbNAIA",
+   "img": "20240512-003652-4766493332.png",
+   "console": 4,
+   "comment": "みんななかよし",
+   "tie": true
+  },
+  {
+   "id": 17858,
+   "uid": 308182695,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 414,
+   "date": "2024-05-26T02:23:24.000000Z",
+   "video": "https://youtu.be/8UxqZMmZ0qE?si=tViA5EiGIGVoNdvv",
+   "img": "20240526-202324-4870753593.jpg",
+   "console": 4,
+   "comment": "裏切ってしまいました…",
+   "tie": false
+  },
+  {
+   "id": 18688,
+   "uid": 311869749,
+   "user": "mercysnow",
+   "score": 416,
+   "date": "2025-08-25T02:35:05.000000Z",
+   "video": "https://youtu.be/7WNC4BIiVW0",
+   "img": "",
+   "console": 4,
+   "comment": "もう2〜3点伸びそう",
+   "tie": false
+  },
+  {
    "id": 19452,
    "uid": 314390886,
    "user": "mercysnow",
@@ -14,5 +134,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

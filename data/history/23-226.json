@@ -3,6 +3,90 @@
  "stage": 226,
  "records": [
   {
+   "id": 6265,
+   "uid": 258595360,
+   "user": "koppacha",
+   "score": 32509,
+   "date": "2018-05-12T00:22:26.000000Z",
+   "video": "",
+   "img": "20180512-182226-435499740.jpg",
+   "console": 1,
+   "comment": "自己ベ-97",
+   "tie": false
+  },
+  {
+   "id": 6279,
+   "uid": 258205468,
+   "user": "ikimono334",
+   "score": 32634,
+   "date": "2018-05-12T18:22:42.000000Z",
+   "video": "",
+   "img": "20180513-122242-1649536381.jpg",
+   "console": 1,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 6506,
+   "uid": 258871842,
+   "user": "noamoa",
+   "score": 32651,
+   "date": "2018-06-18T22:09:17.000000Z",
+   "video": "",
+   "img": "20180619-160917-2120255003.jpg",
+   "console": 2,
+   "comment": "B2は92、卵を押してるのでタイムは遅い",
+   "tie": false
+  },
+  {
+   "id": 7052,
+   "uid": 262317683,
+   "user": "albut3",
+   "score": 32658,
+   "date": "2018-12-23T10:24:30.000000Z",
+   "video": "",
+   "img": "20181224-042430-1973950554.JPG",
+   "console": 1,
+   "comment": "4792218",
+   "tie": false
+  },
+  {
+   "id": 7072,
+   "uid": 262468819,
+   "user": "iid01",
+   "score": 32658,
+   "date": "2019-01-03T23:58:23.000000Z",
+   "video": "",
+   "img": "20190104-175823-1307479500.jpg",
+   "console": 1,
+   "comment": "3階神地形神配置",
+   "tie": true
+  },
+  {
+   "id": 8367,
+   "uid": 266001425,
+   "user": "Gorei_50",
+   "score": 32682,
+   "date": "2020-04-06T00:40:30.000000Z",
+   "video": "",
+   "img": "20200406-184030-625109199.PNG",
+   "console": 2,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17610,
+   "uid": 307703658,
+   "user": "kobachi_no_udon",
+   "score": 32682,
+   "date": "2024-02-23T01:59:22.000000Z",
+   "video": "https://youtu.be/msCudwl7yEI",
+   "img": "20240223-195922-9047935007.jpg",
+   "console": 2,
+   "comment": "49+53+140",
+   "tie": true
+  },
+  {
    "id": 18343,
    "uid": 310333679,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +98,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

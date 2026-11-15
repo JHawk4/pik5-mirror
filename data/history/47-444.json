@@ -3,6 +3,54 @@
  "stage": 444,
  "records": [
   {
+   "id": 18800,
+   "uid": 311814546,
+   "user": "nitrosmish",
+   "score": 316,
+   "date": "2025-09-06T04:11:16.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18853,
+   "uid": 311555530,
+   "user": "toripoppo0307",
+   "score": 182,
+   "date": "2025-09-07T01:33:50.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 18886,
+   "uid": 311879565,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 166,
+   "date": "2025-09-12T02:46:52.000000Z",
+   "video": "https://youtu.be/wBsmvdIiAD4?si=81iJyY8R8bev55YS",
+   "img": "",
+   "console": 4,
+   "comment": "最初に暗転前にたまに何かが映るのやめてほしいです",
+   "tie": false
+  },
+  {
+   "id": 18953,
+   "uid": 312180690,
+   "user": "April_lapispik",
+   "score": 146,
+   "date": "2025-11-05T03:28:51.000000Z",
+   "video": "https://youtu.be/3TMk_MCtdWc",
+   "img": "",
+   "console": 4,
+   "comment": "ダイオウデメマダラくんにもお祈り",
+   "tie": false
+  },
+  {
    "id": 19714,
    "uid": 315104257,
    "user": "toripoppo0307",
@@ -14,5 +62,6 @@
    "tie": false
   }
  ],
- "lower_is_better": true
+ "lower_is_better": true,
+ "backfilled": true
 }

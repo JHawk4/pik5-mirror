@@ -3,6 +3,78 @@
  "stage": 420,
  "records": [
   {
+   "id": 16291,
+   "uid": 301941223,
+   "user": "koppacha",
+   "score": 12,
+   "date": "2023-07-29T02:17:35.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16304,
+   "uid": 301135946,
+   "user": "toripoppo0307",
+   "score": 240,
+   "date": "2023-07-29T03:24:57.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16346,
+   "uid": 301708591,
+   "user": "shiocha78",
+   "score": 250,
+   "date": "2023-07-30T05:52:07.000000Z",
+   "video": "https://youtu.be/VcjCpxNejSo",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16841,
+   "uid": 301000341,
+   "user": "pikutas",
+   "score": 255,
+   "date": "2023-08-27T13:28:01.000000Z",
+   "video": "https://youtu.be/ek-DJJm0avY",
+   "img": "",
+   "console": 4,
+   "comment": "運に依存してます。あと数秒はいけるかも。",
+   "tie": false
+  },
+  {
+   "id": 16978,
+   "uid": 301574724,
+   "user": "Lotus",
+   "score": 267,
+   "date": "2023-09-08T08:39:18.000000Z",
+   "video": "https://www.youtube.com/watch?v=8RL7IS5lQjw",
+   "img": "",
+   "console": 4,
+   "comment": "坂の上のピクミンに対して画面を縦ではなくて横向きにすることで、坂の下から笛が届きます！",
+   "tie": false
+  },
+  {
+   "id": 17083,
+   "uid": 302065264,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 270,
+   "date": "2023-10-03T01:58:40.000000Z",
+   "video": "https://youtu.be/De2ZUx6CXJk?si=9MXgER3gre-dgeJo",
+   "img": "20231003-195840-8246934614.jpg",
+   "console": 4,
+   "comment": "3/4残りました",
+   "tie": false
+  },
+  {
    "id": 19854,
    "uid": 315059415,
    "user": "96_Leaf",
@@ -14,5 +86,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

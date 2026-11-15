@@ -75,14 +75,14 @@
    "tie": false
   },
   {
-   "id": 1137,
-   "uid": null,
-   "user": "ZEOKU",
-   "score": 32598,
-   "date": "2015-11-11T16:05:00.000000Z",
+   "id": 773,
+   "uid": 210862982,
+   "user": "noamoa",
+   "score": 32605,
+   "date": "2015-11-02T03:30:00.000000Z",
    "video": "",
-   "img": "20151112-100530-670313802.jpg",
-   "console": 1,
+   "img": "",
+   "console": 2,
    "comment": "コメントなし",
    "tie": false
   },
@@ -96,6 +96,30 @@
    "img": "20151206-185421-1964042573.png",
    "console": 1,
    "comment": "タマゴムシはよ",
+   "tie": false
+  },
+  {
+   "id": 1367,
+   "uid": 215610770,
+   "user": "pikmin893",
+   "score": 32631,
+   "date": "2015-12-17T06:55:00.000000Z",
+   "video": "",
+   "img": "20151218-005501-1199305851.png",
+   "console": 1,
+   "comment": "誰かタマゴムシ出してくれ",
+   "tie": false
+  },
+  {
+   "id": 2009,
+   "uid": 224923151,
+   "user": "noamoa",
+   "score": 32639,
+   "date": "2016-04-16T18:25:00.000000Z",
+   "video": "",
+   "img": "20160417-122502-430000894.jpg",
+   "console": 2,
+   "comment": "赤100戦法で。誰かタマゴムシよろしくよ",
    "tie": false
   },
   {
@@ -159,15 +183,27 @@
    "tie": false
   },
   {
-   "id": 18387,
-   "uid": null,
-   "user": "spark573",
-   "score": 32738,
-   "date": "2025-02-01T02:19:55.000000Z",
-   "video": "https://www.twitch.tv/videos/2369437615",
-   "img": "20250201-201955-9035553173.jpg",
+   "id": 17476,
+   "uid": 305733463,
+   "user": "Gorei_50",
+   "score": 32741,
+   "date": "2023-12-29T04:55:34.000000Z",
+   "video": "https://youtu.be/OdaNy_F942U",
+   "img": "",
    "console": 2,
-   "comment": "ラン対で事件発生",
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17763,
+   "uid": 308818395,
+   "user": "Gorei_50",
+   "score": 32754,
+   "date": "2024-05-05T04:37:03.000000Z",
+   "video": "https://youtu.be/Z_ug5K_Qivs",
+   "img": "",
+   "console": 2,
+   "comment": "割ればよかったかな……？",
    "tie": false
   },
   {
@@ -182,5 +218,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

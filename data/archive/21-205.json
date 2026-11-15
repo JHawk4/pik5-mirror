@@ -39,6 +39,36 @@
    "comment": "ここも運ですね…　公式記録はタマゴムシありだった気もします…"
   },
   {
+   "id": 251,
+   "user": "albut3",
+   "score": 11503,
+   "date": "2013-07-03T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "タマゴムシ。公式記録の高さは異常"
+  },
+  {
+   "id": 391,
+   "user": "koppacha",
+   "score": 11488,
+   "date": "2014-05-04T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 408,
+   "user": "flyinghawk",
+   "score": 11498,
+   "date": "2014-07-12T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "タマゴムシうまく倒せるようになりたい"
+  },
+  {
    "id": 428,
    "user": "DRAFIX",
    "score": 11507,
@@ -48,12 +78,32 @@
    "comment": "神懸った手さばきでタマゴムシ7匹撃破。あの動きはもう再現できません……"
   },
   {
+   "id": 457,
+   "user": "HAPDAP",
+   "score": 11486,
+   "date": "2015-07-02T06:00:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "焼きチャは赤５で、その他で遠くのキウイとかリンゴを回収するスタイル"
+  },
+  {
    "id": 712,
    "user": "Selenium_pikmin",
    "score": 11549,
    "date": "2015-11-01T03:58:00.000000Z",
    "console": 1,
    "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 506,
+   "user": "keisen2853",
+   "score": 11568,
+   "date": "2015-11-01T03:58:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
    "comment": "コメントなし"
   },
   {
@@ -75,12 +125,72 @@
    "comment": "コメントなし"
   },
   {
+   "id": 840,
+   "user": "mezasi_pikmin",
+   "score": 11435,
+   "date": "2015-11-05T05:57:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 871,
+   "user": "yuibitchi",
+   "score": 11362,
+   "date": "2015-11-05T06:07:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 933,
+   "user": "iid01",
+   "score": 11581,
+   "date": "2015-11-06T04:59:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1063,
+   "user": "muratsubo",
+   "score": 11492,
+   "date": "2015-11-07T22:06:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 1118,
    "user": "maramon",
    "score": 11520,
    "date": "2015-11-09T18:20:00.000000Z",
    "console": 1,
    "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1197,
+   "user": "koppacha",
+   "score": 11528,
+   "date": "2015-11-13T19:07:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20151114-130719-493477945.jpg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1206,
+   "user": "noamoa",
+   "score": 11538,
+   "date": "2015-11-13T23:46:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20151114-174649-405702307.jpg",
    "comment": "コメントなし"
   },
   {
@@ -94,6 +204,16 @@
    "img": "20151130-212002-1715600830.jpg"
   },
   {
+   "id": 1357,
+   "user": "FeTellYou",
+   "score": 11549,
+   "date": "2015-12-02T16:57:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 1393,
    "user": "muratsubo",
    "score": 11520,
@@ -101,6 +221,26 @@
    "console": 1,
    "video": "",
    "comment": "コメントなし"
+  },
+  {
+   "id": 1743,
+   "user": "PKtoyama",
+   "score": 11502,
+   "date": "2016-03-11T04:19:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "タマゴムシを倒せた"
+  },
+  {
+   "id": 2060,
+   "user": "koppacha",
+   "score": 11544,
+   "date": "2016-04-28T04:18:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20160428-221853-892804153.jpg",
+   "comment": "一発・6匹+4匹+1匹-犠牲1"
   },
   {
    "id": 2061,
@@ -129,6 +269,66 @@
    "date": "2016-05-14T23:54:00.000000Z",
    "console": 1,
    "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2385,
+   "user": "flyinghawk",
+   "score": 11554,
+   "date": "2016-10-07T09:54:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "7+5=12匹、タマゴムシシューティングのいい練習になりました"
+  },
+  {
+   "id": 2445,
+   "user": "iid01",
+   "score": 11592,
+   "date": "2016-11-15T03:48:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2502,
+   "user": "mezasi_pikmin",
+   "score": 11515,
+   "date": "2016-12-17T21:07:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20161218-150731-753685311.jpeg",
+   "comment": "ムシ7匹とカラエキス。時間が遅い"
+  },
+  {
+   "id": 2553,
+   "user": "Gorei_50",
+   "score": 11566,
+   "date": "2016-12-25T18:28:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2601,
+   "user": "miran",
+   "score": 11420,
+   "date": "2016-12-30T01:36:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2630,
+   "user": "sectionmarilui",
+   "score": 11535,
+   "date": "2016-12-30T12:24:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
    "comment": "コメントなし"
   },
   {
@@ -199,6 +399,16 @@
    "comment": "あの庭の息抜き"
   },
   {
+   "id": 4249,
+   "user": "HAPDAP",
+   "score": 11498,
+   "date": "2017-06-23T03:18:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "",
+   "comment": "タマゴムシ5匹。もっとがんばろう"
+  },
+  {
    "id": 4424,
    "user": "pikminnotoko",
    "score": 11559,
@@ -207,6 +417,26 @@
    "video": "",
    "comment": "2セット11匹",
    "img": "20170720-102542-1421738220.png"
+  },
+  {
+   "id": 4428,
+   "user": "Z_pikmin",
+   "score": 11604,
+   "date": "2017-07-20T00:07:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20170720-180702-2005895031.JPG",
+   "comment": "一生ぶんの運を使ったかもしれない(2＋1セット）"
+  },
+  {
+   "id": 4434,
+   "user": "albut3",
+   "score": 11574,
+   "date": "2017-07-20T23:03:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20170721-170330-1638094553.JPG",
+   "comment": "3セット目0匹…うわあああああ"
   },
   {
    "id": 4663,
@@ -229,6 +459,36 @@
    "img": "20171117-061934-1512252076.JPG"
   },
   {
+   "id": 5120,
+   "user": "dayomin",
+   "score": 11503,
+   "date": "2017-11-18T07:24:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "タマゴムシ5匹"
+  },
+  {
+   "id": 5321,
+   "user": "toripoppo0307",
+   "score": 11481,
+   "date": "2017-12-23T23:01:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 5374,
+   "user": "TEL",
+   "score": 11523,
+   "date": "2017-12-30T20:59:00.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "1セット、8匹"
+  },
+  {
    "id": 5439,
    "user": "yuibitchi",
    "score": 11543,
@@ -245,6 +505,16 @@
    "console": 1,
    "video": "",
    "comment": "コメントなし"
+  },
+  {
+   "id": 6250,
+   "user": "fuji_luck",
+   "score": 11559,
+   "date": "2018-05-10T05:02:21.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20180510-230221-191160137.jpg",
+   "comment": "4+7。寄せて7"
   },
   {
    "id": 6343,
@@ -266,6 +536,16 @@
    "comment": "疲れた……"
   },
   {
+   "id": 6509,
+   "user": "toripoppo0307",
+   "score": 11513,
+   "date": "2018-06-19T01:01:58.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
    "id": 6550,
    "user": "HAPDAP",
    "score": 11514,
@@ -273,6 +553,16 @@
    "console": 2,
    "video": "",
    "comment": "タマゴムシ5・タイム94　なんか汚そうなスコア"
+  },
+  {
+   "id": 6590,
+   "user": "dayomin",
+   "score": 11522,
+   "date": "2018-07-01T06:17:13.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20180702-001713-780454405.JPG",
+   "comment": "1セット6匹"
   },
   {
    "id": 6718,
@@ -283,6 +573,26 @@
    "video": "",
    "comment": "押し含む3セット",
    "img": "20180920-105104-149378922.jpg"
+  },
+  {
+   "id": 6896,
+   "user": "iid01",
+   "score": 11611,
+   "date": "2018-09-19T05:41:34.000000Z",
+   "console": 1,
+   "video": "https://www.youtube.com/watch?v=AHMvG_F0rDU",
+   "img": "20180919-234134-751804890.png",
+   "comment": "タマゴムシ6+10=16匹、タイム17+64=81"
+  },
+  {
+   "id": 6914,
+   "user": "spark573",
+   "score": 11586,
+   "date": "2018-09-23T05:38:33.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "20180923-233833-1846155880.jpg",
+   "comment": "押し9匹+平地6匹"
   },
   {
    "id": 7021,
@@ -335,6 +645,36 @@
    "img": "20190824-221149-90001156.JPG"
   },
   {
+   "id": 8009,
+   "user": "Gorei_50",
+   "score": 11609,
+   "date": "2019-09-10T23:47:27.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/0h6n5WbTwZQ",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 8122,
+   "user": "mikou_musicgame",
+   "score": 11534,
+   "date": "2019-12-19T17:53:08.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20191220-115309-91206090.JPG",
+   "comment": "3セットだが倒したムシとタイムがひどい…"
+  },
+  {
+   "id": 8137,
+   "user": "enagem_akakuy",
+   "score": 11496,
+   "date": "2019-12-29T04:39:48.000000Z",
+   "console": 1,
+   "video": "",
+   "img": "",
+   "comment": "5匹"
+  },
+  {
    "id": 8296,
    "user": "enagem_akakuy",
    "score": 11523,
@@ -344,15 +684,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 8383,
    "user": "spark573",
    "score": 11618,
-   "date": "2020-04-18T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-04-17T06:26:37.000000Z",
+   "console": 1,
    "video": "https://youtu.be/E9MRrf7-bxA",
    "img": "20200418-002637-480384326.png",
-   "comment": "[NGC] 8(タマゴ押し)+5+4 ",
-   "source": "sheet-2023"
+   "comment": "8(タマゴ押し)+5+4 "
   },
   {
    "id": 8408,
@@ -375,15 +714,14 @@
    "img": "20200519-002230-288164679.jpeg"
   },
   {
-   "id": null,
+   "id": 8793,
    "user": "alpha_0630",
    "score": 11532,
-   "date": "2020-07-11T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-07-11T02:49:04.000000Z",
+   "console": 1,
    "video": "",
    "img": "20200711-204904-1061350830.jpg",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 8827,
@@ -416,15 +754,14 @@
    "img": "20200827-231943-1370955634.jpg"
   },
   {
-   "id": null,
+   "id": 9873,
    "user": "mercysnow",
    "score": 11606,
-   "date": "2020-09-06T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-09-05T06:08:36.000000Z",
+   "console": 2,
    "video": "",
    "img": "20200906-000836-713479657.jpeg",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 10584,
@@ -456,26 +793,24 @@
    "img": "20201001-190454-1705535550.PNG"
   },
   {
-   "id": null,
+   "id": 10821,
    "user": "makalogue",
    "score": 11544,
-   "date": "2020-10-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-10-18T17:33:52.000000Z",
+   "console": 1,
    "video": "https://www.youtube.com/watch?v=WWJdyj3XP6Y",
    "img": "20201019-113354-423251093.png",
-   "comment": "[NGC] ムシ1セットで9匹、タイム84",
-   "source": "sheet-2023"
+   "comment": "ムシ1セットで9匹、タイム84"
   },
   {
-   "id": null,
+   "id": 11311,
    "user": "albut3",
    "score": 11597,
-   "date": "2020-11-19T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-11-18T22:53:30.000000Z",
+   "console": 1,
    "video": "",
    "img": "20201119-165332-132036631.jpeg",
-   "comment": "[NGC] 6+10 タイム5+62",
-   "source": "sheet-2023"
+   "comment": "6+10 タイム5+62"
   },
   {
    "id": 11347,
@@ -615,15 +950,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 13110,
    "user": "April_lapispik",
    "score": 11555,
-   "date": "2021-08-30T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-08-29T07:40:42.000000Z",
+   "console": 1,
    "video": "https://youtu.be/L2GzWXDTOmo",
    "img": "20210830-013710-1335319964.jpg",
-   "comment": "[NGC] ムシ取り大会中に出しました　2Fタマゴムシで3セット16匹",
-   "source": "sheet-2023"
+   "comment": "ムシ取り大会中に出しました　2Fタマゴムシで3セット16匹"
   },
   {
    "id": 13147,
@@ -655,37 +989,34 @@
    "img": "20211104-141116-2093136823.png"
   },
   {
-   "id": null,
+   "id": 13850,
    "user": "yukidaruma",
    "score": 11595,
-   "date": "2021-11-10T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-09T08:56:28.000000Z",
+   "console": 2,
    "video": "",
    "img": "20211110-025629-1359077630.jpeg",
-   "comment": "[Wii] ゴミムーブ",
-   "source": "sheet-2023"
+   "comment": "ゴミムーブ"
   },
   {
-   "id": null,
+   "id": 13895,
    "user": "Gorei_50",
    "score": 11682,
-   "date": "2021-11-16T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-15T13:45:34.000000Z",
+   "console": 2,
    "video": "https://youtu.be/kWuf2G_hljw",
    "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 14002,
    "user": "kobachi_no_udon",
    "score": 11494,
-   "date": "2021-11-26T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-26T01:13:03.000000Z",
+   "console": 1,
    "video": "",
    "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 14084,
@@ -698,15 +1029,14 @@
    "img": "20211219-213703-670202178.jpeg"
   },
   {
-   "id": null,
+   "id": 14303,
    "user": "kobachi_no_udon",
    "score": 11556,
-   "date": "2022-03-08T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-03-07T17:45:05.000000Z",
+   "console": 1,
    "video": "https://youtu.be/dF7c2nvjMUw",
    "img": "20220308-114506-621787050.png",
-   "comment": "[NGC] 端寄せ効果はあったけど、自分の能力が…",
-   "source": "sheet-2023"
+   "comment": "端寄せ効果はあったけど、自分の能力が…"
   },
   {
    "id": null,
@@ -720,37 +1050,34 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 14571,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 11598,
-   "date": "2022-04-16T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-04-15T18:18:32.000000Z",
+   "console": 2,
    "video": "",
    "img": "20220416-121834-1482051298.jpeg",
-   "comment": "[Wii] 押し5+押し6+平地6、犠牲1です。流石に勿体無すぎますね。",
-   "source": "sheet-2023"
+   "comment": "押し5+押し6+平地6、犠牲1です。流石に勿体無すぎますね。"
   },
   {
-   "id": null,
+   "id": 14741,
    "user": "Gorei_50",
    "score": 11691,
-   "date": "2022-06-05T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-06-04T19:27:48.000000Z",
+   "console": 2,
    "video": "https://youtu.be/aGkG6ltiZp0",
    "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 14742,
    "user": "spark573",
    "score": 11634,
-   "date": "2022-06-05T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-06-05T01:06:26.000000Z",
+   "console": 1,
    "video": "https://youtu.be/EGaoRSkM_Co",
    "img": "20220605-190627-1610531499.png",
-   "comment": "[NGC] 5+5+9　流れって大事だと思うんです",
-   "source": "sheet-2023"
+   "comment": "5+5+9　流れって大事だと思うんです"
   },
   {
    "id": 14857,
@@ -783,15 +1110,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 15628,
    "user": "Argent2home",
    "score": 11534,
-   "date": "2022-12-05T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-12-05T03:19:47.000000Z",
+   "console": 1,
    "video": "",
    "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": null,
@@ -836,15 +1162,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 16042,
    "user": "albut3",
    "score": 11620,
-   "date": "2023-04-07T00:00:00.000000Z",
-   "console": null,
+   "date": "2023-04-06T08:54:48.000000Z",
+   "console": 2,
    "video": "https://www.youtube.com/watch?v=lwWo5oKm5EA",
    "img": "",
-   "comment": "[Wii] 3+4+9",
-   "source": "sheet-2023"
+   "comment": "3+4+9"
   },
   {
    "id": 16161,
@@ -867,6 +1192,56 @@
    "img": "20230702-030220-1963203801.png"
   },
   {
+   "id": 17049,
+   "user": "kobachi_no_udon",
+   "score": 11615,
+   "date": "2023-09-23T19:14:23.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/0QSkUrDSQBs",
+   "img": "",
+   "comment": "みんなで701000RTA中に出た"
+  },
+  {
+   "id": 17281,
+   "user": "Argent2home",
+   "score": 11582,
+   "date": "2023-11-20T07:05:44.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20231121-010544-7392931930.jpg",
+   "comment": "平地6+角8"
+  },
+  {
+   "id": 17391,
+   "user": "Gorei_50",
+   "score": 11738,
+   "date": "2023-12-09T04:18:32.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/azpk8hFkuOg",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 17462,
+   "user": "alpha_0630",
+   "score": 11578,
+   "date": "2023-12-24T06:14:26.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/RdCRlXvyicc",
+   "img": "20231225-001426-2123330029.jpg",
+   "comment": "6+5+4"
+  },
+  {
+   "id": 17631,
+   "user": "kobachi_no_udon",
+   "score": 11634,
+   "date": "2024-03-12T20:47:36.000000Z",
+   "console": 2,
+   "video": "https://youtu.be/IfOvjSNZYrQ",
+   "img": "20240313-144735-9970571140.jpg",
+   "comment": "5+5+9 タイム74"
+  },
+  {
    "id": 17658,
    "user": "albut3",
    "score": 11656,
@@ -874,6 +1249,26 @@
    "console": 2,
    "video": "https://www.youtube.com/watch?v=krVuTtb3wrE",
    "comment": "私はまいにちデメ1をやっているはずなのだが…"
+  },
+  {
+   "id": 17685,
+   "user": "Mutou_p2pw",
+   "score": 11528,
+   "date": "2024-03-31T03:06:33.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20240331-210633-6240660007.jpg",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 18130,
+   "user": "Argent2home",
+   "score": 11599,
+   "date": "2024-08-30T03:44:17.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20240830-214417-3613720031.jpg",
+   "comment": "角シューティング下手くそマン"
   },
   {
    "id": 18366,

@@ -3,6 +3,78 @@
  "stage": 427,
  "records": [
   {
+   "id": 16299,
+   "uid": 301986947,
+   "user": "koppacha",
+   "score": 56,
+   "date": "2023-07-29T02:19:44.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16353,
+   "uid": 301010128,
+   "user": "shiocha78",
+   "score": 189,
+   "date": "2023-07-30T05:55:46.000000Z",
+   "video": "https://youtu.be/JNjG9e4TRMg",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16862,
+   "uid": 301818988,
+   "user": "Lotus",
+   "score": 193,
+   "date": "2023-08-29T07:38:48.000000Z",
+   "video": "https://www.youtube.com/watch?v=e0YC0T0nbw8",
+   "img": "",
+   "console": 4,
+   "comment": "3:15ぐらいまでの更新案があるので取り直すかも。ヘビガラス安定のために途中でジャイロオフに変えてるので次は変更なしでやります",
+   "tie": false
+  },
+  {
+   "id": 16974,
+   "uid": 301095273,
+   "user": "shino15nome",
+   "score": 203,
+   "date": "2023-09-07T14:08:33.000000Z",
+   "video": "https://youtu.be/W4PQtr8b3j8?si=VO2HK2_7_8Sp_uLu",
+   "img": "",
+   "console": 4,
+   "comment": "最後針抜けきってなかったけど更新したw",
+   "tie": false
+  },
+  {
+   "id": 16996,
+   "uid": 301499553,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 215,
+   "date": "2023-09-10T03:56:53.000000Z",
+   "video": "https://youtu.be/sjvH4xJpK1g?si=-gAhTzndrXxVdFq8",
+   "img": "20230910-215653-5852991105.jpg",
+   "console": 4,
+   "comment": "運と実力が良ければまだ行けます",
+   "tie": false
+  },
+  {
+   "id": 18970,
+   "uid": 312681213,
+   "user": "shino15nome",
+   "score": 251,
+   "date": "2025-11-15T09:09:35.000000Z",
+   "video": "https://youtu.be/QqAdq940gDA?si=e7HB4Q3K6J8vFtE3",
+   "img": "",
+   "console": 4,
+   "comment": "何コレ？",
+   "tie": false
+  },
+  {
    "id": 18973,
    "uid": 312953678,
    "user": "Bl6AltMzq5Jx4aM",
@@ -14,5 +86,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

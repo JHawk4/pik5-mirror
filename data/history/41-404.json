@@ -3,6 +3,90 @@
  "stage": 404,
  "records": [
   {
+   "id": 16326,
+   "uid": 301764792,
+   "user": "noamoa",
+   "score": 218,
+   "date": "2023-07-30T01:39:24.000000Z",
+   "video": "",
+   "img": "20230730-193924-3619124640",
+   "console": 4,
+   "comment": "とりあえず",
+   "tie": false
+  },
+  {
+   "id": 16379,
+   "uid": 301434367,
+   "user": "scout",
+   "score": 355,
+   "date": "2023-07-31T08:36:10.000000Z",
+   "video": "https://youtu.be/IqLea5nX9m4",
+   "img": "",
+   "console": 4,
+   "comment": "Not fully upgraded yet, but after I beat the game I may come back and polish this time!",
+   "tie": false
+  },
+  {
+   "id": 16596,
+   "uid": 301737992,
+   "user": "keisen2853",
+   "score": 385,
+   "date": "2023-08-08T07:22:34.000000Z",
+   "video": "https://www.youtube.com/watch?v=Ql7qI_KRoSw",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17014,
+   "uid": 301846459,
+   "user": "Lotus",
+   "score": 391,
+   "date": "2023-09-16T02:49:57.000000Z",
+   "video": "https://www.youtube.com/watch?v=j1hgyXwL0lo",
+   "img": "",
+   "console": 4,
+   "comment": "スタート地点後ろの水たまりが凄い厄介でした……",
+   "tie": false
+  },
+  {
+   "id": 17111,
+   "uid": 303779957,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 392,
+   "date": "2023-10-14T03:56:06.000000Z",
+   "video": "https://youtu.be/tRB-yHtng9Q?si=2IX622o0jr2P5IR8",
+   "img": "20231014-215606-2413944925.jpg",
+   "console": 4,
+   "comment": "最後が雑です",
+   "tie": false
+  },
+  {
+   "id": 17724,
+   "uid": 308508174,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 410,
+   "date": "2024-04-16T03:06:19.000000Z",
+   "video": "https://youtu.be/4kZDkfMWq1k?si=rVLj-zksisrT4SXf",
+   "img": "20240416-210619-1575138517.jpg",
+   "console": 4,
+   "comment": "最後に葉ピクミンがどの運搬物につくかが運ゲーです",
+   "tie": false
+  },
+  {
+   "id": 18638,
+   "uid": 311408513,
+   "user": "mercysnow",
+   "score": 410,
+   "date": "2025-08-16T17:19:52.000000Z",
+   "video": "https://youtu.be/gS6awIRWg2U?si=VdVlszunkNPgU6-d",
+   "img": "",
+   "console": 4,
+   "comment": "🐟🐸🦀",
+   "tie": true
+  },
+  {
    "id": 19849,
    "uid": 315456464,
    "user": "96_Leaf",
@@ -14,5 +98,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }

@@ -21,6 +21,16 @@
    "comment": "以外と難しい"
   },
   {
+   "id": 304,
+   "user": "nanshitsujuukinzounaizou",
+   "score": 5440,
+   "date": "2013-08-03T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "",
+   "comment": "公式スーパープレイを少し参考にしました。結構雑に見えたのですが、なかなかどうして超えられませんねw"
+  },
+  {
    "id": 305,
    "user": "chappy4321",
    "score": 4750,
@@ -48,12 +58,62 @@
    "comment": "世界記録公開されましたね！ あと570点…"
   },
   {
+   "id": 321,
+   "user": "koppacha",
+   "score": 6550,
+   "date": "2013-10-01T06:00:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
+   "comment": "ポッド待機中を呼ぶときにキンカイ運搬役まで呼んでしまうのがもどかしい"
+  },
+  {
+   "id": 375,
+   "user": "robustar",
+   "score": 8020,
+   "date": "2013-12-20T06:00:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 979,
+   "user": "muratsubo",
+   "score": 5410,
+   "date": "2015-11-07T04:31:00.000000Z",
+   "console": 3,
+   "video": "",
+   "img": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 1369,
+   "user": "noamoa",
+   "score": 5920,
+   "date": "2015-12-19T02:22:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20151219-202248-1742783708.jpg",
+   "comment": "コメントなし"
+  },
+  {
    "id": 1620,
    "user": "koppacha",
    "score": 7660,
    "date": "2016-03-05T20:41:00.000000Z",
    "console": 3,
    "video": "",
+   "comment": "コメントなし"
+  },
+  {
+   "id": 2241,
+   "user": "noamoa",
+   "score": 8140,
+   "date": "2016-06-21T05:47:00.000000Z",
+   "console": 2,
+   "video": "",
+   "img": "20160621-234740-281984080.jpg",
    "comment": "コメントなし"
   },
   {
@@ -132,15 +192,14 @@
    "img": "20200815-191611-1488516843.jpg"
   },
   {
-   "id": null,
+   "id": 9763,
    "user": "6harapikumin",
    "score": 5110,
-   "date": "2020-08-16T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-08-16T04:56:09.000000Z",
+   "console": 2,
    "video": "",
    "img": "20200816-225609-607493711.jpg",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 10536,
@@ -330,6 +389,16 @@
    "img": "20201025-114315-2120835816.jpeg"
   },
   {
+   "id": 10887,
+   "user": "shiocha78",
+   "score": 8710,
+   "date": "2020-10-25T19:47:08.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20201026-134708-1618235051.jpg",
+   "comment": "いつぞやの"
+  },
+  {
    "id": 10888,
    "user": "sectionmarilui",
    "score": 10210,
@@ -338,17 +407,6 @@
    "video": "https://www.nicovideo.jp/watch/sm37726801",
    "comment": "体験版はここまでかな",
    "img": "20201026-164557-375470139.png"
-  },
-  {
-   "id": null,
-   "user": "shiocha78",
-   "score": 8710,
-   "date": "2020-10-26T00:00:00.000000Z",
-   "console": null,
-   "video": "",
-   "img": "20201026-134708-1618235051.jpg",
-   "comment": "[Joy-Con Double$] いつぞやの",
-   "source": "sheet-2023"
   },
   {
    "id": 10893,
@@ -380,6 +438,16 @@
    "img": "20201028-184052-286750654.jpg"
   },
   {
+   "id": 10898,
+   "user": "mikou_musicgame",
+   "score": 9550,
+   "date": "2020-10-28T01:07:31.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20201028-190731-2099939204.JPG",
+   "comment": "コメントなし"
+  },
+  {
    "id": 10901,
    "user": "nantoka",
    "score": 8920,
@@ -390,15 +458,14 @@
    "img": "20201029-141610-140210848.jpeg"
   },
   {
-   "id": null,
-   "user": "alpha_0630",
-   "score": 10150,
-   "date": "2020-10-29T00:00:00.000000Z",
-   "console": null,
-   "video": "https://youtu.be/oc4dPHxqPXQ",
-   "img": "20201029-235443-1228928423.jpg",
-   "comment": "[Joy-Con Double$] 体験版はここまで",
-   "source": "sheet-2023"
+   "id": 10902,
+   "user": "toripoppo0307",
+   "score": 9040,
+   "date": "2020-10-29T03:47:06.000000Z",
+   "console": 4,
+   "video": "",
+   "img": "20201029-214706-1374568497.jpg",
+   "comment": "満足はしてないけど"
   },
   {
    "id": 10903,
@@ -409,6 +476,16 @@
    "video": "",
    "comment": "体験版はここまで",
    "img": "20201029-230602-1352441708.jpeg"
+  },
+  {
+   "id": 10904,
+   "user": "alpha_0630",
+   "score": 10150,
+   "date": "2020-10-29T05:54:42.000000Z",
+   "console": 4,
+   "video": "https://youtu.be/oc4dPHxqPXQ",
+   "img": "20201029-235443-1228928423.jpg",
+   "comment": "体験版はここまで"
   },
   {
    "id": 10947,
@@ -553,15 +630,14 @@
    "img": "20201227-102905-1616468289.jpg"
   },
   {
-   "id": null,
+   "id": 11783,
    "user": "Jay596",
    "score": 9670,
-   "date": "2020-12-30T00:00:00.000000Z",
-   "console": null,
+   "date": "2020-12-29T07:07:03.000000Z",
+   "console": 2,
    "video": "https://www.youtube.com/watch?v=2pAXDC7RmcU",
    "img": "",
-   "comment": "[Wii] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 11824,
@@ -720,15 +796,14 @@
    "img": "20211017-233854-663489372.jpg"
   },
   {
-   "id": null,
+   "id": 13287,
    "user": "alpha_0630",
    "score": 10240,
-   "date": "2021-10-22T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-10-21T07:05:19.000000Z",
+   "console": 4,
    "video": "https://youtu.be/NR06Jhk0-UY",
    "img": "20211022-010519-1974020283.jpg",
-   "comment": "[Switch Pro$] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 13337,
@@ -741,15 +816,14 @@
    "img": "20211030-203852-1643684096.JPG"
   },
   {
-   "id": null,
+   "id": 13353,
    "user": "shiocha78",
    "score": 10120,
-   "date": "2021-11-03T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-11-02T16:52:35.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=CcWz0_rJkxY",
    "img": "",
-   "comment": "[Joy-Con Double$] 4:27残し もうちょい行けそうだけど出ない",
-   "source": "sheet-2023"
+   "comment": "4:27残し もうちょい行けそうだけど出ない"
   },
   {
    "id": null,
@@ -763,26 +837,24 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 14048,
    "user": "esu",
    "score": 10570,
-   "date": "2021-12-05T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-12-05T01:03:35.000000Z",
+   "console": 4,
    "video": "https://youtu.be/qLHxGlzWc8Q",
    "img": "20211205-190335-1547043502.jpeg",
-   "comment": "[Switch Pro$] 3時間ぐらいかかった",
-   "source": "sheet-2023"
+   "comment": "3時間ぐらいかかった"
   },
   {
-   "id": null,
+   "id": 14050,
    "user": "Jay596",
    "score": 10270,
-   "date": "2021-12-07T00:00:00.000000Z",
-   "console": null,
+   "date": "2021-12-06T20:55:26.000000Z",
+   "console": 4,
    "video": "https://www.youtube.com/watch?v=l4qaxT0t0RM",
    "img": "",
-   "comment": "[NGC] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": 14135,
@@ -902,15 +974,14 @@
    "source": "sheet-2023"
   },
   {
-   "id": null,
+   "id": 15125,
    "user": "6harapikumin",
    "score": 7150,
-   "date": "2022-09-29T00:00:00.000000Z",
-   "console": null,
+   "date": "2022-09-28T08:23:31.000000Z",
+   "console": 4,
    "video": "",
    "img": "20220929-022331-882596547.heic",
-   "comment": "[Joy-Con Solo#] コメントなし",
-   "source": "sheet-2023"
+   "comment": "コメントなし"
   },
   {
    "id": null,
@@ -933,15 +1004,14 @@
    "comment": "コメントなし"
   },
   {
-   "id": null,
+   "id": 15472,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 10630,
-   "date": "2022-10-23T00:00:00.000000Z",
-   "console": null,
-   "video": "https://video.twimg.com/ext_tw_video/1584094296369958912/pu/vid/1280x720/xkABxkGDdRlYKKAu.mp4?tag=12",
+   "date": "2022-10-22T23:10:08.000000Z",
+   "console": 4,
+   "video": "https://twitter.com/bl6altmzq5jx4am/status/1584094388850167809?s=61&t=eHE5_5ziiGSbcJswv-t_2w",
    "img": "20221023-171008-699816786.jpeg",
-   "comment": "[Switch Pro$] 残4:44 結構前の記録です。抜かれたので急遽投稿しました。",
-   "source": "sheet-2023"
+   "comment": "残4:44 結構前の記録です。抜かれたので急遽投稿しました。"
   },
   {
    "id": null,
@@ -1025,15 +1095,14 @@
    "img": "20230709-150050-767759917.jpg"
   },
   {
-   "id": null,
+   "id": 16248,
    "user": "Bl6AltMzq5Jx4aM",
    "score": 10660,
-   "date": "2023-07-14T00:00:00.000000Z",
-   "console": null,
+   "date": "2023-07-14T01:52:07.000000Z",
+   "console": 4,
    "video": "",
    "img": "20230714-195207-2129844105.jpeg",
-   "comment": "[Switch Pro$] ピクミン4発売前に3DXの投稿してなかった自己べを全て投稿しておきます",
-   "source": "sheet-2023"
+   "comment": "ピクミン4発売前に3DXの投稿してなかった自己べを全て投稿しておきます"
   },
   {
    "id": 18940,

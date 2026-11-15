@@ -3,6 +3,102 @@
  "stage": 411,
  "records": [
   {
+   "id": 16282,
+   "uid": 301590379,
+   "user": "koppacha",
+   "score": 294,
+   "date": "2023-07-29T02:15:44.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16400,
+   "uid": 301401188,
+   "user": "XianTwa",
+   "score": 318,
+   "date": "2023-07-31T22:36:59.000000Z",
+   "video": "https://youtu.be/57mXn9b9De8",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16504,
+   "uid": 301246803,
+   "user": "Otomo",
+   "score": 406,
+   "date": "2023-08-04T09:38:47.000000Z",
+   "video": "",
+   "img": "",
+   "console": 4,
+   "comment": "一旦撤退。ポテンシャルはあると思う",
+   "tie": false
+  },
+  {
+   "id": 16518,
+   "uid": 301349158,
+   "user": "atmy_17",
+   "score": 457,
+   "date": "2023-08-04T22:30:31.000000Z",
+   "video": "https://youtu.be/7XzyDjdMt4k",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 16658,
+   "uid": 301199028,
+   "user": "keisen2853",
+   "score": 468,
+   "date": "2023-08-11T07:08:15.000000Z",
+   "video": "https://www.youtube.com/watch?v=31NbQ6A4nqk",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": false
+  },
+  {
+   "id": 17015,
+   "uid": 301017026,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 475,
+   "date": "2023-09-16T03:49:12.000000Z",
+   "video": "https://youtu.be/yZ49kjOMCqU?si=LoEwtGB8cA7mAt_h",
+   "img": "20230916-214912-5818536559.jpg",
+   "console": 4,
+   "comment": "オリチャーで半分残しまで頑張りました",
+   "tie": false
+  },
+  {
+   "id": 17559,
+   "uid": 306912957,
+   "user": "Bl6AltMzq5Jx4aM",
+   "score": 500,
+   "date": "2024-01-26T02:13:54.000000Z",
+   "video": "https://youtu.be/hD7B9FEMpOs?si=Mm7LhNJHDmJaRzrZ",
+   "img": "20240126-201353-7583436069.jpg",
+   "console": 4,
+   "comment": "非常にキリが良いですね",
+   "tie": false
+  },
+  {
+   "id": 18945,
+   "uid": 312695991,
+   "user": "mercysnow",
+   "score": 503,
+   "date": "2025-10-28T22:27:33.000000Z",
+   "video": "https://youtu.be/aete4ELs8l4?si=rt3YqXF6zMG_1JBZ",
+   "img": "",
+   "console": 4,
+   "comment": "🐸💥🐶",
+   "tie": false
+  },
+  {
    "id": 19555,
    "uid": 315425133,
    "user": "mercysnow",
@@ -14,5 +110,6 @@
    "tie": false
   }
  ],
- "lower_is_better": false
+ "lower_is_better": false,
+ "backfilled": true
 }
