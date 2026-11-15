@@ -145,3 +145,5 @@ td:has(> .num) { text-align: right; }
 .suggest { max-width: 560px; display: grid; gap: 10px; margin-top: 8px; }
 .suggest input, .suggest textarea { width: 100%; font: inherit; padding: 4px 6px; border: 1px solid var(--line); }
 .suggest button { justify-self: start; font: inherit; padding: 4px 16px; }
+.vidcap { margin: 8px 0 2px; }
+table.snapt tr.tied td { border-top-style: dotted; }

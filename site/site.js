@@ -99,3 +99,51 @@
   }
   document.getElementById("asof-reset").addEventListener("click", reset);
 })();
+
+// ---- every record in a game as of a date (record snapshots page)
+(function () {
+  var el = document.getElementById("wrsnap");
+  var input = document.getElementById("wr-asof");
+  if (!el || !input) return;
+  var data = JSON.parse(el.textContent);
+
+  function days(from, to) {
+    var a = Date.parse(from + "T00:00:00Z"), b = Date.parse(to + "T00:00:00Z");
+    return Math.max(0, Math.round((b - a) / 86400000));
+  }
+
+  function render(date) {
+    var tables = document.querySelectorAll("table.snapt");
+    for (var ti = 0; ti < tables.length; ti++) {
+      var tbl = tables[ti];
+      var boards = data.cats[+tbl.getAttribute("data-cat")];
+      var ncol = tbl.querySelectorAll("thead th").length;
+      var html = "";
+      boards.forEach(function (b) {
+        var grp = null;
+        b.g.forEach(function (g) { if (g[0].d <= date) grp = g; });
+        if (!grp) {
+          html += "<tr><td>" + b.name + "</td><td colspan=\"" + (ncol - 1) + "\"><span class=\"small\">" +
+            data.none + "</span></td></tr>";
+          return;
+        }
+        var holders = grp.filter(function (x) { return x.d <= date; });
+        var held = days(grp[0].d, date);
+        holders.forEach(function (x, i) {
+          html += (i ? "<tr class=\"tied\">" : "<tr>") +
+            (i ? "" : "<td rowspan=\"" + holders.length + "\">" + b.name + "</td>") +
+            "<td>" + x.c.join("</td><td>") + "</td>" +
+            (i ? "" : "<td rowspan=\"" + holders.length + "\">" + held + "</td>") + "</tr>";
+        });
+      });
+      tbl.querySelector("tbody").innerHTML = html;
+    }
+  }
+
+  input.addEventListener("change", function () { render(input.value || data.today); });
+  document.getElementById("wr-asof-today").addEventListener("click", function () {
+    input.value = data.today;
+    render(data.today);
+  });
+  render(input.value || data.today);
+})();

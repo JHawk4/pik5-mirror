@@ -441,6 +441,10 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
         side.append(f'<a class="g{s}{" on" if series == s else ""}" href="{pre}{SLUG[s]}.html">{e(t.game(s))}</a>')
     side.append("</div>")
     side.append(f'<div class="navbox"><span class="head">{e(t.s("more"))}</span>'
+                f'<a href="{pre}recent.html">{e(t.s("recent_wrs"))}</a>'
+                f'<a href="{pre}longest.html">{e(t.s("longest"))}</a>'
+                f'<a href="{pre}snapshot/{SLUG[series or 1]}.html">{e(t.s("snapshots"))}</a>'
+                f'<a href="{pre}activity.html">{e(t.s("activity"))}</a>'
                 f'<a href="{pre}tas.html">{e(t.s("tas_title"))}</a>'
                 f'<a href="{pre}players.html">{e(t.s("players"))}</a>'
                 f'<a href="{pre}suggest.html?from={quote(rel)}">{e(t.s("suggest_title"))}</a></div>')
@@ -780,7 +784,14 @@ def board_page(t: T, c, rule, sid):
         row["c"] = [c for i, c in enumerate(row["c"], start=1) if i not in dropped]
     data = json.dumps(snap, ensure_ascii=False).replace("</", "<\\/")
     texts = json.dumps({"players": t.s("n_players", n="{n}"), "asof": t.s("snapshot_shown")}, ensure_ascii=False)
-    body = (stage_heading(t, c, rule, sid) + board_tabs(t, k, "lb", pre)
+    vid = next((p for p in current_wrs(k) if norm_video(p.get("video"))), None) or best_with_video(k, low)
+    video = ""
+    if vid and embed(vid, t):
+        shown = " / ".join(x for x in score_views(vid["score"], rule, sid) if x)
+        video = (f'<p class="vidcap">{e(t.s("fastest_video"))}: {player(vid["user"], t, pre)} {flag(vid["user"], t)} '
+                 f'<span class="num">{e(shown)}</span> <span class="small">({t.date(vid.get("date"))})</span></p>'
+                 + embed(vid, t))
+    body = (stage_heading(t, c, rule, sid) + board_tabs(t, k, "lb", pre) + video
             + f"<h2>{e(t.s('leaderboard'))} <span class='small' id='lb-count'>{e(t.s('n_players', n=len(rows)))}</span></h2>"
             + picker + lb_table)
     extra = (f'<script type="application/json" id="snapdata">{data}</script>'
@@ -835,17 +846,7 @@ def players_index(t: T, per, wr_counts):
 
 def index_page(t: T):
     pre = ""
-    recent = []
-    for c in CATS:
-        for r, sid in c["boards"]:
-            for rec in history(bkey(r, sid)).get("records") or []:
-                if not rec.get("tie"):
-                    recent.append((rec.get("date") or "", c, r, sid, rec))
-    recent.sort(key=lambda x: x[0], reverse=True)
-    rows = [[t.date(d), e(t.game(c["series"])),
-             f'<a href="board/{bkey(r, sid)}.html">{e(t.stage(sid))}</a> <span class="small">({e(t.cat(c))})</span>',
-             score_cell(rec, r, sid, t), video_cell(rec, t), player(rec["user"], t, pre), flag(rec["user"], t)]
-            for d, c, r, sid, rec in recent[:50]]
+    head, rows = recent_rows(t, pre, 25)
     games = "".join(
         f'<li><a href="{SLUG[s]}.html">{e(t.game(s))}</a> <span class="small">'
         f'({e(t.s("n_boards", n=sum(len(c["boards"]) for c in CATS if c["series"] == s)))})</span></li>'
@@ -854,8 +855,7 @@ def index_page(t: T):
     body = (f"<h1>{e(t.s('site'))}</h1><p>{t.s('intro', pik5=pik5_link)}</p>"
             f"<ul class='games'>{games}</ul>"
             f"<h2>{e(t.s('recent'))}</h2>"
-            + table([t.s("date"), t.s("game"), t.s("stage"), score_heads(t), H(t, "video"), t.s("player"), H(t, "nation")],
-                    rows))
+            + table(head, rows) + f'<p><a href="recent.html">{e(t.s("all_recent"))} →</a></p>')
     write(t.lang, "index.html", page(t, "index.html", t.s("home"), body))
 
 
@@ -918,6 +918,221 @@ def tas_page(t: T):
     write(t.lang, "tas.html", page(t, "tas.html", t.s("tas_title"), "\n".join(parts)))
 
 
+# ---------------------------------------------------------------- record stats pages
+
+def wr_groups(key):
+    """Record history as [(record, [ties])], oldest first."""
+    groups = []
+    for r in history(key).get("records") or []:
+        if r.get("tie") and groups:
+            groups[-1][1].append(r)
+        else:
+            groups.append((r, []))
+    return groups
+
+
+def all_boards():
+    for c in CATS:
+        for r, sid in c["boards"]:
+            yield c, r, sid, bkey(r, sid)
+
+
+def stage_link(t: T, c, r, sid, pre, with_cat=True):
+    egg = EGG if c.get("egg_rule") == r else ""
+    cat = f' <span class="small">({e(t.cat(c))})</span>' if with_cat else ""
+    return f'<a href="{pre}board/{bkey(r, sid)}.html">{e(t.stage(sid))}</a>{egg}{cat}'
+
+
+def recent_rows(t: T, pre, limit):
+    items = []
+    for c, r, sid, k in all_boards():
+        groups = wr_groups(k)
+        for i, (rec, ties) in enumerate(groups):
+            prev = groups[i - 1][0] if i else None
+            items.append((rec.get("date") or "", c, r, sid, rec, prev, False))
+            for x in ties:
+                items.append((x.get("date") or "", c, r, sid, x, rec, True))
+    items.sort(key=lambda x: x[0], reverse=True)
+    rows = []
+    for d, c, r, sid, rec, prev, is_tie in items[:limit]:
+        if is_tie:
+            prev_cell, lasted = f'<span class="small">{e(t.s("tie_label"))}</span>', ""
+        elif prev:
+            prev_cell, lasted = player(prev["user"], t, pre), days_between(prev.get("date"), d)
+        else:
+            prev_cell, lasted = f'<span class="small">{e(t.s("first_record"))}</span>', ""
+        rows.append([t.date(d), e(t.game(c["series"])), stage_link(t, c, r, sid, pre),
+                     score_cell(rec, r, sid, t), video_cell(rec, t), player(rec["user"], t, pre),
+                     flag(rec["user"], t), prev_cell, lasted])
+    head = [t.s("date"), t.s("game"), t.s("stage"), score_heads(t), H(t, "video"), t.s("player"),
+            H(t, "nation"), t.s("prev_holder"), H(t, "prev_lasted")]
+    return head, rows
+
+
+def recent_page(t: T):
+    head, rows = recent_rows(t, "", 300)
+    body = (f"<h1>{e(t.s('recent_wrs'))}</h1><p>{e(t.s('recent_intro'))}</p>"
+            + table(head, rows))
+    write(t.lang, "recent.html", page(t, "recent.html", t.s("recent_wrs"), body))
+
+
+def longest_page(t: T):
+    pre = ""
+    cur, ever = [], []
+    for c, r, sid, k in all_boards():
+        groups = wr_groups(k)
+        for i, (rec, ties) in enumerate(groups):
+            end = groups[i + 1][0]["date"] if i + 1 < len(groups) else None
+            d1 = parse_date(rec.get("date"))
+            d2 = parse_date(end) if end else NOW
+            if not d1:
+                continue
+            item = (max(0, (d2 - d1).days), c, r, sid, rec, ties, end is None)
+            ever.append(item)
+            if end is None:
+                cur.append(item)
+
+    def rows_of(items, limit):
+        rows = []
+        for n, (days, c, r, sid, rec, ties, standing) in enumerate(sorted(items, key=lambda x: -x[0])[:limit], 1):
+            tie = ""
+            if ties:
+                names = ", ".join(display_name(x["user"], t.lang) for x in ties)
+                tie = f' <span class="tie" title="{e(names)}">+{len(ties)}</span>'
+            rows.append([str(n), f'<span class="num"><b>{days:,}{"+" if standing else ""}</b></span>',
+                         e(t.game(c["series"])), stage_link(t, c, r, sid, pre), score_cell(rec, r, sid, t),
+                         video_cell(rec, t), player(rec["user"], t, pre) + tie, flag(rec["user"], t),
+                         t.date(rec.get("date"))])
+        return rows
+
+    head = ["#", H(t, "days"), t.s("game"), t.s("stage"), score_heads(t), H(t, "video"), t.s("player"),
+            H(t, "nation"), t.s("date")]
+    body = (f"<h1>{e(t.s('longest'))}</h1><p>{e(t.s('longest_intro'))}</p>"
+            f"<h2>{e(t.s('longest_cur'))}</h2>" + table(head, rows_of(cur, 100))
+            + f"<h2>{e(t.s('longest_all'))}</h2>" + table(head, rows_of(ever, 100)))
+    write(t.lang, "longest.html", page(t, "longest.html", t.s("longest"), body))
+
+
+def activity_page(t: T):
+    pre = ""
+    subs, wrs_set, runners = {}, {}, {}
+    first_seen, held, set_count = {}, {}, {}
+    for c, r, sid, k in all_boards():
+        s = c["series"]
+        for a in archive(k)["posts"]:
+            d = parse_date(a.get("date"))
+            if not d:
+                continue
+            y = d.year
+            subs[(y, s)] = subs.get((y, s), 0) + 1
+            runners.setdefault((y, s), set()).add(a["user"])
+            runners.setdefault((y, 0), set()).add(a["user"])
+            if a["user"] not in first_seen or d < first_seen[a["user"]]:
+                first_seen[a["user"]] = d
+        groups = wr_groups(k)
+        for i, (rec, ties) in enumerate(groups):
+            end = parse_date(groups[i + 1][0]["date"]) if i + 1 < len(groups) else NOW
+            for x in [rec, *ties]:
+                d = parse_date(x.get("date"))
+                if not d:
+                    continue
+                wrs_set[(d.year, s)] = wrs_set.get((d.year, s), 0) + 1
+                set_count[x["user"]] = set_count.get(x["user"], 0) + 1
+                held[x["user"]] = held.get(x["user"], 0) + max(0, (end - d).days)
+    years = sorted({y for y, _ in subs} | {y for y, _ in wrs_set}, reverse=True)
+    new_by_year = {}
+    for d in first_seen.values():
+        new_by_year[d.year] = new_by_year.get(d.year, 0) + 1
+
+    def num(n, bold=False):
+        if not n:
+            return ""
+        return f'<span class="num">{"<b>" if bold else ""}{n:,}{"</b>" if bold else ""}</span>'
+
+    game_heads = [e(t.game(s)) for s in GAMES]
+
+    def year_table(counts):
+        rows = []
+        for y in years:
+            vals = [counts.get((y, s), 0) for s in GAMES]
+            rows.append([str(y), *[num(v) for v in vals], num(sum(vals), True)])
+        return table([t.s("year"), *game_heads, t.s("all_games")], rows)
+
+    run_rows = []
+    for y in years:
+        vals = [len(runners.get((y, s), ())) for s in GAMES]
+        run_rows.append([str(y), *[num(v) for v in vals], num(len(runners.get((y, 0), ())), True),
+                         num(new_by_year.get(y, 0))])
+    cur = {}
+    for c, r, sid, k in all_boards():
+        for p in current_wrs(k):
+            cur[p["user"]] = cur.get(p["user"], 0) + 1
+    top = sorted(set_count, key=lambda u: (-set_count[u], -held.get(u, 0)))[:50]
+    top_rows = [[str(i), player(u, t, pre), flag(u, t), num(set_count[u], True), num(cur.get(u, 0)),
+                 num(held.get(u, 0))] for i, u in enumerate(top, 1)]
+    body = (f"<h1>{e(t.s('activity'))}</h1><p>{e(t.s('activity_intro'))}</p>"
+            f"<h2>{e(t.s('act_subs'))}</h2>" + year_table(subs)
+            + f"<h2>{e(t.s('act_wrs'))}</h2>" + year_table(wrs_set)
+            + f"<h2>{e(t.s('act_runners'))}</h2>"
+            + table([t.s("year"), *game_heads, t.s("all_games"), H(t, "runners_new")], run_rows)
+            + f"<h2>{e(t.s('act_top'))}</h2>"
+            + table(["#", t.s("player"), H(t, "nation"), H(t, "wrs_set"), H(t, "cur_firsts"), H(t, "days_held")],
+                    top_rows))
+    write(t.lang, "activity.html", page(t, "activity.html", t.s("activity"), body))
+
+
+def snapshot_page(t: T, series):
+    """Every record in a game as of a chosen date, rebuilt in the browser from record history."""
+    pre = "../"
+    rel = f"snapshot/{SLUG[series]}.html"
+    tabs = '<p class="tabs">[ ' + " | ".join(
+        f'<a href="{SLUG[s]}.html"{" class=on" if s == series else ""}>{e(t.game(s))}</a>' for s in GAMES) + " ]</p>"
+    data, sections = [], []
+    earliest = ""
+    for c in [c for c in CATS if c["series"] == series]:
+        boards, all_cells = [], []
+        for r, sid in c["boards"]:
+            k = bkey(r, sid)
+            recs = []
+            for rec, ties in wr_groups(k):
+                grp = []
+                for x in [rec, *ties]:
+                    d = t.date(x.get("date"))
+                    if not d:
+                        continue
+                    cells = [*score_cell(x, r, sid, t), video_cell(x, t), player(x["user"], t, pre),
+                             flag(x["user"], t), d]
+                    grp.append({"d": d, "c": cells})
+                    all_cells.append(cells)
+                    earliest = min(earliest or d, d)
+                if grp:
+                    recs.append(grp)
+            boards.append({"name": stage_link(t, c, r, sid, pre, with_cat=False), "g": recs})
+        # drop the time columns no record in this category uses (cell indices 1 and 2)
+        keep = [0] + [i for i in (1, 2) if any(str(cells[i]).strip() for cells in all_cells)] + [3, 4, 5, 6]
+        for b in boards:
+            for grp in b["g"]:
+                for x in grp:
+                    x["c"] = [x["c"][i] for i in keep]
+        score_h = {0: H(t, "score"), 1: H(t, "mode_u"), 2: H(t, "mode_l")}
+        heads = ([t.s("stage")] + [score_h[i] for i in keep if i in score_h]
+                 + [H(t, "video"), t.s("player"), H(t, "nation"), t.s("date"), H(t, "days")])
+        th = "".join(f"<th>{h}</th>" for h in heads)
+        sections.append(f'<h2 id="c{c["id"]}">{e(t.cat(c))}</h2><div class="tw"><table class="wr snapt" '
+                        f'data-cat="{len(data)}"><thead><tr>{th}</tr></thead><tbody></tbody></table></div>')
+        data.append(boards)
+    picker = (f'<form class="snap" onsubmit="return false">{e(t.s("wrs_as_of"))} '
+              f'<input type="date" id="wr-asof" min="{earliest}" max="{NOW:%Y-%m-%d}" value="{NOW:%Y-%m-%d}"> '
+              f'<button type="button" id="wr-asof-today">{e(t.s("today"))}</button></form>')
+    body = (f"<h1>{e(t.s('snapshots'))}: {e(t.game(series))}</h1>{tabs}"
+            f"<p>{e(t.s('snapshot_intro', game=t.game(series)))}</p>" + picker + "".join(sections)
+            + "<noscript><p class='note'>JavaScript is needed for this page.</p></noscript>")
+    js = json.dumps({"cats": data, "none": t.s("no_record_yet"), "today": f"{NOW:%Y-%m-%d}"},
+                    ensure_ascii=False).replace("</", "<\\/")
+    extra = f'<script type="application/json" id="wrsnap">{js}</script>'
+    write(t.lang, rel, page(t, rel, f"{t.s('snapshots')}: {t.game(series)}", body, series=series, body_extra=extra))
+
+
 CONFIG = json.loads((SRC / "config.json").read_text(encoding="utf-8"))
 
 
@@ -969,6 +1184,11 @@ def main():
         index_page(t)
         tas_page(t)
         suggest_page(t)
+        recent_page(t)
+        longest_page(t)
+        activity_page(t)
+        for s_ in GAMES:
+            snapshot_page(t, s_)
     n = sum(1 for _ in DIST.rglob("*.html"))
     print(f"built {n} pages into {DIST}")
 
