@@ -5,7 +5,7 @@
   {
    "user": "96_Leaf",
    "rank": 1,
-   "rps": 25176,
+   "rps": 25432,
    "score": 2531,
    "boards": 9,
    "date": "2026-11-14T23:24:39.000000Z"
@@ -13,7 +13,7 @@
   {
    "user": "albut3",
    "rank": 2,
-   "rps": 21707,
+   "rps": 21779,
    "score": 2077,
    "boards": 7,
    "date": "2026-11-15T06:13:04.000000Z"
@@ -21,7 +21,7 @@
   {
    "user": "kobachi_no_udon",
    "rank": 3,
-   "rps": 21480,
+   "rps": 21815,
    "score": 1918,
    "boards": 7,
    "date": "2026-11-14T21:38:02.000000Z"
@@ -29,15 +29,15 @@
   {
    "user": "yukimi",
    "rank": 4,
-   "rps": 16503,
-   "score": 1895,
+   "rps": 17056,
+   "score": 1898,
    "boards": 7,
-   "date": "2026-11-15T06:31:31.000000Z"
+   "date": "2026-11-15T09:37:52.000000Z"
   },
   {
    "user": "Bl6AltMzq5Jx4aM",
    "rank": 5,
-   "rps": 25711,
+   "rps": 26111,
    "score": 1796,
    "boards": 7,
    "date": "2026-11-14T13:02:00.000000Z"
@@ -45,34 +45,34 @@
   {
    "user": "koppacha",
    "rank": 6,
-   "rps": 12959,
+   "rps": 12986,
    "score": 1791,
    "boards": 7,
    "date": "2026-11-14T19:11:49.000000Z"
   },
   {
-   "user": "toripoppo0307",
+   "user": "iid01",
    "rank": 7,
-   "rps": 15568,
+   "rps": 21424,
+   "score": 1776,
+   "boards": 6,
+   "date": "2026-11-15T11:32:58.000000Z"
+  },
+  {
+   "user": "toripoppo0307",
+   "rank": 8,
+   "rps": 15378,
    "score": 1523,
    "boards": 6,
    "date": "2026-11-13T23:59:32.000000Z"
   },
   {
    "user": "mercysnow",
-   "rank": 8,
+   "rank": 9,
    "rps": 20492,
    "score": 1244,
    "boards": 5,
    "date": "2026-11-13T11:09:55.000000Z"
-  },
-  {
-   "user": "iid01",
-   "rank": 8,
-   "rps": 19701,
-   "score": 1244,
-   "boards": 5,
-   "date": "2026-11-14T04:47:18.000000Z"
   },
   {
    "user": "spark573",
@@ -99,16 +99,24 @@
    "date": "2026-11-04T15:04:20.000000Z"
   },
   {
-   "user": "April_lapispik",
+   "user": "hocotate",
    "rank": 13,
-   "rps": 5037,
+   "rps": 7150,
+   "score": 1060,
+   "boards": 4,
+   "date": "2026-11-15T12:30:58.000000Z"
+  },
+  {
+   "user": "April_lapispik",
+   "rank": 14,
+   "rps": 5062,
    "score": 854,
    "boards": 3,
    "date": "2026-11-15T04:17:52.000000Z"
   },
   {
    "user": "pikitto",
-   "rank": 14,
+   "rank": 15,
    "rps": 8156,
    "score": 818,
    "boards": 4,
@@ -116,19 +124,11 @@
   },
   {
    "user": "shiragawatanuki",
-   "rank": 15,
+   "rank": 16,
    "rps": 5869,
    "score": 799,
    "boards": 3,
    "date": "2026-11-13T16:10:11.000000Z"
-  },
-  {
-   "user": "hocotate",
-   "rank": 16,
-   "rps": 5293,
-   "score": 710,
-   "boards": 3,
-   "date": "2026-11-13T12:05:38.000000Z"
   },
   {
    "user": "bi-guruken",
@@ -139,8 +139,16 @@
    "date": "2026-11-06T05:56:56.000000Z"
   },
   {
-   "user": "Abebe0311",
+   "user": "Mutou_p2pw",
    "rank": 18,
+   "rps": 5579,
+   "score": 566,
+   "boards": 2,
+   "date": "2026-11-15T08:06:14.000000Z"
+  },
+  {
+   "user": "Abebe0311",
+   "rank": 19,
    "rps": 4275,
    "score": 525,
    "boards": 2,
@@ -148,7 +156,7 @@
   },
   {
    "user": "Lotus",
-   "rank": 19,
+   "rank": 20,
    "rps": 5717,
    "score": 412,
    "boards": 2,
@@ -156,7 +164,7 @@
   },
   {
    "user": "pizza_dx",
-   "rank": 20,
+   "rank": 21,
    "rps": 3199,
    "score": 376,
    "boards": 2,
@@ -164,7 +172,7 @@
   },
   {
    "user": "himazinn",
-   "rank": 21,
+   "rank": 22,
    "rps": 4117,
    "score": 359,
    "boards": 2,
@@ -172,7 +180,7 @@
   },
   {
    "user": "kirichaaaaaaaan",
-   "rank": 22,
+   "rank": 23,
    "rps": 2901,
    "score": 342,
    "boards": 1,
@@ -180,19 +188,11 @@
   },
   {
    "user": "SiroganeRuby",
-   "rank": 23,
+   "rank": 24,
    "rps": 1421,
    "score": 297,
    "boards": 1,
    "date": "2026-11-05T09:10:33.000000Z"
-  },
-  {
-   "user": "Mutou_p2pw",
-   "rank": 24,
-   "rps": 3439,
-   "score": 204,
-   "boards": 1,
-   "date": "2026-11-07T03:21:04.000000Z"
   },
   {
    "user": "13101575",
