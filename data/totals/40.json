@@ -5,7 +5,7 @@
   {
    "user": "Bl6AltMzq5Jx4aM",
    "rank": 1,
-   "rps": 192990,
+   "rps": 193399,
    "score": 13433,
    "boards": 35,
    "date": "2026-11-14T13:02:00.000000Z"
@@ -13,15 +13,15 @@
   {
    "user": "albut3",
    "rank": 2,
-   "rps": 130558,
-   "score": 10448,
+   "rps": 130369,
+   "score": 10452,
    "boards": 24,
-   "date": "2026-11-14T20:42:50.000000Z"
+   "date": "2026-11-15T06:13:04.000000Z"
   },
   {
    "user": "koppacha",
    "rank": 3,
-   "rps": 94576,
+   "rps": 94769,
    "score": 10109,
    "boards": 35,
    "date": "2026-11-14T19:11:49.000000Z"
@@ -85,10 +85,10 @@
   {
    "user": "96_Leaf",
    "rank": 11,
-   "rps": 105207,
-   "score": 6720,
+   "rps": 105600,
+   "score": 6728,
    "boards": 21,
-   "date": "2026-11-14T01:21:49.000000Z"
+   "date": "2026-11-14T23:24:39.000000Z"
   },
   {
    "user": "Lotus",
@@ -165,7 +165,7 @@
   {
    "user": "kobachi_no_udon",
    "rank": 21,
-   "rps": 55390,
+   "rps": 55600,
    "score": 5134,
    "boards": 14,
    "date": "2026-11-14T21:38:02.000000Z"
@@ -179,8 +179,16 @@
    "date": "2024-09-09T14:12:39.000000Z"
   },
   {
-   "user": "qwertyuiop",
+   "user": "April_lapispik",
    "rank": 23,
+   "rps": 29711,
+   "score": 4484,
+   "boards": 11,
+   "date": "2026-11-15T04:17:52.000000Z"
+  },
+  {
+   "user": "qwertyuiop",
+   "rank": 24,
    "rps": 17440,
    "score": 4450,
    "boards": 12,
@@ -188,7 +196,7 @@
   },
   {
    "user": "Mutou_p2pw",
-   "rank": 24,
+   "rank": 25,
    "rps": 49685,
    "score": 4335,
    "boards": 11,
@@ -196,7 +204,7 @@
   },
   {
    "user": "yoshi0216",
-   "rank": 25,
+   "rank": 26,
    "rps": 14736,
    "score": 4252,
    "boards": 12,
@@ -204,19 +212,11 @@
   },
   {
    "user": "techimin",
-   "rank": 26,
+   "rank": 27,
    "rps": 24585,
    "score": 4245,
    "boards": 10,
    "date": "2025-09-08T15:40:46.000000Z"
-  },
-  {
-   "user": "April_lapispik",
-   "rank": 27,
-   "rps": 28124,
-   "score": 4138,
-   "boards": 10,
-   "date": "2026-11-07T14:06:36.000000Z"
   },
   {
    "user": "hocotate",
@@ -371,8 +371,16 @@
    "date": "2026-11-13T21:47:34.000000Z"
   },
   {
-   "user": "katsun",
+   "user": "yukimi",
    "rank": 47,
+   "rps": 16503,
+   "score": 1895,
+   "boards": 7,
+   "date": "2026-11-15T06:31:31.000000Z"
+  },
+  {
+   "user": "katsun",
+   "rank": 48,
    "rps": 9654,
    "score": 1788,
    "boards": 4,
@@ -380,7 +388,7 @@
   },
   {
    "user": "nagahiro0125",
-   "rank": 48,
+   "rank": 49,
    "rps": 23145,
    "score": 1768,
    "boards": 11,
@@ -388,7 +396,7 @@
   },
   {
    "user": "y",
-   "rank": 49,
+   "rank": 50,
    "rps": 13292,
    "score": 1705,
    "boards": 7,
@@ -396,19 +404,11 @@
   },
   {
    "user": "sttkt",
-   "rank": 50,
+   "rank": 51,
    "rps": 19322,
    "score": 1576,
    "boards": 11,
    "date": "2023-12-09T15:46:03.000000Z"
-  },
-  {
-   "user": "yukimi",
-   "rank": 51,
-   "rps": 14537,
-   "score": 1524,
-   "boards": 6,
-   "date": "2026-11-14T10:26:12.000000Z"
   },
   {
    "user": "sugarsugarlun",
