@@ -311,7 +311,7 @@ def score_cell(p, rule, sid, t: T):
 
 # pik5 fills empty comments with "コメントなし" ("no comment"), sometimes after a
 # controller/console tag like "[Wii] "; show those as blank.
-NO_COMMENT_RE = re.compile(r"^\s*(\[[^\]]*\]\s*)?(コメントなし)?\s*$")
+NO_COMMENT_RE = re.compile(r"^\s*(\[[^\]]*\]\s*)?(一行)?(コメントなし[。.]?)?\s*$")
 
 
 def comment_text(p):
