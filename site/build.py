@@ -47,6 +47,18 @@ def load(name, default=None):
 meta = load("meta.json", {})
 raw_categories = load("categories.json", [])
 stages = {int(k): v for k, v in load("stages.json", {}).items()}
+# pik5's English stage names with typos, corrected to the official names (checked on Pikipedia).
+STAGE_NAME_FIX = {
+    223: "Hidden Garden",
+    313: "Beastly Caverns", 328: "Beastly Caverns",
+    362: "Jigsaw Colosseum",
+    402: "Hotshock Canyon",
+    406: "Hefty Haulway",
+    445: "Courtyard Commands",
+}
+for _sid, _name in STAGE_NAME_FIX.items():
+    if _sid in stages:
+        stages[_sid]["name"] = _name
 users = load("users.json", {})
 profiles = load("players.json", {})
 overrides = {k: v for k, v in json.loads((SRC / "players_overrides.json").read_text(encoding="utf-8")).items()
