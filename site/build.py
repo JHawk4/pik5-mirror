@@ -695,12 +695,10 @@ def history_page(t: T, c, rule, sid):
     h = history(k)
     b = board(k)
     low = b.get("lower_is_better")
-    parts = [stage_heading(t, c, rule, sid), board_tabs(t, k, "hist", pre)]
+    parts = [stage_heading(t, c, rule, sid), board_tabs(t, k, "hist", pre), video_block(t, k, rule, sid, low, pre)]
 
     wrs = current_wrs(k)
     if wrs:
-        w = wrs[0]
-        vid = next((p for p in wrs if norm_video(p.get("video"))), None)
         rows = [[t.date(p.get("date")), score_cell(p, rule, sid, t), video_cell(p, t), player(p["user"], t, pre),
                  flag(p["user"], t), console_cell(p.get("console"), t, sid), difficulty_cell(p, t, sid), days_between(p.get("date"), NOW)]
                 for p in wrs[:5]]
@@ -708,19 +706,6 @@ def history_page(t: T, c, rule, sid):
         parts.append(f"<h2>{e(t.s('current_wr'))}</h2>"
                      + table([t.s("date"), score_heads(t), H(t, "video"), t.s("player"), H(t, "nation"), ("drop", H(t, "console")), ("drop", H(t, "difficulty")),
                               H(t, "days")], rows) + more)
-        shown = vid
-        if not vid:
-            bv = best_with_video(k, low)
-            if bv:
-                parts.append(f'<p class="note">{e(t.s("no_wr_video"))}</p>'
-                             + table([t.s("date"), score_heads(t), H(t, "video"), t.s("player"), H(t, "nation"),
-                                      ("drop", H(t, "console")), ("drop", H(t, "difficulty"))],
-                                     [[t.date(bv.get("date")), score_cell(bv, rule, sid, t), video_cell(bv, t),
-                                       player(bv["user"], t, pre), flag(bv["user"], t),
-                                       console_cell(bv.get("console"), t, sid), difficulty_cell(bv, t, sid)]]))
-                shown = bv
-        if shown:
-            parts.append(embed(shown, t))
 
     recs = h.get("records") or []
     groups = []
@@ -746,6 +731,17 @@ def history_page(t: T, c, rule, sid):
                           ("drop", H(t, "console")), ("drop", H(t, "difficulty")), H(t, "days")], rows))
     write(t.lang, rel, page(t, rel, f"{t.stage(sid)} - {t.cat(c)}", "\n".join(parts), series=c["series"],
                             current_key=k))
+
+
+def video_block(t: T, k, rule, sid, low, pre):
+    """The best run with a video (the record if it has one), embedded, with a caption."""
+    vid = next((p for p in current_wrs(k) if norm_video(p.get("video"))), None) or best_with_video(k, low)
+    if not vid or not embed(vid, t):
+        return ""
+    shown = " / ".join(x for x in score_views(vid["score"], rule, sid) if x)
+    return (f'<p class="vidcap">{e(t.s("fastest_video"))}: {player(vid["user"], t, pre)} {flag(vid["user"], t)} '
+            f'<span class="num">{e(shown)}</span> <span class="small">({t.date(vid.get("date"))})</span></p>'
+            + embed(vid, t))
 
 
 def board_page(t: T, c, rule, sid):
@@ -784,13 +780,7 @@ def board_page(t: T, c, rule, sid):
         row["c"] = [c for i, c in enumerate(row["c"], start=1) if i not in dropped]
     data = json.dumps(snap, ensure_ascii=False).replace("</", "<\\/")
     texts = json.dumps({"players": t.s("n_players", n="{n}"), "asof": t.s("snapshot_shown")}, ensure_ascii=False)
-    vid = next((p for p in current_wrs(k) if norm_video(p.get("video"))), None) or best_with_video(k, low)
-    video = ""
-    if vid and embed(vid, t):
-        shown = " / ".join(x for x in score_views(vid["score"], rule, sid) if x)
-        video = (f'<p class="vidcap">{e(t.s("fastest_video"))}: {player(vid["user"], t, pre)} {flag(vid["user"], t)} '
-                 f'<span class="num">{e(shown)}</span> <span class="small">({t.date(vid.get("date"))})</span></p>'
-                 + embed(vid, t))
+    video = video_block(t, k, rule, sid, low, pre)
     body = (stage_heading(t, c, rule, sid) + board_tabs(t, k, "lb", pre) + video
             + f"<h2>{e(t.s('leaderboard'))} <span class='small' id='lb-count'>{e(t.s('n_players', n=len(rows)))}</span></h2>"
             + picker + lb_table)
@@ -931,8 +921,23 @@ def wr_groups(key):
     return groups
 
 
-def all_boards():
+GAME_FILTERED = ("recent", "longest", "activity")
+
+
+def filter_rel(base, series):
+    return f"{base}.html" if not series else f"{base}-{SLUG[series]}.html"
+
+
+def game_filter(t: T, base, series):
+    links = [f'<a href="{filter_rel(base, None)}"{" class=on" if not series else ""}>{e(t.s("all_games"))}</a>']
+    links += [f'<a href="{filter_rel(base, s)}"{" class=on" if s == series else ""}>{e(t.game(s))}</a>' for s in GAMES]
+    return '<p class="tabs">[ ' + " | ".join(links) + " ]</p>"
+
+
+def all_boards(series=None):
     for c in CATS:
+        if series and c["series"] != series:
+            continue
         for r, sid in c["boards"]:
             yield c, r, sid, bkey(r, sid)
 
@@ -943,9 +948,9 @@ def stage_link(t: T, c, r, sid, pre, with_cat=True):
     return f'<a href="{pre}board/{bkey(r, sid)}.html">{e(t.stage(sid))}</a>{egg}{cat}'
 
 
-def recent_rows(t: T, pre, limit):
+def recent_rows(t: T, pre, limit, series=None):
     items = []
-    for c, r, sid, k in all_boards():
+    for c, r, sid, k in all_boards(series):
         groups = wr_groups(k)
         for i, (rec, ties) in enumerate(groups):
             prev = groups[i - 1][0] if i else None
@@ -969,17 +974,19 @@ def recent_rows(t: T, pre, limit):
     return head, rows
 
 
-def recent_page(t: T):
-    head, rows = recent_rows(t, "", 300)
-    body = (f"<h1>{e(t.s('recent_wrs'))}</h1><p>{e(t.s('recent_intro'))}</p>"
-            + table(head, rows))
-    write(t.lang, "recent.html", page(t, "recent.html", t.s("recent_wrs"), body))
+def recent_page(t: T, series=None):
+    rel = filter_rel("recent", series)
+    head, rows = recent_rows(t, "", 300, series)
+    body = (f"<h1>{e(t.s('recent_wrs'))}</h1>" + game_filter(t, "recent", series)
+            + f"<p>{e(t.s('recent_intro'))}</p>" + table(head, rows))
+    write(t.lang, rel, page(t, rel, t.s("recent_wrs"), body, series=series))
 
 
-def longest_page(t: T):
+def longest_page(t: T, series=None):
     pre = ""
+    rel = filter_rel("longest", series)
     cur, ever = [], []
-    for c, r, sid, k in all_boards():
+    for c, r, sid, k in all_boards(series):
         groups = wr_groups(k)
         for i, (rec, ties) in enumerate(groups):
             end = groups[i + 1][0]["date"] if i + 1 < len(groups) else None
@@ -1007,17 +1014,20 @@ def longest_page(t: T):
 
     head = ["#", H(t, "days"), t.s("game"), t.s("stage"), score_heads(t), H(t, "video"), t.s("player"),
             H(t, "nation"), t.s("date")]
-    body = (f"<h1>{e(t.s('longest'))}</h1><p>{e(t.s('longest_intro'))}</p>"
+    body = (f"<h1>{e(t.s('longest'))}</h1>" + game_filter(t, "longest", series)
+            + f"<p>{e(t.s('longest_intro'))}</p>"
             f"<h2>{e(t.s('longest_cur'))}</h2>" + table(head, rows_of(cur, 100))
             + f"<h2>{e(t.s('longest_all'))}</h2>" + table(head, rows_of(ever, 100)))
-    write(t.lang, "longest.html", page(t, "longest.html", t.s("longest"), body))
+    write(t.lang, rel, page(t, rel, t.s("longest"), body, series=series))
 
 
-def activity_page(t: T):
+def activity_page(t: T, series=None):
     pre = ""
+    rel = filter_rel("activity", series)
+    gs = [series] if series else list(GAMES)
     subs, wrs_set, runners = {}, {}, {}
     first_seen, held, set_count = {}, {}, {}
-    for c, r, sid, k in all_boards():
+    for c, r, sid, k in all_boards(series):
         s = c["series"]
         for a in archive(k)["posts"]:
             d = parse_date(a.get("date"))
@@ -1049,36 +1059,38 @@ def activity_page(t: T):
             return ""
         return f'<span class="num">{"<b>" if bold else ""}{n:,}{"</b>" if bold else ""}</span>'
 
-    game_heads = [e(t.game(s)) for s in GAMES]
+    game_heads = [e(t.game(s)) for s in gs]
 
     def year_table(counts):
         rows = []
         for y in years:
-            vals = [counts.get((y, s), 0) for s in GAMES]
-            rows.append([str(y), *[num(v) for v in vals], num(sum(vals), True)])
-        return table([t.s("year"), *game_heads, t.s("all_games")], rows)
+            vals = [counts.get((y, s), 0) for s in gs]
+            rows.append([str(y), *[num(v, len(gs) == 1) for v in vals]] + ([num(sum(vals), True)] if len(gs) > 1 else []))
+        return table([t.s("year"), *game_heads] + ([t.s("all_games")] if len(gs) > 1 else []), rows)
 
     run_rows = []
     for y in years:
-        vals = [len(runners.get((y, s), ())) for s in GAMES]
-        run_rows.append([str(y), *[num(v) for v in vals], num(len(runners.get((y, 0), ())), True),
-                         num(new_by_year.get(y, 0))])
+        vals = [len(runners.get((y, s), ())) for s in gs]
+        run_rows.append([str(y), *[num(v, len(gs) == 1) for v in vals]]
+                        + ([num(len(runners.get((y, 0), ())), True)] if len(gs) > 1 else [])
+                        + [num(new_by_year.get(y, 0))])
     cur = {}
-    for c, r, sid, k in all_boards():
+    for c, r, sid, k in all_boards(series):
         for p in current_wrs(k):
             cur[p["user"]] = cur.get(p["user"], 0) + 1
     top = sorted(set_count, key=lambda u: (-set_count[u], -held.get(u, 0)))[:50]
     top_rows = [[str(i), player(u, t, pre), flag(u, t), num(set_count[u], True), num(cur.get(u, 0)),
                  num(held.get(u, 0))] for i, u in enumerate(top, 1)]
-    body = (f"<h1>{e(t.s('activity'))}</h1><p>{e(t.s('activity_intro'))}</p>"
+    body = (f"<h1>{e(t.s('activity'))}</h1>" + game_filter(t, "activity", series)
+            + f"<p>{e(t.s('activity_intro'))}</p>"
             f"<h2>{e(t.s('act_subs'))}</h2>" + year_table(subs)
             + f"<h2>{e(t.s('act_wrs'))}</h2>" + year_table(wrs_set)
             + f"<h2>{e(t.s('act_runners'))}</h2>"
-            + table([t.s("year"), *game_heads, t.s("all_games"), H(t, "runners_new")], run_rows)
+            + table([t.s("year"), *game_heads] + ([t.s("all_games")] if len(gs) > 1 else []) + [H(t, "runners_new")], run_rows)
             + f"<h2>{e(t.s('act_top'))}</h2>"
             + table(["#", t.s("player"), H(t, "nation"), H(t, "wrs_set"), H(t, "cur_firsts"), H(t, "days_held")],
                     top_rows))
-    write(t.lang, "activity.html", page(t, "activity.html", t.s("activity"), body))
+    write(t.lang, rel, page(t, rel, t.s("activity"), body, series=series))
 
 
 def snapshot_page(t: T, series):
@@ -1184,9 +1196,10 @@ def main():
         index_page(t)
         tas_page(t)
         suggest_page(t)
-        recent_page(t)
-        longest_page(t)
-        activity_page(t)
+        for s_ in (None, *GAMES):
+            recent_page(t, s_)
+            longest_page(t, s_)
+            activity_page(t, s_)
         for s_ in GAMES:
             snapshot_page(t, s_)
     n = sum(1 for _ in DIST.rglob("*.html"))
