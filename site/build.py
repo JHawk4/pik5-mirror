@@ -441,7 +441,7 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
                 k = bkey(r, sid)
                 on = ' class="on"' if k == current_key else ""
                 egg = EGG if c.get("egg_rule") == r else ""
-                side.append(f'<a{on} href="{pre}history/{k}.html">{e(t.stage(sid))}{egg}</a>')
+                side.append(f'<a{on} href="{pre}board/{k}.html">{e(t.stage(sid))}{egg}</a>')
             side.append("</div>")
     side.append(f'<div class="navbox links"><span class="head">{e(t.s("links"))}</span>')
     for en_label, ja_label, url in LINKS:
@@ -554,8 +554,8 @@ def pik5_url(key, t: T):
 def board_tabs(t: T, key, active, pre):
     def a(k, href, label):
         return f'<a href="{href}"{" class=on" if active == k else ""}>{e(label)}</a>'
-    return (f'<p class="tabs">[ {a("hist", f"{pre}history/{key}.html", t.s("wr_history"))} | '
-            f'{a("lb", f"{pre}board/{key}.html", t.s("leaderboard"))} | '
+    return (f'<p class="tabs">[ {a("lb", f"{pre}board/{key}.html", t.s("leaderboard"))} | '
+            f'{a("hist", f"{pre}history/{key}.html", t.s("wr_history"))} | '
             f'<a href="{pik5_url(key, t)}" target="_blank" rel="noopener">{e(t.s("on_pik5"))}</a> ]</p>')
 
 
@@ -614,7 +614,7 @@ def game_page(t: T, series):
                 b = board(k)
                 wrs = current_wrs(k)
                 egg = EGG if c.get("egg_rule") == r else ""
-                link = f'<a href="history/{k}.html">{e(t.stage(sid))}</a>{egg}'
+                link = f'<a href="board/{k}.html">{e(t.stage(sid))}</a>{egg}'
                 if not wrs:
                     rows.append([link, "—", "", "", "", "", "", ""])
                     continue
@@ -799,7 +799,7 @@ def player_page(t: T, uid, entries):
     for c, r, sid, p in entries:
         rank = p.get("rank")
         rows.append([e(t.game(c["series"])), e(t.cat(c)),
-                     f'<a href="../history/{bkey(r, sid)}.html">{e(t.stage(sid))}</a>',
+                     f'<a href="../board/{bkey(r, sid)}.html">{e(t.stage(sid))}</a>',
                      score_cell(p, r, sid, t), video_cell(p, t),
                      '<b class="gold">1</b>' if rank == 1 else str(rank or ""),
                      t.date(p.get("date")), console_cell(p.get("console"), t, sid), difficulty_cell(p, t, sid)])
@@ -835,7 +835,7 @@ def index_page(t: T):
                     recent.append((rec.get("date") or "", c, r, sid, rec))
     recent.sort(key=lambda x: x[0], reverse=True)
     rows = [[t.date(d), e(t.game(c["series"])),
-             f'<a href="history/{bkey(r, sid)}.html">{e(t.stage(sid))}</a> <span class="small">({e(t.cat(c))})</span>',
+             f'<a href="board/{bkey(r, sid)}.html">{e(t.stage(sid))}</a> <span class="small">({e(t.cat(c))})</span>',
              score_cell(rec, r, sid, t), video_cell(rec, t), player(rec["user"], t, pre), flag(rec["user"], t)]
             for d, c, r, sid, rec in recent[:50]]
     games = "".join(
@@ -878,7 +878,7 @@ def tas_page(t: T):
         for rule, sid in cat["boards"]:
             k = bkey(rule, sid)
             egg = EGG if cat.get("egg_rule") == rule else ""
-            link = f'<a href="history/{k}.html">{e(t.stage(sid))}</a>{egg}'
+            link = f'<a href="board/{k}.html">{e(t.stage(sid))}</a>{egg}'
             wr = current_wrs(k)
             wr_score = wr[0]["score"] if wr else None
             r = runs.get(sid)
