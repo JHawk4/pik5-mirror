@@ -34,6 +34,18 @@
    "console": 4,
    "comment": "コメントなし",
    "tie": true
+  },
+  {
+   "id": 20603,
+   "uid": 315065938,
+   "user": "96_Leaf",
+   "score": 221,
+   "date": "2026-11-16T21:40:42.000000Z",
+   "video": "https://youtu.be/oGC31asFedg",
+   "img": "20261117-064042-8616099502.jpg",
+   "console": 4,
+   "comment": "再配達",
+   "tie": false
   }
  ],
  "lower_is_better": false
