@@ -36,6 +36,18 @@
    "console": 4,
    "comment": "コメントなし",
    "tie": true
+  },
+  {
+   "id": 20612,
+   "uid": 315729627,
+   "user": "kobachi_no_udon",
+   "score": 323,
+   "date": "2026-11-18T09:58:12.000000Z",
+   "video": "https://youtu.be/vozdirOGR9U",
+   "img": "",
+   "console": 4,
+   "comment": "ﾄｯｼﾝ!",
+   "tie": false
   }
  ],
  "lower_is_better": false

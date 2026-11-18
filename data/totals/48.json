@@ -5,7 +5,7 @@
   {
    "user": "96_Leaf",
    "rank": 1,
-   "rps": 28593,
+   "rps": 28639,
    "score": 2555,
    "boards": 9,
    "date": "2026-11-17T23:13:32.000000Z"
@@ -13,7 +13,7 @@
   {
    "user": "6harapikumin",
    "rank": 2,
-   "rps": 16530,
+   "rps": 16703,
    "score": 2410,
    "boards": 9,
    "date": "2026-11-15T14:08:41.000000Z"
@@ -21,7 +21,7 @@
   {
    "user": "iid01",
    "rank": 3,
-   "rps": 24343,
+   "rps": 24259,
    "score": 2096,
    "boards": 7,
    "date": "2026-11-17T23:01:12.000000Z"
@@ -29,7 +29,7 @@
   {
    "user": "albut3",
    "rank": 4,
-   "rps": 21876,
+   "rps": 22063,
    "score": 2077,
    "boards": 7,
    "date": "2026-11-15T06:13:04.000000Z"
@@ -38,9 +38,9 @@
    "user": "kobachi_no_udon",
    "rank": 5,
    "rps": 22706,
-   "score": 1937,
+   "score": 1940,
    "boards": 7,
-   "date": "2026-11-15T18:32:14.000000Z"
+   "date": "2026-11-18T09:58:12.000000Z"
   },
   {
    "user": "yukimi",
@@ -75,6 +75,14 @@
    "date": "2026-11-16T11:56:06.000000Z"
   },
   {
+   "user": "hocotate",
+   "rank": 10,
+   "rps": 8926,
+   "score": 1523,
+   "boards": 5,
+   "date": "2026-11-18T17:30:13.000000Z"
+  },
+  {
    "user": "toripoppo0307",
    "rank": 10,
    "rps": 15510,
@@ -84,7 +92,7 @@
   },
   {
    "user": "spark573",
-   "rank": 11,
+   "rank": 12,
    "rps": 16031,
    "score": 1238,
    "boards": 5,
@@ -92,19 +100,11 @@
   },
   {
    "user": "sirogane",
-   "rank": 12,
+   "rank": 13,
    "rps": 7093,
    "score": 1086,
    "boards": 5,
    "date": "2026-11-04T15:04:20.000000Z"
-  },
-  {
-   "user": "hocotate",
-   "rank": 13,
-   "rps": 7255,
-   "score": 1060,
-   "boards": 4,
-   "date": "2026-11-15T12:30:58.000000Z"
   },
   {
    "user": "April_lapispik",
