@@ -24,6 +24,18 @@
    "console": 4,
    "comment": "3分残し！！！！！",
    "tie": false
+  },
+  {
+   "id": 20610,
+   "uid": 315791213,
+   "user": "iid01",
+   "score": 320,
+   "date": "2026-11-17T23:01:12.000000Z",
+   "video": "https://www.youtube.com/watch?v=x9lEJF6ISN0",
+   "img": "",
+   "console": 4,
+   "comment": "コメントなし",
+   "tie": true
   }
  ],
  "lower_is_better": false

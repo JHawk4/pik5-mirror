@@ -5,46 +5,54 @@
   {
    "user": "96_Leaf",
    "rank": 1,
-   "rps": 27826,
-   "score": 2553,
+   "rps": 28593,
+   "score": 2555,
    "boards": 9,
-   "date": "2026-11-17T16:30:41.000000Z"
+   "date": "2026-11-17T23:13:32.000000Z"
   },
   {
    "user": "6harapikumin",
    "rank": 2,
-   "rps": 16540,
+   "rps": 16530,
    "score": 2410,
    "boards": 9,
    "date": "2026-11-15T14:08:41.000000Z"
   },
   {
-   "user": "albut3",
+   "user": "iid01",
    "rank": 3,
-   "rps": 22141,
+   "rps": 24343,
+   "score": 2096,
+   "boards": 7,
+   "date": "2026-11-17T23:01:12.000000Z"
+  },
+  {
+   "user": "albut3",
+   "rank": 4,
+   "rps": 21876,
    "score": 2077,
    "boards": 7,
    "date": "2026-11-15T06:13:04.000000Z"
   },
   {
    "user": "kobachi_no_udon",
-   "rank": 4,
-   "rps": 22507,
+   "rank": 5,
+   "rps": 22706,
    "score": 1937,
    "boards": 7,
    "date": "2026-11-15T18:32:14.000000Z"
   },
   {
    "user": "yukimi",
-   "rank": 5,
-   "rps": 17323,
+   "rank": 6,
+   "rps": 17309,
    "score": 1905,
    "boards": 7,
    "date": "2026-11-16T09:24:46.000000Z"
   },
   {
    "user": "Bl6AltMzq5Jx4aM",
-   "rank": 6,
+   "rank": 7,
    "rps": 25930,
    "score": 1800,
    "boards": 7,
@@ -52,24 +60,16 @@
   },
   {
    "user": "koppacha",
-   "rank": 7,
-   "rps": 12948,
+   "rank": 8,
+   "rps": 12937,
    "score": 1791,
    "boards": 7,
    "date": "2026-11-14T19:11:49.000000Z"
   },
   {
-   "user": "iid01",
-   "rank": 8,
-   "rps": 21200,
-   "score": 1776,
-   "boards": 6,
-   "date": "2026-11-15T11:32:58.000000Z"
-  },
-  {
    "user": "mercysnow",
    "rank": 9,
-   "rps": 23395,
+   "rps": 23167,
    "score": 1629,
    "boards": 6,
    "date": "2026-11-16T11:56:06.000000Z"
@@ -77,7 +77,7 @@
   {
    "user": "toripoppo0307",
    "rank": 10,
-   "rps": 15522,
+   "rps": 15510,
    "score": 1523,
    "boards": 6,
    "date": "2026-11-13T23:59:32.000000Z"
@@ -125,7 +125,7 @@
   {
    "user": "shiragawatanuki",
    "rank": 16,
-   "rps": 5839,
+   "rps": 5829,
    "score": 799,
    "boards": 3,
    "date": "2026-11-13T16:10:11.000000Z"
@@ -165,7 +165,7 @@
   {
    "user": "pizza_dx",
    "rank": 21,
-   "rps": 3216,
+   "rps": 3206,
    "score": 376,
    "boards": 2,
    "date": "2026-11-11T18:53:52.000000Z"
