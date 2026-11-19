@@ -5,7 +5,7 @@
   {
    "user": "96_Leaf",
    "rank": 1,
-   "rps": 28201,
+   "rps": 28348,
    "score": 2555,
    "boards": 9,
    "date": "2026-11-17T23:13:32.000000Z"
@@ -13,7 +13,7 @@
   {
    "user": "6harapikumin",
    "rank": 2,
-   "rps": 16568,
+   "rps": 16738,
    "score": 2410,
    "boards": 9,
    "date": "2026-11-15T14:08:41.000000Z"
@@ -21,7 +21,7 @@
   {
    "user": "iid01",
    "rank": 3,
-   "rps": 23934,
+   "rps": 24136,
    "score": 2096,
    "boards": 7,
    "date": "2026-11-17T23:01:12.000000Z"
@@ -29,7 +29,7 @@
   {
    "user": "albut3",
    "rank": 4,
-   "rps": 22063,
+   "rps": 22247,
    "score": 2077,
    "boards": 7,
    "date": "2026-11-15T06:13:04.000000Z"
@@ -77,7 +77,7 @@
   {
    "user": "hocotate",
    "rank": 10,
-   "rps": 8926,
+   "rps": 9084,
    "score": 1525,
    "boards": 5,
    "date": "2026-11-18T23:01:09.000000Z"
@@ -131,8 +131,16 @@
    "date": "2026-11-13T16:10:11.000000Z"
   },
   {
-   "user": "bi-guruken",
+   "user": "SiroganeRuby",
    "rank": 17,
+   "rps": 3008,
+   "score": 741,
+   "boards": 2,
+   "date": "2026-11-19T10:02:43.000000Z"
+  },
+  {
+   "user": "bi-guruken",
+   "rank": 18,
    "rps": 4454,
    "score": 680,
    "boards": 3,
@@ -140,7 +148,7 @@
   },
   {
    "user": "Mutou_p2pw",
-   "rank": 18,
+   "rank": 19,
    "rps": 5544,
    "score": 566,
    "boards": 2,
@@ -148,7 +156,7 @@
   },
   {
    "user": "Abebe0311",
-   "rank": 19,
+   "rank": 20,
    "rps": 4131,
    "score": 525,
    "boards": 2,
@@ -156,7 +164,7 @@
   },
   {
    "user": "Lotus",
-   "rank": 20,
+   "rank": 21,
    "rps": 5717,
    "score": 412,
    "boards": 2,
@@ -164,7 +172,7 @@
   },
   {
    "user": "pizza_dx",
-   "rank": 21,
+   "rank": 22,
    "rps": 3206,
    "score": 376,
    "boards": 2,
@@ -172,7 +180,7 @@
   },
   {
    "user": "himazinn",
-   "rank": 22,
+   "rank": 23,
    "rps": 4233,
    "score": 370,
    "boards": 2,
@@ -180,7 +188,7 @@
   },
   {
    "user": "wnsrn8650",
-   "rank": 23,
+   "rank": 24,
    "rps": 2259,
    "score": 364,
    "boards": 1,
@@ -188,19 +196,11 @@
   },
   {
    "user": "kirichaaaaaaaan",
-   "rank": 24,
+   "rank": 25,
    "rps": 2901,
    "score": 342,
    "boards": 1,
    "date": "2026-11-06T23:49:16.000000Z"
-  },
-  {
-   "user": "SiroganeRuby",
-   "rank": 25,
-   "rps": 1421,
-   "score": 297,
-   "boards": 1,
-   "date": "2026-11-05T09:10:33.000000Z"
   },
   {
    "user": "13101575",
