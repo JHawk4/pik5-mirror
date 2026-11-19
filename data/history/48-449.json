@@ -46,6 +46,18 @@
    "console": 4,
    "comment": "再配達",
    "tie": false
+  },
+  {
+   "id": 20615,
+   "uid": 315026471,
+   "user": "kobachi_no_udon",
+   "score": 222,
+   "date": "2026-11-18T23:34:37.000000Z",
+   "video": "https://youtu.be/qAEMuWgatWU",
+   "img": "",
+   "console": 4,
+   "comment": "この割り当てじゃないとたぶんクッキー入らない",
+   "tie": false
   }
  ],
  "lower_is_better": false
