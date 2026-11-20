@@ -91,6 +91,78 @@
     "en": "stage-select dive + results roll",
     "ja": "ステージ選択の飛び込み＋結果画面"
    }
+  },
+  {
+   "post": 18484,
+   "rule": 22,
+   "stage": 215,
+   "floors": [
+    {
+     "sublevel": "CH15-1",
+     "seed": "0x78F3DE3E"
+    }
+   ],
+   "dive_state": "0x56BE1987",
+   "margin": 0.197,
+   "shift_margin": 0.077,
+   "how": {
+    "en": "stage-select dive + results roll",
+    "ja": "ステージ選択の飛び込み＋結果画面"
+   }
+  },
+  {
+   "post": 18935,
+   "rule": 22,
+   "stage": 216,
+   "floors": [
+    {
+     "sublevel": "CH16-1",
+     "seed": "0x0615E706"
+    }
+   ],
+   "dive_state": "0x30589DAF",
+   "margin": 0.543,
+   "shift_margin": 0.659,
+   "how": {
+    "en": "stage-select dive + results roll",
+    "ja": "ステージ選択の飛び込み＋結果画面"
+   }
+  },
+  {
+   "post": 18486,
+   "rule": 21,
+   "stage": 217,
+   "floors": [
+    {
+     "sublevel": "CH17-1",
+     "seed": "0x7F1CE063"
+    }
+   ],
+   "dive_state": "0x7478CAA8",
+   "margin": 0.295,
+   "shift_margin": 0.17,
+   "how": {
+    "en": "stage-select dive + results roll",
+    "ja": "ステージ選択の飛び込み＋結果画面"
+   }
+  },
+  {
+   "post": 18495,
+   "rule": 21,
+   "stage": 220,
+   "floors": [
+    {
+     "sublevel": "CH20-1",
+     "seed": "0x5D221DD2"
+    }
+   ],
+   "dive_state": "0x073F690B",
+   "margin": 0.213,
+   "shift_margin": 0.045,
+   "how": {
+    "en": "stage-select dive + results roll",
+    "ja": "ステージ選択の飛び込み＋結果画面"
+   }
   }
  ],
  "unread": {
@@ -130,37 +202,21 @@
    "en": "too few Pikmin jump in to pin it down",
    "ja": "飛び込むピクミンが少なく絞り込めません"
   },
-  "215": {
-   "en": "not read yet",
-   "ja": "未読み取り"
-  },
-  "216": {
-   "en": "not read yet",
-   "ja": "未読み取り"
-  },
-  "217": {
-   "en": "not read yet",
-   "ja": "未読み取り"
-  },
   "218": {
-   "en": "not read yet",
-   "ja": "未読み取り"
+   "en": "the video does not show the stage select",
+   "ja": "動画にステージ選択画面がありません"
   },
   "219": {
-   "en": "not read yet",
-   "ja": "未読み取り"
-  },
-  "220": {
-   "en": "not read yet",
-   "ja": "未読み取り"
+   "en": "the video does not pin it down (several layouts fit)",
+   "ja": "動画から一つに絞れません（複数の候補）"
   },
   "221": {
-   "en": "not read yet",
-   "ja": "未読み取り"
+   "en": "the video does not show the stage select",
+   "ja": "動画にステージ選択画面がありません"
   },
   "222": {
-   "en": "not read yet",
-   "ja": "未読み取り"
+   "en": "the video does not pin it down (several layouts fit)",
+   "ja": "動画から一つに絞れません（複数の候補）"
   },
   "223": {
    "en": "the record has no video",
