@@ -18,7 +18,8 @@
    "how": {
     "en": "stage-select dive + results roll",
     "ja": "ステージ選択の飛び込み＋結果画面"
-   }
+   },
+   "verified": false
   },
   {
    "post": 17765,
@@ -36,7 +37,8 @@
    "how": {
     "en": "stage-select dive + results roll",
     "ja": "ステージ選択の飛び込み＋結果画面"
-   }
+   },
+   "verified": false
   },
   {
    "post": 17703,
@@ -54,7 +56,8 @@
    "how": {
     "en": "stage-select dive + results roll",
     "ja": "ステージ選択の飛び込み＋結果画面"
-   }
+   },
+   "verified": false
   },
   {
    "post": 17578,
@@ -72,7 +75,8 @@
    "how": {
     "en": "stage-select dive + results roll",
     "ja": "ステージ選択の飛び込み＋結果画面"
-   }
+   },
+   "verified": false
   },
   {
    "post": 18924,
@@ -90,7 +94,8 @@
    "how": {
     "en": "stage-select dive + results roll",
     "ja": "ステージ選択の飛び込み＋結果画面"
-   }
+   },
+   "verified": false
   },
   {
    "post": 18484,
@@ -108,7 +113,8 @@
    "how": {
     "en": "stage-select dive + results roll",
     "ja": "ステージ選択の飛び込み＋結果画面"
-   }
+   },
+   "verified": false
   },
   {
    "post": 18935,
@@ -126,7 +132,8 @@
    "how": {
     "en": "stage-select dive + results roll",
     "ja": "ステージ選択の飛び込み＋結果画面"
-   }
+   },
+   "verified": false
   },
   {
    "post": 18486,
@@ -144,7 +151,8 @@
    "how": {
     "en": "stage-select dive + results roll",
     "ja": "ステージ選択の飛び込み＋結果画面"
-   }
+   },
+   "verified": false
   },
   {
    "post": 18495,
@@ -162,7 +170,65 @@
    "how": {
     "en": "stage-select dive + results roll",
     "ja": "ステージ選択の飛び込み＋結果画面"
-   }
+   },
+   "verified": false
+  },
+  {
+   "post": 18107,
+   "rule": 21,
+   "stage": 228,
+   "floors": [
+    {
+     "sublevel": "CH28-1",
+     "seed": "0x29549C67"
+    }
+   ],
+   "dive_state": "0x4AA0C7DC",
+   "margin": 0.013,
+   "shift_margin": 0.028,
+   "how": {
+    "en": "stage-select dive, confirmed by the previous results roll",
+    "ja": "ステージ選択の飛び込み（直前の結果画面で確認済み）"
+   },
+   "verified": true
+  },
+  {
+   "post": 18050,
+   "rule": 21,
+   "stage": 229,
+   "floors": [
+    {
+     "sublevel": "CH29-1",
+     "seed": "0x4A0376CD"
+    }
+   ],
+   "dive_state": "0x7339A08A",
+   "margin": 0.186,
+   "shift_margin": 0.182,
+   "how": {
+    "en": "stage-select dive + results roll",
+    "ja": "ステージ選択の飛び込み＋結果画面"
+   },
+   "verified": false
+  },
+  {
+   "post": 18930,
+   "rule": 21,
+   "stage": 230,
+   "floors": [
+    {
+     "sublevel": "CH30-1",
+     "seed": "0x29055A01"
+    }
+   ],
+   "dive_state": "0x4B68A72E",
+   "margin": 0.114,
+   "shift_margin": 0.055,
+   "how": {
+    "en": "stage-select dive + results roll",
+    "ja": "ステージ選択の飛び込み＋結果画面"
+   },
+   "verified": false
   }
  ],
  "unread": {
@@ -223,32 +289,20 @@
    "ja": "記録に動画がありません"
   },
   "224": {
-   "en": "not read yet",
-   "ja": "未読み取り"
+   "en": "the video does not pin it down (several layouts fit)",
+   "ja": "動画から一つに絞れません（複数の候補）"
   },
   "225": {
-   "en": "not read yet",
-   "ja": "未読み取り"
+   "en": "the video does not pin it down (several layouts fit)",
+   "ja": "動画から一つに絞れません（複数の候補）"
   },
   "226": {
-   "en": "not read yet",
-   "ja": "未読み取り"
+   "en": "too few Pikmin jump in to pin it down",
+   "ja": "飛び込むピクミンが少なく絞り込めません"
   },
   "227": {
-   "en": "not read yet",
-   "ja": "未読み取り"
-  },
-  "228": {
-   "en": "not read yet",
-   "ja": "未読み取り"
-  },
-  "229": {
-   "en": "not read yet",
-   "ja": "未読み取り"
-  },
-  "230": {
-   "en": "not read yet",
-   "ja": "未読み取り"
+   "en": "the video does not pin it down (several layouts fit)",
+   "ja": "動画から一つに絞れません（複数の候補）"
   }
  }
 }
