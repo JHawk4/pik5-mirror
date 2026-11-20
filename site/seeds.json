@@ -269,8 +269,8 @@
    "ja": "飛び込むピクミンが少なく絞り込めません"
   },
   "218": {
-   "en": "the video does not show the stage select",
-   "ja": "動画にステージ選択画面がありません"
+   "en": "the video does not pin it down (several layouts fit)",
+   "ja": "動画から一つに絞れません（複数の候補）"
   },
   "219": {
    "en": "the video does not pin it down (several layouts fit)",
