@@ -121,6 +121,22 @@ HIDDEN = {
 
 CATS = build_categories()
 TAS = json.loads((SRC / "tas.json").read_text(encoding="utf-8"))
+# Pikmin 2 sublevel layout seeds read from record videos (see site/seeds.json)
+SEEDS = json.loads((SRC / "seeds.json").read_text(encoding="utf-8")) if (SRC / "seeds.json").exists() else {}
+SEED_BY_POST = {r["post"]: r for r in SEEDS.get("pikmin2", [])}
+SEED_DOC = SEEDS.get("_doc", "")
+
+
+def cavegen3_url(sublevel, seed):
+    return f"https://jhawk4.github.io/CaveGen3/?sublevel=pikmin2:{sublevel}&seed={int(seed, 16) & 0x7FFFFFFF:08X}"
+
+
+def seed_links(r):
+    out = []
+    for f in r.get("floors", []):
+        out.append(f'<a href="{cavegen3_url(f["sublevel"], f["seed"])}"><span class="num">{e(f["sublevel"])} '
+                   f'{int(f["seed"], 16) & 0x7FFFFFFF:08X}</span></a>')
+    return " · ".join(out)
 
 
 def bkey(rule, sid):
@@ -446,6 +462,7 @@ def page(t: T, rel, title, body, *, series=None, current_key=None, body_extra=""
                 f'<a href="{pre}snapshot/{SLUG[series or 1]}.html">{e(t.s("snapshots"))}</a>'
                 f'<a href="{pre}activity.html">{e(t.s("activity"))}</a>'
                 f'<a href="{pre}tas.html">{e(t.s("tas_title"))}</a>'
+                f'<a href="{pre}seeds.html">{e(t.s("seeds_title"))}</a>'
                 f'<a href="{pre}download.html">{e(t.s("download"))}</a>'
                 f'<a href="{pre}players.html">{e(t.s("players"))}</a>'
                 f'<a href="{pre}suggest.html?from={quote(rel)}">{e(t.s("suggest_title"))}</a></div>')
@@ -734,6 +751,16 @@ def history_page(t: T, c, rule, sid):
                             current_key=k))
 
 
+def seed_block(t: T, k, pre):
+    """Layout seeds read from the current record's video, when known."""
+    for p in current_wrs(k):
+        r = SEED_BY_POST.get(p.get("id"))
+        if r and r.get("floors"):
+            return (f'<p class="vidcap">{e(t.s("layout_seeds"))}: {seed_links(r)} '
+                    f'<span class="small">({e(t.s("seed_how_short"))} <a href="{pre}seeds.html">{e(t.s("more_info"))}</a>)</span></p>')
+    return ""
+
+
 def video_block(t: T, k, rule, sid, low, pre):
     """The best run with a video (the record if it has one), embedded, with a caption."""
     vid = next((p for p in current_wrs(k) if norm_video(p.get("video"))), None) or best_with_video(k, low)
@@ -781,7 +808,7 @@ def board_page(t: T, c, rule, sid):
         row["c"] = [c for i, c in enumerate(row["c"], start=1) if i not in dropped]
     data = json.dumps(snap, ensure_ascii=False).replace("</", "<\\/")
     texts = json.dumps({"players": t.s("n_players", n="{n}"), "asof": t.s("snapshot_shown")}, ensure_ascii=False)
-    video = video_block(t, k, rule, sid, low, pre)
+    video = video_block(t, k, rule, sid, low, pre) + seed_block(t, k, pre)
     body = (stage_heading(t, c, rule, sid) + board_tabs(t, k, "lb", pre) + video
             + f"<h2>{e(t.s('leaderboard'))} <span class='small' id='lb-count'>{e(t.s('n_players', n=len(rows)))}</span></h2>"
             + picker + lb_table)
@@ -860,6 +887,37 @@ location.replace(l+"/index.html")})();
 </script></head>
 <body><p><a href="en/index.html">English</a> · <a href="ja/index.html">日本語</a></p></body></html>
 """
+
+
+def seeds_page(t: T):
+    """Pikmin 2 challenge-mode records with the sublevel layout seeds read from their videos."""
+    pre = ""
+    cat = next((c for c in CATS if c["id"] == "p2"), None)
+    intro = t.s("seeds_intro")
+    parts = [f"<h1>{e(t.s('seeds_title'))}</h1><p>{e(intro)}</p>"]
+    if SEED_DOC:
+        parts.append(f'<p class="small"><a href="{e(SEED_DOC)}">{e(t.s("seeds_method"))}</a></p>')
+    rows = []
+    for rule, sid in (cat["boards"] if cat else []):
+        k = bkey(rule, sid)
+        egg = EGG if cat.get("egg_rule") == rule else ""
+        link = f'<a href="board/{k}.html">{e(t.stage(sid))}</a>{egg}'
+        wr = current_wrs(k)
+        p = wr[0] if wr else None
+        r = SEED_BY_POST.get(p.get("id")) if p else None
+        if not p:
+            continue
+        seeds = seed_links(r) if r and r.get("floors") else ""
+        why = ""
+        if not seeds:
+            note = (r or {}).get("note") or ((SEEDS.get("unread") or {}).get(str(sid)) if SEEDS else None)
+            why = f'<span class="small">{e(note[t.lang] if isinstance(note, dict) else (note or t.s("seed_unknown")))}</span>'
+        rows.append([link, f'<span class="num"><b>{p["score"]:,}</b></span>', video_cell(p, t),
+                     player(p["user"], t, pre), seeds or why,
+                     e((r or {}).get("how", {}).get(t.lang, "")) if seeds else ""])
+    parts.append(table([t.s("stage"), H(t, "score"), H(t, "video"), t.s("player"), t.s("layout_seeds"), t.s("seed_how")],
+                       rows))
+    write(t.lang, "seeds.html", page(t, "seeds.html", t.s("seeds_title"), "\n".join(parts)))
 
 
 def tas_page(t: T):
@@ -1276,6 +1334,7 @@ def main():
         players_index(t, per, wr_counts)
         index_page(t)
         tas_page(t)
+        seeds_page(t)
         suggest_page(t)
         download_page(t, csv_sizes)
         for s_ in (None, *GAMES):
