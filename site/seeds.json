@@ -3,177 +3,6 @@
  "_doc": "https://github.com/JHawk4/pikmin2-layout-ledger/blob/claude/challenge-mode-seeds-37abaa/docs/challenge-mode-seeds.md",
  "pikmin2": [
   {
-   "post": 19640,
-   "rule": 21,
-   "stage": 201,
-   "floors": [
-    {
-     "sublevel": "CH1-1",
-     "seed": "0x2C1ABE60"
-    }
-   ],
-   "dive_state": "0x5FFD3BC1",
-   "margin": 0.151,
-   "shift_margin": 0.057,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
-  },
-  {
-   "post": 17765,
-   "rule": 21,
-   "stage": 202,
-   "floors": [
-    {
-     "sublevel": "CH2-1",
-     "seed": "0x29334AE5"
-    }
-   ],
-   "dive_state": "0x6CC70BC2",
-   "margin": 0.383,
-   "shift_margin": 0.023,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
-  },
-  {
-   "post": 17703,
-   "rule": 22,
-   "stage": 210,
-   "floors": [
-    {
-     "sublevel": "CH10-1",
-     "seed": "0x25EE5FBF"
-    }
-   ],
-   "dive_state": "0x1B762954",
-   "margin": 0.236,
-   "shift_margin": 0.112,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
-  },
-  {
-   "post": 17578,
-   "rule": 22,
-   "stage": 213,
-   "floors": [
-    {
-     "sublevel": "CH13-1",
-     "seed": "0x79DEE351"
-    }
-   ],
-   "dive_state": "0x2D6BB43E",
-   "margin": 0.729,
-   "shift_margin": 0.232,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
-  },
-  {
-   "post": 18924,
-   "rule": 22,
-   "stage": 214,
-   "floors": [
-    {
-     "sublevel": "CH14-1",
-     "seed": "0x1E828824"
-    }
-   ],
-   "dive_state": "0x26DA5BB5",
-   "margin": 0.168,
-   "shift_margin": 0.043,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
-  },
-  {
-   "post": 18484,
-   "rule": 22,
-   "stage": 215,
-   "floors": [
-    {
-     "sublevel": "CH15-1",
-     "seed": "0x78F3DE3E"
-    }
-   ],
-   "dive_state": "0x56BE1987",
-   "margin": 0.197,
-   "shift_margin": 0.077,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
-  },
-  {
-   "post": 18935,
-   "rule": 22,
-   "stage": 216,
-   "floors": [
-    {
-     "sublevel": "CH16-1",
-     "seed": "0x0615E706"
-    }
-   ],
-   "dive_state": "0x30589DAF",
-   "margin": 0.543,
-   "shift_margin": 0.659,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
-  },
-  {
-   "post": 18486,
-   "rule": 21,
-   "stage": 217,
-   "floors": [
-    {
-     "sublevel": "CH17-1",
-     "seed": "0x7F1CE063"
-    }
-   ],
-   "dive_state": "0x7478CAA8",
-   "margin": 0.295,
-   "shift_margin": 0.17,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
-  },
-  {
-   "post": 18495,
-   "rule": 21,
-   "stage": 220,
-   "floors": [
-    {
-     "sublevel": "CH20-1",
-     "seed": "0x5D221DD2"
-    }
-   ],
-   "dive_state": "0x073F690B",
-   "margin": 0.213,
-   "shift_margin": 0.045,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
-  },
-  {
    "post": 18107,
    "rule": 21,
    "stage": 228,
@@ -191,47 +20,17 @@
     "ja": "ステージ選択の飛び込み（直前の結果画面で確認済み）"
    },
    "verified": true
-  },
-  {
-   "post": 18050,
-   "rule": 21,
-   "stage": 229,
-   "floors": [
-    {
-     "sublevel": "CH29-1",
-     "seed": "0x4A0376CD"
-    }
-   ],
-   "dive_state": "0x7339A08A",
-   "margin": 0.186,
-   "shift_margin": 0.182,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
-  },
-  {
-   "post": 18930,
-   "rule": 21,
-   "stage": 230,
-   "floors": [
-    {
-     "sublevel": "CH30-1",
-     "seed": "0x29055A01"
-    }
-   ],
-   "dive_state": "0x4B68A72E",
-   "margin": 0.114,
-   "shift_margin": 0.055,
-   "how": {
-    "en": "stage-select dive + results roll",
-    "ja": "ステージ選択の飛び込み＋結果画面"
-   },
-   "verified": false
   }
  ],
  "unread": {
+  "201": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
+  },
+  "202": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
+  },
   "203": {
    "en": "the video does not pin it down (several layouts fit)",
    "ja": "動画から一つに絞れません（複数の候補）"
@@ -260,6 +59,10 @@
    "en": "the video does not pin it down (several layouts fit)",
    "ja": "動画から一つに絞れません（複数の候補）"
   },
+  "210": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
+  },
   "211": {
    "en": "the video does not pin it down (several layouts fit)",
    "ja": "動画から一つに絞れません（複数の候補）"
@@ -268,6 +71,26 @@
    "en": "too few Pikmin jump in to pin it down",
    "ja": "飛び込むピクミンが少なく絞り込めません"
   },
+  "213": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
+  },
+  "214": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
+  },
+  "215": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
+  },
+  "216": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
+  },
+  "217": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
+  },
   "218": {
    "en": "the video does not pin it down (several layouts fit)",
    "ja": "動画から一つに絞れません（複数の候補）"
@@ -275,6 +98,10 @@
   "219": {
    "en": "the video does not pin it down (several layouts fit)",
    "ja": "動画から一つに絞れません（複数の候補）"
+  },
+  "220": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
   },
   "221": {
    "en": "the video does not show the stage select",
@@ -303,6 +130,14 @@
   "227": {
    "en": "the video does not pin it down (several layouts fit)",
    "ja": "動画から一つに絞れません（複数の候補）"
+  },
+  "229": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
+  },
+  "230": {
+   "en": "read, but not confirmed by a results screen (withheld)",
+   "ja": "読み取りましたが結果画面で確認できないため非公開"
   }
  }
 }
