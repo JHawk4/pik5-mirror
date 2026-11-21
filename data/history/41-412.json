@@ -156,6 +156,18 @@
    "console": 4,
    "comment": "時給0.01点未満",
    "tie": false
+  },
+  {
+   "id": 20622,
+   "uid": 315130950,
+   "user": "Gorei_50",
+   "score": 483,
+   "date": "2026-11-21T06:13:42.000000Z",
+   "video": "https://youtu.be/zqirMHaBVyc",
+   "img": "",
+   "console": 4,
+   "comment": "rush1.wav",
+   "tie": false
   }
  ],
  "lower_is_better": false,
